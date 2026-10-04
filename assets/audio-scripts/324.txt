@@ -1,0 +1,19 @@
+LEKCIA 324 — V banke: úver / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+účet. [пауза] účet.
+úver. [пауза] úver.
+úrok. [пауза] úrok.
+splátka. [пауза] splátka.
+Aký je úrok?
+Potrebujem potvrdenie o príjme.
+
+[NORMAL]
+— Zaujímam sa o úver na auto.
+— Akú sumu si chcete požičať?
+— Od 5,9 %. Splátka by bola asi 190 eur.
+— Žiadosť schválime do troch dní.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 324-01...324-12 + 324-dialog.mp3

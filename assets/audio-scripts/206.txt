@@ -1,0 +1,29 @@
+LEKCIA 206 — Na úrade: doklady / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+úrad. [пауза] úrad.
+doklad. občiansky preukaz.
+povolenie na pobyt. [пауза] povolenie na pobyt.
+formulár. žiadosť.
+vyplniť. podpísať.
+pečiatka. [пауза] pečiatka.
+rad. poradie.
+okienko. kancelária.
+poplatok. [пауза] poplatok.
+platnosť. [пауза] platnosť.
+kópia. [пауза] kópia.
+potvrdenie. [пауза] potvrdenie.
+
+[NORMAL]
+— Dobrý deň, potrebujem povolenie na pobyt.
+— Vyplňte tento formulár, prosím.
+— Kde ho podpíšem?
+— Dole, tu. Máte kópiu pasu?
+— Áno, tu je.
+— Poplatok je desať eur.
+— Kedy bude doklad hotový?
+— O dva týždne. Tu máte potvrdenie.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 206-01.mp3 ... 206-12.mp3 + 206-dialog.mp3

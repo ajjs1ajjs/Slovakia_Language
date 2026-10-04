@@ -1,0 +1,18 @@
+LEKCIA 322 — Doprava v meste / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+zastávka. [пауза] zastávka.
+prestup. [пауза] prestup.
+lístok. [пауза] lístok.
+Kde je zastávka?
+Označte si lístok!
+
+[NORMAL]
+— Ako sa dostanem na hrad?
+— Choďte električkou č. 4, smer Zlaté piesky.
+— Vystúpite na zastávke Most SNP.
+— Dnes sú možné meškania pre výluku.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 322-01...322-12 + 322-dialog.mp3

@@ -1,0 +1,24 @@
+LEKCIA 103 — Nakupovanie a ceny / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Числа диктувати чітко.
+
+[SLOW]
+Obchod. Pokladňa.
+Cena. Zľava.
+Euro. Cent.
+Mlieko. Syr. Maslo.
+Jablko. Zemiaky.
+Lacný. Drahý.
+Koľko stojí?
+Jeden. Dva. Tri. Päť. Desať. Dvadsať. Sto.
+Platím kartou.
+
+[NORMAL]
+— Dobrý deň! Koľko stojí syr?
+— Kilo stojí osem eur.
+— Prosím si pol kila.
+— Nech sa páči. Ešte niečo?
+— Áno, liter mlieka a chlieb.
+— Spolu päť eur dvadsať.
+— Platím kartou. Ďakujem!
+
+Файли: 103-01.mp3 ... 103-12.mp3 + 103-dialog.mp3

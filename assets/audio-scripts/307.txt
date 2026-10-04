@@ -1,0 +1,20 @@
+LEKCIA 307 — Médiá a správy / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+správa. [пауза] správa.
+zdroj. [пауза] zdroj.
+hoax. [пауза] hoax.
+moderátor. [пауза] moderátor.
+Over si zdroj.
+V správach hovorili, že bude pršať.
+
+[NORMAL]
+— Počul si dnešné správy?
+— Vraj otvoria nový most.
+— Treba čítať medzi riadkami a overiť informáciu.
+— Verejná mienka je rozdelená.
+— Poďme si pozrieť spravodajstvo o ôsmej.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 307-01...307-12 + 307-dialog.mp3

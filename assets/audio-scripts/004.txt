@@ -1,0 +1,28 @@
+LEKCIA 004 — Pozdravy a zdvorilosť / Скрипт для TTS (sk-SK)
+Voice: ženský + mužský hlas, 44.1kHz MP3. Pauza 2 s. Pozdrav — intonácia hore, lúčenie — dole.
+Súbory: 004-01.mp3 ... 004-12.mp3 + 004-dialog.mp3
+
+[SLOW - pomaly, každá fráza 2x, s úsmevom]
+dobrý deň. [pauza] dobrý deň.
+dobré ráno. [pauza] dobré ráno.
+dobrý večer. [pauza] dobrý večer.
+dobrú noc. [pauza] dobrú noc.
+ahoj. [pauza] ahoj. čau. [pauza] čau.
+dovidenia. [pauza] dovidenia.
+majte sa. [pauza] majte sa. maj sa. [pauza] maj sa.
+prosím. [pauza] prosím.
+ďakujem. [pauza] ďakujem. ďakujem pekne. [pauza] ďakujem pekne.
+prepáčte. [pauza] prepáčte. prepáč. [pauza] prepáč.
+nech sa páči. [pauza] nech sa páči.
+teší ma. [pauza] teší ma.
+Ako sa máte? [pauza] Ďakujem, dobre.
+
+[NORMAL - prirodzené tempo, dialóg Na ulici]
+— Dobrý deň! Prepáčte, hovoríte po slovensky?
+— Dobrý deň! Áno, trochu.
+— Ako sa máte?
+— Ďakujem, dobre. A vy?
+— Tiež dobre, ďakujem pekne. Prosím, kde je centrum?
+— Rovno a doprava. Nech sa páči.
+— Ďakujem! Majte sa!
+— Dovidenia!

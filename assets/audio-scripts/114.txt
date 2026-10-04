@@ -1,0 +1,22 @@
+LEKCIA 114 — V obchode / Аудіо-скрипт
+
+[SLOW]
+Predavač. Zákazník.
+Veľkosť. Farba.
+Môžem si vyskúšať?
+Kabínka. Zrkadlo.
+Je mi malé.
+Beriem si ho.
+Koľko stojí?
+Platím kartou.
+
+[NORMAL]
+— Dobrý deň! Hľadám sveter.
+— Akú veľkosť máte?
+— M. Môžem si vyskúšať?
+— Áno, kabínka je tam.
+— Je mi malé. Máte väčšie?
+— Áno, tu je L. Dvadsať eur.
+— Beriem si ho. Platím kartou.
+
+Файли: 114-01.mp3 ... 114-12.mp3 + 114-dialog.mp3

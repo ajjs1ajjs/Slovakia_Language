@@ -1,0 +1,17 @@
+LEKCIA 412 — Vyjednávanie / Аудіо-скрипт
+Інструкція: цифри повільно; пауза 1-2 сек між репліками.
+
+[SLOW]
+Vyjednávanie. Ponuka. Protiponuka. Podmienky. Zľava. Ústupok.
+Navrhnúť. Súhlasiť s. Trvať na. Dohodnúť sa. Win-win. Zmluva.
+
+[NORMAL]
+— Navrhujem nájom 700 eur mesačne vrátane energií.
+— Moja protiponuka je 600.
+— Keby ste platili na pol roka vopred, dal by som zľavu na 650.
+— Ak pridáte internet a parkovanie, súhlasím so 650.
+— Trvám na kaucii vo výške dvoch nájmov.
+— Dohodnuté! Kedy podpíšeme zmluvu?
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 412-01.mp3 ... 412-12.mp3 + 412-dialog.mp3

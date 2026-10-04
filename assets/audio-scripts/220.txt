@@ -1,0 +1,29 @@
+LEKCIA 220 — Zdvorilá sťažnosť / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+sťažnosť. [пауза] sťažnosť.
+reklamácia. [пауза] reklamácia.
+prepáčte. ospravedlňujem sa.
+problém. [пауза] problém.
+pokazený. [пауза] pokazený.
+vrátiť tovar. [пауза] vrátiť tovar.
+vymeniť. [пауза] vymeniť.
+vrátiť peniaze. [пауза] vrátiť peniaze.
+bohužiaľ. [пауза] bohužiaľ.
+hneď. okamžite.
+riešenie. [пауза] riešenie.
+spokojný. [пауза] spokojný.
+
+[NORMAL]
+— Dobrý deň, mám problém s týmto telefónom.
+— Čo sa stalo?
+— Nefunguje displej, je pokazený.
+— Máte bloček?
+— Áno, tu je. Kúpil som ho včera.
+— Chcel by som ho vymeniť.
+— Samozrejme. Hneď to vyriešime.
+— Ďakujem za pochopenie.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 220-01.mp3 ... 220-12.mp3 + 220-dialog.mp3

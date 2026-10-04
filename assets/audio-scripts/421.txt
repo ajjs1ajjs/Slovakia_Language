@@ -1,0 +1,16 @@
+LEKCIA 421 — Cestovanie-svet / Аудіо-скрипт
+Інструкція: аеропортна чіткість; часи й гейти повільно.
+
+[SLOW]
+Letenka. Spiatočná. Ubytovanie. Cestovné poistenie.
+Pas. Vízum. Odlet. Prílet. Prestup. Zážitok.
+Pamiatky. Sprievodca. Meškanie. Zrušiť. Presunúť.
+
+[NORMAL]
+— Kde je odlet do Ríma? Mešká?
+— Odlet je o hodinu, gate B12. Zatiaľ bez meškania.
+— Letíme na Maltu so spiatočnou letenkou a poistením.
+— Ak let zrušia, presuniem ho na zajtra. Šťastnú cestu!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 421-01.mp3 ... 421-12.mp3 + 421-dialog.mp3

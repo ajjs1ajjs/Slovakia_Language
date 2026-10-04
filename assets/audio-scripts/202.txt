@@ -1,0 +1,29 @@
+LEKCIA 202 — Voľný čas a hobby / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+voľný čas. [пауза] voľný čas.
+hobby. záľuba.
+čítať. [пауза] čítať.
+športovať. [пауза] športovať.
+bicykel. [пауза] bicykel.
+prechádzka. [пауза] prechádzka.
+kino. divadlo.
+stretnúť sa. [пауза] stretnúť sa.
+baviť sa. [пауза] baviť sa.
+hudba. [пауза] hudba.
+variť. [пауза] variť.
+cez víkend. [пауза] cez víkend.
+
+[NORMAL]
+— Čo robíš cez víkend?
+— Budem oddychovať a čítať.
+— Aké máš hobby?
+— Rád bicyklujem a varím.
+— Stretneme sa v sobotu?
+— Áno! Pôjdeme na prechádzku?
+— Dobre. Budem čakať pri jazere.
+— Teším sa!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 202-01.mp3 ... 202-12.mp3 + 202-dialog.mp3

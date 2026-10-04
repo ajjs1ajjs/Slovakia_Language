@@ -1,0 +1,25 @@
+LEKCIA 101 — Rodina / Аудіо-скрипт (TTS або диктор)
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW - повільно, по складах]
+Rodina. [пауза] Rodina.
+Mama. Otec.
+Brat. Sestra.
+Manžel. Manželka.
+Syn. Dcéra.
+Dieťa. Deti.
+Starý otec. Stará mama.
+Môj. Moja.
+To je môj brat.
+Ona je moja sestra.
+
+[NORMAL - нормальний темп, діалог]
+— Kto je to?
+— To je moja mama. Volá sa Jana.
+— A to je môj otec?
+— Áno, to je môj otec. Volá sa Ivan.
+— Máš brata?
+— Áno, mám brata a sestru.
+— My sme veľká rodina.
+
+Голос: жіночий + чоловічий. Файли: 101-01.mp3 ... 101-12.mp3 + 101-dialog.mp3

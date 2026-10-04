@@ -1,0 +1,23 @@
+LEKCIA 118 — Moje mesto / Аудіо-скрипт
+
+[SLOW]
+Moje mesto.
+Hrad. Rieka. Most.
+Park. Divadlo. Múzeum.
+Páči sa mi park.
+Mám rád moje mesto.
+Nemám rád hluk.
+Je tu hrad.
+Nie je tu metro.
+Vitajte!
+
+[NORMAL]
+— Aké je tvoje mesto?
+— Moje mesto je krásne. Je tu hrad a rieka.
+— Páči sa ti tu?
+— Áno, páči sa mi park. Nemám rád hluk.
+— Je tu divadlo?
+— Áno, je blízko centra.
+— Vitaj u nás!
+
+Файли: 118-01.mp3 ... 118-12.mp3 + 118-dialog.mp3

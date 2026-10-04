@@ -1,0 +1,21 @@
+LEKCIA 305 — Prenájom bývania / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+prenájom. [пауза] prenájom.
+kaucia. [пауза] kaucia.
+nájomné. [пауза] nájomné.
+energie. [пауза] energie.
+zmluva. [пауза] zmluva.
+Koľko stojí nájomné?
+Byt je voľný od prvého.
+
+[NORMAL]
+— Volám ohľadom inzerátu na 2-izbový byt.
+— 600 eur mesačne plus 150 energie. Kaucia sú 2 nájmy.
+— Je byt zariadený?
+— Môžeme si dohodnúť obhliadku zajtra?
+— Zmluvu podpíšeme po obhliadke.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 305-01...305-12 + 305-dialog.mp3

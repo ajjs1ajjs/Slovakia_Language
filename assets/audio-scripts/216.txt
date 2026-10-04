@@ -1,0 +1,29 @@
+LEKCIA 216 — Nákup oblečenia / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+oblečenie. [пауза] oblečenie.
+košeľa. tričko.
+nohavice. [пауза] nohavice.
+šaty. [пауза] šaty.
+topánky. tenisky.
+veľkosť. [пауза] veľkosť.
+skúšobná kabínka. [пауза] skúšobná kabínka.
+vyskúšať si. [пауза] vyskúšať si.
+sedí mi. je mi malé.
+výpredaj. zľava.
+bavlna. [пауза] bavlna.
+pokladňa. [пауза] pokladňa.
+
+[NORMAL]
+— Dobrý deň, hľadám košeľu.
+— Akú veľkosť máte?
+— M, prosím. Môžem si ju vyskúšať?
+— Áno, kabínka je tam.
+— Je mi trochu malá. Máte väčšiu?
+— Tu je L. Tá vám sedí lepšie.
+— Áno, tá je dobrá. Koľko stojí?
+— Dvadsať eur, teraz so zľavou.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 216-01.mp3 ... 216-12.mp3 + 216-dialog.mp3

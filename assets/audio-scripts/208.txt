@@ -1,0 +1,29 @@
+LEKCIA 208 — Pošta a balíky / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+pošta. [пауза] pošta.
+balík. [пауза] balík.
+list. pohľadnica.
+známka. [пауза] známka.
+adresa. odosielateľ.
+príjemca. [пауза] príjemca.
+poslať. [пауза] poslať.
+doporučene. [пауза] doporučene.
+dobierka. [пауза] dobierka.
+podacie číslo. [пауза] podacie číslo.
+doručiť. [пауза] doručiť.
+PSČ. [пауза] PSČ.
+
+[NORMAL]
+— Dobrý deň, chcem poslať balík.
+— Kam? Na Slovensko alebo do zahraničia?
+— Na Ukrajinu. Doporučene, prosím.
+— Napíšte adresu príjemcu sem.
+— Ako dlho to trvá?
+— Asi týždeň. Tu máte podacie číslo.
+— Koľko platím?
+— Osem eur päťdesiat.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 208-01.mp3 ... 208-12.mp3 + 208-dialog.mp3

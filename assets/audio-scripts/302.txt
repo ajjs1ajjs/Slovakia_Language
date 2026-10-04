@@ -1,0 +1,22 @@
+LEKCIA 302 — Cestovanie po Slovensku / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+výlet. [пауза] výlet.
+hrad. [пауза] hrad.
+jaskyňa. [пауза] jaskyňa.
+ubytovanie. [пауза] ubytovanie.
+spiatočný lístok. [пауза] spiatočný lístok.
+prestupovať. [пауза] prestupovať.
+Cestujem s rodinou.
+Vlak meškal 10 minút.
+
+[NORMAL]
+— Kde si bol cez víkend?
+— Bol som s rodinou na Orave.
+— Oravský hrad a plavbu loďou. Bolo úžasne!
+— Vlakom, spiatočný lístok stál 18 eur.
+— Nabudúce idem s vami!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 302-01...302-12 + 302-dialog.mp3

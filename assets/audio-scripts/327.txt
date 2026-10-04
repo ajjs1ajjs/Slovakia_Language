@@ -1,0 +1,18 @@
+LEKCIA 327 — Pozvánka: svadba / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+svadba. [пауза] svadba.
+ženích. [пауза] ženích.
+nevesta. [пауза] nevesta.
+Pozývame vás na svadbu.
+Tešíme sa na vás.
+
+[NORMAL]
+S úctou si vás dovoľujeme pozvať na svadbu.
+Sobáš sa bude konať 15. júna o 14:00.
+Prosíme o potvrdenie účasti do 1. mája.
+Gratulujeme novomanželom!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 327-01...327-12 + 327-dialog.mp3

@@ -1,0 +1,29 @@
+LEKCIA 203 — Škola a učenie / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+škola. [пауза] škola.
+učiť sa. naučiť sa.
+hodina. vyučovanie.
+predmet. [пауза] predmet.
+domáca úloha. [пауза] domáca úloha.
+skúška. test.
+učiteľ. žiak.
+slovenčina. [пауза] slovenčina.
+rozumieť. [пауза] rozumieť.
+zabudnúť. [пауза] zabudnúť.
+opakovať. [пауза] opakovať.
+známka. [пауза] známka.
+
+[NORMAL]
+— Aký máš najradšej predmet?
+— Slovenčinu. Učím sa ju rok.
+— Rozumieš učiteľovi?
+— Áno, ale niekedy zabudnem slová.
+— Napísal si domácu úlohu?
+— Ešte nie. Napíšem ju večer.
+— Kedy máme skúšku?
+— V piatok. Budeme opakovať spolu?
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 203-01.mp3 ... 203-12.mp3 + 203-dialog.mp3

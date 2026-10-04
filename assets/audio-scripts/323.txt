@@ -1,0 +1,18 @@
+LEKCIA 323 — Dovolenka: plánovanie / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+dovolenka. [пауза] dovolenka.
+zájazd. [пауза] zájazd.
+rezervácia. [пауза] rezervácia.
+V lete pôjdeme k moru.
+Zarezervujem hotel s polpenziou.
+
+[NORMAL]
+— Kde strávime dovolenku toto leto?
+— Čo keby sme išli do Chorvátska?
+— Hotel pri pláži, 7 nocí, 550 eur.
+— Výborne, rezervujeme!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 323-01...323-12 + 323-dialog.mp3

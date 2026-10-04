@@ -1,0 +1,22 @@
+LEKCIA 105 — Mesto a orientácia / Аудіо-скрипт
+
+[SLOW]
+Mesto. Ulica. Námestie.
+Kde? Kam? Odkiaľ?
+Vpravo. Vľavo. Rovno.
+Banka. Pošta. Lekáreň.
+Prosím, kde je banka?
+Je to ďaleko?
+Nie je ďaleko.
+Idem rovno.
+
+[NORMAL]
+— Prosím, kde je banka?
+— Banka je tam vľavo.
+— Je to ďaleko?
+— Nie, nie je ďaleko. Päť minút.
+— Idem rovno a potom vľavo?
+— Áno, rovno a potom vľavo.
+— Ďakujem! Dovidenia!
+
+Файли: 105-01.mp3 ... 105-12.mp3 + 105-dialog.mp3

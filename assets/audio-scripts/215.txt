@@ -1,0 +1,29 @@
+LEKCIA 215 — V reštaurácii rozšírené / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+reštaurácia. [пауза] reštaurácia.
+jedálny lístok. [пауза] jedálny lístok.
+predjedlo. hlavné jedlo.
+dezert. [пауза] dezert.
+čašník. čašníčka.
+objednať si. [пауза] objednať si.
+účet, prosím! [пауза] účet, prosím!
+je to výborné! [пауза] je to výborné!
+je to studené! [пауза] je to studené!
+sprepitné. [пауза] sprepitné.
+rezervovať stôl. [пауза] rezervovať stôl.
+platiť kartou. hotovosťou.
+
+[NORMAL]
+— Dobrý večer, máte rezerváciu?
+— Áno, stôl pre dvoch na meno Koval.
+— Tu je jedálny lístok.
+— Prosím si bryndzové halušky a pivo.
+— A pre pani?
+— Ja si dám šalát a minerálku.
+— Bolo výborné! Účet, prosím.
+— Spolu pätnásť eur. Platíte kartou?
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 215-01.mp3 ... 215-12.mp3 + 215-dialog.mp3

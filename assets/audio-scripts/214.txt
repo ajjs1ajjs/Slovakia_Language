@@ -1,0 +1,29 @@
+LEKCIA 214 — Pozvánka a oslava / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+pozvánka. [пауза] pozvánka.
+oslava. narodeniny.
+pozvať. [пауза] pozvať.
+prísť. [пауза] prísť.
+doniesť. [пауза] doniesť.
+darček. [пауза] darček.
+torta. [пауза] torta.
+blahoželať. gratulovať.
+všetko najlepšie! [пауза] všetko najlepšie!
+tešiť sa. [пауза] tešiť sa.
+bohužiaľ. rád.
+svadba. [пауза] svadba.
+
+[NORMAL]
+— Ahoj, pozývam ťa na oslavu!
+— Kedy?
+— V sobotu o šiestej u nás.
+— Rád prídem! Čo mám doniesť?
+— Nič, len dobrú náladu.
+— Donesiem tortu.
+— Super! Teším sa na teba.
+— Ja tiež. Všetko priprav!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 214-01.mp3 ... 214-12.mp3 + 214-dialog.mp3

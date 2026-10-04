@@ -1,0 +1,19 @@
+LEKCIA 312 — Rozkazovací spôsob / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+choď! [пауза] choď!
+poď! [пауза] poď!
+povedz! [пауза] povedz!
+urob! [пауза] urob!
+Poď sem a sadni si!
+Neboj sa, skús to ešte raz!
+
+[NORMAL]
+— Poď sem, prosím, a pomôž mi!
+— Urob miesto na stole a daj pozor na tortu!
+— Daj ich sem a počkaj na hostí.
+— Nechaj tak a umy si ruky!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 312-01...312-12 + 312-dialog.mp3

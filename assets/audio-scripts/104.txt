@@ -1,0 +1,22 @@
+LEKCIA 104 — Bývanie a nábytok / Аудіо-скрипт
+
+[SLOW]
+Byt. Dom.
+Izba. Kuchyňa. Kúpeľňa.
+Posteľ. Stôl. Stolička.
+Skriňa. Okno. Dvere.
+Bývam. Bývaš. Bývajú.
+Hľadám byt.
+Kde bývaš?
+Môj byt je malý.
+
+[NORMAL]
+— Kde bývaš?
+— Bývam v centre, na Hlavnej ulici.
+— Aký je tvoj byt?
+— Môj byt je malý, ale svetlý.
+— Máš výťah?
+— Nie, bývam na prvom poschodí.
+— To je blízko!
+
+Файли: 104-01.mp3 ... 104-12.mp3 + 104-dialog.mp3

@@ -1,0 +1,29 @@
+LEKCIA 212 — Minulý víkend / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+víkend. [пауза] víkend.
+oddychoval som. [пауза] oddychoval som.
+navštívil som. [пауза] navštívil som.
+stretol som. [пауза] stretol som.
+kúpil som. [пауза] kúpil som.
+varil som. [пауза] varil som.
+pozeral som. [пауза] pozeral som.
+hral som. [пауза] hral som.
+smial som sa. [пауза] smial som sa.
+nikde. nikto.
+spolu. [пауза] spolu.
+skvelý. [пауза] skvelý.
+
+[NORMAL]
+— Aký bol tvoj víkend?
+— Skvelý! Navštívil som brata.
+— Čo ste robili spolu?
+— Varili sme a hrali sme futbal.
+— A večer?
+— Pozerali sme film a smiali sme sa.
+— Kúpil si niečo?
+— Nie, nič som nekúpil. Nemal som čas.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 212-01.mp3 ... 212-12.mp3 + 212-dialog.mp3

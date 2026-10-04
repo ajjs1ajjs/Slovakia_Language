@@ -1,0 +1,21 @@
+LEKCIA 107 — Čas, dni, hodiny / Аудіо-скрипт
+
+[SLOW]
+Pondelok. Utorok. Streda. Štvrtok. Piatok. Sobota. Nedeľa.
+Dnes. Zajtra. Včera.
+Koľko je hodín?
+Je pol tretej.
+O desiatej.
+Nie je sobota.
+Nemám čas.
+
+[NORMAL]
+— Prosím, koľko je hodín?
+— Je pol tretej.
+— Ďakujem. Kedy máme stretnutie?
+— Zajtra o desiatej.
+— V piatok nie?
+— Nie, v piatok nemám čas.
+— Dobre, zajtra o desiatej!
+
+Файли: 107-01.mp3 ... 107-12.mp3 + 107-dialog.mp3

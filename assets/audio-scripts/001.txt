@@ -1,0 +1,20 @@
+LEKCIA 001 — Abeceda a výslovnosť / Аудіо-скрипт для озвучки (TTS або диктор)
+Інструкція: записати ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW - повільно, по складах]
+Dobrý deň. [пауза] Dobrý deň.
+Ahoj. [пауза] Ahoj.
+Ďakujem. [пауза] Ďakujem.
+Prosím. [пауза] Prosím.
+Áno. Nie.
+Volám sa Peter.
+Teší ma.
+
+[NORMAL - нормальний темп, діалог]
+— Dobrý deň! Volám sa Peter.
+— Dobrý deň! Volám sa Olena. Teší ma.
+— Teší ma. Odkiaľ ste?
+— Som z Ukrajiny.
+
+Голос: жіночий + чоловічий, словацька вимова, 44.1kHz MP3.
+Файли: 001-01.mp3 ... 001-07.mp3 + 001-dialog.mp3

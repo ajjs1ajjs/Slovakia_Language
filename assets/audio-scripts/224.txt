@@ -1,0 +1,29 @@
+LEKCIA 224 — Opakovanie A2 / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+opakovať. [пауза] opakovať.
+chyba. [пауза] chyba.
+správne. zle.
+rozumieť. [пауза] rozumieť.
+pamätať si. [пауза] pamätať si.
+zabudnúť. [пауза] zabudnúť.
+slovník. [пауза] slovník.
+veta. [пауза] veta.
+otázka. odpoveď.
+test. [пауза] test.
+úspech. [пауза] úspech.
+držím palce! [пауза] držím palce!
+
+[NORMAL]
+— Učíš sa na test?
+— Áno. Včera som opakoval gramatiku.
+— Rozumieš minulému času?
+— Áno. Robil som, bola som — to viem.
+— A budúci?
+— Budem robiť a napíšem — to je ľahké.
+— Porovnávanie? Väčší ako...?
+— Áno! Drž mi palce!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 224-01.mp3 ... 224-12.mp3 + 224-dialog.mp3

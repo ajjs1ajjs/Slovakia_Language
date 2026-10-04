@@ -1,0 +1,22 @@
+LEKCIA 112 — Hotel a rezervácia / Аудіо-скрипт
+
+[SLOW]
+Hotel. Recepcia. Izba.
+Rezervácia. Objednať.
+Na dve noci.
+Raňajky v cene.
+Chcem izbu.
+Môžem platiť kartou?
+Voľný. Obsadený.
+Koľko stojí noc?
+
+[NORMAL]
+— Dobrý večer! Mám rezerváciu na meno Koval.
+— Nech sa páči. Na koľko nocí?
+— Na dve noci. Koľko stojí noc?
+— Pätdesiat eur aj s raňajkami.
+— Dobre. Môžem platiť kartou?
+— Áno. Tu je kľúč, druhé poschodie.
+— Ďakujem! Kedy sú raňajky?
+
+Файли: 112-01.mp3 ... 112-12.mp3 + 112-dialog.mp3

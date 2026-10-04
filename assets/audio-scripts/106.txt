@@ -1,0 +1,21 @@
+LEKCIA 106 — Doprava / Аудіо-скрипт
+
+[SLOW]
+Autobus. Električka. Vlak.
+Lístok. Stanica. Zastávka.
+Cestujem. Ideš. Ide.
+Príchod. Odchod.
+Prosím si lístok.
+Kedy ide električka?
+Na čas. Meškanie.
+
+[NORMAL]
+— Prosím si lístok do centra.
+— Jednosmerný alebo spiatočný?
+— Jednosmerný. Koľko stojí?
+— Jedno euro.
+— Kedy ide električka?
+— O päť minút. Nástupište dva.
+— Ďakujem!
+
+Файли: 106-01.mp3 ... 106-12.mp3 + 106-dialog.mp3

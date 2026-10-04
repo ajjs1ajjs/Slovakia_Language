@@ -1,0 +1,17 @@
+LEKCIA 420 — Vzdelávanie / Аудіо-скрипт
+Інструкція: пам'ятай — jednotka = найкраща оцінка!
+
+[SLOW]
+Škôlka. Základná škola. Stredná škola. Gymnázium. Maturita.
+Učebný odbor. Známka. Prepadnúť. Doučovanie.
+Celoživotné vzdelávanie. Kurz. Školenie.
+Riaditeľ. Učiteľ. Vysvedčenie.
+
+[NORMAL]
+— Syn končí základnú školu. Gymnázium alebo odborná?
+— Ak chce na univerzitu, gymnázium je lepšie.
+— Má jednotky a dvojky, len z matematiky trojku.
+— Chodím na doučovanie, aby som zvládol maturitu.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 420-01.mp3 ... 420-12.mp3 + 420-dialog.mp3

@@ -1,0 +1,19 @@
+LEKCIA 308 — Kino a divadlo / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+predstavenie. [пауза] predstavenie.
+vstupenka. [пауза] vstupenka.
+titulky. [пауза] titulky.
+herec. [пауза] herec.
+Dva lístky, prosím.
+Odporúčam ti túto komédiu.
+
+[NORMAL]
+— Máte ešte vstupenky na dnešné predstavenie?
+— Áno, ostali miesta v 5. rade.
+— Napínavý do konca! Herečka bola skvelá.
+— Ľudia dlho tlieskali, však?
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 308-01...308-12 + 308-dialog.mp3

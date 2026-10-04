@@ -1,0 +1,31 @@
+LEKCIA 002 — Mäkké spoluhlásky ď-ť-ň-ľ + dz-dž-ch / Скрипт для TTS (sk-SK)
+Voice: ženský + mužský hlas, 44.1kHz MP3. Pauza 2 s medzi frázami v [SLOW].
+Súbory: 002-01.mp3 ... 002-12.mp3 + 002-dialog.mp3
+
+[SLOW - pomaly, po slabikách, každé slovo 2x]
+deň. [pauza] deň.
+ďakujem. [pauza] ďakujem.
+dieťa. [pauza] dieťa.
+divadlo. [pauza] divadlo.
+ticho. [pauza] ticho.
+chuť. [pauza] chuť.
+chlieb. [pauza] chlieb.
+kôň. [pauza] kôň.
+posteľ. [pauza] posteľ.
+ľudia. [pauza] ľudia.
+džús. [pauza] džús.
+medzi. [pauza] medzi.
+Páry: di — dí. [pauza] ti — tí. [pauza] ni — ní. [pauza] li — lí.
+Deti idú do divadla. [pauza] Deti idú do divadla.
+Ticho, prosím! [pauza] Ticho, prosím!
+Kde je posteľ? [pauza] Kde je posteľ?
+
+[NORMAL - prirodzené tempo, dialóg V jazykovej škole]
+— Dobrý deň! Čo je to „ď"?
+— To je mäkké „ď". Ako v slove „deň".
+— A „ticho"?
+— Áno! Píšeme „ti", čítame „ti".
+— A čo je „džús" a „chlieb"?
+— Džús je šťava. Chlieb je chlieb. Dobrú chuť!
+— Ďakujem! Ľudia sú milí.
+— Áno, ľudia v Bratislave sú milí.

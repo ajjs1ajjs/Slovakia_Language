@@ -1,0 +1,29 @@
+LEKCIA 205 — U lekára / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+lekár. lekárka.
+bolí ma hlava. [пауза] bolí ma hlava.
+horúčka. kašeľ.
+nádcha. chrípka.
+recept. lieky.
+objednať sa. [пауза] objednať sa.
+čakáreň. [пауза] čakáreň.
+vyšetrenie. [пауза] vyšetrenie.
+pohotovosť. [пауза] pohotovosť.
+poisťovňa. [пауза] poisťovňa.
+bolesť. [пауза] bolesť.
+uzdraviť sa. [пауза] uzdraviť sa.
+
+[NORMAL]
+— Dobrý deň, čo vás bolí?
+— Bolí ma hlava a hrdlo.
+— Máte horúčku?
+— Áno, 38. Mám aj kašeľ.
+— Otvorte si ústa, prosím.
+— Je to chrípka. Napíšem vám recept.
+— Kde kúpim lieky?
+— V lekárni oproti. Oddychujte a pite čaj.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 205-01.mp3 ... 205-12.mp3 + 205-dialog.mp3

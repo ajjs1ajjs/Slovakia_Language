@@ -1,0 +1,29 @@
+LEKCIA 204 — Práca: CV a pohovor / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+práca. zamestnanie.
+životopis. [пауза] životopis.
+pohovor. [пауза] pohovor.
+vzdelanie. [пауза] vzdelanie.
+skúsenosť. [пауза] skúsenosť.
+zručnosť. [пауза] zručnosť.
+pracovať ako. [пауза] pracovať ako.
+hľadať prácu. [пауза] hľadať prácu.
+plat. [пауза] plat.
+pracovný čas. [пауза] pracovný čas.
+zamestnávateľ. [пауза] zamestnávateľ.
+nastúpiť. [пауза] nastúpiť.
+
+[NORMAL]
+— Dobrý deň, posaďte sa.
+— Dobrý deň, ďakujem.
+— Aké máte vzdelanie?
+— Mám strednú školu a kurz slovenčiny.
+— Aké máte skúsenosti?
+— Pracoval som ako kuchár tri roky.
+— Kedy môžete nastúpiť?
+— Hneď, od pondelka.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 204-01.mp3 ... 204-12.mp3 + 204-dialog.mp3

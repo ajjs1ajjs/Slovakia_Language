@@ -1,0 +1,18 @@
+LEKCIA 403 — Štúdium na univerzite / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+Vysoká škola. Prednáška. Seminár. Skúška. Zápočet.
+Bakalárka. Diplomovka. Štipendium. Prihláška.
+Študijné oddelenie. Internát. Vedúci práce. Obhájiť.
+
+[NORMAL - dialóg]
+— Dobrý deň, chcela by som podať prihlášku na magisterské štúdium.
+— Máte už bakalársky diplom?
+— Áno, obhájila som ho v júni v Kyjeve.
+— Budete potrebovať nostrifikáciu.
+— Môžem požiadať o internát a štipendium?
+— Samozrejme, žiadosť podajte do konca mája.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 403-01.mp3 ... 403-12.mp3 + 403-dialog.mp3

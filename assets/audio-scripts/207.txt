@@ -1,0 +1,29 @@
+LEKCIA 207 — Banka a peniaze / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+banka. bankomat.
+účet. [пауза] účet.
+peniaze. hotovosť.
+karta. [пауза] karta.
+PIN-kód. [пауза] PIN-kód.
+vybrať. vložiť.
+prevod. platba.
+poplatok. [пауза] poplatok.
+otvoriť účet. [пауза] otvoriť účet.
+kurz. euro.
+pokladňa. [пауза] pokladňa.
+dlh. [пауза] dlh.
+
+[NORMAL]
+— Dobrý deň, chcem si otvoriť účet.
+— Máte doklad?
+— Áno, pas a povolenie na pobyt.
+— Podpíšte sa tu, prosím.
+— Aký je poplatok?
+— Účet je zadarmo, karta dve eurá mesačne.
+— Môžem vybrať hotovosť tu?
+— Áno, v pokladni alebo v bankomate.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 207-01.mp3 ... 207-12.mp3 + 207-dialog.mp3

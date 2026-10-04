@@ -1,0 +1,20 @@
+LEKCIA 303 — Práca: porady / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+porada. [пауза] porada.
+návrh. [пауза] návrh.
+zápisnica. [пауза] zápisnica.
+termín. [пауза] termín.
+Navrhujem odsunúť deadline.
+Môžem vás prerušiť?
+
+[NORMAL]
+— Začnime poradu. Prvý bod je nový termín projektu.
+— Navrhujem odsunúť deadline o týždeň.
+— Čo keby sme rozdelili úlohy?
+— Takže zhrniem: deadline posúvame, úlohy delíme.
+— Súhlasíme.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 303-01...303-12 + 303-dialog.mp3

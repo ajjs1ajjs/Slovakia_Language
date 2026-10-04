@@ -1,0 +1,19 @@
+LEKCIA 325 — Na pohovore B1 / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+pohovor. [пауза] pohovor.
+prax. [пауза] prax.
+vzdelanie. [пауза] vzdelanie.
+Mám 4-ročnú prax.
+Môžem nastúpiť od prvého.
+
+[NORMAL]
+— Vitajte na pohovore! Predstavte sa.
+— Mám prax v predaji 4 roky.
+— Mojou silnou stránkou je komunikácia.
+— Ozveme sa vám do týždňa.
+— Ďakujem za príležitosť!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 325-01...325-12 + 325-dialog.mp3

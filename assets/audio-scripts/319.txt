@@ -1,0 +1,19 @@
+LEKCIA 319 — Knihy a čítanie / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+román. [пауза] román.
+autor. [пауза] autor.
+kapitola. [пауза] kapitola.
+napínavý. [пауза] napínavý.
+Čítam knihu, ktorá je napínavá.
+Odporúčam ti ju.
+
+[NORMAL]
+— Čo práve čítaš?
+— Detektívku, ktorá sa odohráva v Bratislave.
+— Každá kapitola končí prekvapením.
+— Požičiam si ju z knižnice.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 319-01...319-12 + 319-dialog.mp3

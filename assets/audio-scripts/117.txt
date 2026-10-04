@@ -1,0 +1,24 @@
+LEKCIA 117 — Zoznámenie rozšírené / Аудіо-скрипт
+
+[SLOW]
+Volám sa Olena.
+Teší ma.
+Odkiaľ si?
+Som z Ukrajiny.
+Bývam v Bratislave.
+Hovorím po slovensky.
+Trochu. Dobre.
+Koľko máš rokov?
+Mám tridsať rokov.
+Dáme si kávu?
+
+[NORMAL]
+— Ahoj! Volám sa Olena. A ty?
+— Ahoj! Ja som Marek. Teší ma.
+— Odkiaľ si?
+— Som z Bratislavy. A ty?
+— Som z Ukrajiny, bývam tu rok.
+— Hovoríš dobre po slovensky!
+— Ďakujem! Dáme si kávu?
+
+Файли: 117-01.mp3 ... 117-12.mp3 + 117-dialog.mp3

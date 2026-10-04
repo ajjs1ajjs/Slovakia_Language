@@ -1,0 +1,20 @@
+LEKCIA 316 — Nákup auta / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+spotreba. [пауза] spotreba.
+poistenie. [пауза] poistenie.
+skúšobná jazda. [пауза] skúšobná jazda.
+zľava. [пауза] zľava.
+Koľko má najazdené?
+Dáte zľavu?
+
+[NORMAL]
+— Mám záujem o toto ojazdené auto.
+— Prvý majiteľ, malá spotreba.
+— Je možná skúšobná jazda?
+— Cena je 9 500, so zľavou 9 000.
+— Beriem!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 316-01...316-12 + 316-dialog.mp3

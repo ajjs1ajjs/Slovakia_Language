@@ -1,0 +1,67 @@
+# 303 Práca: porady / Робота: наради
+
+**Úroveň:** B1 | **Cieľ:** Брати участь у робочій нараді: висловити пропозицію, перебити ввічливо, підсумувати.
+
+### 1. FOTO
+`assets/foto/303.jpg` — офісна нарада, люди навколо столу з ноутбуком і фліпчартом. Асоціація: робоча зустріч. Джерело: Unsplash / AI-фото.
+
+### 2. SLOVÍČKA (12)
+| SK | UA | IPA | Укр. транскрипція | Audio |
+|---|---|---|---|---|
+| porada | нарада | [ˈporada] | по́рада | ▶️ 303-01 |
+| návrh | пропозиція | [ˈnaːvrx] | на́врг | ▶️ 303-02 |
+| zápisnica | протокол | [ˈzaːpisnitsa] | за́пісніца | ▶️ 303-03 |
+| termín | термін, дата | [ˈtɛrmiːn] | те́рмін | ▶️ 303-04 |
+| úloha | завдання | [ˈuːloɦa] | у́лога | ▶️ 303-05 |
+| zodpovednosť | відповідальність | [ˈzodpovɛdnosɟ] | зо́дповедность | ▶️ 303-06 |
+| navrhnúť | запропонувати | [ˈnavrɦnuːc] | на́вргнуть | ▶️ 303-07 |
+| prerušiť | перервати | [ˈprɛruʃic] | пре́рушіць | ▶️ 303-08 |
+| súhlasiť s návrhom | погодитись з пропозицією | [ˈsuːɦlasic s ˈnaːvrɦom] | су́гласіць с на́вргом | ▶️ 303-09 |
+| odsunúť | відкласти | [ˈotsunuːc] | о́дсунуть | ▶️ 303-10 |
+| vedenie | керівництво | [ˈvɛɟɛɲi̯ɛ] | ве́дєніє | ▶️ 303-11 |
+| efektívny | ефективний | [ˈɛfɛktiːvni] | е-фе́ктівні | ▶️ 303-12 |
+
+### 3. GRAMATIKA: datív + «navrhnúť komu čo»
+Правило: дієслово **navrhnúť** керує дативом (komu?) і акузативом (čo?).
+| Komu? (Datív) | Čo? (Akuzatív) |
+|---|---|
+| navrhnem kolegovi | nový termín |
+| navrhla vedeniu | zmenu |
+| navrhli nám | stretnutie |
+Приклади:
+1. Navrhujem presunúť poradu na pondelok. — Пропоную перенести нараду на понеділок.
+2. Kto je zodpovedný za zápisnicu? — Хто відповідальний за протокол?
+3. Môžem vás na chvíľu prerušiť? — Можу вас на хвильку перервати?
+
+### 4. DIALÓG / TEXT (10 реплік)
+1. **Vedúci:** Začnime poradu. Prvý bod je nový termín projektu. → UA: Почнімо нараду. Перший пункт — новий термін проєкту.
+2. **Olena:** Navrhujem odsunúť deadline o týždeň. / IPA: [ˈnavrɦujɛm] → UA: Пропоную відкласти дедлайн на тиждень.
+3. **Kolega:** Prepáčte, môžem vás prerušiť? Mám iný návrh. → UA: Вибачте, можу вас перервати? Маю іншу пропозицію.
+4. **Vedúci:** Samozrejme, nech sa páči. → UA: Звичайно, прошу.
+5. **Kolega:** Čo keby sme rozdelili úlohy? / IPA: [tʃo ˈkɛbi] → UA: Що якби ми розділили завдання?
+6. **Olena:** S tým súhlasím, je to efektívnejšie. → UA: Я з цим згодна, це ефективніше.
+7. **Vedúci:** Dobre, kto bude zodpovedný za zápisnicu? → UA: Добре, хто буде відповідальний за протокол?
+8. **Olena:** Ja to napíšem a pošlem e-mailom. → UA: Я напишу і надішлю електронкою.
+9. **Vedúci:** Výborne. Takže zhrniem: deadline posúvame, úlohy delíme. → UA: Чудово. Отже, підсумую: дедлайн переносимо, завдання ділимо.
+10. **Všetci:** Súhlasíme. → UA: Погоджуємося.
+
+### 5. VÝSLOVNOSŤ / Аудіограма
+- Інтонація ввічливого перебивання: висхідна (Môžem vás prerušiť? ↗).
+- Зв'язне мовлення: «nech sa páči» — вимовляється разом [nɛx sa paːtʃi].
+- Довготи: návrh [naː-], úloha [uː-], zápisnica [zaː-].
+- Наголос: завжди на 1-й склад.
+- Audio-script: `assets/audio-scripts/303.txt`
+
+### 6. CVIČENIA
+**1. Доповни:** a) Navrhujem ___ (odsunúť) termín. b) Kto je ___ (zodpovedný) za úlohu? c) Môžem vás ___ (prerušiť)?
+**2. Переклади:** a) Пропоную новий термін. b) Хто напише протокол? c) Підсумую: ми згодні.
+**3. Рольова гра:** напиши 3 репліки наради (návrh + súhlas + zhrnutie).
+
+**Kľúč / Ключі:**
+1. a) odsunúť, b) zodpovedný, c) prerušiť.
+2. a) Navrhujem nový termín. b) Kto napíše zápisnicu? c) Zhrniem: súhlasíme.
+3. (вільно, зразок) Navrhujem nový postup. / Súhlasím s návrhom. / Takže zhrniem výsledok.
+
+### 7. QR / PDF
+- QR → MP3: 303-01…303-12 + 303-dialog.mp3
+- В PDF: кнопка Play (Adobe) + QR (телефон)

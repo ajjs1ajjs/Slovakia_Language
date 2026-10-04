@@ -1,0 +1,23 @@
+LEKCIA 111 — Telefón a e-mail / Аудіо-скрипт
+
+[SLOW]
+Telefón. Číslo.
+Volať. Zavolať.
+E-mail. Správa.
+Napísať. Poslať.
+Moje číslo je...
+Tvoje číslo je...
+Zopakujte, prosím.
+Nerozumiem.
+Zavolám zajtra.
+
+[NORMAL]
+— Haló! Kto volá?
+— Tu Peter. Je tam Jana?
+— Áno, to som ja. Aké je tvoje číslo?
+— Moje číslo je nula deväť, tri-päť-sedem...
+— Nerozumiem. Zopakujte, prosím!
+— Tri-päť-sedem, nula-jeden.
+— Dobre, napíšem e-mail!
+
+Файли: 111-01.mp3 ... 111-12.mp3 + 111-dialog.mp3

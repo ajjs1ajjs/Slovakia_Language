@@ -1,0 +1,29 @@
+LEKCIA 218 — Ubytovanie / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+ubytovanie. [пауза] ubytovanie.
+hotel. penzión.
+izba. posteľ.
+rezervácia. [пауза] rezervácia.
+recepcia. kľúč.
+raňajky v cene. [пауза] raňajky v cene.
+sprcha. uterák.
+prenájom. nájom.
+majiteľ. [пауза] majiteľ.
+kúrenie. teplá voda.
+hluk. [пауза] hluk.
+odhlásiť sa. prihlásiť sa.
+
+[NORMAL]
+— Dobrý deň, mám rezerváciu na meno Koval.
+— Áno, izba číslo 5. Tu je kľúč.
+— Sú raňajky v cene?
+— Áno, od siedmej do deviatej.
+— Nefunguje teplá voda.
+— Prepáčte! Hneď to opravíme.
+— Kedy sa mám odhlásiť?
+— Do desiatej, prosím.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 218-01.mp3 ... 218-12.mp3 + 218-dialog.mp3

@@ -1,0 +1,29 @@
+LEKCIA 222 — Musieť, môcť, chcieť / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+musieť. [пауза] musieť. musím. musíš. musí.
+môcť. [пауза] môcť. môžem. môžeš. môže.
+chcieť. [пауза] chcieť. chcem. chceš. chce.
+smieť. nesmie sa.
+vedieť. [пауза] vedieť.
+mať povinnosť. [пауза] mať povinnosť.
+zákaz. [пауза] zákaz.
+povolené. zakázané.
+ihneď. [пауза] ihneď.
+prestať. [пауза] prestať.
+začať. [пауза] začať.
+skúsiť. [пауза] skúsiť.
+
+[NORMAL]
+— Musím zajtra na úrad?
+— Áno, musíš. Chceš, pôjdem s tebou?
+— Môžeš? To by bolo super!
+— Samozrejme. Kedy tam musíme byť?
+— O deviatej. Nesmieme meškať.
+— Dobre. Môžem vziať auto?
+— Áno, môžeš. Ja šoférovať neviem.
+— Neboj sa, chcem šoférovať.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 222-01.mp3 ... 222-12.mp3 + 222-dialog.mp3

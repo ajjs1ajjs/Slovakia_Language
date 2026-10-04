@@ -1,0 +1,21 @@
+LEKCIA 108 — Počasie a oblečenie / Аудіо-скрипт
+
+[SLOW]
+Počasie. Slnko. Dážď.
+Teplo. Zima. Veterno.
+Kabát. Bunda. Sveter.
+Je slnečno. Prší.
+Nie je teplo.
+Mám bundu.
+Aké je počasie?
+
+[NORMAL]
+— Aké je dnes počasie?
+— Nie je teplo, prší.
+— Čo máš na sebe?
+— Mám bundu a čižmy.
+— A dáždnik máš?
+— Áno, mám dáždnik.
+— Dobre! Ideme!
+
+Файли: 108-01.mp3 ... 108-12.mp3 + 108-dialog.mp3

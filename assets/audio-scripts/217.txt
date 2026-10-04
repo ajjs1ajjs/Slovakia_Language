@@ -1,0 +1,29 @@
+LEKCIA 217 — Cesta vlakom / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+vlak. [пауза] vlak.
+stanica. nástupište.
+lístok. spiatočný.
+cestovný poriadok. [пауза] cestovný poriadok.
+meškanie. [пауза] meškanie.
+prestupovať. [пауза] prestupovať.
+odchádza. prichádza.
+vozeň. [пауза] vozeň.
+miesto. miestenka.
+cestujúci. [пауза] cestujúci.
+pokladňa. [пауза] pokladňa.
+priamy. rýchlik.
+
+[NORMAL]
+— Jeden lístok do Košíc, prosím.
+— Jednosmerný alebo spiatočný?
+— Spiatočný. Koľko stojí?
+— Dvanásť eur. Vlak odchádza o 10:15.
+— Z ktorého nástupišťa?
+— Z druhého. Musíte prestupovať v Žiline.
+— Má vlak meškanie?
+— Nie, ide načas.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 217-01.mp3 ... 217-12.mp3 + 217-dialog.mp3

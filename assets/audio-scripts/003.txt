@@ -1,0 +1,28 @@
+LEKCIA 003 — Dvojhlásky ia-ie-iu + ô / Скрипт для TTS (sk-SK)
+Voice: ženský + mužský hlas, 44.1kHz MP3. Pauza 2 s medzi frázami v [SLOW].
+Súbory: 003-01.mp3 ... 003-12.mp3 + 003-dialog.mp3
+
+[SLOW - pomaly, diftong ťahaj ako jednu slabiku, každé slovo 2x]
+mlieko. [pauza] mlieko.
+chlieb. [pauza] chlieb.
+piatok. [pauza] piatok.
+sviatok. [pauza] sviatok.
+miesto. [pauza] miesto.
+pieseň. [pauza] pieseň.
+milujem. [pauza] milujem.
+stôl. [pauza] stôl.
+kôň. [pauza] kôň.
+nôž. [pauza] nôž.
+krásny. [pauza] krásny.
+múdry. [pauza] múdry.
+Mlieko je na stole. [pauza] Mlieko je na stole.
+V piatok je sviatok. [pauza] V piatok je sviatok.
+Krásny kôň. [pauza] Krásny kôň.
+
+[NORMAL - prirodzené tempo, dialóg Raňajky]
+— Dobré ráno! Čo je na stole?
+— Chlieb a mlieko. Dobrú chuť!
+— Ďakujem. Kde je môj nôž?
+— Tu je. Vedľa je krásna pieseň v rádiu.
+— Milujem piatok! V piatok je sviatok.
+— Áno! Moje miesto je tu pri stole.

@@ -1,0 +1,57 @@
+# 215 V reštaurácii rozšírené / У ресторані розширено
+**Úroveň:** A2 | **Cieľ:** замовити меню, попросити рахунок, поскаржитись ввічливо.
+
+### 1. FOTO
+`assets/foto/215.jpg` — офіціант подає страви в ресторані. Асоціація: `jedálny lístok` = вибір.
+Джерело: Unsplash «restaurant waiter serving» або AI-фото.
+
+### 2. SLOVÍČKA (12)
+| SK | UA | IPA | Укр. транскрипція | Audio |
+|---|---|---|---|---|
+| reštaurácia | ресторан | [ˈrɛʃtauraːtsɪa] | РЕ-штау-ра-ціа | T215-01 |
+| jedálny lístok | меню | [ˈjɛdaːlni ˈliːstɔk] | Є-даал-ні ЛІІ-сток | T215-02 |
+| predjedlo / hlavné jedlo | закуска / основна страва | [ˈprɛdjɛdlɔ] / [ˈɦlavnɛː ˈjɛdlɔ] | ПРЕД-єд-ло / ГЛАВ-не ЄД-ло | T215-03 |
+| dezert | десерт | [ˈdɛzɛrt] | ДЕ-зерт | T215-04 |
+| čašník / čašníčka | офіціант / офіціантка | [ˈtʃaʃniːk] / [ˈtʃaʃniːtʃka] | ЧАШ-ніік / ЧАШ-ніі-ч-ка | T215-05 |
+| objednať si | замовити собі | [ˈɔbjɛdnac si] | ОБ-єд-наць сі | T215-06 |
+| účet, prosím! | рахунок, будь ласка! | [ˈuːtʃɛt ˈprɔsiːm] | УУ-чет ПРО-сім | T215-07 |
+| je to výborné! | це чудово! | [jɛ tɔ ˈviːbɔrnɛː] | є то ВІІ-бор-не | T215-08 |
+| je to studené! | це холодне! | [jɛ tɔ ˈstuɟɛnɛː] | є то СТУ-дє-не | T215-09 |
+| sprepitné | чайові | [ˈsprɛpitnɛː] | СПРЕ-піт-не | T215-10 |
+| rezervovať stôl | забронювати стіл | [ˈrɛzɛrvɔvac stu̯ɔl] | РЕ-зер-во-ваць стуол | T215-11 |
+| platiť kartou / hotovosťou | платити карткою / готівкою | [ˈplatic ˈkartɔu] / [ˈɦɔtɔvɔscɔu] | ПЛА-тіць КАР-тоу / ГО-то-вос-цьоу | T215-12 |
+
+### 3. GRAMATIKA: datív + prosím si + akuzatív (dám si, objednám si)
+`prosím si + AKU`: `prosím si kávu, polievku`. Датив для особи: `donesте MI, nám`.
+| Nominatív | Datív (komu?) | Akuzatív (čo?) |
+|---|---|---|
+| káva | káve | kávu |
+| čašník | čašníkovi | čašníka |
+| stôl | stolu | stôl |
+Приклади:
+1. Prosím si polievku a rezeň. [ˈprɔsiːm si ˈpɔlɪɛfku a ˈrɛzɛɲ] — Прошу суп і відбивну.
+2. Donesте nám účet, prosím. [ˈdɔnɛsce naːm ˈuːtʃɛt ˈprɔsiːm] — Принесіть нам рахунок.
+3. Zaplatím kartou. [ˈzaplatim ˈkartɔu] — Заплачу карткою.
+
+### 4. DIALÓG: V reštaurácii
+1. — Dobrý večer, máte rezerváciu? [ˈdɔbriː ˈvɛtʃɛr ˈmaːtɛ ˈrɛzɛrvaːtsɪu] — Добрий вечір, маєте бронь?
+2. — Áno, stôl pre dvoch na meno Koval. [ˈaːnɔ stu̯ɔl prɛ dvɔx na ˈmɛnɔ ˈkɔval] — Так, стіл на двох на прізвище Коваль.
+3. — Tu je jedálny lístok. [tu jɛ ˈjɛdaːlni ˈliːstɔk] — Ось меню.
+4. — Prosím si bryndzové halušky a pivo. [ˈprɔsiːm si ˈbrindzɔvɛː ˈɦaluʃki a ˈpivɔ] — Прошу бринзові галушки і пиво.
+5. — A pre pani? [a prɛ ˈpaɲi] — А для пані?
+6. — Ja si dám šalát a minerálku. [ja si daːm ˈʃalaːt a ˈminɛraːlku] — Я візьму салат і мінералку.
+7. — Bolo výborné! Účet, prosím. [ˈbɔlɔ ˈviːbɔrnɛː ˈuːtʃɛt ˈprɔsiːm] — Було чудово! Рахунок, будь ласка.
+8. — Spolu pätnásť eur. Platíte kartou? [ˈspɔlu ˈpætnaːsc ˈɛur ˈplatiːtɛ ˈkartɔu] — Разом 15 євро. Платите карткою?
+
+### 5. VÝSLOVNOSŤ
+- `ä [æ]`: `pätnásť` — відкрите «е».
+- `ô [u̯o]`: `stôl` — «стуол» злито.
+- `dz`: `bryndzové [brindzɔvɛː]` — дзвінке «дз».
+- Audio-script: `assets/audio-scripts/215.txt`
+
+### 6. CVIČENIA
+1. prosím si + AKU: káva → Prosím si ___. polievka → ___.
+2. Переклади: Рахунок, будь ласка! → ___.
+3. Замовлення: predjedlo + hlavné + nápoj (3 речення).
+**Kľúč / Ключі:**
+1. kávu; polievku. 2. Účet, prosím! 3. (вільна відповідь).

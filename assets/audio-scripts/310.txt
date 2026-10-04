@@ -1,0 +1,20 @@
+LEKCIA 310 — Rodinná oslava / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+oslava. [пауза] oslava.
+gratulovať. [пауза] gratulovať.
+prípitok. [пауза] prípitok.
+torta. [пауза] torta.
+Prajem ti všetko najlepšie!
+Na zdravie!
+
+[NORMAL]
+— Pozývame vás na oslavu v sobotu!
+— Mamine päťdesiate narodeniny. Príďte o 18:00.
+— Usaďte sa, prosím! Pripijeme si.
+— Na zdravie!
+— Gratulujeme! Bolo veselo do polnoci.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 310-01...310-12 + 310-dialog.mp3

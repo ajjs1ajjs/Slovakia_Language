@@ -1,0 +1,22 @@
+LEKCIA 109 — Telo a lekár / Аудіо-скрипт
+
+[SLOW]
+Telo. Hlava. Ruka. Noha.
+Bolí ma hlava.
+Bolí ma zub.
+Lekár. Nemocnica. Liek.
+Mám teplotu.
+Som chorý.
+Potrebujem lekára.
+Pomôžte!
+
+[NORMAL]
+— Dobrý deň! Čo vás bolí?
+— Bolí ma hlava a mám teplotu.
+— Od kedy?
+— Od včera večer.
+— Máte chrípku. Musíte spať.
+— Potrebujem liek?
+— Áno, tu je recept.
+
+Файли: 109-01.mp3 ... 109-12.mp3 + 109-dialog.mp3

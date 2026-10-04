@@ -1,0 +1,29 @@
+LEKCIA 219 — Telefonát / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+telefonát. [пауза] telefonát.
+haló. prosím?
+volať. zavolať.
+zdvihnúť. [пауза] zdvihnúť.
+obsadené. [пауза] obsadené.
+odkaz. správa.
+nechať odkaz. [пауза] nechať odkaz.
+ozvem sa. [пауза] ozvem sa.
+číslo. [пауза] číslo.
+spojiť ma. [пауза] spojiť ma.
+počkajte chvíľu. [пауза] počkajte chvíľu.
+zle počuť. [пауза] zle počuť.
+
+[NORMAL]
+— Haló, firma ABC, prosím?
+— Dobrý deň, mohol by som hovoriť s pánom Novákom?
+— Bohužiaľ, teraz telefonuje. Necháte odkaz?
+— Áno. Volám sa Koval, číslo 0901 234 567.
+— Mohli by ste to zopakovať, zle vás počujem?
+— Samozrejme: 0901 234 567.
+— Ďakujem. Pán Novák sa vám ozve.
+— Ďakujem, dovidenia!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 219-01.mp3 ... 219-12.mp3 + 219-dialog.mp3

@@ -1,0 +1,21 @@
+LEKCIA 115 — Na stanici / Аудіо-скрипт
+
+[SLOW]
+Stanica. Nástupište.
+Vlak. Odchod. Príchod.
+Lístok. Spiatočný.
+Kedy odchádza vlak?
+Priamy. S prestupom.
+Cestujem do Košíc.
+Vlak je na čas.
+
+[NORMAL]
+— Prosím, kedy odchádza vlak do Košíc?
+— O pol jedenástej, nástupište tri.
+— Je priamy alebo s prestupom?
+— Priamy, bez prestupu.
+— Prosím si spiatočný lístok.
+— Dvanásť eur. Vlak je na čas.
+— Ďakujem!
+
+Файли: 115-01.mp3 ... 115-12.mp3 + 115-dialog.mp3

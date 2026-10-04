@@ -1,0 +1,22 @@
+LEKCIA 116 — V kaviarni / Аудіо-скрипт
+
+[SLOW]
+Kaviareň. Čašník.
+Káva. Presso. Kapučíno.
+Zákusok. Torta.
+Prosím si presso.
+Pre mňa kapučíno.
+Ešte jeden čaj.
+Účet, prosím.
+Spolu. Zvlášť.
+
+[NORMAL]
+— Dobrý deň! Je tu voľné?
+— Áno, nech sa páči.
+— Prosím si presso a kapučíno.
+— Dáte si aj zákusok?
+— Áno, jeden zákusok, prosím.
+— Chutnalo?
+— Áno, veľmi! Účet, prosím. — Spolu alebo zvlášť? — Spolu.
+
+Файли: 116-01.mp3 ... 116-12.mp3 + 116-dialog.mp3

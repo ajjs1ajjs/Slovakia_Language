@@ -1,0 +1,29 @@
+LEKCIA 209 — Opravy a služby / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+oprava. služba.
+pokazený. rozbitý.
+nefunguje. [пауза] nefunguje.
+opravár. [пауза] opravár.
+objednať si. [пауза] objednať si.
+záruka. [пауза] záruka.
+účet. faktúra.
+lacný. drahý.
+práčka. [пауза] práčka.
+vodoinštalatér. [пауза] vodoinštalatér.
+elektrikár. [пауза] elektrikár.
+kedy? koľko? [пауза] kedy? koľko?
+
+[NORMAL]
+— Dobrý deň, nefunguje mi práčka.
+— Čo presne robí?
+— Nevypúšťa vodu a je hlučná.
+— Máte ešte záruku?
+— Nie, už nie. Koľko stojí oprava?
+— Asi päťdesiat eur. Prídem vo štvrtok.
+— Dobre. Objednám si vás.
+— Ďakujem, dovidenia!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 209-01.mp3 ... 209-12.mp3 + 209-dialog.mp3

@@ -1,0 +1,22 @@
+LEKCIA 113 — Na ulici / Аудіо-скрипт
+
+[SLOW]
+Prepáčte. Prosím vás.
+Neviem. Viem.
+Pomôžete mi?
+Hľadám Hlavnú ulicu.
+Rovno. Doprava. Doľava.
+Koľko je hodín?
+Nie je začo.
+Dovidenia!
+
+[NORMAL]
+— Prepáčte, prosím vás...
+— Áno? Pomôžem vám?
+— Hľadám Hlavnú ulicu. Je ďaleko?
+— Nie, nie je ďaleko. Rovno a doprava.
+— A koľko je hodín, prosím?
+— Je trištvrte na tri.
+— Ďakujem! Dovidenia! — Nie je začo!
+
+Файли: 113-01.mp3 ... 113-12.mp3 + 113-dialog.mp3

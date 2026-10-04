@@ -1,0 +1,17 @@
+LEKCIA 326 — Telefonát: formálny / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+odkaz. [пауза] odkaz.
+vydržte chvíľu. [пауза] vydržte chvíľu.
+Linka je obsadená.
+Mohli by ste ma spojiť?
+
+[NORMAL]
+— Tu Olena Kovalenko. Mohla by som hovoriť s pánom Novákom?
+— Žiaľ, má obsadenú linku. Vydržte chvíľu.
+— Odkážte mu, že som volala ohľadom zmluvy.
+— Sľúbil spätné volanie do 15:00.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 326-01...326-12 + 326-dialog.mp3

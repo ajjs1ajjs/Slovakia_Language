@@ -1,0 +1,25 @@
+LEKCIA 102 — Jedlo a reštaurácia / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек.
+
+[SLOW]
+Jedlo. Pitie.
+Chlieb. Voda.
+Polievka. Mäso.
+Káva. Čaj.
+Účet. Menu.
+Mám. Nemám.
+Chcem. Nechcem.
+Prosím si kávu.
+Prosím si polievku.
+Koľko stojí?
+
+[NORMAL]
+— Dobrý deň! Prosím si menu.
+— Nech sa páči. Dáte si polievku?
+— Áno, prosím si polievku a halušky.
+— A na pitie?
+— Prosím si vodu.
+— Chutné?
+— Áno, veľmi chutné! Prosím si účet.
+
+Файли: 102-01.mp3 ... 102-12.mp3 + 102-dialog.mp3

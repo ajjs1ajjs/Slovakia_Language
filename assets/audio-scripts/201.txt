@@ -1,0 +1,29 @@
+LEKCIA 201 — Denný režim / Аудіо-скрипт (TTS або диктор)
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW - повільно, по складах, кожне слово 2 рази]
+denný režim. [пауза] denný režim.
+vstávať. [пауза] vstávať.
+raňajky. [пауза] raňajky.
+obed. [пауза] obed.
+večera. [пауза] večera.
+pracovať. [пауза] pracovať.
+oddychovať. [пауза] oddychovať.
+skoro. [пауза] skoro. neskoro. [пауза] neskoro.
+vždy. často. nikdy.
+sprcha. [пауза] sprcha.
+ísť spať. [пауза] ísť spať.
+cez týždeň. cez víkend.
+
+[NORMAL - нормальний темп, діалог]
+— Kedy vstávaš?
+— Vstávam o pol siedmej.
+— Raňajkuješ doma?
+— Áno, vždy. Dám si kávu a rožok.
+— A kedy ideš do práce?
+— O ôsmej. Pracujem do štvrtej.
+— A večer?
+— Večeriam, oddychujem a idem spať o desiatej.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 201-01.mp3 ... 201-12.mp3 + 201-dialog.mp3

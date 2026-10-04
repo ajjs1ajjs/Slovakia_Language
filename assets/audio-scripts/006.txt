@@ -1,0 +1,27 @@
+LEKCIA 006 — Predstavenie sa / Скрипт для TTS (sk-SK)
+Voice: ženský (Olena) + mužský/ženský (Jana), 44.1kHz MP3. Pauza 2 s v [SLOW].
+Súbory: 006-01.mp3 ... 006-12.mp3 + 006-dialog.mp3
+
+[SLOW - pomaly, každá fráza 2x]
+volám sa Olena. [pauza] volám sa Olena.
+teší ma. [pauza] teší ma.
+som z Ukrajiny. [pauza] som z Ukrajiny.
+bývam v Bratislave. [pauza] bývam v Bratislave.
+hovorím po slovensky. [pauza] hovorím po slovensky.
+hovorím trochu. [pauza] hovorím trochu.
+rozumiem. [pauza] rozumiem. nerozumiem. [pauza] nerozumiem.
+odkiaľ ste? [pauza] odkiaľ ste? odkiaľ si? [pauza] odkiaľ si?
+kde bývate? [pauza] kde bývate?
+manžel. manželka. [pauza] manžel. manželka.
+deti. rodina. [pauza] deti. rodina.
+pracujem. študujem. [pauza] pracujem. študujem.
+
+[NORMAL - prirodzené tempo, dialóg Zoznámenie na kurze]
+— Ahoj! Volám sa Jana. A ty?
+— Ahoj, Jana! Volám sa Olena. Teší ma.
+— Teší ma, Olena. Odkiaľ si?
+— Som z Ukrajiny, z Kyjeva. A ty?
+— Ja som zo Slovenska. Bývam v Bratislave. A kde bývaš ty?
+— Bývam v Bratislave. Hovorím po slovensky trochu.
+— To nevadí. Rozumieš dobre?
+— Trochu rozumiem, ale veľa nerozumiem.

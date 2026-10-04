@@ -1,0 +1,39 @@
+LEKCIA 005 — Čísla 0–20 a hláskovanie / Скрипт для TTS (sk-SK)
+Voice: ženský + mužský hlas, 44.1kHz MP3. Čísla diktuj zreteľne, pauza 2 s.
+Súbory: 005-01.mp3 ... 005-25.mp3 + 005-dialog.mp3
+
+[SLOW - pomaly, každé číslo 2x]
+nula. [pauza] nula.
+jeden. [pauza] jeden.
+dva. dve. [pauza] dva. dve.
+tri. [pauza] tri.
+štyri. [pauza] štyri.
+päť. [pauza] päť.
+šesť. [pauza] šesť.
+sedem. [pauza] sedem.
+osem. [pauza] osem.
+deväť. [pauza] deväť.
+desať. [pauza] desať.
+jedenásť. [pauza] jedenásť.
+dvanásť. [pauza] dvanásť.
+trinásť. [pauza] trinásť.
+štrnásť. [pauza] štrnásť.
+pätnásť. [pauza] pätnásť.
+šestnásť. [pauza] šestnásť.
+sedemnásť. [pauza] sedemnásť.
+osemnásť. [pauza] osemnásť.
+devätnásť. [pauza] devätnásť.
+dvadsať. [pauza] dvadsať.
+Počítame spolu: nula, jeden, dva, tri, štyri, päť, šesť, sedem, osem, deväť, desať.
+Moje meno je Olena. [pauza] Hláskujem: O-L-E-N-A.
+Koľko to stojí? [pauza] Koľko to stojí?
+Päť eur. Sedem eur. Dvanásť eur.
+
+[NORMAL - prirodzené tempo, dialóg Na informáciách]
+— Dobrý deň! Moje meno je Olena Kovalenko.
+— Hláskujte, prosím.
+— O-L-E-N-A. K-O-V-A-L-E-N-K-O.
+— Ďakujem. Telefónne číslo, prosím?
+— Nula-deväť-jeden, päť-šesť-sedem.
+— Koľko to stojí?
+— Dvanásť eur, prosím.

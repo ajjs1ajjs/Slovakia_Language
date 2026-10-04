@@ -1,0 +1,19 @@
+LEKCIA 317 — Počasie: rozhovor / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+predpoveď. [пауза] predpoveď.
+zamračené. [пауза] zamračené.
+búrka. [пауза] búrka.
+vyčasí sa. [пауза] vyčasí sa.
+Vezmi si dáždnik.
+Bude okolo 20 stupňov.
+
+[NORMAL]
+— Aká je predpoveď na víkend?
+— V sobotu zamračené s prehánkami, 15 stupňov.
+— Keď bude pršať, ostaneme doma.
+— A keď sa vyčasí, pôjdeme na výlet.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 317-01...317-12 + 317-dialog.mp3

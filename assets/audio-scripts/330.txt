@@ -1,0 +1,20 @@
+LEKCIA 330 — Test B1 / Аудіо-скрипт
+Інструкція: читати завдання повільно, пауза 3 сек між питаннями.
+
+[SLOW]
+test. [пауза] test.
+správna odpoveď. [пауза] správna odpoveď.
+uspieť. [пауза] uspieť.
+gratulujeme. [пауза] gratulujeme.
+
+[NORMAL - zadanie testu]
+Časť A. Vyberte správnu odpoveď.
+1. Keby som mal čas, išiel by som s tebou.
+2. Povedzte mi pravdu!
+3. Učím sa, aby som uspel.
+Časť B. Kam chce ísť Peter? Prečo?
+Časť C. Napíšte 5 viet: Môj názor na šport.
+Koniec testu. Gratulujeme!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 330-01...330-12 + 330-test.mp3

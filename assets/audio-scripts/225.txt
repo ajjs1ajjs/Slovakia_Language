@@ -1,0 +1,29 @@
+LEKCIA 225 — Test A2 / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+vybrať si odpoveď. [пауза] vybrať si odpoveď.
+doplniť. [пауза] doplniť.
+preložiť. [пауза] preložiť.
+správna odpoveď. [пауза] správna odpoveď.
+bod. [пауза] bod.
+úspešný. [пауза] úspešný.
+minulý čas. [пауза] minulý čas.
+budúci čas. [пауза] budúci čas.
+pád. [пауза] pád.
+stupňovanie. [пауза] stupňovanie.
+zvratné sloveso. [пауза] zvratné sloveso.
+gratulujem! [пауза] gratulujem!
+
+[NORMAL - діалог для розуміння]
+— Aký bol test?
+— Ťažký, ale urobil som ho.
+— Koľko si mal bodov?
+— Sedemnásť z dvadsiatich.
+— To je veľmi dobre!
+— Áno. Najťažšia bola gramatika.
+— A čo dialóg?
+— Ten bol ľahký. Teším sa na B1!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 225-01.mp3 ... 225-12.mp3 + 225-dialog.mp3

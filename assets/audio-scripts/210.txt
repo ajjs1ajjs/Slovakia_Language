@@ -1,0 +1,29 @@
+LEKCIA 210 — Príroda a výlety / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+príroda. [пауза] príroda.
+hora. les.
+jazero. rieka.
+výlet. túra.
+mapa. [пауза] mapa.
+stan. spacák.
+počasie. [пауза] počasie.
+slnečno. prší.
+Tatry. [пауза] Tatry.
+hrad. jaskyňa.
+fotografovať. [пауза] fotografovať.
+opekať. [пауза] opekať.
+
+[NORMAL]
+— Ideme v sobotu na výlet?
+— Áno! Kam? Do Tatier?
+— Áno. Aké bude počasie?
+— Bude slnečno, 20 stupňov.
+— Čo si vezmeme?
+— Mapu, vodu a spacák.
+— Budeme opekať pri jazere?
+— Áno! A budeme fotografovať hory.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 210-01.mp3 ... 210-12.mp3 + 210-dialog.mp3

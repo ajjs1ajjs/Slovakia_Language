@@ -1,0 +1,16 @@
+LEKCIA 418 — Technológie / Аудіо-скрипт
+Інструкція: англіцизми з наголосом на 1-й склад.
+
+[SLOW]
+Umelá inteligencia. Aplikácia. Dáta. Súkromie.
+Kyberbezpečnosť. Heslo. Zálohovať. Vývoj.
+Nahradiť. Závislosť. Inovácia. Budúcnosť.
+
+[NORMAL]
+Umelá inteligencia nám uľahčí prácu, ale nenahradí nás.
+Zálohujte si dáta, inak o ne prídete.
+O desať rokov budeme platiť mobilom všade.
+Budúcnosť patrí ľuďom, ktorí technológie vedia používať rozumne.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 418-01.mp3 ... 418-12.mp3 + 418-text.mp3

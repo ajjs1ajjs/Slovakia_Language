@@ -1,0 +1,18 @@
+LEKCIA 429 — Mock test písomný / Аудіо-скрипт
+Інструкція: прочитай zadanie вголос двічі; дихання 4-7-8.
+
+[SLOW]
+Zadanie. Možnosť. Čítanie s porozumením. Doplniť.
+Vybrať správne. Časový limit. Body. Hodnotenie.
+Hranica. Chyba z nepozornosti. Preskočiť a vrátiť sa.
+Koncept. Načisto. Úspešnosť.
+
+[NORMAL - inštrukcie k testu]
+Prečítajte si zadanie dvakrát, potom podčiarknite kľúčové slová.
+Ak neviete, preskočte a vráťte sa na konci.
+Esej píšte najprv ako koncept, potom načisto.
+Časový limit je 60 minút. Hranica úspešnosti je 60 percent.
+Držím vám palce!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 429-01.mp3 ... 429-12.mp3 + 429-test.mp3

@@ -1,0 +1,15 @@
+LEKCIA 402 — Prezentácie v práci / Аудіо-скрипт (TTS або диктор)
+Інструкція: записати ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+Prezentácia. Úvod. Jadro. Záver. Snímka. Graf.
+Prejsť k. Zhrnúť. Otázky a odpovede. Publikum. Plynulo. Presvedčivo.
+
+[NORMAL - úvod prezentácie]
+Dobrý deň, volám sa Olena Kovalenko a dnes vám predstavím výsledky nášho projektu.
+Moja prezentácia má tri časti. Najprv zhrniem východiská, potom prejdeme k jadru.
+Na záver navrhnem riešenie a rada zodpoviem vaše otázky.
+Prejdem k zhrnutiu výsledkov. Na tomto grafe vidíte zvýšenie predaja.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 402-01.mp3 ... 402-12.mp3 + 402-text.mp3

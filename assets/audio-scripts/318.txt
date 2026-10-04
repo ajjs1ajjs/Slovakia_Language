@@ -1,0 +1,19 @@
+LEKCIA 318 — Šport / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+zápas. [пауза] zápas.
+gól. [пауза] gól.
+výhra. [пауза] výhra.
+fanúšik. [пауза] fanúšik.
+Vyhrali sme 2:1!
+Fandím nášmu tímu.
+
+[NORMAL]
+— Bol si včera na zápase?
+— Áno! Vyhrali sme 2:1, gól padol v závere.
+— Rozhodca bol fér?
+— Poď so mnou, zlepšíš si kondíciu!
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 318-01...318-12 + 318-dialog.mp3

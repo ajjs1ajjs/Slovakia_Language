@@ -1,0 +1,20 @@
+LEKCIA 304 — Pracovné e-maily / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+predmet. [пауза] predmet.
+príloha. [пауза] príloha.
+vážená pani. [пауза] vážená pani.
+s pozdravom. [пауза] s pozdravom.
+V prílohe posielam návrh.
+Prosím o odpoveď do piatka.
+
+[NORMAL]
+Vážená pani Horváthová,
+obraciam sa na vás ohľadom zajtrajšej porady.
+Navrhujem presunúť stretnutie na štvrtok o 10:00.
+V prílohe posielam aktualizovaný program.
+S pozdravom, Olena Kovalenko.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 304-01...304-12 + 304-dialog.mp3

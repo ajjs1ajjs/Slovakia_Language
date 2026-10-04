@@ -1,0 +1,67 @@
+# 314 Sťažnosť a reklamácia / Скарга і рекламація
+
+**Úroveň:** B1 | **Cieľ:** Подати скаргу ввічливо але твердо: описати проблему, вимагати рішення.
+
+### 1. FOTO
+`assets/foto/314.jpg` — клієнт на рецепції зі зламаним товаром, чек у руці. Асоціація: рекламація. Джерело: Unsplash / AI-фото.
+
+### 2. SLOVÍČKA (12)
+| SK | UA | IPA | Укр. транскрипція | Audio |
+|---|---|---|---|---|
+| sťažnosť | скарга | [ˈscɛʒnosc] | сця́жность | ▶️ 314-01 |
+| reklamácia | рекламація, повернення | [ˈrɛklamaːtsi̯a] | ре́кламація | ▶️ 314-02 |
+| pokazený | зламаний, зіпсований | [ˈpokazɛniː] | по́казені | ▶️ 314-03 |
+| záruka | гарантія | [ˈzaːruka] | за́рука | ▶️ 314-04 |
+| bloček / pokladničný doklad | чек | [ˈblotʃɛk] | бло́чек | ▶️ 314-05 |
+| vrátenie peňazí | повернення грошей | [ˈvraːcɛɲi̯ɛ ˈpɛɲaziː] | вра́ценіє пе́нязі | ▶️ 314-06 |
+| výmena | обмін | [ˈviːmɛna] | ві́мена | ▶️ 314-07 |
+| chyba | помилка, дефект | [ˈxiba] | хі́ба | ▶️ 314-08 |
+| nespokojný | незадоволений | [ˈnɛspokojniː] | не́спокойні | ▶️ 314-09 |
+| žiadať | вимагати | [ˈʒi̯adac] | жя́даць | ▶️ 314-10 |
+| ospravedlnenie | вибачення | [ˈospravɛdlnɛɲi̯ɛ] | о́справедлненіє | ▶️ 314-11 |
+| lehota na vybavenie | строк розгляду | [ˈlɛɦota] | ле́гота | ▶️ 314-12 |
+
+### 3. GRAMATIKA: trpné príčestie — «je pokazený» (пасивний стан, частина 1)
+Правило: **byť + trpné príčestie** (urobený, pokazený, zaplatený).
+| Infinitív | Príčestie | Príklad |
+|---|---|---|
+| pokaziť | pokazený | Telefón je pokazený. |
+| urobiť | urobený | Účet je urobený. |
+| zaplatiť | zaplatený | Tovar je zaplatený. |
+Приклади:
+1. Výrobok je pokazený, žiadam výmenu. — Виріб зламаний, вимагаю обміну.
+2. Reklamácia bola prijatá včera. — Рекламацію прийнято вчора.
+3. Bol som nespokojný so službou. — Я був незадоволений сервісом.
+
+### 4. DIALÓG / TEXT (10 реплік)
+1. **Klient:** Dobrý deň, chcel by som podať reklamáciu. → UA: Добрий день, я хотів би подати рекламацію.
+2. **Predavač:** Samozrejme. Čo sa stalo? / IPA: [tʃo sa ˈstalo] → UA: Звичайно. Що сталося?
+3. **Klient:** Kúpil som kanvicu, ale je pokazená — nehreje. → UA: Я купив чайник, але він зламаний — не гріє.
+4. **Predavač:** Máte bloček a záruku? → UA: У вас є чек і гарантія?
+5. **Klient:** Áno, tu je doklad. Kúpil som ju pred týždňom. / IPA: [ˈdoklat] → UA: Так, ось чек. Я купив його тиждень тому.
+6. **Predavač:** Ospravedlňujeme sa. Ponúkame výmenu alebo vrátenie peňazí. → UA: Перепрошуємо. Пропонуємо обмін або повернення грошей.
+7. **Klient:** Žiadam výmenu za nový kus. → UA: Вимагаю обміну на новий екземпляр.
+8. **Predavač:** Dobre. Reklamácia bude vybavená do 30 dní, väčšinou skôr. → UA: Добре. Рекламацію буде розглянуто до 30 днів, зазвичай раніше.
+9. **Klient:** Ďakujem. Prosím o písomné potvrdenie. → UA: Дякую. Прошу письмове підтвердження.
+10. **Predavač:** Tu je. Ešte raz sa ospravedlňujeme! → UA: Ось воно. Ще раз перепрошуємо!
+
+### 5. VÝSLOVNOSŤ / Аудіограма
+- Інтонація скарги: твердий але ввічливий тон, спад у вимозі (Žiadam výmenu ↘).
+- Зв'язне мовлення: «chcel by som» — формула ввічливості, м'яка вимова.
+- Довготи: záruka [zaː-], vrátenie [vraː-], výmena [viː-].
+- Наголос: завжди на 1-й склад.
+- Audio-script: `assets/audio-scripts/314.txt`
+
+### 6. CVIČENIA
+**1. Trpné príčestie:** a) Telefón je ___ (pokaziť). b) Účet je ___ (urobiť). c) Reklamácia bola ___ (prijať).
+**2. Переклади:** a) Я хочу подати скаргу. b) Вимагаю повернення грошей. c) Ось чек.
+**3. Лист-скарга:** напиши 3 речення (kúpil som, je pokazený, žiadam).
+
+**Kľúč / Ключі:**
+1. a) pokazený, b) urobený, c) prijatá.
+2. a) Chcel/a by som podať sťažnosť/reklamáciu. b) Žiadam vrátenie peňazí. c) Tu je bloček/doklad.
+3. (вільно) Kúpil som kanvicu. Je pokazená. Žiadam výmenu.
+
+### 7. QR / PDF
+- QR → MP3: 314-01…314-12 + 314-dialog.mp3
+- В PDF: кнопка Play (Adobe) + QR (телефон)

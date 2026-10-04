@@ -1,0 +1,19 @@
+LEKCIA 314 — Sťažnosť a reklamácia / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+sťažnosť. [пауза] sťažnosť.
+reklamácia. [пауза] reklamácia.
+pokazený. [пауза] pokazený.
+záruka. [пауза] záruka.
+Žiadam výmenu.
+Tu je doklad.
+
+[NORMAL]
+— Chcel by som podať reklamáciu.
+— Kúpil som kanvicu, ale je pokazená.
+— Ospravedlňujeme sa. Ponúkame výmenu alebo vrátenie peňazí.
+— Prosím o písomné potvrdenie.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 314-01...314-12 + 314-dialog.mp3

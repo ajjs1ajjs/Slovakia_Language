@@ -1,0 +1,29 @@
+LEKCIA 211 — Rozprávanie v minulosti 1 / Аудіо-скрипт
+Інструкція: ДВІ швидкості. Пауза 2 сек між фразами.
+
+[SLOW]
+včera. predvčerom.
+minulý týždeň. [пауза] minulý týždeň.
+bol som. [пауза] bol som.
+robil som. [пауза] robil som.
+išiel som. [пауза] išiel som.
+videl som. [пауза] videl som.
+jedol som. [пауза] jedol som.
+spal som. [пауза] spal som.
+hovoril som. [пауза] hovoril som.
+potom. najprv.
+zrazu. [пауза] zrazu.
+nakoniec. [пауза] nakoniec.
+
+[NORMAL]
+— Čo si robil včera?
+— Najprv som pracoval, potom som išiel domov.
+— A večer?
+— Jedol som večeru a hovoril som s mamou.
+— Videla si ten film?
+— Áno, videla som ho minulý týždeň.
+— A potom si spala?
+— Áno, nakoniec som išla spať o desiatej.
+
+Голос: жіночий + чоловічий, 44.1kHz MP3.
+Файли: 211-01.mp3 ... 211-12.mp3 + 211-dialog.mp3
