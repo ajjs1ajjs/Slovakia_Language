@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "keby.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "chcel by som.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "išiel by som.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "mohli by ste.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Keby som mal čas, išiel by som s tebou.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Mohli by ste mi pomôcť?",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Čo by si robil, keby si mal voľný týždeň?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Išiel by som do Tatier.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Rád by som... teda rada by som!",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Odporúčala by som tento hotel.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

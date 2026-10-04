@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Telo. Hlava. Ruka. Noha.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Bolí ma hlava.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Bolí ma zub.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Lekár. Nemocnica. Liek.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Mám teplotu.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Som chorý.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Potrebujem lekára.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Pomôžte!",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Čo vás bolí?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Bolí ma hlava a mám teplotu.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Od kedy?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Od včera večer.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Máte chrípku. Musíte spať.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Potrebujem liek?",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, tu je recept.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

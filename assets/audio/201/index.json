@@ -1,0 +1,102 @@
+{
+ "slow": [
+  {
+   "text": "denný režim.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "vstávať.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "raňajky.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "obed.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "večera.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "pracovať.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "oddychovať.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "skoro.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "skoro. neskoro.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "neskoro.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "vždy. často. nikdy.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "sprcha.",
+   "file": "slow-12.mp3"
+  },
+  {
+   "text": "ísť spať.",
+   "file": "slow-13.mp3"
+  },
+  {
+   "text": "cez týždeň. cez víkend.",
+   "file": "slow-14.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kedy vstávaš?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Vstávam o pol siedmej.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Raňajkuješ doma?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, vždy. Dám si kávu a rožok.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A kedy ideš do práce?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "O ôsmej. Pracujem do štvrtej.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A večer?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Večeriam, oddychujem a idem spať o desiatej.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

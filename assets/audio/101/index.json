@@ -1,0 +1,81 @@
+{
+ "slow": [
+  {
+   "text": "Rodina.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Mama. Otec.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Brat. Sestra.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Manžel. Manželka.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Syn. Dcéra.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Dieťa. Deti.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Starý otec. Stará mama.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Môj. Moja.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "To je môj brat.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "Ona je moja sestra.",
+   "file": "slow-10.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kto je to?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "To je moja mama. Volá sa Jana.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A to je môj otec?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, to je môj otec. Volá sa Ivan.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Máš brata?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, mám brata a sestru.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "My sme veľká rodina.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

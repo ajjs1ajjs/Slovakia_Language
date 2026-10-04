@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "keby.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "aby.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "urob!",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "je urobené.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Keby som mal čas, išiel by som.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Povedz mi!",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Keby si mal voľno, čo by si robil?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Išiel by som na výlet, aby som si oddýchol.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Hotel je už zarezervovaný?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, izba je zaplatená a potvrdená.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

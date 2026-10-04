@@ -1,0 +1,42 @@
+{
+ "slow": [
+  {
+   "text": "Škôlka. Základná škola. Stredná škola. Gymnázium. Maturita.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Učebný odbor. Známka. Prepadnúť. Doučovanie.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Celoživotné vzdelávanie. Kurz. Školenie.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Riaditeľ. Učiteľ. Vysvedčenie.",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Syn končí základnú školu. Gymnázium alebo odborná?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ak chce na univerzitu, gymnázium je lepšie.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Má jednotky a dvojky, len z matematiky trojku.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Chodím na doučovanie, aby som zvládol maturitu.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

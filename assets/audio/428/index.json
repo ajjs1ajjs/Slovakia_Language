@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Zhrnúť. Konektor. Navyše. Avšak. Preto. Zdvorilosť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Idióm. Register. Esej. Prejav. Argument. Protiargument.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Overiť zdroj. Plynulosť. Sebahodnotenie. Medzera.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Síce som sa učil, ale idiómy mi dávajú zabrať.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Keby som mal viac času, napísal by som esej lepšie.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Zhrnutie: najväčšiu medzeru mám v kondicionáli.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Clickbait ma už neoklame. Ideme na mock test!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

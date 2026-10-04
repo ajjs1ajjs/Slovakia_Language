@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "oprava. služba.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "pokazený. rozbitý.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "nefunguje.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "opravár.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "objednať si.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "záruka.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "účet. faktúra.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "lacný. drahý.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "práčka.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "vodoinštalatér.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "elektrikár.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "kedy? koľko?",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, nefunguje mi práčka.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Čo presne robí?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nevypúšťa vodu a je hlučná.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Máte ešte záruku?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nie, už nie. Koľko stojí oprava?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Asi päťdesiat eur. Prídem vo štvrtok.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dobre. Objednám si vás.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ďakujem, dovidenia!",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

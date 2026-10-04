@@ -1,0 +1,69 @@
+{
+ "slow": [
+  {
+   "text": "Práca. Firma.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Učiteľ. Lekár. Vodič.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Kuchár. Predavač.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Pracujem. Pracuješ. Pracujú.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Robím. Robíš. Robia.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Hľadám prácu.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Kde pracuješ?",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kde pracuješ?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Pracujem v reštaurácii ako kuchár.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A tvoja manželka?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ona je učiteľka. Robí v škole.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "To je dobrá práca!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, máme dobrých kolegov.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Teší ma!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "vlak.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "stanica. nástupište.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "lístok. spiatočný.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "cestovný poriadok.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "meškanie.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "prestupovať.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "odchádza. prichádza.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "vozeň.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "miesto. miestenka.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "cestujúci.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "pokladňa.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "priamy. rýchlik.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Jeden lístok do Košíc, prosím.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Jednosmerný alebo spiatočný?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Spiatočný. Koľko stojí?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dvanásť eur. Vlak odchádza o 10:15.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Z ktorého nástupišťa?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Z druhého. Musíte prestupovať v Žiline.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Má vlak meškanie?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie, ide načas.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

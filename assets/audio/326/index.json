@@ -1,0 +1,42 @@
+{
+ "slow": [
+  {
+   "text": "odkaz.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "vydržte chvíľu.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Linka je obsadená.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Mohli by ste ma spojiť?",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Tu Olena Kovalenko. Mohla by som hovoriť s pánom Novákom?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Žiaľ, má obsadenú linku. Vydržte chvíľu.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Odkážte mu, že som volala ohľadom zmluvy.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Sľúbil spätné volanie do 15:00.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

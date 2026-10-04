@@ -1,0 +1,42 @@
+{
+ "slow": [
+  {
+   "text": "Mať dlhé prsty. Mať oči všade. Pustiť si hubu na špacír.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Držať jazyk za zubami. Mať srdce na jazyku. Brať na ľahkú váhu.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Hodiť za hlavu. Mať v malíčku. Stáť nohami na zemi.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Sedieť na dvoch stoličkách. Otvoriť oči. Z ruky do ruky.",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Radšej drž jazyk za zubami, nepúšťaj hubu na špacír.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Tú gramatiku už mám v malíčku.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Stojí nohami na zemi, neberie to na ľahkú váhu.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Staré chyby hoď za hlavu, daj mu šancu.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

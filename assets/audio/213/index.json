@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "budúcnosť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "plán. plánovať.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "chcieť.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "o rok. o mesiac.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "budúci rok.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "sťahovať sa.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "nájsť si prácu.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "oženiť sa. vydať sa.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "dieťa.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "dovolenka.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "ušetriť.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "snívať.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aké máš plány do budúcnosti?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Chcem si nájsť lepšiu prácu.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A kde budeš bývať?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Budúci rok sa presťahujem do Bratislavy.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Sám alebo s rodinou?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "S manželkou. Budeme mať dieťa.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "To je krásne! A dovolenka?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "V lete pôjdeme k moru. Budem šetriť.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

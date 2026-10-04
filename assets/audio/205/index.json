@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "lekár. lekárka.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "bolí ma hlava.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "horúčka. kašeľ.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "nádcha. chrípka.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "recept. lieky.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "objednať sa.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "čakáreň.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "vyšetrenie.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "pohotovosť.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "poisťovňa.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "bolesť.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "uzdraviť sa.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, čo vás bolí?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Bolí ma hlava a hrdlo.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Máte horúčku?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, 38. Mám aj kašeľ.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Otvorte si ústa, prosím.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Je to chrípka. Napíšem vám recept.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kde kúpim lieky?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "V lekárni oproti. Oddychujte a pite čaj.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

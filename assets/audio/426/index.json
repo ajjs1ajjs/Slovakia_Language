@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Esej. Úvod. Hlavná časť. Protiargument. Záver. Téma.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Tvrdenie. Príkladom je. Na záver. Podľa štatistík.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Som presvedčený. Rozsah.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Má home office budúcnosť? V súčasnosti sa o tom diskutuje.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Som presvedčený, že áno. Najprv: ľudia šetria čas.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Navyše: doma sa lepšie sústredia. Príkladom je naša firma.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Na druhej strane chápem obavy. Síce je to pravda, ale riešením je hybrid.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Na záver: budúcnosť patrí flexibilite.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

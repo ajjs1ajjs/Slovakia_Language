@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "choď!",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "poď!",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "povedz!",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "urob!",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Poď sem a sadni si!",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Neboj sa, skús to ešte raz!",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Poď sem, prosím, a pomôž mi!",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Urob miesto na stole a daj pozor na tortu!",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Daj ich sem a počkaj na hostí.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nechaj tak a umy si ruky!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "škola.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "učiť sa. naučiť sa.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "hodina. vyučovanie.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "predmet.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "domáca úloha.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "skúška. test.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "učiteľ. žiak.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "slovenčina.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "rozumieť.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "zabudnúť.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "opakovať.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "známka.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aký máš najradšej predmet?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Slovenčinu. Učím sa ju rok.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Rozumieš učiteľovi?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, ale niekedy zabudnem slová.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Napísal si domácu úlohu?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ešte nie. Napíšem ju večer.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kedy máme skúšku?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "V piatok. Budeme opakovať spolu?",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

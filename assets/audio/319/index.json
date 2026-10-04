@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "román.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "autor.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "kapitola.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "napínavý.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Čítam knihu, ktorá je napínavá.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Odporúčam ti ju.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Čo práve čítaš?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Detektívku, ktorá sa odohráva v Bratislave.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Každá kapitola končí prekvapením.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Požičiam si ju z knižnice.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Umelá inteligencia. Aplikácia. Dáta. Súkromie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Kyberbezpečnosť. Heslo. Zálohovať. Vývoj.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Nahradiť. Závislosť. Inovácia. Budúcnosť.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Umelá inteligencia nám uľahčí prácu, ale nenahradí nás.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Zálohujte si dáta, inak o ne prídete.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "O desať rokov budeme platiť mobilom všade.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Budúcnosť patrí ľuďom, ktorí technológie vedia používať rozumne.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "slow": [
+  {
+   "text": "Finálny projekt. Can-do statements. Plynulo a spontánne.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Obhájiť projekt. Certifikát B2. Spätná väzba.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Silné stránky. Priestor na zlepšenie. Samostatný používateľ.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Argumentovať. Rokovať. Gratulujem!",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Viem plynulo argumentovať a obhájiť svoj názor.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Rozumiem správam a overím si fakty z dvoch zdrojov.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Napíšem esej, list aj prejav.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Moja cesta k B2: tri najťažšie témy a môj pokrok.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Gratulujem! Si samostatný používateľ! Ste samostatný používateľ!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

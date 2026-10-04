@@ -1,0 +1,69 @@
+{
+ "slow": [
+  {
+   "text": "Počasie. Slnko. Dážď.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Teplo. Zima. Veterno.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Kabát. Bunda. Sveter.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Je slnečno. Prší.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Nie je teplo.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Mám bundu.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Aké je počasie?",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aké je dnes počasie?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie je teplo, prší.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Čo máš na sebe?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mám bundu a čižmy.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A dáždnik máš?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, mám dáždnik.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dobre! Ideme!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

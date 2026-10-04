@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "sťažnosť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "reklamácia.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "prepáčte. ospravedlňujem sa.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "problém.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "pokazený.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "vrátiť tovar.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "vymeniť.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "vrátiť peniaze.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "bohužiaľ.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "hneď. okamžite.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "riešenie.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "spokojný.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, mám problém s týmto telefónom.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Čo sa stalo?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nefunguje displej, je pokazený.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Máte bloček?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, tu je. Kúpil som ho včera.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Chcel by som ho vymeniť.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Samozrejme. Hneď to vyriešime.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ďakujem za pochopenie.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

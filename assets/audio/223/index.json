@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "umývať sa.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "obliekať sa.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "tešiť sa.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "smiať sa.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "báť sa.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "myslieť si.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "sadnúť si.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "dať si.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "kúpiť si.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "oddýchnuť si.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "pozrieť sa.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "volať sa.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kedy sa umývaš?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Umývam sa o šiestej. Potom sa obliekam.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dáš si kávu?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, dám si. Sadnem si sem.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Tešíš sa na víkend?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno! Myslím si, že pôjdeme na výlet.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Neboj sa dažďa, bude slnečno.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Super, pozriem sa na mapu.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

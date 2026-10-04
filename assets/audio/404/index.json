@@ -1,0 +1,39 @@
+{
+ "slow": [
+  {
+   "text": "Správa. Udalosť. Zdroj. Overiť. Podľa zdroja. Nestranný.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Došlo k. Účastníci. Škoda. Svedok. Tlačová správa. Zverejniť.",
+   "file": "slow-02.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Včera večer došlo v Bratislave k dopravnej nehode dvoch osobných áut.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Podľa polície sa nehoda stala o 19.30 na križovatke.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dvaja účastníci utrpeli ľahké zranenia.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Podľa svedkov jedno z áut nedalo prednosť v jazde.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Polícia príčinu vyšetruje. Bližšie informácie zverejní v tlačovej správe.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

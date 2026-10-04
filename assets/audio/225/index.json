@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "vybrať si odpoveď.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "doplniť.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "preložiť.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "správna odpoveď.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "bod.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "úspešný.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "minulý čas.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "budúci čas.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "pád.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "stupňovanie.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "zvratné sloveso.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "gratulujem!",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aký bol test?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ťažký, ale urobil som ho.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Koľko si mal bodov?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Sedemnásť z dvadsiatich.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "To je veľmi dobre!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno. Najťažšia bola gramatika.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A čo dialóg?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ten bol ľahký. Teším sa na B1!",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

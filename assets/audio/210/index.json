@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "príroda.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "hora. les.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "jazero. rieka.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "výlet. túra.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "mapa.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "stan. spacák.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "počasie.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "slnečno. prší.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "Tatry.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "hrad. jaskyňa.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "fotografovať.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "opekať.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ideme v sobotu na výlet?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno! Kam? Do Tatier?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno. Aké bude počasie?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Bude slnečno, 20 stupňov.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Čo si vezmeme?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mapu, vodu a spacák.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Budeme opekať pri jazere?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno! A budeme fotografovať hory.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

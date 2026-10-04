@@ -1,0 +1,57 @@
+{
+ "slow": [
+  {
+   "text": "test.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "správna odpoveď.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "uspieť.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "gratulujeme.",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Časť A. Vyberte správnu odpoveď.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "1. Keby som mal čas, išiel by som s tebou.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "2. Povedzte mi pravdu!",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "3. Učím sa, aby som uspel.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Časť B. Kam chce ísť Peter? Prečo?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Časť C. Napíšte 5 viet: Môj názor na šport.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Koniec testu. Gratulujeme!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

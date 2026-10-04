@@ -1,0 +1,77 @@
+{
+ "slow": [
+  {
+   "text": "Obchod. Pokladňa.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Cena. Zľava.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Euro. Cent.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Mlieko. Syr. Maslo.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Jablko. Zemiaky.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Lacný. Drahý.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Koľko stojí?",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Jeden. Dva. Tri. Päť. Desať. Dvadsať. Sto.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "Platím kartou.",
+   "file": "slow-09.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Koľko stojí syr?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Kilo stojí osem eur.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Prosím si pol kila.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nech sa páči. Ešte niečo?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, liter mlieka a chlieb.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Spolu päť eur dvadsať.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Platím kartou. Ďakujem!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

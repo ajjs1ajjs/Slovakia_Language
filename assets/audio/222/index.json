@@ -1,0 +1,106 @@
+{
+ "slow": [
+  {
+   "text": "musieť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "musieť. musím. musíš. musí.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "môcť.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "môcť. môžem. môžeš. môže.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "chcieť.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "chcieť. chcem. chceš. chce.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "smieť. nesmie sa.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "vedieť.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "mať povinnosť.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "zákaz.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "povolené. zakázané.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "ihneď.",
+   "file": "slow-12.mp3"
+  },
+  {
+   "text": "prestať.",
+   "file": "slow-13.mp3"
+  },
+  {
+   "text": "začať.",
+   "file": "slow-14.mp3"
+  },
+  {
+   "text": "skúsiť.",
+   "file": "slow-15.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Musím zajtra na úrad?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, musíš. Chceš, pôjdem s tebou?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Môžeš? To by bolo super!",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Samozrejme. Kedy tam musíme byť?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "O deviatej. Nesmieme meškať.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dobre. Môžem vziať auto?",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, môžeš. Ja šoférovať neviem.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Neboj sa, chcem šoférovať.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

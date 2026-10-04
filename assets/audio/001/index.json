@@ -1,0 +1,54 @@
+{
+ "slow": [
+  {
+   "text": "Dobrý deň.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Ahoj.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Ďakujem.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Prosím.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Áno. Nie.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Volám sa Peter.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Teší ma.",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Volám sa Peter.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dobrý deň! Volám sa Olena. Teší ma.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Teší ma. Odkiaľ ste?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Som z Ukrajiny.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

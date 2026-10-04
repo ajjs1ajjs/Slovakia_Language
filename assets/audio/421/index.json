@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Letenka. Spiatočná. Ubytovanie. Cestovné poistenie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Pas. Vízum. Odlet. Prílet. Prestup. Zážitok.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Pamiatky. Sprievodca. Meškanie. Zrušiť. Presunúť.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kde je odlet do Ríma? Mešká?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Odlet je o hodinu, gate B12. Zatiaľ bez meškania.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Letíme na Maltu so spiatočnou letenkou a poistením.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ak let zrušia, presuniem ho na zajtra. Šťastnú cestu!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

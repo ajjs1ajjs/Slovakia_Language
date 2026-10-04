@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Prevencia. Liečba. Očkovanie. Imunita. Stres. Vyhorenie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Spánok. Strava. Pohyb. Diagnóza. Vedľajšie účinky.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Pohotovosť. Práceneschopnosť.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Som za očkovanie, chráni slabších.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Obávam sa vedľajších účinkov.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Podľa lekárov sú účinky mierne a prejdú.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mali by ste obmedziť cukor a pridať pohyb.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Neodkladajte preventívnu prehliadku!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

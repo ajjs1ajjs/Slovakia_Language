@@ -1,0 +1,59 @@
+{
+ "slow": [
+  {
+   "text": "prenájom.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "kaucia.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "nájomné.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "energie.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "zmluva.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Koľko stojí nájomné?",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Byt je voľný od prvého.",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Volám ohľadom inzerátu na 2-izbový byt.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "600 eur mesačne plus 150 energie. Kaucia sú 2 nájmy.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je byt zariadený?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Môžeme si dohodnúť obhliadku zajtra?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Zmluvu podpíšeme po obhliadke.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

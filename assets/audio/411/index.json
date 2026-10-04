@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Sťažnosť. Reklamácia. Chyba. Vada. Požadovať. Náhrada.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Vrátenie peňazí. Lehota. Bezodkladne. Týmto žiadam.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "V opačnom prípade. Príloha: doklad. Vybavenie.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Vážený pán vedúci, týmto podávam sťažnosť na práčku značky XY.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Požadujem výmenu tovaru alebo vrátenie peňazí v lehote 14 dní.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "V opačnom prípade sa obrátim na Slovenskú obchodnú inšpekciu.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Verím, že vec vyriešime dohodou. S pozdravom, Olena Kovalenko.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

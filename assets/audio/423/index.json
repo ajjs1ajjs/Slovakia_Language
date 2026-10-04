@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Právo. Povinnosť. Zákon. Pobyt. Povolenie. Zmluva.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Nájom. Podnájom. Výpoveď. Pokuta. Odvolať sa.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Bezplatná právna pomoc. Úrad. Cudzinecká polícia. Dane.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Cudzinec má povinnosť nahlásiť zmenu adresy do piatich pracovných dní.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Zamestnanec má právo na odvolanie do 15 dní.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je zakázané pracovať bez povolenia.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Čítajte, čo podpisujete, a pýtajte sa skôr, než bude neskoro.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "voľný čas.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "hobby. záľuba.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "čítať.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "športovať.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "bicykel.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "prechádzka.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "kino. divadlo.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "stretnúť sa.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "baviť sa.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "hudba.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "variť.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "cez víkend.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Čo robíš cez víkend?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Budem oddychovať a čítať.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Aké máš hobby?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Rád bicyklujem a varím.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Stretneme sa v sobotu?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno! Pôjdeme na prechádzku?",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dobre. Budem čakať pri jazere.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Teším sa!",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

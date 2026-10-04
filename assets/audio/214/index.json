@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "pozvánka.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "oslava. narodeniny.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "pozvať.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "prísť.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "doniesť.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "darček.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "torta.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "blahoželať. gratulovať.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "všetko najlepšie!",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "tešiť sa.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "bohužiaľ. rád.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "svadba.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ahoj, pozývam ťa na oslavu!",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Kedy?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "V sobotu o šiestej u nás.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Rád prídem! Čo mám doniesť?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nič, len dobrú náladu.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Donesiem tortu.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Super! Teším sa na teba.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ja tiež. Všetko priprav!",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

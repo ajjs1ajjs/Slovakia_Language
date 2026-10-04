@@ -1,0 +1,46 @@
+{
+ "slow": [
+  {
+   "text": "svadba.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "ženích.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "nevesta.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Pozývame vás na svadbu.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Tešíme sa na vás.",
+   "file": "slow-05.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "S úctou si vás dovoľujeme pozvať na svadbu.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Sobáš sa bude konať 15. júna o 14:00.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Prosíme o potvrdenie účasti do 1. mája.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Gratulujeme novomanželom!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

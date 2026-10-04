@@ -16,6 +16,13 @@
 - `04_B2-Sloboda/` — Розділ 4. B2 Свобода дискусії (30 лекцій)
 - `assets/foto/` — фото-асоціації
 - `assets/audio-scripts/` — тексти для озвучки (TTS / диктор)
+- `assets/audio/<ID>/` — MP3: slow-XX (повільно, Viktoria) + dialog-XX (діалог, Lukáš/Viktoria) + index.json
+- `assets/qr/<ID>/` — QR-PNG до кожного MP3 (для друку/PDF; з `--base-url` кодують повний URL)
+- `tools/generate_audio.py` — TTS: `python tools/generate_audio.py --lesson 001` або `--all [--base-url ...]`
+- `tools/build_index.py` — індекс лекцій для PWA (`pwa/lessons.json`)
+- `pwa/` — застосунок: каталог 111 лекцій, 🔊 озвучка (MP3, fallback Web Speech sk-SK),
+  офлайн (Service Worker), кнопка 🖨 PDF (друк), встановлення на телефон.
+  Запуск: `python -m http.server 8080` → http://localhost:8080/pwa/
 
 Шаблон лекції: див. `_SABLONA-LEKCIE.md`
 Курикулум детально: див. `KURIKULUM.md`

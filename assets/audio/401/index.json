@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Názor. Argument. Súhlasiť. Nesúhlasiť. Presvedčiť. Dôkaz.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Hľadisko. Na jednej strane. Na druhej strane. Podľa mňa.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Dovoliť si tvrdiť. Kompromis.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Podľa mňa by firma mala ponechať home office.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Súhlasím, navyše ľudia sú menej v strese.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nesúhlasím. Z môjho hľadiska tím stráca kontakt.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dovolím si tvrdiť, že hybrid je najlepší kompromis.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Z toho vyplýva, že sa zhodneme na hybride.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

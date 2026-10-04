@@ -1,0 +1,69 @@
+{
+ "slow": [
+  {
+   "text": "Autobus. Električka. Vlak.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Lístok. Stanica. Zastávka.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Cestujem. Ideš. Ide.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Príchod. Odchod.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Prosím si lístok.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Kedy ide električka?",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Na čas. Meškanie.",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prosím si lístok do centra.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Jednosmerný alebo spiatočný?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Jednosmerný. Koľko stojí?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Jedno euro.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kedy ide električka?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "O päť minút. Nástupište dva.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

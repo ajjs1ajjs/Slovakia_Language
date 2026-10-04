@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "sťažnosť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "reklamácia.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "pokazený.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "záruka.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Žiadam výmenu.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Tu je doklad.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Chcel by som podať reklamáciu.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Kúpil som kanvicu, ale je pokazená.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ospravedlňujeme sa. Ponúkame výmenu alebo vrátenie peňazí.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Prosím o písomné potvrdenie.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "slow": [
+  {
+   "text": "Tykanie. Vykanie. Vážený pán. Vážená pani. S pozdravom.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Dovolím si. Žiadosť. Obraciam sa na vás. V prílohe.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Čauko! Maj sa! Kamoš. Kamoška. Pohoda. Vybaviť.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Vážený pán riaditeľ, dovoľujem si požiadať o dovolenku. S pozdravom, Ján Novak.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Čauko, beriem si voľno v piatok! Maj sa!",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Obraciam sa na vás so žiadosťou. V prílohe zasielam formulár.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "slow": [
+  {
+   "text": "deň. [pauza] deň.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "ďakujem. [pauza] ďakujem.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "dieťa. [pauza] dieťa.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "divadlo. [pauza] divadlo.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "ticho. [pauza] ticho.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "chuť. [pauza] chuť.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "chlieb. [pauza] chlieb.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "kôň. [pauza] kôň.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "posteľ. [pauza] posteľ.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "ľudia. [pauza] ľudia.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "džús. [pauza] džús.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "medzi. [pauza] medzi.",
+   "file": "slow-12.mp3"
+  },
+  {
+   "text": "Páry: di — dí. [pauza] ti — tí. [pauza] ni — ní. [pauza] li — lí.",
+   "file": "slow-13.mp3"
+  },
+  {
+   "text": "Deti idú do divadla. [pauza] Deti idú do divadla.",
+   "file": "slow-14.mp3"
+  },
+  {
+   "text": "Ticho, prosím! [pauza] Ticho, prosím!",
+   "file": "slow-15.mp3"
+  },
+  {
+   "text": "Kde je posteľ? [pauza] Kde je posteľ?",
+   "file": "slow-16.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Čo je to „ď\"?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "To je mäkké „ď\". Ako v slove „deň\".",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A „ticho\"?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno! Píšeme „ti\", čítame „ti\".",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A čo je „džús\" a „chlieb\"?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Džús je šťava. Chlieb je chlieb. Dobrú chuť!",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem! Ľudia sú milí.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, ľudia v Bratislave sú milí.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

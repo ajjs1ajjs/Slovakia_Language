@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "úrad.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "doklad. občiansky preukaz.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "povolenie na pobyt.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "formulár. žiadosť.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "vyplniť. podpísať.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "pečiatka.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "rad. poradie.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "okienko. kancelária.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "poplatok.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "platnosť.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "kópia.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "potvrdenie.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, potrebujem povolenie na pobyt.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Vyplňte tento formulár, prosím.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kde ho podpíšem?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dole, tu. Máte kópiu pasu?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, tu je.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Poplatok je desať eur.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kedy bude doklad hotový?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "O dva týždne. Tu máte potvrdenie.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

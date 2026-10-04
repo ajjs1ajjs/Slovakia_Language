@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "predpoveď.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "zamračené.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "búrka.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "vyčasí sa.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Vezmi si dáždnik.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Bude okolo 20 stupňov.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aká je predpoveď na víkend?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "V sobotu zamračené s prehánkami, 15 stupňov.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Keď bude pršať, ostaneme doma.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "A keď sa vyčasí, pôjdeme na výlet.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

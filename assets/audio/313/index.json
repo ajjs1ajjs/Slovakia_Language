@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "že.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "keď.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "lebo.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "aby.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Myslím, že máš pravdu.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Učím sa, aby som vedel.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prečo si neprišiel?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Lebo som musela ísť k lekárovi.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Volala som ti, aby si to vedel.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, prídem skôr, aby sme stihli začiatok.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

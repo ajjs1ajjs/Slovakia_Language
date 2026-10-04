@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "predstavenie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "vstupenka.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "titulky.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "herec.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Dva lístky, prosím.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Odporúčam ti túto komédiu.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Máte ešte vstupenky na dnešné predstavenie?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, ostali miesta v 5. rade.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Napínavý do konca! Herečka bola skvelá.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ľudia dlho tlieskali, však?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

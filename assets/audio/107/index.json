@@ -1,0 +1,69 @@
+{
+ "slow": [
+  {
+   "text": "Pondelok. Utorok. Streda. Štvrtok. Piatok. Sobota. Nedeľa.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Dnes. Zajtra. Včera.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Koľko je hodín?",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Je pol tretej.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "O desiatej.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Nie je sobota.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Nemám čas.",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prosím, koľko je hodín?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Je pol tretej.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem. Kedy máme stretnutie?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Zajtra o desiatej.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "V piatok nie?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie, v piatok nemám čas.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dobre, zajtra o desiatej!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

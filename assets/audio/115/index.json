@@ -1,0 +1,69 @@
+{
+ "slow": [
+  {
+   "text": "Stanica. Nástupište.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Vlak. Odchod. Príchod.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Lístok. Spiatočný.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Kedy odchádza vlak?",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Priamy. S prestupom.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Cestujem do Košíc.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Vlak je na čas.",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prosím, kedy odchádza vlak do Košíc?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "O pol jedenástej, nástupište tri.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je priamy alebo s prestupom?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Priamy, bez prestupu.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Prosím si spiatočný lístok.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dvanásť eur. Vlak je na čas.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

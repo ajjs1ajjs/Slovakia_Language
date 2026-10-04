@@ -1,0 +1,47 @@
+{
+ "slow": [
+  {
+   "text": "Prostredie. Znečistenie. Triediť odpad. Recyklovať.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Klimatická zmena. Obnoviteľný zdroj. Uhlíková stopa.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Ochrana prírody. Národný park. Zakázať. Obmedziť.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Dobrovoľník. Udržateľný.",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Navrhujem zakázať autá v centre mesta.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Som presvedčený, že je to správne, ale čo obchody?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ak zavedieme elektrobusy, ľudia autá nepotrebujú.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mám dáta. Štúdia z Viedne 2023.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Súhlasím. A dobrovoľníci upracú park v sobotu!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

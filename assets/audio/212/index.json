@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "víkend.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "oddychoval som.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "navštívil som.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "stretol som.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "kúpil som.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "varil som.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "pozeral som.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "hral som.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "smial som sa.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "nikde. nikto.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "spolu.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "skvelý.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aký bol tvoj víkend?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Skvelý! Navštívil som brata.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Čo ste robili spolu?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Varili sme a hrali sme futbal.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A večer?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Pozerali sme film a smiali sme sa.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kúpil si niečo?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie, nič som nekúpil. Nemal som čas.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

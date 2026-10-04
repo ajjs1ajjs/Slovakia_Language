@@ -1,0 +1,47 @@
+{
+ "slow": [
+  {
+   "text": "Byť v kaši. Mať muchy. Liezť na nervy. Mať maslo na hlave.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Lámať si hlavu. Mať plné zuby. Hodiť uterák do ringu.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Spať ako drevo. Šťastie v nešťastí. Trefa do čierneho.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Držať palce. Stáť za to.",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Som v kaši, nestihol som deadline.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Lámem si hlavu nad tou úlohou.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Mám plné zuby jeho výhovoriek.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nehádž uterák do ringu, ešte to zachrániš.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Drž mi palce, zajtra mám pohovor!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

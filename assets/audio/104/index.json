@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Byt. Dom.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Izba. Kuchyňa. Kúpeľňa.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Posteľ. Stôl. Stolička.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Skriňa. Okno. Dvere.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Bývam. Bývaš. Bývajú.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Hľadám byt.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Kde bývaš?",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Môj byt je malý.",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kde bývaš?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Bývam v centre, na Hlavnej ulici.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Aký je tvoj byt?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Môj byt je malý, ale svetlý.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Máš výťah?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie, bývam na prvom poschodí.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "To je blízko!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

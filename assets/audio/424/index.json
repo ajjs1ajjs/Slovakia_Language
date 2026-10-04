@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Mzda. Hrubá. Čistá. Výplatná páska. Daň. Odvody.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Inflácia. Hypotéka. Úrok. Účet. Sporenie. Rozpočet.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Zdražieť. Zlacnieť. Minimálna mzda. Brigáda. Dôchodok.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Hrubá mzda je 1500 eur, čistá asi 1150 po odvodoch.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ceny zdraželi o 8 %, hypotéky majú úrok okolo 4 %.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Chcem si založiť účet a sporiť.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Stačí výpis z účtu za tri mesiace.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

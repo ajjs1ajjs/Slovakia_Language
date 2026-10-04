@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "volám sa Olena. [pauza] volám sa Olena.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "teší ma. [pauza] teší ma.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "som z Ukrajiny. [pauza] som z Ukrajiny.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "bývam v Bratislave. [pauza] bývam v Bratislave.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "hovorím po slovensky. [pauza] hovorím po slovensky.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "hovorím trochu. [pauza] hovorím trochu.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "rozumiem. [pauza] rozumiem. nerozumiem. [pauza] nerozumiem.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "odkiaľ ste? [pauza] odkiaľ ste? odkiaľ si? [pauza] odkiaľ si?",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "kde bývate? [pauza] kde bývate?",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "manžel. manželka. [pauza] manžel. manželka.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "deti. rodina. [pauza] deti. rodina.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "pracujem. študujem. [pauza] pracujem. študujem.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ahoj! Volám sa Jana. A ty?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ahoj, Jana! Volám sa Olena. Teší ma.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Teší ma, Olena. Odkiaľ si?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Som z Ukrajiny, z Kyjeva. A ty?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ja som zo Slovenska. Bývam v Bratislave. A kde bývaš ty?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Bývam v Bratislave. Hovorím po slovensky trochu.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "To nevadí. Rozumieš dobre?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Trochu rozumiem, ale veľa nerozumiem.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

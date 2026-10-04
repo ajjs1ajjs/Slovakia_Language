@@ -1,0 +1,48 @@
+{
+ "slow": [
+  {
+   "text": "Vysoká škola. Prednáška. Seminár. Skúška. Zápočet.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Bakalárka. Diplomovka. Štipendium. Prihláška.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Študijné oddelenie. Internát. Vedúci práce. Obhájiť.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, chcela by som podať prihlášku na magisterské štúdium.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Máte už bakalársky diplom?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, obhájila som ho v júni v Kyjeve.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Budete potrebovať nostrifikáciu.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Môžem požiadať o internát a štipendium?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Samozrejme, žiadosť podajte do konca mája.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

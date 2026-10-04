@@ -1,0 +1,51 @@
+{
+ "slow": [
+  {
+   "text": "úvod.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "jadro.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "záver.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Podľa môjho názoru.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Zhrnuté a podčiarknuté.",
+   "file": "slow-05.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "V dnešnej dobe veľa ľudí diskutuje o živote v meste a na dedine.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Podľa môjho názoru je lepší život v menšom meste.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Na jednej strane je tam dobrá doprava a práca.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Na druhej strane chýba veľké divadlo.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Som presvedčený, že je to najlepšia voľba pre mňa.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

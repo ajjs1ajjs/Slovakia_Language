@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "banka. bankomat.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "účet.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "peniaze. hotovosť.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "karta.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "PIN-kód.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "vybrať. vložiť.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "prevod. platba.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "poplatok.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "otvoriť účet.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "kurz. euro.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "pokladňa.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "dlh.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, chcem si otvoriť účet.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Máte doklad?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, pas a povolenie na pobyt.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Podpíšte sa tu, prosím.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Aký je poplatok?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Účet je zadarmo, karta dve eurá mesačne.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Môžem vybrať hotovosť tu?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, v pokladni alebo v bankomate.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

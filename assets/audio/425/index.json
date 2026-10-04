@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Veda. Vedec. Výskum. Objav. Experiment. Pokus.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Hypotéza. Dôkaz. Vzorka. Graf. Trend.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Výrazne. Mierne. Stúpať. Klesať. Zistenie. Publikovať.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Graf ukazuje, že teploty výrazne stúpajú.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Vedci publikovali zistenie na vzorke 500 študentov.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Hypotéza sa potvrdila experimentom.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Spánok nie je strata času, ale podmienka učenia.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

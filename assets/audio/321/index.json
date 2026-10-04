@@ -1,0 +1,46 @@
+{
+ "slow": [
+  {
+   "text": "prostredie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "triediť odpad.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "recyklovať.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Čím viac triedime, tým menej odpadu.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Chráňme prírodu!",
+   "file": "slow-05.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prečo triedime odpad?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Lebo čím viac triedime, tým menej ide na skládku.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nosím plátennú tašku.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Zbierali sme odpad, bolo nás dvadsať.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

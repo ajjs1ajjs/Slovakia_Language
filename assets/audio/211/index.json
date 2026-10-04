@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "včera. predvčerom.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "minulý týždeň.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "bol som.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "robil som.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "išiel som.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "videl som.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "jedol som.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "spal som.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "hovoril som.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "potom. najprv.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "zrazu.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "nakoniec.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Čo si robil včera?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Najprv som pracoval, potom som išiel domov.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A večer?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Jedol som večeru a hovoril som s mamou.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Videla si ten film?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, videla som ho minulý týždeň.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A potom si spala?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, nakoniec som išla spať o desiatej.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

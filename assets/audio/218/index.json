@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "ubytovanie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "hotel. penzión.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "izba. posteľ.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "rezervácia.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "recepcia. kľúč.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "raňajky v cene.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "sprcha. uterák.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "prenájom. nájom.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "majiteľ.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "kúrenie. teplá voda.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "hluk.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "odhlásiť sa. prihlásiť sa.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, mám rezerváciu na meno Koval.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, izba číslo 5. Tu je kľúč.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Sú raňajky v cene?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, od siedmej do deviatej.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nefunguje teplá voda.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Prepáčte! Hneď to opravíme.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kedy sa mám odhlásiť?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Do desiatej, prosím.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

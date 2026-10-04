@@ -1,0 +1,98 @@
+{
+ "slow": [
+  {
+   "text": "dobrý deň. [pauza] dobrý deň.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "dobré ráno. [pauza] dobré ráno.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "dobrý večer. [pauza] dobrý večer.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "dobrú noc. [pauza] dobrú noc.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "ahoj. [pauza] ahoj. čau. [pauza] čau.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "dovidenia. [pauza] dovidenia.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "majte sa. [pauza] majte sa. maj sa. [pauza] maj sa.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "prosím. [pauza] prosím.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "ďakujem. [pauza] ďakujem. ďakujem pekne. [pauza] ďakujem pekne.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "prepáčte. [pauza] prepáčte. prepáč. [pauza] prepáč.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "nech sa páči. [pauza] nech sa páči.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "teší ma. [pauza] teší ma.",
+   "file": "slow-12.mp3"
+  },
+  {
+   "text": "Ako sa máte? [pauza] Ďakujem, dobre.",
+   "file": "slow-13.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Prepáčte, hovoríte po slovensky?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dobrý deň! Áno, trochu.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ako sa máte?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ďakujem, dobre. A vy?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Tiež dobre, ďakujem pekne. Prosím, kde je centrum?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Rovno a doprava. Nech sa páči.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem! Majte sa!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dovidenia!",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

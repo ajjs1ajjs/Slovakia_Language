@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Predavač. Zákazník.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Veľkosť. Farba.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Môžem si vyskúšať?",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Kabínka. Zrkadlo.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Je mi malé.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Beriem si ho.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Koľko stojí?",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Platím kartou.",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Hľadám sveter.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Akú veľkosť máte?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "M. Môžem si vyskúšať?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, kabínka je tam.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je mi malé. Máte väčšie?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, tu je L. Dvadsať eur.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Beriem si ho. Platím kartou.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

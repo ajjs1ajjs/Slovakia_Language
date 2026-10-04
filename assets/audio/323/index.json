@@ -1,0 +1,46 @@
+{
+ "slow": [
+  {
+   "text": "dovolenka.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "zájazd.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "rezervácia.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "V lete pôjdeme k moru.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Zarezervujem hotel s polpenziou.",
+   "file": "slow-05.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kde strávime dovolenku toto leto?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Čo keby sme išli do Chorvátska?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Hotel pri pláži, 7 nocí, 550 eur.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Výborne, rezervujeme!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

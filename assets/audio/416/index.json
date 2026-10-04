@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Región. Kraj. Nárečie. Dialekt. Západ. Stred. Východ.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Spisovne. Bryndzové halušky. Salaš. Tatry. Liptov. Šariš.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Záhorie. Rozumieť. Prízvuk.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Nesu — nesiem — nesim.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Šecko — všetko — šytko.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Som z Prešova, z východu.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Tam je salaš, halušky a najčistejšia slovenčina.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ja budem sprievodca po Šariši.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

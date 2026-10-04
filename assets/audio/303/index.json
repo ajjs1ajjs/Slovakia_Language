@@ -1,0 +1,55 @@
+{
+ "slow": [
+  {
+   "text": "porada.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "návrh.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "zápisnica.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "termín.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Navrhujem odsunúť deadline.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Môžem vás prerušiť?",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Začnime poradu. Prvý bod je nový termín projektu.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Navrhujem odsunúť deadline o týždeň.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Čo keby sme rozdelili úlohy?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Takže zhrniem: deadline posúvame, úlohy delíme.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Súhlasíme.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

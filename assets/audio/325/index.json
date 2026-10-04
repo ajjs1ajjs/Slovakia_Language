@@ -1,0 +1,51 @@
+{
+ "slow": [
+  {
+   "text": "pohovor.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "prax.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "vzdelanie.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Mám 4-ročnú prax.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Môžem nastúpiť od prvého.",
+   "file": "slow-05.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Vitajte na pohovore! Predstavte sa.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mám prax v predaji 4 roky.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Mojou silnou stránkou je komunikácia.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ozveme sa vám do týždňa.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem za príležitosť!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Kaviareň. Čašník.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Káva. Presso. Kapučíno.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Zákusok. Torta.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Prosím si presso.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Pre mňa kapučíno.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Ešte jeden čaj.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Účet, prosím.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Spolu. Zvlášť.",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Je tu voľné?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, nech sa páči.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Prosím si presso a kapučíno.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dáte si aj zákusok?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, jeden zákusok, prosím.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Chutnalo?",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, veľmi! Účet, prosím. — Spolu alebo zvlášť? — Spolu.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

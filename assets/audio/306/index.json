@@ -1,0 +1,55 @@
+{
+ "slow": [
+  {
+   "text": "strava.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "pohyb.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "spánok.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "pravidelne.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Mal by si viac oddychovať.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Cítim sa fit.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ako sa cítite? Spíte dobre?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Asi päť hodín. A pijem veľa kávy.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Mali by ste spať aspoň sedem hodín.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Začnem behať trikrát do týždňa.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Výborne! O mesiac sa cítite fit.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

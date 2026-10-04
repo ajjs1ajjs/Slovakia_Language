@@ -1,0 +1,34 @@
+{
+ "slow": [
+  {
+   "text": "Prezentácia. Úvod. Jadro. Záver. Snímka. Graf.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Prejsť k. Zhrnúť. Otázky a odpovede. Publikum. Plynulo. Presvedčivo.",
+   "file": "slow-02.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, volám sa Olena Kovalenko a dnes vám predstavím výsledky nášho projektu.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Moja prezentácia má tri časti. Najprv zhrniem východiská, potom prejdeme k jadru.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Na záver navrhnem riešenie a rada zodpoviem vaše otázky.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Prejdem k zhrnutiu výsledkov. Na tomto grafe vidíte zvýšenie predaja.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "príspevok.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "heslo.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "súkromie.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "zablokovať.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Nezdieľaj adresu!",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Nahlás ho a zablokuj odosielateľa!",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Koľko času tráviš na sieťach?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Vypínam notifikácie, aby som sa sústredila.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Daj pozor na súkromie!",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Včera mi prišiel podvodný e-mail.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

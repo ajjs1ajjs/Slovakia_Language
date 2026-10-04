@@ -1,0 +1,81 @@
+{
+ "slow": [
+  {
+   "text": "Jedlo. Pitie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Chlieb. Voda.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Polievka. Mäso.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Káva. Čaj.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Účet. Menu.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Mám. Nemám.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Chcem. Nechcem.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Prosím si kávu.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "Prosím si polievku.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "Koľko stojí?",
+   "file": "slow-10.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Prosím si menu.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nech sa páči. Dáte si polievku?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, prosím si polievku a halušky.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "A na pitie?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Prosím si vodu.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Chutné?",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, veľmi chutné! Prosím si účet.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

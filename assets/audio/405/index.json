@@ -1,0 +1,44 @@
+{
+ "slow": [
+  {
+   "text": "Vtip. Sranda. Smiať sa. Žartovať. Irónia. Slovná hračka.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Trápny. Trápas. Suchý humor. Pointa. Robím si srandu! To ma pobavilo!",
+   "file": "slow-02.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Počul si ten vtip o programátorovi?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie, daj ho sem!",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Prečo programátor nemá rád prírodu? Je tam príliš veľa bugov!",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "To ma pobavilo! Aj keď je to suchý humor.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "No výborne, zase prší! [іронічно, розтягнуто]",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Robím si srandu, si najlepší kolega.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

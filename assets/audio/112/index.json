@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Hotel. Recepcia. Izba.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Rezervácia. Objednať.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Na dve noci.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Raňajky v cene.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Chcem izbu.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Môžem platiť kartou?",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Voľný. Obsadený.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Koľko stojí noc?",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý večer! Mám rezerváciu na meno Koval.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nech sa páči. Na koľko nocí?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Na dve noci. Koľko stojí noc?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Pätdesiat eur aj s raňajkami.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dobre. Môžem platiť kartou?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno. Tu je kľúč, druhé poschodie.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem! Kedy sú raňajky?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

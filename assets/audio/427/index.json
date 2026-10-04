@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Prejav. Oslovenie. Myšlienka. Príbeh. Výzva.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Vážené dámy a páni. Dovoľte mi. Predstavte si.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Tréma. Očný kontakt. Spomaliť. Zrýchliť. Potlesk.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Vážené dámy a páni, dovoľte mi hovoriť o čase.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Predstavte si, že každý deň dostanete 86 400 eur.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Môj príbeh: pred rokom som mobil na víkend vypla.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Zistila som, že čas nie je nepriateľ.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Poďme spolu získať čas späť! Ďakujem za pozornosť. [потім оплески]",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

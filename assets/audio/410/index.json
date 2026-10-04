@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Motivačný list. Uchádzať sa o. Pozícia. Inzerát.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Spĺňať požiadavky. Prínos. Rád by som. Rada by som.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Teším sa na. K dispozícii. S úctou. Príloha.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Vážená pani personalistka, týmto sa uchádzam o pozíciu office manažérky.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Spĺňam vaše požiadavky: slovenčina B2, angličtina B1, Excel a CRM.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "V prílohe zasielam životopis a referencie.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Budem k dispozícii na osobnom stretnutí po 15. hodine.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Teším sa na vašu odpoveď. S úctou, Olena Kovalenko.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

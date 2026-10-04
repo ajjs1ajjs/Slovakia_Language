@@ -1,0 +1,77 @@
+{
+ "slow": [
+  {
+   "text": "Telefón. Číslo.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Volať. Zavolať.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "E-mail. Správa.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Napísať. Poslať.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Moje číslo je...",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Tvoje číslo je...",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Zopakujte, prosím.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Nerozumiem.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "Zavolám zajtra.",
+   "file": "slow-09.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Haló! Kto volá?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Tu Peter. Je tam Jana?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, to som ja. Aké je tvoje číslo?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Moje číslo je nula deväť, tri-päť-sedem...",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nerozumiem. Zopakujte, prosím!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Tri-päť-sedem, nula-jeden.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dobre, napíšem e-mail!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

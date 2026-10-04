@@ -1,0 +1,55 @@
+{
+ "slow": [
+  {
+   "text": "oslava.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "gratulovať.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "prípitok.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "torta.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Prajem ti všetko najlepšie!",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Na zdravie!",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Pozývame vás na oslavu v sobotu!",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mamine päťdesiate narodeniny. Príďte o 18:00.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Usaďte sa, prosím! Pripijeme si.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Na zdravie!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Gratulujeme! Bolo veselo do polnoci.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

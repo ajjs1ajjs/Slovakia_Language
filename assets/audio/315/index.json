@@ -1,0 +1,46 @@
+{
+ "slow": [
+  {
+   "text": "kompliment.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "mimochodom.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "naozaj?",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Tá farba ti pristane.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Výborne vyzeráš!",
+   "file": "slow-05.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ahoj! Výborne vyzeráš!",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Naozaj? To je milé, ďakujem!",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Mimochodom, čo nového v práci?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nabudúce poď s nami!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

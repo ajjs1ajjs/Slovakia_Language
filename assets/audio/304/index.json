@@ -1,0 +1,55 @@
+{
+ "slow": [
+  {
+   "text": "predmet.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "príloha.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "vážená pani.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "s pozdravom.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "V prílohe posielam návrh.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Prosím o odpoveď do piatka.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Vážená pani Horváthová,",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "obraciam sa na vás ohľadom zajtrajšej porady.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Navrhujem presunúť stretnutie na štvrtok o 10:00.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "V prílohe posielam aktualizovaný program.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "S pozdravom, Olena Kovalenko.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

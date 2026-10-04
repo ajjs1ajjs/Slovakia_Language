@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "veľký, väčší, najväčší.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "malý, menší, najmenší.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "dobrý, lepší, najlepší.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "zlý, horší, najhorší.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "lacný, lacnejší, najlacnejší.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "drahý, drahší, najdrahší.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "rýchly, rýchlejší, najrýchlejší.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "ako. než.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "oveľa.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "trochu.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "rovnako.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "ten istý.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ktorý telefón je lepší?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Tento je menší a lacnejší.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A ten druhý?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Je väčší, ale drahší.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ktorý je rýchlejší?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ten drahší je oveľa rýchlejší.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Tak vezmem ten lacnejší.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dobrá voľba, je najlepší v tejto cene.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

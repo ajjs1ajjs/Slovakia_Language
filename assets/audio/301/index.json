@@ -1,0 +1,59 @@
+{
+ "slow": [
+  {
+   "text": "názor.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "súhlasiť.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "nesúhlasím.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "podľa mňa.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "úprimne.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Myslím si, že máš pravdu.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Dúfam, že prídeš včas.",
+   "file": "slow-07.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Myslíš si, že nový film stojí za to?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Podľa mňa áno, je výborný.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ja si myslím, že je príliš dlhý.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Úprimne, čakal som viac akcie.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dúfam, že sa ti záver bude páčiť.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

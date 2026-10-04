@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Výstava. Predstavenie. Umelec. Umelkyňa. Dielo. Dojem.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Pôsobivý. Divadlo. Koncert. Vstupenka. Recenzia.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Nadchnúť. Sklamať.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Tak čo, aký si mala dojem?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Pôsobivé! Scéna aj kostýmy boli nádherné.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Mňa nadchla hlavne hudba.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mám pocit, že prvá polovica bola lepšia.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Napíšeš recenziu na náš blog? — Rada!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

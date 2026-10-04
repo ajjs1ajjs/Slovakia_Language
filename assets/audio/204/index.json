@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "práca. zamestnanie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "životopis.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "pohovor.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "vzdelanie.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "skúsenosť.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "zručnosť.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "pracovať ako.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "hľadať prácu.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "plat.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "pracovný čas.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "zamestnávateľ.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "nastúpiť.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, posaďte sa.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dobrý deň, ďakujem.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Aké máte vzdelanie?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mám strednú školu a kurz slovenčiny.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Aké máte skúsenosti?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Pracoval som ako kuchár tri roky.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Kedy môžete nastúpiť?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Hneď, od pondelka.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

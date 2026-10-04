@@ -1,0 +1,55 @@
+{
+ "slow": [
+  {
+   "text": "spotreba.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "poistenie.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "skúšobná jazda.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "zľava.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Koľko má najazdené?",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Dáte zľavu?",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Mám záujem o toto ojazdené auto.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Prvý majiteľ, malá spotreba.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je možná skúšobná jazda?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Cena je 9 500, so zľavou 9 000.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Beriem!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

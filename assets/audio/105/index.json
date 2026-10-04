@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Mesto. Ulica. Námestie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Kde? Kam? Odkiaľ?",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Vpravo. Vľavo. Rovno.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Banka. Pošta. Lekáreň.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Prosím, kde je banka?",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Je to ďaleko?",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Nie je ďaleko.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Idem rovno.",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prosím, kde je banka?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Banka je tam vľavo.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je to ďaleko?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie, nie je ďaleko. Päť minút.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Idem rovno a potom vľavo?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, rovno a potom vľavo.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem! Dovidenia!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Dejiny. Veľká Morava. Kráľovstvo. Vzniknúť. Samostatnosť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Československo. Rozdelenie. EÚ. Euro. Povstanie. Pamiatka.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Vládnuť. Patriť k.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "V 9. storočí tu existovala Veľká Morava.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "V roku 1918 vzniklo Československo.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "V roku 1944 vypuklo Slovenské národné povstanie.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "V roku 1993 vznikla samostatná Slovenská republika.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "V roku 2004 vstúpilo Slovensko do EÚ a v roku 2009 prijalo euro.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

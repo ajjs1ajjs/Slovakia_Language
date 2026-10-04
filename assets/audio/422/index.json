@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Zvyk. Kultúrny šok. Tolerancia. Predsudok. Pohostinnosť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Dochvíľnosť. Small talk. Privítať. Pripíť si.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Všetko najlepšie! Na zdravie! Prispôsobiť sa.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aký bol tvoj kultúrny šok na Slovensku?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Obchody zatvorené v nedeľu!",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Oproti Ukrajine sa tu večeria skôr, o šiestej.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Na zdravie! Všetko najlepšie!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Suseda mi piekla koláč, keď som bola chorá.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

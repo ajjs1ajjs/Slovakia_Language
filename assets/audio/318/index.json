@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "zápas.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "gól.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "výhra.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "fanúšik.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Vyhrali sme 2:1!",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Fandím nášmu tímu.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Bol si včera na zápase?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno! Vyhrali sme 2:1, gól padol v závere.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Rozhodca bol fér?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Poď so mnou, zlepšíš si kondíciu!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "slow": [
+  {
+   "text": "Moje mesto.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Hrad. Rieka. Most.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Park. Divadlo. Múzeum.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Páči sa mi park.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Mám rád moje mesto.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Nemám rád hluk.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Je tu hrad.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Nie je tu metro.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "Vitajte!",
+   "file": "slow-09.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Aké je tvoje mesto?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Moje mesto je krásne. Je tu hrad a rieka.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Páči sa ti tu?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, páči sa mi park. Nemám rád hluk.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je tu divadlo?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, je blízko centra.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Vitaj u nás!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

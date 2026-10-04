@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Prepáčte. Prosím vás.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Neviem. Viem.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Pomôžete mi?",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Hľadám Hlavnú ulicu.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Rovno. Doprava. Doľava.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Koľko je hodín?",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Nie je začo.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Dovidenia!",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prepáčte, prosím vás...",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno? Pomôžem vám?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Hľadám Hlavnú ulicu. Je ďaleko?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Nie, nie je ďaleko. Rovno a doprava.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A koľko je hodín, prosím?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Je trištvrte na tri.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem! Dovidenia! — Nie je začo!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

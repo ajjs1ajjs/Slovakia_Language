@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "telefonát.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "haló. prosím?",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "volať. zavolať.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "zdvihnúť.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "obsadené.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "odkaz. správa.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "nechať odkaz.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "ozvem sa.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "číslo.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "spojiť ma.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "počkajte chvíľu.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "zle počuť.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Haló, firma ABC, prosím?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dobrý deň, mohol by som hovoriť s pánom Novákom?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Bohužiaľ, teraz telefonuje. Necháte odkaz?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno. Volám sa Koval, číslo 0901 234 567.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Mohli by ste to zopakovať, zle vás počujem?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Samozrejme: 0901 234 567.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem. Pán Novák sa vám ozve.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ďakujem, dovidenia!",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

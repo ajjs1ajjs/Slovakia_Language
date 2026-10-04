@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "reštaurácia.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "jedálny lístok.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "predjedlo. hlavné jedlo.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "dezert.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "čašník. čašníčka.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "objednať si.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "účet, prosím!",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "je to výborné!",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "je to studené!",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "sprepitné.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "rezervovať stôl.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "platiť kartou. hotovosťou.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý večer, máte rezerváciu?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, stôl pre dvoch na meno Koval.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Tu je jedálny lístok.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Prosím si bryndzové halušky a pivo.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "A pre pani?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ja si dám šalát a minerálku.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Bolo výborné! Účet, prosím.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Spolu pätnásť eur. Platíte kartou?",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

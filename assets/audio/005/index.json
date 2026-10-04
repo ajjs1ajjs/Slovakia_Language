@@ -1,0 +1,141 @@
+{
+ "slow": [
+  {
+   "text": "nula. [pauza] nula.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "jeden. [pauza] jeden.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "dva. dve. [pauza] dva. dve.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "tri. [pauza] tri.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "štyri. [pauza] štyri.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "päť. [pauza] päť.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "šesť. [pauza] šesť.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "sedem. [pauza] sedem.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "osem. [pauza] osem.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "deväť. [pauza] deväť.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "desať. [pauza] desať.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "jedenásť. [pauza] jedenásť.",
+   "file": "slow-12.mp3"
+  },
+  {
+   "text": "dvanásť. [pauza] dvanásť.",
+   "file": "slow-13.mp3"
+  },
+  {
+   "text": "trinásť. [pauza] trinásť.",
+   "file": "slow-14.mp3"
+  },
+  {
+   "text": "štrnásť. [pauza] štrnásť.",
+   "file": "slow-15.mp3"
+  },
+  {
+   "text": "pätnásť. [pauza] pätnásť.",
+   "file": "slow-16.mp3"
+  },
+  {
+   "text": "šestnásť. [pauza] šestnásť.",
+   "file": "slow-17.mp3"
+  },
+  {
+   "text": "sedemnásť. [pauza] sedemnásť.",
+   "file": "slow-18.mp3"
+  },
+  {
+   "text": "osemnásť. [pauza] osemnásť.",
+   "file": "slow-19.mp3"
+  },
+  {
+   "text": "devätnásť. [pauza] devätnásť.",
+   "file": "slow-20.mp3"
+  },
+  {
+   "text": "dvadsať. [pauza] dvadsať.",
+   "file": "slow-21.mp3"
+  },
+  {
+   "text": "Počítame spolu: nula, jeden, dva, tri, štyri, päť, šesť, sedem, osem, deväť, desať.",
+   "file": "slow-22.mp3"
+  },
+  {
+   "text": "Moje meno je Olena. [pauza] Hláskujem: O-L-E-N-A.",
+   "file": "slow-23.mp3"
+  },
+  {
+   "text": "Koľko to stojí? [pauza] Koľko to stojí?",
+   "file": "slow-24.mp3"
+  },
+  {
+   "text": "Päť eur. Sedem eur. Dvanásť eur.",
+   "file": "slow-25.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň! Moje meno je Olena Kovalenko.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Hláskujte, prosím.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "O-L-E-N-A. K-O-V-A-L-E-N-K-O.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ďakujem. Telefónne číslo, prosím?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nula-deväť-jeden, päť-šesť-sedem.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Koľko to stojí?",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dvanásť eur, prosím.",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

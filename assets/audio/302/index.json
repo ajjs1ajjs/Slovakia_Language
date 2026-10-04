@@ -1,0 +1,63 @@
+{
+ "slow": [
+  {
+   "text": "výlet.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "hrad.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "jaskyňa.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "ubytovanie.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "spiatočný lístok.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "prestupovať.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Cestujem s rodinou.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Vlak meškal 10 minút.",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Kde si bol cez víkend?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Bol som s rodinou na Orave.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Oravský hrad a plavbu loďou. Bolo úžasne!",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Vlakom, spiatočný lístok stál 18 eur.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nabudúce idem s vami!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

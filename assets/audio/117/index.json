@@ -1,0 +1,81 @@
+{
+ "slow": [
+  {
+   "text": "Volám sa Olena.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Teší ma.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Odkiaľ si?",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Som z Ukrajiny.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Bývam v Bratislave.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Hovorím po slovensky.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Trochu. Dobre.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Koľko máš rokov?",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "Mám tridsať rokov.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "Dáme si kávu?",
+   "file": "slow-10.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ahoj! Volám sa Olena. A ty?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ahoj! Ja som Marek. Teší ma.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Odkiaľ si?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Som z Bratislavy. A ty?",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Som z Ukrajiny, bývam tu rok.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Hovoríš dobre po slovensky!",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ďakujem! Dáme si kávu?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

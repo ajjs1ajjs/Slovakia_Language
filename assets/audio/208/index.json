@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "pošta.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "balík.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "list. pohľadnica.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "známka.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "adresa. odosielateľ.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "príjemca.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "poslať.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "doporučene.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "dobierka.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "podacie číslo.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "doručiť.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "PSČ.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, chcem poslať balík.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Kam? Na Slovensko alebo do zahraničia?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Na Ukrajinu. Doporučene, prosím.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Napíšte adresu príjemcu sem.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ako dlho to trvá?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Asi týždeň. Tu máte podacie číslo.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Koľko platím?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Osem eur päťdesiat.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

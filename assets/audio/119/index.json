@@ -1,0 +1,73 @@
+{
+ "slow": [
+  {
+   "text": "Som. Si. Je. Sme. Ste. Sú.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Mám. Máš. Má.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Bývam. Cestujem. Pracujem.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Môj. Moja. Tvoj. Tvoja.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Prosím si kávu.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Nie je ďaleko.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "Nemám čas.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "Páči sa mi mesto.",
+   "file": "slow-08.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ahoj! Kde bývaš?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Bývam blízko centra. A ty?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Ja mám byt na Hlavnej. Koľko platíš nájom?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Mesačne päťsto!",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Dáme si kávu?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno! Prosím si kapučíno.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Teší ma! Dovidenia zajtra!",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

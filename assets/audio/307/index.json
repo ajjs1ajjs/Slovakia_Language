@@ -1,0 +1,55 @@
+{
+ "slow": [
+  {
+   "text": "správa.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "zdroj.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "hoax.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "moderátor.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Over si zdroj.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "V správach hovorili, že bude pršať.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Počul si dnešné správy?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Vraj otvoria nový most.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Treba čítať medzi riadkami a overiť informáciu.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Verejná mienka je rozdelená.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Poďme si pozrieť spravodajstvo o ôsmej.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

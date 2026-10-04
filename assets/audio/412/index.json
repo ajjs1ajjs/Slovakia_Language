@@ -1,0 +1,44 @@
+{
+ "slow": [
+  {
+   "text": "Vyjednávanie. Ponuka. Protiponuka. Podmienky. Zľava. Ústupok.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Navrhnúť. Súhlasiť s. Trvať na. Dohodnúť sa. Win-win. Zmluva.",
+   "file": "slow-02.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Navrhujem nájom 700 eur mesačne vrátane energií.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Moja protiponuka je 600.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Keby ste platili na pol roka vopred, dal by som zľavu na 650.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ak pridáte internet a parkovanie, súhlasím so 650.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Trvám na kaucii vo výške dvoch nájmov.",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dohodnuté! Kedy podpíšeme zmluvu?",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

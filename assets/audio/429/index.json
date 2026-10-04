@@ -1,0 +1,47 @@
+{
+ "slow": [
+  {
+   "text": "Zadanie. Možnosť. Čítanie s porozumením. Doplniť.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Vybrať správne. Časový limit. Body. Hodnotenie.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Hranica. Chyba z nepozornosti. Preskočiť a vrátiť sa.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Koncept. Načisto. Úspešnosť.",
+   "file": "slow-04.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Prečítajte si zadanie dvakrát, potom podčiarknite kľúčové slová.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Ak neviete, preskočte a vráťte sa na konci.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Esej píšte najprv ako koncept, potom načisto.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Časový limit je 60 minút. Hranica úspešnosti je 60 percent.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Držím vám palce!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

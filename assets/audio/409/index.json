@@ -1,0 +1,43 @@
+{
+ "slow": [
+  {
+   "text": "Pohovor. Životopis. Silné stránky. Slabé stránky. Skúsenosti.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Platové očakávania. Nástup. Pracovná náplň.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Výpovedná lehota. Uchádzač. Personalista. Spätná väzba.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, vitajte na pohovore. Predstavte sa, prosím.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Tri roky pracujem ako office manažérka.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Medzi moje silné stránky patrí komunikácia a zodpovednosť.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Predstavujem si 1400 eur brutto, nastúpiť môžem o mesiac.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Aká je pracovná náplň a kedy dostanem spätnú väzbu?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

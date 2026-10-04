@@ -1,0 +1,55 @@
+{
+ "slow": [
+  {
+   "text": "vzťah.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "dôvera.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "zmieriť sa.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "spoľahlivý.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Rozumieme si veľmi dobre.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Dôverujeme si.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ako dlho sa poznáte s Martinom?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Už päť rokov. Rozumieme si skvele.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Málokedy sa hádame. A hneď sa zmierime.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Je úprimný a spoľahlivý.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Tak vám prajem veľa šťastia!",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  }
+ ]
+}

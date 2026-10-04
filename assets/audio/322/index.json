@@ -1,0 +1,46 @@
+{
+ "slow": [
+  {
+   "text": "zastávka.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "prestup.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "lístok.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "Kde je zastávka?",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Označte si lístok!",
+   "file": "slow-05.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Ako sa dostanem na hrad?",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Choďte električkou č. 4, smer Zlaté piesky.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Vystúpite na zastávke Most SNP.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dnes sú možné meškania pre výluku.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

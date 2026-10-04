@@ -1,0 +1,50 @@
+{
+ "slow": [
+  {
+   "text": "účet.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "úver.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "úrok.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "splátka.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "Aký je úrok?",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "Potrebujem potvrdenie o príjme.",
+   "file": "slow-06.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Zaujímam sa o úver na auto.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Akú sumu si chcete požičať?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Od 5,9 %. Splátka by bola asi 190 eur.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Žiadosť schválime do troch dní.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

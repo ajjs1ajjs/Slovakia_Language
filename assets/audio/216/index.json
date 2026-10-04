@@ -1,0 +1,94 @@
+{
+ "slow": [
+  {
+   "text": "oblečenie.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "košeľa. tričko.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "nohavice.",
+   "file": "slow-03.mp3"
+  },
+  {
+   "text": "šaty.",
+   "file": "slow-04.mp3"
+  },
+  {
+   "text": "topánky. tenisky.",
+   "file": "slow-05.mp3"
+  },
+  {
+   "text": "veľkosť.",
+   "file": "slow-06.mp3"
+  },
+  {
+   "text": "skúšobná kabínka.",
+   "file": "slow-07.mp3"
+  },
+  {
+   "text": "vyskúšať si.",
+   "file": "slow-08.mp3"
+  },
+  {
+   "text": "sedí mi. je mi malé.",
+   "file": "slow-09.mp3"
+  },
+  {
+   "text": "výpredaj. zľava.",
+   "file": "slow-10.mp3"
+  },
+  {
+   "text": "bavlna.",
+   "file": "slow-11.mp3"
+  },
+  {
+   "text": "pokladňa.",
+   "file": "slow-12.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Dobrý deň, hľadám košeľu.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Akú veľkosť máte?",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "M, prosím. Môžem si ju vyskúšať?",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Áno, kabínka je tam.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Je mi trochu malá. Máte väčšiu?",
+   "file": "dialog-05.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Tu je L. Tá vám sedí lepšie.",
+   "file": "dialog-06.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Áno, tá je dobrá. Koľko stojí?",
+   "file": "dialog-07.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Dvadsať eur, teraz so zľavou.",
+   "file": "dialog-08.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}

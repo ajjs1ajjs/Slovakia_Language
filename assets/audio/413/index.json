@@ -1,0 +1,38 @@
+{
+ "slow": [
+  {
+   "text": "Médium. Médiá. Titulok. Clickbait. Manipulácia. Hoax.",
+   "file": "slow-01.mp3"
+  },
+  {
+   "text": "Overiť fakty. Dôveryhodný. Zaujatý. Emócie. Komentár. Správa.",
+   "file": "slow-02.mp3"
+  },
+  {
+   "text": "Šíriť. Vyvrátiť.",
+   "file": "slow-03.mp3"
+  }
+ ],
+ "normal": [
+  {
+   "text": "Titulok sľubuje šok, ale v texte nie je žiadny zdroj.",
+   "file": "dialog-01.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Správa bola vyvrátená políciou ešte včera.",
+   "file": "dialog-02.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  },
+  {
+   "text": "Nešírte hoaxy, overte si fakty vo dvoch médiách.",
+   "file": "dialog-03.mp3",
+   "voice": "sk-SK-LukasNeural"
+  },
+  {
+   "text": "Kritické čítanie nie je nedôvera, je to zodpovednosť.",
+   "file": "dialog-04.mp3",
+   "voice": "sk-SK-ViktoriaNeural"
+  }
+ ]
+}
