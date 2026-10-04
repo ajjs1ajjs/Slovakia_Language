@@ -20,6 +20,7 @@
 .speak{border:1px solid var(--blue);background:#fff;color:var(--blue);border-radius:50%;width:1.9rem;height:1.9rem;cursor:pointer;margin-right:.3rem;line-height:1}
 .speak:hover{background:var(--blue);color:#fff}
 .qr{height:64px;width:64px;image-rendering:pixelated}
+.foto{max-width:100%;height:auto;border-radius:.6rem;margin:.4rem 0}
 .player{position:fixed;left:0;right:0;bottom:0;background:#0e1b33;color:#fff;display:flex;align-items:center;gap:.6rem;padding:.5rem .9rem}
 .player audio{flex:1;height:2rem}#p-play{font-size:1.2rem;background:none;border:none;color:#fff;cursor:pointer}
 .hint{color:#667085;text-align:center;margin-top:3rem}

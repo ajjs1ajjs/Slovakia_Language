@@ -1,5 +1,5 @@
 /* Offline-first: app shell + lessons.json кешуємо при install, уроки/аудіо — при читанні */
-const V = 'sk-pwa-v3';
+const V = 'sk-pwa-v4';
 const SHELL = ['./','index.html','style.css','app.js','manifest.webmanifest','icon.svg','lessons.json'];
 self.addEventListener('install', e=>{
   e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()));

@@ -41,7 +41,9 @@ function md(src){
   }
   flushT(); flushL(); return h;
 }
-function inline(s){ return esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`(.+?)`/g,'<code>$1</code>'); }
+function inline(s){ return esc(s)
+  .replace(/`assets\/foto\/([^`]+)`/g,'<br><img class="foto" loading="lazy" src="../assets/foto/$1" alt="foto-asociácia">')
+  .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/`(.+?)`/g,'<code>$1</code>'); }
 
 // --- TTS: Web Speech, голос sk-SK, повільно/нормально ---
 function pickVoice(){
