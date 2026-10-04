@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """PDF з клікабельним аудіо: текст лекції + аудіо-дошка в кінці.
-Кожна фраза на дошці: текст + QR (телефон) + клікабельна зона Play
-(Movie-анотація з вбудованим MP3 — грає по кліку в Adobe Acrobat/Reader;
-у браузерних переглядачах — скануй QR).
-MP3 зберігається ОДИН раз і ділиться між вкладенням (панель Acrobat)
-та кнопкою Play.
+Кожна фраза: текст + динамік (Sound-анотація muLaw 8000Hz — клік грає
+голос прямо у файлі в Adobe Acrobat/Reader, перевірено) + QR (телефон).
   python tools/build_pdf.py --lesson 001
   python tools/build_pdf.py --all
 Вивід: build/pdf/<ID>.pdf
@@ -91,10 +88,10 @@ def build_board(lid, items, qrdir):
     total = len(items)
     while idx < total or (idx == 0 and total == 0):
         c.setFont("Arial-B", 14)
-        c.drawString(M, H - M, "AUDIÓGRAMA — натисни ▶ Play (Adobe Acrobat Reader)")
+        c.drawString(M, H - M, "AUDIÓGRAMA — клік по динаміку = звук (Adobe Acrobat Reader)")
         c.setFont("Arial", 9)
         c.setFillGray(0.4)
-        c.drawString(M, H - M - 16, "Klikni na bunku = prehrat. QR = mobil. / Клік по клітинці = звук. QR = телефон.")
+        c.drawString(M, H - M - 16, "Klikni na repracik = zvuk. QR = mobil. / Клік по динаміку = звук. QR = телефон.")
         c.setFillGray(0)
         for r in range(ROWS):
             for col in range(COLS):
@@ -108,10 +105,14 @@ def build_board(lid, items, qrdir):
                 c.setStrokeGray(0.6)
                 c.rect(x0, y0, x1 - x0, CELL_H, stroke=1, fill=0)
                 c.setFont("Arial-B", 11)
-                c.drawString(x0 + 8, y1 - 18, f"▶ Play [{tag}]")
+                c.drawString(x0 + 8, y1 - 18, f"[{tag}]")
                 c.setFont("Arial", 10)
-                for j, wl in enumerate(textwrap.wrap(e["text"][:140], 40)[:4]):
+                for j, wl in enumerate(textwrap.wrap(e["text"][:140], 40)[:3]):
                     c.drawString(x0 + 8, y1 - 36 - j * 14, wl)
+                c.setFont("Arial", 10)
+                c.drawString(x0 + 8, y0 + 30, "[S] слухай >>>")
+                sx0, sy0 = x0 + 108, y0 + 22  # прямокутник динаміка (клік сюди)
+                placements.append((0, (sx0, sy0, sx0 + 40, sy0 + 24), e["file"]))
                 c.setFont("Arial", 8)
                 c.setFillGray(0.45)
                 c.drawString(x0 + 8, y0 + 8, e["file"])
@@ -119,7 +120,6 @@ def build_board(lid, items, qrdir):
                 p = qrdir / (Path(e["file"]).stem + ".png")
                 if p.exists():
                     c.drawImage(str(p), x1 - 72, y0 + 24, width=64, height=64)
-                placements.append((0, (x0, y0, x1, y1), e["file"]))
                 idx += 1
             if idx >= total:
                 break
@@ -163,61 +163,49 @@ def lesson_pdf(lid: str, md_path: Path):
 
     w = PdfWriter()
     w.append(PdfReader(str(content_path)))
-    adir = ROOT / "assets" / "audio" / lid
+    udir = ROOT / "build" / "wav8000" / lid
+    if items and not udir.exists():
+        import subprocess
+        subprocess.run([sys.executable, str(ROOT / "tools" / "make_ulaw.py"),
+                        "--lesson", lid], check=True)
     qrdir = ROOT / "assets" / "qr" / lid
-    specs = {}  # fname -> filespec ref (один потік MP3 на всі використання)
+    nplay = 0
     if items:
         board_path, placements = build_board(lid, items, qrdir)
         w.append(PdfReader(str(board_path)))
-        for f in adir.glob("*.mp3"):
-            stream = DecodedStreamObject()
-            stream.set_data(f.read_bytes())
-            stream.update({NameObject("/Type"): NameObject("/EmbeddedFile")})
-            sref = w._add_object(stream)
-            fs = DictionaryObject({
-                NameObject("/Type"): NameObject("/Filespec"),
-                NameObject("/F"): TextStringObject(f"{lid}/{f.name}"),
-                NameObject("/EF"): DictionaryObject({NameObject("/F"): sref}),
-            })
-            specs[f.name] = w._add_object(fs)
-        # дерево вкладень (панель Acrobat)
-        names = ArrayObject()
-        for fn in sorted(specs):
-            names += [TextStringObject(f"{lid}/{fn}"), specs[fn]]
-        w._root_object[NameObject("/Names")] = DictionaryObject({
-            NameObject("/EmbeddedFiles"): DictionaryObject({NameObject("/Names"): names})})
-        # клікабельні зони Play (Movie-анотації)
-        nplay = 0
+        # динаміки: Sound-анотації з muLaw 8000Hz (перевірено в Acrobat: S2 = голос)
         for bpage, rect, fn in placements:
-            if fn not in specs:
+            u = udir / (fn + ".ulaw")
+            if not u.exists():
                 continue
+            stream = DecodedStreamObject()
+            stream.set_data(u.read_bytes())
+            stream.update({NameObject("/Type"): NameObject("/Sound"),
+                           NameObject("/R"): NumberObject(8000),
+                           NameObject("/C"): NumberObject(1),
+                           NameObject("/B"): NumberObject(8),
+                           NameObject("/E"): NameObject("/muLaw")})
+            sref = w._add_object(stream)
             x0, y0, x1, y1 = rect
             ann = DictionaryObject({
                 NameObject("/Type"): NameObject("/Annot"),
-                NameObject("/Subtype"): NameObject("/Movie"),
+                NameObject("/Subtype"): NameObject("/Sound"),
                 NameObject("/Rect"): ArrayObject([NumberObject(int(x0)), NumberObject(int(y0)),
                                                  NumberObject(int(x1)), NumberObject(int(y1))]),
-                NameObject("/Border"): ArrayObject([NumberObject(0)] * 3),
-                NameObject("/T"): TextStringObject(f"Play: {fn}"),
-                NameObject("/Movie"): DictionaryObject({
-                    NameObject("/F"): specs[fn],
-                    NameObject("/Poster"): BooleanObject(True)}),
+                NameObject("/T"): TextStringObject(f"Zvuk: {fn}"),
+                NameObject("/Sound"): sref,
             })
             w.add_annotation(n_content + bpage, ann)
             nplay += 1
-    else:
-        nplay = 0
     out = OUT / f"{lid}.pdf"
     OUT.mkdir(parents=True, exist_ok=True)
     with open(out, "wb") as fh:
         w.write(fh)
     back = PdfReader(str(out))
-    got = len(getattr(back, "attachments", {}) or {})
-    movies = sum(1 for p in back.pages for a in (p.get("/Annots") or [])
-                 if str(a.get_object().get("/Subtype")) == "/Movie")
-    print(f"[{lid}] pdf={out.stat().st_size//1024}KB mp3={len(specs)} play={nplay} back_attach={got} back_play={movies}")
-    assert got == len(specs), f"[{lid}] attachments mismatch!"
-    assert movies == nplay, f"[{lid}] movie annots mismatch!"
+    sounds = sum(1 for p in back.pages for a in (p.get("/Annots") or [])
+                 if str(a.get_object().get("/Subtype")) == "/Sound")
+    print(f"[{lid}] pdf={out.stat().st_size//1024}KB zvukov={nplay} back_play={sounds}" + ("" if nplay else " (без аудіо: тест)"))
+    assert sounds == nplay, f"[{lid}] sound annots mismatch!"
 
 def collect():
     out = []

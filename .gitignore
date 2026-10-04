@@ -1,5 +1,7 @@
 # Slovakia_Language — курс словацької 0 → B2
-# Ігноруємо тільки згенероване/тимчасове. Контент (md/txt) і PWA — у git.
+# Ігноруємо тільки згенероване/тимчасове. Контент (md/txt/foto/audio) і PDF — у git.
+build/tmp/
+build/wav8000/
 
 node_modules/
 dist/
