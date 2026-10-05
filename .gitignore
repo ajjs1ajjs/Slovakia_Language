@@ -2,6 +2,8 @@
 # Ігноруємо тільки згенероване/тимчасове. Контент (md/txt/foto/audio) і PDF — у git.
 build/tmp/
 build/wav8000/
+build/wav22050/
+build/Slovak-0-B2-full.pdf
 
 node_modules/
 dist/

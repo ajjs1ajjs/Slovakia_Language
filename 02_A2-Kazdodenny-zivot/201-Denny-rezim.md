@@ -47,7 +47,7 @@
 8. — Večeriam, oddychujem a idem spať o desiatej. [ˈvɛtʃɛrɪam ˈɔddixujɛm a ˈiɟɛm spac ɔ ˈɟɛsɪatɛj] — Вечеряю, відпочиваю і лягаю о десятій.
 
 ### 5. VÝSLOVNOSŤ
-- `vstávať [fstaːvat ger]` — v на початку оглушується → [ф].
+- `vstávať [ˈfstaːvac]` — v на початку оглушується → [ф].
 - Довгота: `á` в `vstávam` тягнемо.
 - Наголос завжди на 1-й склад: `RA-ňaj-ky`, `VE-če-ra`.
 - Audio-script: `assets/audio-scripts/201.txt`

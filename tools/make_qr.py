@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Перегенерація ТІЛЬКИ QR-PNG (без TTS) з новим base-url для хостингу.
+"""DEPRECATED: QR виведено з продукту (лишили тільки клік-звук у PDF).
+Залишено про запас: перегенерація ТІЛЬКИ QR-PNG (без TTS) з новим base-url.
   python tools/make_qr.py --base-url https://USER.github.io/REPO/audio
 Без --base-url QR кодують відносний шлях audio/<ID>/<file>."""
 import argparse, json
@@ -15,7 +16,7 @@ if __name__ == "__main__":
     n = 0
     for idx in sorted((ROOT / "assets" / "audio").glob("*/index.json")):
         lid = idx.parent.name
-        for e in sum(([x for x in json.loads(idx.read_text(encoding="utf-8")).values()], []):
+        for e in sum([x for x in json.loads(idx.read_text(encoding="utf-8")).values()], []):
             url = f"{a.base_url.rstrip('/')}/{lid}/{e['file']}" if a.base_url else f"audio/{lid}/{e['file']}"
             out = ROOT / "assets" / "qr" / lid / (Path(e["file"]).stem + ".png")
             out.parent.mkdir(parents=True, exist_ok=True)

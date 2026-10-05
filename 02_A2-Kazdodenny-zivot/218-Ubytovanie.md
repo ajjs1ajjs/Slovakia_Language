@@ -31,7 +31,7 @@
 Приклади:
 1. Ubytujem sa dnes. [ˈubitujɛm sa ˈdnɛs] — Заселюсь сьогодні.
 2. Prihlásime sa na recepcii. [ˈpriɦlaːsimɛ sa na ˈrɛtsɛptsɪi] — Зареєструємось на рецепції.
-3. Nesťažujem sa, izba je dobrá. [ˈnɛscаʒujɛm sa] — Не скаржусь, кімната добра.
+3. Nesťažujem sa, izba je dobrá. [ˈnɛscaʒujɛm sa] — Не скаржусь, кімната добра.
 
 ### 4. DIALÓG: Na recepcii
 1. — Dobrý deň, mám rezerváciu na meno Koval. [ˈdɔbriː ɟɛɲ maːm ˈrɛzɛrvaːtsɪu na ˈmɛnɔ ˈkɔval] — Добрий день, маю бронь на Коваль.
