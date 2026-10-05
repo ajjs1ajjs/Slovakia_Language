@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-"""PDF з клікабельним аудіо: текст лекції + аудіо-дошка в кінці.
-Кожна фраза: текст + динамік (Sound-анотація muLaw 8000Hz — клік грає
-голос прямо у файлі в Adobe Acrobat/Reader, перевірено) + QR (телефон).
-  python tools/build_pdf.py --lesson 001
-  python tools/build_pdf.py --all
-Вивід: build/pdf/<ID>.pdf
+"""Гарний PDF курсу: текст + фото + аудіо-дошка з динаміками (PCM 22050Hz 16-bit, клік = голос).
+  python tools/build_pdf.py --lesson 001   # одна лекція
+  python tools/build_pdf.py --all          # всі лекції
+  python tools/build_pdf.py --full         # + обкладинка, зміст, закладки, весь курс одним файлом
+Вивід: build/pdf/<ID>.pdf, build/Slovak-0-B2-full.pdf
 """
 import argparse, json, re, sys, textwrap
 from pathlib import Path
@@ -12,66 +11,291 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "build" / "pdf"
 TMP = ROOT / "build" / "tmp"
+FOTO = ROOT / "assets" / "foto"
 ARIAL = Path(r"C:\Windows\Fonts\arial.ttf")
 ARIAL_B = Path(r"C:\Windows\Fonts\arialbd.ttf")
+BLUE = "#0b4ea2"
 
-# --- текстова частина (platypus), без QR-звалища ---
+LEVELS = {"00_A0-Zaklady-vymova": ("A0", "Основи вимови"),
+          "01_A1-Prezitie": ("A1", "Виживання"),
+          "02_A2-Kazdodenny-zivot": ("A2", "Щоденне життя"),
+          "03_B1-Nezavislost": ("B1", "Незалежність"),
+          "04_B2-Sloboda": ("B2", "Вільне спілкування")}
+
+# окремі рядки-сміття (джерела фото, заглушки) — пропускаємо цілком
+JUNK_LINE = re.compile(r"^(Поки фото|Unsplash|Джерело:)", re.I)
+# заголовок QR-секції (вона завжди остання — далі пропускаємо все)
+QR_HEAD = re.compile(r"^#{1,4}\s*(\d+\.\s*)?QR\b", re.I)
+# рядки всередині QR-секції
+QR_TAIL = re.compile(r"QR\s*(→|->|до|к\s*MP3)|кнопка Play|Play \(Adobe\)|для телефона|скани QR", re.I)
+
+
+def md_inline(s: str) -> str:
+    s = re.sub(r"\\([*_`#>\[\]()!\\-])", r"\1", s)  # \* -> *
+    s = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    s = re.sub(r"`([^`]+)`", r'<font backColor="#eef1f6">\1</font>', s)
+    s = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
+    s = re.sub(r"(?<!\w)\*([^*\n]+?)\*(?!\w)", r"<i>\1</i>", s)
+    return s
+
+
+def styles():
+    from reportlab.lib.styles import ParagraphStyle
+    return {
+        "h1": ParagraphStyle("h1", fontName="Arial-B", fontSize=18, leading=22,
+                             textColor=BLUE, spaceAfter=2),
+        "info": ParagraphStyle("info", fontName="Arial", fontSize=10, leading=14,
+                               textColor="#0b4ea2", backColor="#eaf0fb",
+                               borderPadding=(6, 6, 6), spaceAfter=8),
+        "h2": ParagraphStyle("h2", fontName="Arial-B", fontSize=13, leading=16,
+                             textColor="#ffffff", backColor=BLUE,
+                             borderPadding=(5, 6, 5), spaceBefore=12, spaceAfter=6),
+        "body": ParagraphStyle("body", fontName="Arial", fontSize=10, leading=14, spaceAfter=4),
+        "dialog": ParagraphStyle("dialog", fontName="Arial", fontSize=10, leading=14,
+                                 spaceAfter=4, leftIndent=8, borderPadding=5,
+                                 backColor="#f2f7ff"),
+        "quote": ParagraphStyle("quote", fontName="Arial", fontSize=10, leading=14,
+                                spaceAfter=4, leftIndent=12, textColor="#475467",
+                                borderPadding=(0, 0, 0, 8), borderColor=BLUE),
+        "warn": ParagraphStyle("warn", fontName="Arial", fontSize=10, leading=14,
+                               spaceAfter=4, leftIndent=12, textColor="#664d03",
+                               backColor="#fff7e0", borderPadding=(6, 6, 6)),
+        "bullet": ParagraphStyle("bullet", fontName="Arial", fontSize=10, leading=14,
+                                 spaceAfter=3, leftIndent=16, firstLineIndent=0),
+        "keyH": ParagraphStyle("keyH", fontName="Arial-B", fontSize=11, leading=14,
+                               textColor="#166534", spaceBefore=8, spaceAfter=4),
+        "key": ParagraphStyle("key", fontName="Arial", fontSize=10, leading=14,
+                              spaceAfter=3, leftIndent=16, textColor="#14532d",
+                              backColor="#eef7ee", borderPadding=(4, 4, 4)),
+        "note": ParagraphStyle("note", fontName="Arial", fontSize=9, leading=12,
+                               textColor="#667085", spaceAfter=4, leftIndent=8),
+        "foot": ParagraphStyle("foot", fontName="Arial", fontSize=9, leading=12,
+                               textColor="#667085", spaceAfter=4),
+        "caption": ParagraphStyle("caption", fontName="Arial", fontSize=9, leading=12,
+                                  textColor="#475467", alignment=1, spaceAfter=8),
+        "cell": ParagraphStyle("cell", fontName="Arial", fontSize=9, leading=12),
+        "cellH": ParagraphStyle("cellH", fontName="Arial-B", fontSize=9, leading=12,
+                                textColor="#ffffff"),
+        "cellS": ParagraphStyle("cellS", fontName="Arial", fontSize=8, leading=10),
+        "cellSH": ParagraphStyle("cellSH", fontName="Arial-B", fontSize=8, leading=10,
+                                 textColor="#ffffff"),
+    }
+
+
+def foto_flowable(fname: str, W):
+    from reportlab.platypus import Image as RLImage
+    from reportlab.lib.utils import ImageReader
+    p = FOTO / fname
+    if not p.exists():
+        return None
+    try:
+        iw, ih = ImageReader(str(p)).getSize()
+    except Exception:
+        return None
+    w = min(W, 340)
+    h = w * ih / iw
+    if h > 250:
+        h = 250
+        w = h * iw / ih
+    img = RLImage(str(p), width=w, height=h)
+    img.hAlign = "CENTER"
+    return img
+
+
+def clean_caption(cap: str) -> str:
+    cap = re.sub(r"Джерело:.*$", "", cap).strip()
+    cap = re.sub(r"Unsplash[^.!\n]*[.!\n]?", "", cap).strip()
+    cap = re.sub(r"або згенерувати AI\.?", "", cap).strip()
+    cap = re.sub(r"\s{2,}", " ", cap).strip(" —–- ,.")
+    return cap
+
+
+def col_widths(ncols: int, header, W):
+    if ncols == 2:
+        return [W * 0.30, W * 0.70]
+    if ncols == 3:
+        return [W * 0.20, W * 0.35, W * 0.45]
+    if ncols == 4:
+        if header and header[0].strip().upper() == "SK":
+            return [W * 0.20, W * 0.24, W * 0.26, W * 0.30]
+        return [W * 0.16, W * 0.28, W * 0.28, W * 0.28]
+    if ncols == 5:
+        return [W * 0.14, W * 0.24, W * 0.18, W * 0.22, W * 0.22]
+    return [W * 0.12, W * 0.22, W * 0.14, W * 0.18, W * 0.16, W * 0.18][:ncols]
+
+
 def build_story(lines, W):
     from reportlab.platypus import Paragraph, Spacer, Table, TableStyle, HRFlowable
     from reportlab.lib import colors
-    from reportlab.lib.styles import ParagraphStyle
-    st = {
-        "h1": ParagraphStyle("h1", fontName="Arial-B", fontSize=16, leading=20, spaceAfter=8),
-        "h2": ParagraphStyle("h2", fontName="Arial-B", fontSize=13, leading=16, spaceBefore=10, spaceAfter=6),
-        "body": ParagraphStyle("body", fontName="Arial", fontSize=10, leading=14, spaceAfter=4),
-        "cell": ParagraphStyle("cell", fontName="Arial", fontSize=9, leading=12),
-        "cellH": ParagraphStyle("cellH", fontName="Arial-B", fontSize=9, leading=12),
-    }
-    esc = lambda s: s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-    story, tbl, first = [], [], True
+    st = styles()
+    story, tbl = [], []
+    blue = colors.HexColor(BLUE)
+    skip_qr, in_key = False, False
+
     def flush_tbl():
-        nonlocal tbl, first
+        nonlocal tbl
         if not tbl:
             return
-        rows = [[Paragraph(f"<b>{esc(c)}</b>" if first or i == 0 else esc(c),
-                           st["cellH"] if (first or i == 0) else st["cell"]) for c in r] for i, r in
-                enumerate([[c.strip() for c in re.sub(r"^\||\|$", "", t).split("|")] for t in tbl])]
-        if len(rows[0]) > 4:
-            rows = [r[:4] for r in rows]
-        t = Table(rows, colWidths=[W * x for x in ([0.18, 0.24, 0.28, 0.30][:len(rows[0])])], repeatRows=1)
-        t.setStyle(TableStyle([("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
-                               ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#eaf0fb")),
-                               ("VALIGN", (0, 0), (-1, -1), "TOP")]))
+        data = []
+        for t in tbl:
+            cells = [c.strip() for c in re.sub(r"^\||\|$", "", t).split("|")]
+            if re.match(r"^:?-{2,}:?$", cells[0].replace(" ", "")) and all(
+                    re.match(r"^:?-{2,}:?$", c.replace(" ", "")) for c in cells):
+                continue  # рядок-розділювач --- не дані
+            data.append(cells)
+        tbl = []
+        if not data:
+            return
+        hdr, rows = data[0], data[1:]
+        n = len(hdr)
+        # 5-та колонка Audio/QR у словниках — звук живе на аудіо-дошці, колонку ховаємо
+        if n == 5 and re.search(r"audio|QR|▶|слухай", hdr[4], re.I):
+            hdr, rows = hdr[:4], [r[:4] for r in rows]
+            n = 4
+        small = n > 4
+        cs, ch = (st["cellS"], st["cellSH"]) if small else (st["cell"], st["cellH"])
+        prow = [[Paragraph("<b>" + md_inline(c) + "</b>", ch) for c in hdr]]
+        for r in rows:
+            r = (r + [""] * n)[:n]
+            prow.append([Paragraph(md_inline(c), cs) for c in r])
+        t = Table(prow, colWidths=col_widths(n, hdr, W), repeatRows=1)
+        style = [("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
+                 ("BACKGROUND", (0, 0), (-1, 0), blue),
+                 ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                 ("LEFTPADDING", (0, 0), (-1, -1), 6),
+                 ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+                 ("TOPPADDING", (0, 0), (-1, -1), 4),
+                 ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+                 ("ROWBACKGROUNDS", (0, 1), (-1, -1),
+                  [colors.white, colors.HexColor("#f6f9ff")])]
+        t.setStyle(TableStyle(style))
         story.append(t)
         story.append(Spacer(1, 6))
-        tbl, first = [], True
+
     for ln in lines:
         s = ln.strip()
+        if skip_qr:
+            continue
+        if QR_HEAD.search(s) or s.startswith("[QR") or QR_TAIL.search(s):
+            if QR_HEAD.search(s):
+                skip_qr = True  # QR-секція завжди остання
+            continue
+        if "<details" in s or "<summary" in s:
+            flush_tbl()
+            story.append(Paragraph("KĽÚČ / Ключі — перевір себе", st["keyH"]))
+            in_key = True
+            continue
+        if "</details>" in s:
+            in_key = False
+            continue
+        if JUNK_LINE.match(s):
+            continue
         if s.startswith("# "):
-            flush_tbl(); story.append(Paragraph(esc(s[2:]), st["h1"])); continue
-        if s.startswith("## ") or re.match(r"^\d+\.\s+[A-ZÁ-ŽІ-Ї]", s) and len(s) < 60 and not s.startswith(("1. —", "2. —", "3. —")):
-            flush_tbl(); story.append(Paragraph(esc(re.sub(r"^#*\s*|\d+\.\s*", "", s)), st["h2"])); continue
+            flush_tbl()
+            story.append(Paragraph(md_inline(s[2:]), st["h1"]))
+            story.append(HRFlowable(width="100%", thickness=2, color=blue, spaceAfter=6))
+            continue
+        if re.match(r"^#{2,4}\s+", s):
+            flush_tbl()
+            in_key = False
+            story.append(Paragraph(md_inline(re.sub(r"^#{2,4}\s*", "", s)), st["h2"]))
+            continue
+        if re.match(r"^\d+\.\s+[A-ZÁ-ŽІ-Ї]", s) and len(s) < 60 and "—" not in s[:20]:
+            flush_tbl()
+            story.append(Paragraph(md_inline(re.sub(r"^\d+\.\s*", "", s)), st["h2"]))
+            continue
         if re.match(r"^\|.*\|$", s):
-            if re.match(r"^\|[\s:\-|]+\|$", s):
-                first = False; continue
-            tbl.append(s); continue
+            tbl.append(s)
+            continue
         flush_tbl()
         if not s:
             continue
         if s.startswith("---"):
-            story.append(HRFlowable(width="100%")); continue
-        if re.match(r"^([-*]|\d+\.)\s", s):
-            s = "• " + re.sub(r"^([-*]|\d+\.)\s*", "", s)
-        story.append(Paragraph(esc(s), st["body"]))
+            story.append(HRFlowable(width="100%", thickness=0.5, color=colors.grey, spaceAfter=6))
+            continue
+        if re.match(r"^\*\*Úroveň:\*\*|^Úroveň:", s):
+            story.append(Paragraph(md_inline(s), st["info"]))
+            continue
+        if re.match(r"^\*\*Kľúč", s):
+            story.append(Paragraph("KĽÚČ / Ключі — перевір себе", st["keyH"]))
+            rest = re.sub(r"^\*\*Kľúč[^*]*\*\*\s*", "", s).strip()
+            if rest:
+                t = re.sub(r"^([-*]|\d+\.)\s*", "", rest)
+                story.append(Paragraph("✓  " + md_inline(t), st["key"]))
+            in_key = True
+            continue
+        if "assets/foto/" in s:
+            m = re.search(r"assets/foto/([A-Za-z0-9_.\-]+\.jpg)", s)
+            if m:
+                img = foto_flowable(m.group(1), W)
+                if img:
+                    story.append(img)
+                else:
+                    story.append(Paragraph("FOTO: " + m.group(1), st["note"]))
+                cap = clean_caption(re.sub(r"`?assets/foto/[A-Za-z0-9_.\-]+\.jpg`?\s*[—–-]?\s*", "", s).strip())
+                if cap:
+                    story.append(Paragraph(md_inline(cap), st["caption"]))
+                continue
+        if "audio-scripts/" in s:
+            story.append(Paragraph(
+                "Аудіо до цієї лекції — на останній сторінці (аудіо-дошка): "
+                "клік по динаміку в Adobe Reader.", st["note"]))
+            continue
+        if s.startswith("&gt;") or ln.strip().startswith(">"):
+            txt = re.sub(r"^&gt;|^>", "", s).strip()
+            story.append(Paragraph(md_inline(txt),
+                                   st["warn"] if txt.startswith("Увага") else st["quote"]))
+            continue
+        if re.match(r"^[—–]\s", s) or re.match(r"^\d+\.\s+[—–]", s):
+            t = re.sub(r"^\d+\.\s*", "", s)
+            story.append(Paragraph(md_inline(t), st["dialog"]))
+            continue
+        if in_key:
+            t = re.sub(r"^([-*]|\d+\.)\s*", "", s)
+            story.append(Paragraph("✓  " + md_inline(t), st["key"]))
+            continue
+        if re.match(r"^(\\?[*\-]|\d+\.)\s", s):
+            t = re.sub(r"^\\?([*\-]|\d+\.)\s*", "", s)
+            if s.startswith("\\"):
+                story.append(Paragraph(md_inline(t), st["foot"]))
+            else:
+                story.append(Paragraph("•  " + md_inline(t), st["bullet"]))
+            continue
+        story.append(Paragraph(md_inline(s), st["body"]))
     flush_tbl()
     return story, st
 
-# --- аудіо-дошка (canvas, фіксовані координати для зон Play) ---
+# --- аудіо-дошка ---
+# УВАГА: SPK_W/SPK_H — єдине джерело розміру динаміка.
+# І малюнок, і клікабельна Sound-зона беруться звідси — рухати тільки разом.
 CELL_H, COLS, ROWS, M = 170, 2, 4, 42
-def build_board(lid, items, qrdir):
-    """Малює сторінки дошки. Повертає (шлях, placements[(board_page, rect, fname)])."""
+SPK_W, SPK_H = 44, 26
+
+
+def speaker_icon(c, x0, y0):
+    from reportlab.lib import colors as _colors
+    dark = _colors.HexColor(BLUE)
+    c.setStrokeColor(_colors.HexColor("#8aa4c8"))
+    c.setFillColor(_colors.HexColor("#eaf0fb"))
+    c.rect(x0, y0, SPK_W, SPK_H, stroke=1, fill=1)
+    c.setFillColor(dark)
+    p = c.beginPath()
+    p.moveTo(x0 + 9, y0 + 6)
+    p.lineTo(x0 + 9, y0 + 20)
+    p.lineTo(x0 + 21, y0 + 13)
+    p.close()
+    c.drawPath(p, stroke=0, fill=1)
+    c.setStrokeColor(dark)
+    c.setLineWidth(1.4)
+    c.arc(x0 + 23, y0 + 8, x0 + 33, y0 + 18, startAng=300, extent=120)
+    c.arc(x0 + 23, y0 + 5, x0 + 39, y0 + 21, startAng=300, extent=120)
+    c.setLineWidth(1)
+
+
+def build_board(lid, items):
     from reportlab.pdfgen.canvas import Canvas
     from reportlab.lib.pagesizes import A4
+    from reportlab.lib import colors as _colors
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
     try:
@@ -80,18 +304,21 @@ def build_board(lid, items, qrdir):
     except Exception:
         pass
     W, H = A4
+    blue = _colors.HexColor(BLUE)
     cw = (W - 2 * M - 12) / COLS
     TMP.mkdir(parents=True, exist_ok=True)
     path = TMP / f"board-{lid}.pdf"
     c = Canvas(str(path), pagesize=A4)
-    placements, idx = [], 0
-    total = len(items)
-    while idx < total or (idx == 0 and total == 0):
+    placements, idx, total, bp = [], 0, len(items), 0
+    while idx < total:
+        bp += 1
         c.setFont("Arial-B", 14)
-        c.drawString(M, H - M, "AUDIÓGRAMA — клік по динаміку = звук (Adobe Acrobat Reader)")
+        c.setFillColor(blue)
+        c.drawString(M, H - M, f"AUDIÓGRAMA {lid} — klikni na reproduktor = zvuk")
+        c.setFillGray(0)
         c.setFont("Arial", 9)
         c.setFillGray(0.4)
-        c.drawString(M, H - M - 16, "Klikni na repracik = zvuk. QR = mobil. / Клік по динаміку = звук. QR = телефон.")
+        c.drawString(M, H - M - 16, "Pocuvaj v Adobe Acrobat Reader: klik na ikonu reproduktora.")
         c.setFillGray(0)
         for r in range(ROWS):
             for col in range(COLS):
@@ -102,47 +329,62 @@ def build_board(lid, items, qrdir):
                 y1 = H - M - 30 - r * (CELL_H + 8)
                 y0 = y1 - CELL_H
                 x1 = x0 + cw
-                c.setStrokeGray(0.6)
+                c.setStrokeColor(_colors.HexColor("#8aa4c8"))
                 c.rect(x0, y0, x1 - x0, CELL_H, stroke=1, fill=0)
+                c.setFillColor(blue)
+                c.rect(x0, y0 + CELL_H - 26, 76, 26, stroke=0, fill=1)
+                c.setFillColor(_colors.white)
                 c.setFont("Arial-B", 11)
-                c.drawString(x0 + 8, y1 - 18, f"[{tag}]")
+                c.drawString(x0 + 8, y0 + CELL_H - 19, tag)
+                c.setFillColor(_colors.black)
                 c.setFont("Arial", 10)
-                for j, wl in enumerate(textwrap.wrap(e["text"][:140], 40)[:3]):
+                for j, wl in enumerate(textwrap.wrap(e["text"][:160], 44)[:3]):
                     c.drawString(x0 + 8, y1 - 36 - j * 14, wl)
-                c.setFont("Arial", 10)
-                c.drawString(x0 + 8, y0 + 30, "[S] слухай >>>")
-                sx0, sy0 = x0 + 108, y0 + 22  # прямокутник динаміка (клік сюди)
-                placements.append((0, (sx0, sy0, sx0 + 40, sy0 + 24), e["file"]))
+                sx0, sy0 = x0 + 8, y0 + 30
+                # намальованого динаміка нема навмисно: єдиний візуал — /AP
+                # анотації (той самий прямокутник), щоб не було подвоєння
+                c.setFont("Arial", 9)
+                c.setFillGray(0.35)
+                c.drawString(sx0 + 52, sy0 + 9, "hrať / слухай")
+                assert sx0 + SPK_W <= x1 and sy0 + SPK_H <= y1, "динамік виліз за клітинку"
+                placements.append((0, (sx0, sy0, sx0 + SPK_W, sy0 + SPK_H), e["file"]))
                 c.setFont("Arial", 8)
                 c.setFillGray(0.45)
                 c.drawString(x0 + 8, y0 + 8, e["file"])
                 c.setFillGray(0)
-                p = qrdir / (Path(e["file"]).stem + ".png")
-                if p.exists():
-                    c.drawImage(str(p), x1 - 72, y0 + 24, width=64, height=64)
                 idx += 1
             if idx >= total:
                 break
+        c.setFont("Arial", 8)
+        c.setFillGray(0.5)
+        c.drawCentredString(W / 2, 24, f"Lekcia {lid} · audiodoska · {bp}")
+        c.setFillGray(0)
         c.showPage()
         if idx >= total:
             break
-    # номер сторінки дошки = кількість showPage-1; перерахуємо placements по факту
     c.save()
-    from pypdf import PdfReader
-    nb = len(PdfReader(str(path)).pages)
     per = COLS * ROWS
     fixed = [((i // per), rect, fn) for i, (_, rect, fn) in enumerate(placements)]
-    assert len(fixed) == total and (nb == (total + per - 1) // per or total == 0)
+    assert len(fixed) == total
     return path, fixed
+
+
+def lesson_title(md_path: Path) -> str:
+    for line in md_path.read_text(encoding="utf-8").splitlines():
+        if line.startswith("# "):
+            return line[2:].strip()
+    return md_path.stem
+
 
 def lesson_pdf(lid: str, md_path: Path):
     from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame
     from reportlab.lib.pagesizes import A4
+    from reportlab.lib import colors as _colors
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
     from pypdf import PdfReader, PdfWriter
     from pypdf.generic import (DictionaryObject, NameObject, TextStringObject,
-                               ArrayObject, NumberObject, BooleanObject, DecodedStreamObject)
+                               ArrayObject, NumberObject, DecodedStreamObject)
     pdfmetrics.registerFont(TTFont("Arial", str(ARIAL)))
     pdfmetrics.registerFont(TTFont("Arial-B", str(ARIAL_B)))
     idx_path = ROOT / "assets" / "audio" / lid / "index.json"
@@ -150,52 +392,82 @@ def lesson_pdf(lid: str, md_path: Path):
     items = [("SLOW", e) for e in index["slow"]] + [("DIALÓG", e) for e in index["normal"]]
     lines = md_path.read_text(encoding="utf-8").splitlines()
     W, H = A4
+    title = lesson_title(md_path)
     story, st = build_story(lines, W - 84)
     TMP.mkdir(parents=True, exist_ok=True)
     content_path = TMP / f"content-{lid}.pdf"
+    blue = _colors.HexColor(BLUE)
+
+    def on_page(canv, doc):
+        canv.saveState()
+        canv.setFont("Arial", 8)
+        canv.setFillGray(0.5)
+        canv.drawString(42, H - 30, f"Slovenčina 0 → B2 · {lid}")
+        canv.setStrokeColor(blue)
+        canv.setLineWidth(0.7)
+        canv.line(42, H - 35, W - 42, H - 35)
+        canv.setFillGray(0)
+        canv.setFont("Arial", 8)
+        canv.drawCentredString(W / 2, 24, f"Lekcia {lid}  ·  {doc.page}")
+        canv.restoreState()
+
     doc = BaseDocTemplate(str(content_path), pagesize=A4, leftMargin=42, rightMargin=42,
-                          topMargin=42, bottomMargin=42, title=f"Lekcia {lid}", author="Slovenčina 0→B2")
+                          topMargin=52, bottomMargin=42, title=f"Lekcia {lid} — {title}",
+                          author="Slovenčina 0→B2")
     frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="f")
-    doc.addPageTemplates([PageTemplate(id="p", frames=[frame],
-        onPage=lambda c, d: (c.setFont("Arial", 8), c.drawCentredString(W / 2, 24, f"{d.page}")))])
+    doc.addPageTemplates([PageTemplate(id="p", frames=[frame], onPage=on_page)])
     doc.build(story)
     n_content = len(PdfReader(str(content_path)).pages)
 
     w = PdfWriter()
     w.append(PdfReader(str(content_path)))
-    udir = ROOT / "build" / "wav8000" / lid
+    udir = ROOT / "build" / "wav22050" / lid
     if items and not udir.exists():
         import subprocess
-        subprocess.run([sys.executable, str(ROOT / "tools" / "make_ulaw.py"),
+        subprocess.run([sys.executable, str(ROOT / "tools" / "make_pcm.py"),
                         "--lesson", lid], check=True)
-    qrdir = ROOT / "assets" / "qr" / lid
     nplay = 0
     if items:
-        board_path, placements = build_board(lid, items, qrdir)
+        board_path, placements = build_board(lid, items)
         w.append(PdfReader(str(board_path)))
-        # динаміки: Sound-анотації з muLaw 8000Hz (перевірено в Acrobat: S2 = голос)
+        # власний вигляд динаміка (/AP): Acrobat показує наш значок,
+        # не підміняє своїм і не "бруднить" файл (не питає збереження)
+        ap_content = (f"0.918 0.941 0.984 rg 0 0 {SPK_W} {SPK_H} re f\n"
+                      f"0.541 0.643 0.784 RG 1 w 0.5 0.5 {SPK_W - 1} {SPK_H - 1} re S\n"
+                      "0.043 0.306 0.635 rg 9 6 m 9 20 l 21 13 l h f\n"
+                      "0.043 0.306 0.635 RG 1.4 w 24 9 m 28 13 l 24 17 l S\n"
+                      "26 6 m 32 13 l 26 20 l S\n").encode("ascii")
+        ap = DecodedStreamObject()
+        ap.set_data(ap_content)
+        ap.update({NameObject("/Type"): NameObject("/XObject"),
+                   NameObject("/Subtype"): NameObject("/Form"),
+                   NameObject("/BBox"): ArrayObject([NumberObject(0), NumberObject(0),
+                                                    NumberObject(SPK_W), NumberObject(SPK_H)]),
+                   NameObject("/Resources"): DictionaryObject()})
+        ap_ref = w._add_object(ap)
         for bpage, rect, fn in placements:
-            u = udir / (fn + ".ulaw")
+            u = udir / (fn + ".pcm")
             if not u.exists():
                 continue
             stream = DecodedStreamObject()
             stream.set_data(u.read_bytes())
             stream.update({NameObject("/Type"): NameObject("/Sound"),
-                           NameObject("/R"): NumberObject(8000),
+                           NameObject("/R"): NumberObject(22050),
                            NameObject("/C"): NumberObject(1),
-                           NameObject("/B"): NumberObject(8),
-                           NameObject("/E"): NameObject("/muLaw")})
+                           NameObject("/B"): NumberObject(16),
+                           NameObject("/E"): NameObject("/Signed")})
             sref = w._add_object(stream)
             x0, y0, x1, y1 = rect
-            ann = DictionaryObject({
+            w.add_annotation(n_content + bpage, DictionaryObject({
                 NameObject("/Type"): NameObject("/Annot"),
                 NameObject("/Subtype"): NameObject("/Sound"),
+                # Locked=128: грати можна, рухати/видаляти — ні (інакше файл "брудниться")
+                NameObject("/F"): NumberObject(128),
                 NameObject("/Rect"): ArrayObject([NumberObject(int(x0)), NumberObject(int(y0)),
-                                                 NumberObject(int(x1)), NumberObject(int(y1))]),
+                                                  NumberObject(int(x1)), NumberObject(int(y1))]),
                 NameObject("/T"): TextStringObject(f"Zvuk: {fn}"),
-                NameObject("/Sound"): sref,
-            })
-            w.add_annotation(n_content + bpage, ann)
+                NameObject("/AP"): DictionaryObject({NameObject("/N"): ap_ref}),
+                NameObject("/Sound"): sref}))
             nplay += 1
     out = OUT / f"{lid}.pdf"
     OUT.mkdir(parents=True, exist_ok=True)
@@ -204,29 +476,191 @@ def lesson_pdf(lid: str, md_path: Path):
     back = PdfReader(str(out))
     sounds = sum(1 for p in back.pages for a in (p.get("/Annots") or [])
                  if str(a.get_object().get("/Subtype")) == "/Sound")
-    print(f"[{lid}] pdf={out.stat().st_size//1024}KB zvukov={nplay} back_play={sounds}" + ("" if nplay else " (без аудіо: тест)"))
+    print(f"[{lid}] pdf={out.stat().st_size//1024}KB zvukov={nplay} back={sounds}")
     assert sounds == nplay, f"[{lid}] sound annots mismatch!"
+
 
 def collect():
     out = []
-    for d in sorted(ROOT.glob("0*")):
-        if d.is_dir():
-            for f in sorted(d.glob("*.md")):
-                m = re.match(r"(\d+)", f.name)
-                if m:
-                    out.append((m.group(1), f))
+    for d, (lv, _) in LEVELS.items():
+        dd = ROOT / d
+        if not dd.is_dir():
+            continue
+        for f in sorted(dd.glob("*.md")):
+            m = re.match(r"(\d+)", f.name)
+            if not m:
+                continue
+            out.append({"id": m.group(1), "title": lesson_title(f), "level": lv,
+                        "dir": d, "path": f})
     return out
+
+
+def course_stats(meta):
+    n_audio = 0
+    for m in meta:
+        idx = ROOT / "assets" / "audio" / m["id"] / "index.json"
+        if idx.exists():
+            try:
+                j = json.loads(idx.read_text(encoding="utf-8"))
+                n_audio += len(j.get("slow", [])) + len(j.get("normal", []))
+            except Exception:
+                pass
+    n_foto = len(list((ROOT / "assets" / "foto").glob("*.jpg")))
+    return len(meta), n_audio, n_foto
+
+
+def expected_sounds(meta):
+    n = 0
+    for m in meta:
+        udir = ROOT / "build" / "wav22050" / m["id"]
+        if udir.is_dir():
+            n += len(list(udir.glob("*.pcm")))
+    return n
+
+
+def build_front(meta, starts):
+    """Обкладинка + зміст. Повертає шлях; сторінок: F (для розрахунку starts)."""
+    from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
+                                    Spacer, Table, TableStyle, HRFlowable, PageBreak)
+    from reportlab.lib.pagesizes import A4
+    from reportlab.lib import colors
+    from reportlab.lib.styles import ParagraphStyle
+    from reportlab.pdfbase import pdfmetrics
+    from reportlab.pdfbase.ttfonts import TTFont
+    pdfmetrics.registerFont(TTFont("Arial", str(ARIAL)))
+    pdfmetrics.registerFont(TTFont("Arial-B", str(ARIAL_B)))
+    st = styles()
+    blue = colors.HexColor(BLUE)
+    story = []
+    story.append(Spacer(1, 90))
+    story.append(Paragraph("Slovenčina 0 → B2", ParagraphStyle("cov",
+        parent=st["h1"], fontSize=34, leading=40, alignment=1)))
+    story.append(Paragraph("Словацька з нуля до вільного спілкування", ParagraphStyle("cov2",
+        parent=st["body"], fontSize=14, leading=18, alignment=1, textColor="#344054")))
+    story.append(Spacer(1, 12))
+    story.append(HRFlowable(width="30%", thickness=3, color=blue, spaceAfter=12, hAlign="CENTER"))
+    nl, na, nf = course_stats(meta)
+    story.append(Paragraph(f"{nl} lekcií  •  ~3000 slov  •  {na} nahrávok  •  {nf} fotografií",
+        ParagraphStyle("cov3", parent=st["body"], fontSize=11, leading=15, alignment=1)))
+    story.append(Spacer(1, 24))
+    story.append(Paragraph("Ako používať / Як користуватись", ParagraphStyle(
+        "covh", parent=st["h2"], fontSize=14, alignment=1)))
+    for t in ("<b>1.</b> Відкрий у безкоштовному <b>Adobe Acrobat Reader</b> і клікай по <b>динаміку</b> біля фрази — звук грає у файлі.",
+              "<b>2.</b> Слухай по черзі: спочатку повільно (<b>SLOW</b>), потім діалог (<b>DIALÓG</b>).",
+              "<b>3.</b> Кожна лекція: словник з транскрипцією → граматика → діалог → вимова → вправи з ключами."):
+        story.append(Paragraph("•  " + t, ParagraphStyle("covb",
+            parent=st["bullet"], fontSize=11, leading=16, leftIndent=60, rightIndent=40)))
+    story.append(Spacer(1, 24))
+    # таблиця рівнів
+    rows = [[Paragraph("<b>Рівень</b>", st["cellH"]), Paragraph("<b>Що вмієш</b>", st["cellH"]),
+             Paragraph("<b>Лекції</b>", st["cellH"])]]
+    descs = {"A0": "Читати і вітатися", "A1": "Виживання: магазин, місто, готель",
+             "A2": "Щоденне життя: лікар, банк, установа", "B1": "Незалежність: робота, думки, дебати",
+             "B2": "Свобода: аргументи, ідіоми, презентації"}
+    for lv in ["A0", "A1", "A2", "B1", "B2"]:
+        ids = [m["id"] for m in meta if m["level"] == lv]
+        nm = dict(LEVELS.values())[lv]
+        rows.append([Paragraph(f"<b>{lv}</b>", st["cell"]),
+                     Paragraph(f"{nm}. {descs[lv]}", st["cell"]),
+                     Paragraph(f"{ids[0]}–{ids[-1]}", st["cell"])])
+    t = Table(rows, colWidths=[70, 330, 110])
+    t.setStyle(TableStyle([("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
+                           ("BACKGROUND", (0, 0), (-1, 0), blue),
+                           ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
+                           ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                           ("LEFTPADDING", (0, 0), (-1, -1), 6),
+                           ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+                           ("ROWBACKGROUNDS", (0, 1), (-1, -1),
+                            [colors.white, colors.HexColor("#f6f9ff")])]))
+    story.append(t)
+    story.append(PageBreak())
+    story.append(Paragraph("OBSAH / Зміст", ParagraphStyle("toc",
+        parent=st["h1"], fontSize=20, alignment=1)))
+    story.append(Spacer(1, 8))
+    for lv in ["A0", "A1", "A2", "B1", "B2"]:
+        nm = dict(LEVELS.values())[lv]
+        story.append(Paragraph(f"{lv} · {nm}", ParagraphStyle("toch",
+            parent=st["h2"], fontSize=12)))
+        rows = []
+        for m in [x for x in meta if x["level"] == lv]:
+            short = m["title"][:72]
+            rows.append([Paragraph(f"<b>{m['id']}</b>  {md_inline(short)}", st["cell"]),
+                         Paragraph(f"{starts[m['id']]}", ParagraphStyle(
+                             "pg", parent=st["cell"], alignment=2))])
+        tt = Table(rows, colWidths=[440, 70])
+        tt.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"),
+                                ("LEFTPADDING", (0, 0), (-1, -1), 2),
+                                ("BOTTOMPADDING", (0, 0), (-1, -1), 2)]))
+        story.append(tt)
+        story.append(Spacer(1, 6))
+    path = TMP / "front.pdf"
+    TMP.mkdir(parents=True, exist_ok=True)
+    doc = BaseDocTemplate(str(path), pagesize=A4, leftMargin=42, rightMargin=42,
+                          topMargin=42, bottomMargin=42, title="Slovenčina 0→B2")
+    doc.addPageTemplates([PageTemplate(id="p", frames=[
+        Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="f")])])
+    doc.build(story)
+    return path
+
+
+def build_full(lessons):
+    from pypdf import PdfReader, PdfWriter
+    for m in lessons:
+        p = OUT / f"{m['id']}.pdf"
+        if not p.exists():
+            sys.exit(f"нема {p} — спочатку --all")
+        m["npages"] = len(PdfReader(str(p)).pages)
+    # прохід 1: дізнатись кількість сторінок front
+    dummy = {m["id"]: 0 for m in lessons}
+    f1 = build_front(lessons, dummy)
+    from pypdf import PdfReader as R
+    F = len(R(str(f1)).pages)
+    # прохід 2: справжні номери сторінок (1-based)
+    starts, acc = {}, F + 1
+    for m in lessons:
+        starts[m["id"]] = acc
+        acc += m["npages"]
+    f2 = build_front(lessons, starts)
+    assert len(R(str(f2)).pages) == F, "front reflow!"
+    w = PdfWriter()
+    w.append(R(str(f2)))
+    for m in lessons:
+        w.append(R(str(OUT / f"{m['id']}.pdf")))
+    # закладки
+    parents = {}
+    for lv in ["A0", "A1", "A2", "B1", "B2"]:
+        ms = [m for m in lessons if m["level"] == lv]
+        nm = dict(LEVELS.values())[lv]
+        parents[lv] = w.add_outline_item(f"{lv} · {nm}", starts[ms[0]["id"]] - 1, parent=None)
+        for m in ms:
+            w.add_outline_item(f"{m['id']} {m['title'][:60]}", starts[m["id"]] - 1, parent=parents[lv])
+    out = ROOT / "build" / "Slovak-0-B2-full.pdf"
+    with open(out, "wb") as fh:
+        w.write(fh)
+    back = R(str(out))
+    sounds = sum(1 for p in back.pages for a in (p.get("/Annots") or [])
+                 if str(a.get_object().get("/Subtype")) == "/Sound")
+    exp = expected_sounds(lessons)
+    print(f"[FULL] pages={len(back.pages)} speakers={sounds} size={out.stat().st_size//1024//1024}MB")
+    assert sounds == exp, f"speakers {sounds} != {exp}"
+
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--lesson", default=None)
     ap.add_argument("--all", action="store_true")
+    ap.add_argument("--full", action="store_true")
     a = ap.parse_args()
     lessons = collect()
     if a.lesson:
-        lessons = [x for x in lessons if x[0] == a.lesson] or sys.exit("нема лекції")
-    elif not a.all:
-        sys.exit("вкажи --lesson 001 або --all")
-    for lid, path in lessons:
-        lesson_pdf(lid, path)
-    print(f"OK lessons={len(lessons)}")
+        sel = [x for x in lessons if x["id"] == a.lesson] or sys.exit("нема лекції")
+        for x in sel:
+            lesson_pdf(x["id"], x["path"])
+    elif a.full:
+        build_full(collect())
+    elif a.all:
+        for x in lessons:
+            lesson_pdf(x["id"], x["path"])
+        print(f"OK lessons={len(lessons)}")
+    else:
+        sys.exit("вкажи --lesson 001, --all або --full")

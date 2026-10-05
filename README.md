@@ -3,10 +3,10 @@
 
 **Мета:** 0 → B2 (CEFR), ~3000 слів, вільне побутове + робоче спілкування
 **Готовий продукт — PDF:**
-- `build/Slovak-0-B2-full.pdf` — весь курс одним файлом: 450 сторінок, звук прямо у файлі.
+- `build/Slovak-0-B2-full.pdf` — весь курс одним файлом: звук прямо у файлі (PCM 22050 Гц).
   Як слухати: в кінці кожної лекції — аудіо-дошка: клік по **динаміку** біля фрази грає голос
-  (потрібен безкоштовний Adobe Acrobat Reader; у вбудованих переглядачах браузерів — скануй QR).
-- `build/pdf/<ID>.pdf` — окремі PDF по лекціях (текст + QR + MP3). Збірка: `python tools/build_pdf.py --all`
+  (потрібен безкоштовний Adobe Acrobat Reader).
+- `build/pdf/<ID>.pdf` — окремі PDF по лекціях (текст + звук по кліку). Збірка: `python tools/build_pdf.py --all`
 
 ## Структура
 
@@ -18,10 +18,11 @@
 - `assets/foto/` — фото-асоціації
 - `assets/audio-scripts/` — тексти для озвучки (TTS / диктор)
 - `assets/audio/<ID>/` — MP3: slow-XX (повільно, Viktoria) + dialog-XX (діалог, Lukáš/Viktoria) + index.json
-- `assets/qr/<ID>/` — QR-PNG до кожного MP3 (для друку/PDF; з `--base-url` кодують повний URL)
+- `assets/qr/<ID>/` — QR-PNG (DEPRECATED, з PDF прибрано; лишено про запас)
 - `tools/generate_audio.py` — TTS: `python tools/generate_audio.py --lesson 001` або `--all [--base-url ...]`
+- `tools/make_pcm.py` — конвертація MP3 → PCM 22050 Гц для вбудовування в PDF
 - `tools/build_index.py` — службове (індекс лекцій)
-- `build/pdf/<ID>.pdf` — окремі PDF по лекціях (текст + QR + MP3). Збірка: `python tools/build_pdf.py --all`
+- `build/pdf/<ID>.pdf` — окремі PDF по лекціях (текст + звук по кліку). Збірка: `python tools/build_pdf.py --all`
 
 Шаблон лекції: див. `_SABLONA-LEKCIE.md`
 Курикулум детально: див. `KURIKULUM.md`
