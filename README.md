@@ -3,7 +3,8 @@
 
 **Мета:** 0 → B2 (CEFR), ~3000 слів, вільне побутове + робоче спілкування
 **Готовий продукт — PDF:**
-- `build/Slovak-0-B2-full.pdf` — весь курс одним файлом: звук прямо у файлі (PCM 22050 Гц).
+- 📥 **Скачати повний курс одним файлом:** [Slovak-0-B2-full.pdf](https://github.com/ajjs1ajjs/Slovakia_Language/releases/download/v1.0/Slovak-0-B2-full.pdf) (259 МБ, 111 лекцій, 467 сторінок, звук всередині)
+- `build/Slovak-0-B2-full.pdf` — те саме, збирається локально: `python tools/build_pdf.py --all && python tools/build_pdf.py --full` (у git не лежить через ліміт 100 МБ, бери з релізу вище).
   Як слухати: в кінці кожної лекції — аудіо-дошка: клік по **динаміку** біля фрази грає голос
   (потрібен безкоштовний Adobe Acrobat Reader).
 - `build/pdf/<ID>.pdf` — окремі PDF по лекціях (текст + звук по кліку). Збірка: `python tools/build_pdf.py --all`
