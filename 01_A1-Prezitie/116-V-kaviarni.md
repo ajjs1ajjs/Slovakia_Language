@@ -2,7 +2,7 @@
 **Úroveň:** A1 | **Cieľ:** замовити каву і десерт, попросити рахунок.
 
 ### 1. FOTO
-`assets/foto/116.jpg` — čašník подає kávu + zákusok,菜单 на столі.
+`assets/foto/116.jpg` — čašník подає kávu + zákusok, menu (jedálny lístok) на столі.
 Unsplash-підказка: «cafe coffee dessert table».
 
 ### 2. SLOVÍČKA (12)

@@ -21,7 +21,7 @@
 | 118.jpg | 01_A1-Prezitie/118-Moje-mesto.md | https://commons.wikimedia.org/wiki/File%3ABratislava%20Castle%2C%2020210727%201004%200250.jpg | CC BY-SA 4.0 |
 | 119.jpg | 01_A1-Prezitie/119-Opakovanie-A1.md | https://commons.wikimedia.org/wiki/File%3ABratislava%20-%20Hlavn%C3%A9%20n%C3%A1mestie%20%28radnica%29.jpg | CC BY-SA 3.0 |
 | 120.jpg | 01_A1-Prezitie/120-Test-A1.md | https://commons.wikimedia.org/wiki/File%3AHand-writing-exam-classroom.jpg | CC BY 3.0 |
-| 002-makke-spoluhlasky.jpg | 00_A0-Zaklady-vymova/002-Makke-d-t-n-l-dz-dz-ch.md | https://commons.wikimedia.org/wiki/File%3ADetailed%20view%20of%20the%20inside%20of%20the%20human%20mouth.jpg | CC0 |
+| 002-makke-spoluhlasky.jpg | 00_A0-Zaklady-vymova/002-Makke-d-t-n-l-dz-d-ch.md | https://commons.wikimedia.org/wiki/File%3ADetailed%20view%20of%20the%20inside%20of%20the%20human%20mouth.jpg | CC0 |
 | 004-pozdravy.jpg | 00_A0-Zaklady-vymova/004-Pozdravy-zdvorilost.md | https://commons.wikimedia.org/wiki/File%3A609%20%282%29.%20Leaving%20old%20home%20and%20friends%20-%20waving%20goodbyes%20to%20emigrants%20starting%20for%20America%2C%20Christiania%2C%20Norway%20%288089363418%29.jpg | CC BY 2.0 |
 | 108.jpg | 01_A1-Prezitie/108-Pocasie-oblecenie.md | https://commons.wikimedia.org/wiki/File%3AWoman%20With%20Umbrella%20%2858400972%29.jpeg | CC BY-SA 3.0 |
 | 117.jpg | 01_A1-Prezitie/117-Zoznamenie-rozsirene.md | https://commons.wikimedia.org/wiki/File%3ADisabled%20BIPOC%20taking%20a%20selfie.jpg | CC BY 4.0 |

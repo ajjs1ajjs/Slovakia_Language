@@ -16,6 +16,18 @@ ARIAL = Path(r"C:\Windows\Fonts\arial.ttf")
 ARIAL_B = Path(r"C:\Windows\Fonts\arialbd.ttf")
 BLUE = "#0b4ea2"
 
+
+def register_fonts() -> None:
+    """R2: register Arial pair with a clear early error when missing
+    (Windows-only path; bare registerFont would die mid-document)."""
+    from reportlab.pdfbase import pdfmetrics
+    from reportlab.pdfbase.ttfonts import TTFont
+    for name, path in (("Arial", ARIAL), ("Arial-B", ARIAL_B)):
+        if not path.exists():
+            raise FileNotFoundError(
+                f"Шрифт не знайдено: {path} (потрібен Windows або покладіть .ttf поруч)")
+        pdfmetrics.registerFont(TTFont(name, str(path)))
+
 LEVELS = {"00_A0-Zaklady-vymova": ("A0", "Основи вимови"),
           "01_A1-Prezitie": ("A1", "Виживання"),
           "02_A2-Kazdodenny-zivot": ("A2", "Щоденне життя"),
@@ -299,8 +311,7 @@ def build_board(lid, items):
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
     try:
-        pdfmetrics.registerFont(TTFont("Arial", str(ARIAL)))
-        pdfmetrics.registerFont(TTFont("Arial-B", str(ARIAL_B)))
+        register_fonts()
     except Exception:
         pass
     W, H = A4
@@ -385,8 +396,7 @@ def lesson_pdf(lid: str, md_path: Path):
     from pypdf import PdfReader, PdfWriter
     from pypdf.generic import (DictionaryObject, NameObject, TextStringObject,
                                ArrayObject, NumberObject, DecodedStreamObject)
-    pdfmetrics.registerFont(TTFont("Arial", str(ARIAL)))
-    pdfmetrics.registerFont(TTFont("Arial-B", str(ARIAL_B)))
+    register_fonts()
     idx_path = ROOT / "assets" / "audio" / lid / "index.json"
     index = json.loads(idx_path.read_text(encoding="utf-8")) if idx_path.exists() else {"slow": [], "normal": []}
     items = [("SLOW", e) for e in index["slow"]] + [("DIALÓG", e) for e in index["normal"]]
@@ -527,8 +537,7 @@ def build_front(meta, starts):
     from reportlab.lib.styles import ParagraphStyle
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
-    pdfmetrics.registerFont(TTFont("Arial", str(ARIAL)))
-    pdfmetrics.registerFont(TTFont("Arial-B", str(ARIAL_B)))
+    register_fonts()
     st = styles()
     blue = colors.HexColor(BLUE)
     story = []
