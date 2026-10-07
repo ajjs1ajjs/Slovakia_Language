@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| umelá inteligencia | штучний інтелект | [ˈumɛlaː ˈintɛliɡɛntsɪja] | У-мє-лаа ін-тє-лі-ґєн-ці-я | T418-01 |
-| aplikácia | застосунок | [ˈaplikaːtsɪja] | А-плі-каа-ці-я | T418-02 |
-| dáta (pl) | дані | [ˈdaːta] | ДАА-та | T418-03 |
-| súkromie | приватність | [ˈsuːkrɔmɪ̯ɛ] | СУУ-кро-мє | T418-04 |
-| kyberbezpečnosť | кібербезпека | [ˈkibɛrbɛspɛʧnɔsɟ] | КІ-бєр-бєс-печ-ность | T418-05 |
-| heslo | пароль | [ˈɦɛslɔ] | ГЄС-ло | T418-06 |
-| zálohovať | робити бекап | [ˈzaːlɔɦɔvaɟ] | ЗАА-ло-го-вадь | T418-07 |
-| vývoj | розвиток | [ˈviːvɔj] | ВІІІ-вой | T418-08 |
-| nahradiť | замінити | [ˈnaɦradiɟ] | НА-гра-діть | T418-09 |
-| závislosť (na mobile) | залежність | [ˈzaːvislɔsɟ] | ЗАА-віс-лость | T418-10 |
-| inovácia | інновація | [ˈinɔvaːtsɪja] | І-но-ваа-ці-я | T418-11 |
-| budúcnosť | майбутнє | [ˈbuduːtsnɔsɟ] | БУ-дуудз-ность | T418-12 |
+| umelá inteligencia | штучний інтелект | [ˈumɛlaː ˈintɛliɡɛntsɪja] | У-мє-лаа ін-тє-лі-ґєн-ці-я | slow-01.mp3 |
+| aplikácia | застосунок | [ˈaplikaːtsɪja] | А-плі-каа-ці-я | slow-01.mp3 |
+| dáta (pl) | дані | [ˈdaːta] | ДАА-та | — |
+| súkromie | приватність | [ˈsuːkrɔmɪ̯ɛ] | СУУ-кро-мє | slow-01.mp3 |
+| kyberbezpečnosť | кібербезпека | [ˈkibɛrbɛspɛʧnɔsɟ] | КІ-бєр-бєс-печ-ность | slow-02.mp3 |
+| heslo | пароль | [ˈɦɛslɔ] | ГЄС-ло | slow-02.mp3 |
+| zálohovať | робити бекап | [ˈzaːlɔɦɔvaɟ] | ЗАА-ло-го-вадь | slow-02.mp3 |
+| vývoj | розвиток | [ˈviːvɔj] | ВІІІ-вой | slow-02.mp3 |
+| nahradiť | замінити | [ˈnaɦradiɟ] | НА-гра-діть | slow-03.mp3 |
+| závislosť (na mobile) | залежність | [ˈzaːvislɔsɟ] | ЗАА-віс-лость | — |
+| inovácia | інновація | [ˈinɔvaːtsɪja] | І-но-ваа-ці-я | slow-03.mp3 |
+| budúcnosť | майбутнє | [ˈbuduːtsnɔsɟ] | БУ-дуудз-ность | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: budúci čas + predpovede (budem / -ť + príčestie)
 | Форма | Приклад |

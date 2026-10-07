@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| lekár / lekárka | лікар / лікарка | [ˈlɛkaːr] / [ˈlɛkaːrka] | ЛЕ-каар / ЛЕ-каар-ка | T205-01 |
-| bolí ma (hlava) | у мене болить (голова) | [ˈbɔliː ma ˈɦlava] | БО-лі ма ГЛА-ва | T205-02 |
-| horúčka / kašeľ | температура / кашель | [ˈɦɔruːtʃka] / [ˈkaʃɛʎ] | ГО-руу-ч-ка / КА-шель | T205-03 |
-| nádcha / chrípka | нежить / грип | [ˈnaːdxa] / [ˈxriːpka] | НАА-д-ха / ХРІІ-п-ка | T205-04 |
-| recept / lieky | рецепт / ліки | [ˈrɛtsɛpt] / [ˈlɪɛki] | РЕ-цепт / ЛІЕ-кі | T205-05 |
-| objednať sa | записатись | [ˈɔbjɛdnac sa] | ОБ-єд-наць са | T205-06 |
-| čakáreň | зал очікування | [ˈtʃakaːrɛɲ] | ЧА-каа-рень | T205-07 |
-| vyšetrenie | огляд / обстеження | [ˈviʃɛtrɛɲɪɛ] | ВІ-ше-тре-ніе | T205-08 |
-| pohotovosť | швидка допомога | [ˈpɔɦɔtɔvɔsc] | ПО-го-то-восць | T205-09 |
-| poisťovňa | страхова | [ˈpɔjiscɔvɲa] | ПО-їс-тьов-ня | T205-10 |
-| bolesť | біль | [ˈbɔlɛsc] | БО-лесць | T205-11 |
-| uzdraviť sa | одужати | [ˈuzdravic sa] | УЗ-дра-віць са | T205-12 |
+| lekár / lekárka | лікар / лікарка | [ˈlɛkaːr] / [ˈlɛkaːrka] | ЛЕ-каар / ЛЕ-каар-ка | slow-01.mp3 |
+| bolí ma (hlava) | у мене болить (голова) | [ˈbɔliː ma ˈɦlava] | БО-лі ма ГЛА-ва | slow-02.mp3 |
+| horúčka / kašeľ | температура / кашель | [ˈɦɔruːtʃka] / [ˈkaʃɛʎ] | ГО-руу-ч-ка / КА-шель | slow-03.mp3 |
+| nádcha / chrípka | нежить / грип | [ˈnaːdxa] / [ˈxriːpka] | НАА-д-ха / ХРІІ-п-ка | slow-04.mp3 |
+| recept / lieky | рецепт / ліки | [ˈrɛtsɛpt] / [ˈlɪɛki] | РЕ-цепт / ЛІЕ-кі | slow-05.mp3 |
+| objednať sa | записатись | [ˈɔbjɛdnac sa] | ОБ-єд-наць са | slow-06.mp3 |
+| čakáreň | зал очікування | [ˈtʃakaːrɛɲ] | ЧА-каа-рень | slow-07.mp3 |
+| vyšetrenie | огляд / обстеження | [ˈviʃɛtrɛɲɪɛ] | ВІ-ше-тре-ніе | slow-08.mp3 |
+| pohotovosť | швидка допомога | [ˈpɔɦɔtɔvɔsc] | ПО-го-то-восць | slow-09.mp3 |
+| poisťovňa | страхова | [ˈpɔjiscɔvɲa] | ПО-їс-тьов-ня | slow-10.mp3 |
+| bolesť | біль | [ˈbɔlɛsc] | БО-лесць | slow-11.mp3 |
+| uzdraviť sa | одужати | [ˈuzdravic sa] | УЗ-дра-віць са | slow-12.mp3 |
 
 ### 3. GRAMATIKA: lokál (6. pád) — kde? u koho? + bolí ma + AKUZATÍV
 Lokál: `u lekár-a, v nemocnic-i, v lekárn-i`. Питання: Kde? V čom?

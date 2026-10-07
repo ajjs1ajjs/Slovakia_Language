@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| dejiny | історія (наука) | [ˈdɛjini] | ДЕ-ї-ні | T415-01 |
-| Veľká Morava | Велика Моравія | [ˈvɛʎkaː ˈmɔrava] | ВЄЛІ-каа МО-ра-ва | T415-02 |
-| kráľovstvo | королівство | [ˈkraːʎɔfstvɔ] | КРАА-льов-ство | T415-03 |
-| vzniknúť | виникнути | [ˈvzniknuːɟ] | ВЗНІК-нууть | T415-04 |
-| samostatnosť | незалежність | [ˈsamɔstatnɔsɟ] | СА-мо-стат-ность | T415-05 |
-| Československo | Чехословаччина | [ˈʧɛskɔslɔvɛnskɔ] | ЧЕС-ко-сло-вєн-ско | T415-06 |
-| rozdelenie | поділ (1993) | [ˈrɔzdɛlɛɲɪɛ] | РОЗ-дє-лє-нє | T415-07 |
-| EÚ a euro | ЄС і євро (2004/2009) | [ˈɛː uː] | ЄЕ-УУ | T415-08 |
-| povstanie (SNP) | повстання (1944) | [ˈpɔfstaɲɪɛ] | ПОВ-ста-нє | T415-09 |
-| pamiatka | пам'ятка | [ˈpamɪ̯atka] | ПА-мят-ка | T415-10 |
-| vládnuť | правити | [ˈvlaːdnuːɟ] | ВЛААД-нууть | T415-11 |
-| patriť k | належати до | [ˈpatriɟ k] | ПА-тріть к | T415-12 |
+| dejiny | історія (наука) | [ˈdɛjini] | ДЕ-ї-ні | slow-01.mp3 |
+| Veľká Morava | Велика Моравія | [ˈvɛʎkaː ˈmɔrava] | ВЄЛІ-каа МО-ра-ва | slow-01.mp3 |
+| kráľovstvo | королівство | [ˈkraːʎɔfstvɔ] | КРАА-льов-ство | slow-01.mp3 |
+| vzniknúť | виникнути | [ˈvzniknuːɟ] | ВЗНІК-нууть | slow-01.mp3 |
+| samostatnosť | незалежність | [ˈsamɔstatnɔsɟ] | СА-мо-стат-ность | slow-01.mp3 |
+| Československo | Чехословаччина | [ˈʧɛskɔslɔvɛnskɔ] | ЧЕС-ко-сло-вєн-ско | slow-02.mp3 |
+| rozdelenie | поділ (1993) | [ˈrɔzdɛlɛɲɪɛ] | РОЗ-дє-лє-нє | slow-02.mp3 |
+| EÚ a euro | ЄС і євро (2004/2009) | [ˈɛː uː] | ЄЕ-УУ | — |
+| povstanie (SNP) | повстання (1944) | [ˈpɔfstaɲɪɛ] | ПОВ-ста-нє | — |
+| pamiatka | пам'ятка | [ˈpamɪ̯atka] | ПА-мят-ка | slow-02.mp3 |
+| vládnuť | правити | [ˈvlaːdnuːɟ] | ВЛААД-нууть | slow-03.mp3 |
+| patriť k | належати до | [ˈpatriɟ k] | ПА-тріть к | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: rozprávanie o minulosti (préteritum + dátumy)
 Дати: `v roku 1993, 1. januára 1993, v 9. storočí`. Прийменник `v` + Loc; порядок: čas – miesto – dej.

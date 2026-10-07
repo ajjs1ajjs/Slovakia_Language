@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| príroda | природа | [ˈpriːrɔda] | ПРІІ-ро-да | T210-01 |
-| hora / les | гора / ліс | [ˈɦɔra] / [lɛs] | ГО-ра / лес | T210-02 |
-| jazero / rieka | озеро / річка | [ˈjazɛrɔ] / [ˈrɪɛka] | Я-зе-ро / РІЕ-ка | T210-03 |
-| výlet / túra | поїздка / похід | [ˈviːlɛt] / [ˈtuːra] | ВІІ-лет / ТУУ-ра | T210-04 |
-| mapa | мапа | [ˈmapa] | МА-па | T210-05 |
-| stan / spacák | намет / спальник | [stan] / [ˈspatsaːk] | стан / СПА-цаак | T210-06 |
-| počasie | погода | [ˈpɔtʃasɪɛ] | ПО-ча-сіе | T210-07 |
-| slnečno / prší | сонячно / дощить | [ˈsl̥nɛtʃnɔ] / [ˈpr̥ʃiː] | СЛ-неч-но / ПР-ші | T210-08 |
-| Tatry | Татри | [ˈtatri] | ТАТ-рі | T210-09 |
-| hrad / jaskyňa | замок / печера | [ɦrat] / [ˈjaskiɲa] | град / Я-скі-ня | T210-10 |
-| fotografovať | фотографувати | [ˈfɔtɔgrafɔvac] | ФО-то-ґра-фо-ваць | T210-11 |
-| opekať | смажити (на вогні) | [ˈɔpɛkac] | О-пе-каць | T210-12 |
+| príroda | природа | [ˈpriːrɔda] | ПРІІ-ро-да | slow-01.mp3 |
+| hora / les | гора / ліс | [ˈɦɔra] / [lɛs] | ГО-ра / лес | slow-02.mp3 |
+| jazero / rieka | озеро / річка | [ˈjazɛrɔ] / [ˈrɪɛka] | Я-зе-ро / РІЕ-ка | slow-03.mp3 |
+| výlet / túra | поїздка / похід | [ˈviːlɛt] / [ˈtuːra] | ВІІ-лет / ТУУ-ра | slow-04.mp3 |
+| mapa | мапа | [ˈmapa] | МА-па | slow-05.mp3 |
+| stan / spacák | намет / спальник | [stan] / [ˈspatsaːk] | стан / СПА-цаак | slow-06.mp3 |
+| počasie | погода | [ˈpɔtʃasɪɛ] | ПО-ча-сіе | slow-07.mp3 |
+| slnečno / prší | сонячно / дощить | [ˈsl̥nɛtʃnɔ] / [ˈpr̥ʃiː] | СЛ-неч-но / ПР-ші | slow-08.mp3 |
+| Tatry | Татри | [ˈtatri] | ТАТ-рі | slow-09.mp3 |
+| hrad / jaskyňa | замок / печера | [ɦrat] / [ˈjaskiɲa] | град / Я-скі-ня | slow-10.mp3 |
+| fotografovať | фотографувати | [ˈfɔtɔgrafɔvac] | ФО-то-ґра-фо-ваць | slow-11.mp3 |
+| opekať | смажити (на вогні) | [ˈɔpɛkac] | О-пе-каць | slow-12.mp3 |
 
 ### 3. GRAMATIKA: lokál plurál — v horách, v Tatrách
 | Nominatív sg | Lokál pl (kde?) |

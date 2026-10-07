@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| predmet | тема (листа) | [ˈprɛdmɛt] | пре́дмет | ▶️ 304-01 |
-| príloha | вкладення | [ˈpriːloɦa] | прі́лога | ▶️ 304-02 |
-| vážený pán / vážená pani | шановний пане / шановна пані | [ˈvaːʒɛniː paːn] | ва́жені па́н | ▶️ 304-03 |
-| s pozdravom | з повагою | [s ˈpozdravom] | с по́здравом | ▶️ 304-04 |
-| prosím o potvrdenie | прошу про підтвердження | [ˈprosiːm o ˈpotvrɟɛɲi̯ɛ] | про́сім о по́тврдєніє | ▶️ 304-05 |
-| v prílohe posielam | у вкладенні надсилаю | [v ˈpriːloɦɛ ˈposi̯ɛlam] | в прі́логе по́сєлам | ▶️ 304-06 |
-| urgentné | терміново | [ˈurgɛntneː] | у́ргентне | ▶️ 304-07 |
-| odpoveď | відповідь | [ˈodpovɛc] | о́дповедь | ▶️ 304-08 |
-| preposlať | переслати | [ˈprɛposlac] | пре́послаць | ▶️ 304-09 |
-| kópia | копія | [ˈkoːpi̯a] | ко́пія | ▶️ 304-10 |
-| dohodnúť si stretnutie | домовитись про зустріч | [ˈdoɦodnuːc si ˈstrɛtnuci̯ɛ] | до́годнуть сі стре́тнуціє | ▶️ 304-11 |
-| teším sa na spoluprácu | з нетерпінням чекаю співпраці | [ˈtɛʃiːm sa] | те́шім са | ▶️ 304-12 |
+| predmet | тема (листа) | [ˈprɛdmɛt] | пре́дмет | slow-01.mp3 |
+| príloha | вкладення | [ˈpriːloɦa] | прі́лога | slow-02.mp3 |
+| vážený pán / vážená pani | шановний пане / шановна пані | [ˈvaːʒɛniː paːn] | ва́жені па́н | slow-03.mp3 |
+| s pozdravom | з повагою | [s ˈpozdravom] | с по́здравом | slow-04.mp3 |
+| prosím o potvrdenie | прошу про підтвердження | [ˈprosiːm o ˈpotvrɟɛɲi̯ɛ] | про́сім о по́тврдєніє | — |
+| v prílohe posielam | у вкладенні надсилаю | [v ˈpriːloɦɛ ˈposi̯ɛlam] | в прі́логе по́сєлам | slow-05.mp3 |
+| urgentné | терміново | [ˈurgɛntneː] | у́ргентне | — |
+| odpoveď | відповідь | [ˈodpovɛc] | о́дповедь | slow-06.mp3 |
+| preposlať | переслати | [ˈprɛposlac] | пре́послаць | — |
+| kópia | копія | [ˈkoːpi̯a] | ко́пія | — |
+| dohodnúť si stretnutie | домовитись про зустріч | [ˈdoɦodnuːc si ˈstrɛtnuci̯ɛ] | до́годнуть сі стре́тнуціє | — |
+| teším sa na spoluprácu | з нетерпінням чекаю співпраці | [ˈtɛʃiːm sa] | те́шім са | — |
 
 ### 3. GRAMATIKA: zdvorilé prosby — «prosím + infinitív / aby»
 Правило: ввічливе прохання = **Prosím o + akuzatív** або **Prosím, aby + min. čas**.

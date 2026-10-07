@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| oslava | свято, святкування | [ˈoslava] | о́слава | ▶️ 310-01 |
-| narodeniny | день народження | [ˈnaroɟɛnini] | на́родєніні | ▶️ 310-02 |
-| gratulovať | вітати | [ˈgratulovac] | гра́туловаць | ▶️ 310-03 |
-| priať | бажати | [ˈpri̯ac] | пріяць | ▶️ 310-04 |
-| prípitok | тост | [ˈpriːpitok] | прі́піток | ▶️ 310-05 |
-| torta | торт | [ˈtorta] | то́рта | ▶️ 310-06 |
-| sviečka | свічка | [ˈsvi̯ɛtʃka] | свіє́чка | ▶️ 310-07 |
-| pozvánka | запрошення | [ˈpozvaːnka] | по́званка | ▶️ 310-08 |
-| hostiteľ | господар (свята) | [ˈɦoscitɛʎ] | го́стітєль | ▶️ 310-09 |
-| usadiť sa | сісти (за стіл) | [ˈusadic sa] | у́садіць са | ▶️ 310-10 |
-| obslúžiť | обслужити, пригостити | [ˈopsluːʒic] | о́пслужіць | ▶️ 310-11 |
-| veselo | весело | [ˈvɛsɛlo] | ве́село | ▶️ 310-12 |
+| oslava | свято, святкування | [ˈoslava] | о́слава | slow-01.mp3 |
+| narodeniny | день народження | [ˈnaroɟɛnini] | на́родєніні | dialog-02.mp3 |
+| gratulovať | вітати | [ˈgratulovac] | гра́туловаць | slow-02.mp3 |
+| priať | бажати | [ˈpri̯ac] | пріяць | — |
+| prípitok | тост | [ˈpriːpitok] | прі́піток | slow-03.mp3 |
+| torta | торт | [ˈtorta] | то́рта | slow-04.mp3 |
+| sviečka | свічка | [ˈsvi̯ɛtʃka] | свіє́чка | — |
+| pozvánka | запрошення | [ˈpozvaːnka] | по́званка | — |
+| hostiteľ | господар (свята) | [ˈɦoscitɛʎ] | го́стітєль | — |
+| usadiť sa | сісти (за стіл) | [ˈusadic sa] | у́садіць са | — |
+| obslúžiť | обслужити, пригостити | [ˈopsluːʒic] | о́пслужіць | — |
+| veselo | весело | [ˈvɛsɛlo] | ве́село | dialog-05.mp3 |
 
 ### 3. GRAMATIKA: datív pri blahoželaní — «priať komu čo»
 Правило: **priať + datív (komu) + akuzatív (čo)**.

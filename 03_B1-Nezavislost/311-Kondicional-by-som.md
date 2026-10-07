@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| keby | якби | [ˈkɛbi] | ке́бі | ▶️ 311-01 |
-| chcel by som | я хотів би | [ˈxtsɛl bi som] | хцел бі сом | ▶️ 311-02 |
-| išiel by som | я пішов би | [ˈiʃi̯ɛl bi som] | і́шієл бі сом | ▶️ 311-03 |
-| bol by som | я був би | [bol bi som] | бол бі сом | ▶️ 311-04 |
-| dala by som | я дала б | [ˈdala bi som] | да́ла бі сом | ▶️ 311-05 |
-| mohli by ste | ви могли б | [ˈmoɦli bi stɛ] | мо́глі бі сте | ▶️ 311-06 |
-| rád by som | я радо б / хотів би | [ˈraːd bi som] | ра́д бі сом | ▶️ 311-07 |
-| podmienka | умова | [ˈpodmi̯ɛnka] | по́дмієнка | ▶️ 311-08 |
-| želanie | бажання | [ˈʒɛlaɲi̯ɛ] | же́ланіє | ▶️ 311-09 |
-| zdvorilá prosba | ввічливе прохання | [ˈzdvorilaː ˈprozba] | здво́ріла про́зба | ▶️ 311-10 |
-| inak | інакше | [ˈinak] | і́нак | ▶️ 311-11 |
-| ináč by | інакше б | [ˈinaːtʃ bi] | і́нач бі | ▶️ 311-12 |
+| keby | якби | [ˈkɛbi] | ке́бі | slow-01.mp3 |
+| chcel by som | я хотів би | [ˈxtsɛl bi som] | хцел бі сом | slow-02.mp3 |
+| išiel by som | я пішов би | [ˈiʃi̯ɛl bi som] | і́шієл бі сом | slow-03.mp3 |
+| bol by som | я був би | [bol bi som] | бол бі сом | — |
+| dala by som | я дала б | [ˈdala bi som] | да́ла бі сом | — |
+| mohli by ste | ви могли б | [ˈmoɦli bi stɛ] | мо́глі бі сте | slow-04.mp3 |
+| rád by som | я радо б / хотів би | [ˈraːd bi som] | ра́д бі сом | dialog-03.mp3 |
+| podmienka | умова | [ˈpodmi̯ɛnka] | по́дмієнка | — |
+| želanie | бажання | [ˈʒɛlaɲi̯ɛ] | же́ланіє | — |
+| zdvorilá prosba | ввічливе прохання | [ˈzdvorilaː ˈprozba] | здво́ріла про́зба | — |
+| inak | інакше | [ˈinak] | і́нак | — |
+| ináč by | інакше б | [ˈinaːtʃ bi] | і́нач бі | — |
 
 ### 3. GRAMATIKA: kondicionál prítomný — TABUĽKA
 Правило: **minulé príčestie (l-ové) + by**: bol by som, robila by si...

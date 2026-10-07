@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| voľný čas | вільний час | [ˈvɔʎniː tʃas] | ВОЛЬ-ні час | T202-01 |
-| hobby / záľuba | хобі / захоплення | [ˈhɔbi] / [ˈzaːʎuba] | ГО-бі / ЗАА-лю-ба | T202-02 |
-| čítať | читати | [ˈtʃiːtac] | ЧІ-таць | T202-03 |
-| športovať | займатись спортом | [ˈʃpɔrtɔvac] | ШПОР-то-ваць | T202-04 |
-| bicykel | велосипед | [ˈbitsikɛʎ] | БІ-ци-кель | T202-05 |
-| prechádzka | прогулянка | [ˈprɛxaːdzka] | ПРЕ-хаа-дз-ка | T202-06 |
-| kino / divadlo | кіно / театр | [ˈkinɔ] / [ˈɟivadlɔ] | КІ-но / ДІ-вад-ло | T202-07 |
-| stretnúť sa | зустрітись | [ˈstrɛtnuːc sa] | СТРЕТ-нууць са | T202-08 |
-| baviť sa | розважатись | [ˈbavic sa] | БА-віць са | T202-09 |
-| hudba | музика | [ˈɦudba] | ГУД-ба | T202-10 |
-| variť | варити / готувати | [ˈvaric] | ВА-ріць | T202-11 |
-| cez víkend | на вихідних | [tsɛz ˈviːkɛnt] | цез ВІ-кенд | T202-12 |
+| voľný čas | вільний час | [ˈvɔʎniː tʃas] | ВОЛЬ-ні час | slow-01.mp3 |
+| hobby / záľuba | хобі / захоплення | [ˈhɔbi] / [ˈzaːʎuba] | ГО-бі / ЗАА-лю-ба | slow-02.mp3 |
+| čítať | читати | [ˈtʃiːtac] | ЧІ-таць | slow-03.mp3 |
+| športovať | займатись спортом | [ˈʃpɔrtɔvac] | ШПОР-то-ваць | slow-04.mp3 |
+| bicykel | велосипед | [ˈbitsikɛʎ] | БІ-ци-кель | slow-05.mp3 |
+| prechádzka | прогулянка | [ˈprɛxaːdzka] | ПРЕ-хаа-дз-ка | slow-06.mp3 |
+| kino / divadlo | кіно / театр | [ˈkinɔ] / [ˈɟivadlɔ] | КІ-но / ДІ-вад-ло | slow-07.mp3 |
+| stretnúť sa | зустрітись | [ˈstrɛtnuːc sa] | СТРЕТ-нууць са | slow-08.mp3 |
+| baviť sa | розважатись | [ˈbavic sa] | БА-віць са | slow-09.mp3 |
+| hudba | музика | [ˈɦudba] | ГУД-ба | slow-10.mp3 |
+| variť | варити / готувати | [ˈvaric] | ВА-ріць | slow-11.mp3 |
+| cez víkend | на вихідних | [tsɛz ˈviːkɛnt] | цез ВІ-кенд | slow-12.mp3 |
 
 ### 3. GRAMATIKA: budúci čas — budem + infinitív (nedokonavé)
 | Osoba | budem + robiť |

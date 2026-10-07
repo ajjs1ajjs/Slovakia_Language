@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| úvod | вступ | [ˈuːvod] | у́вод | ▶️ 329-01 |
-| jadro | основна частина | [ˈjadro] | я́дро | ▶️ 329-02 |
-| záver | висновок | [ˈzaːvɛr] | за́вер | ▶️ 329-03 |
-| argument pre/proti | аргумент за/проти | [ˈargument] | а́ргумент | ▶️ 329-04 |
-| podľa môjho názoru | на мою думку | [ˈpodʎa ˈmoːɦo] | по́для мо́го | ▶️ 329-05 |
-| na jednej strane | з одного боку | [na ˈjɛdnɛj ˈstraɲɛ] | на є́дней стра́нє | ▶️ 329-06 |
-| na druhej strane | з іншого боку | [na ˈdruɦɛj] | на дру́гей | ▶️ 329-07 |
-| som presvedčený/á | я переконаний/а | [som ˈprɛsvɛtʃɛniː] | сом пре-све́дчені | ▶️ 329-08 |
-| zhrnuté a podčiarknuté | підсумовуючи | [ˈzxrnutɛː] | згрну́те | ▶️ 329-09 |
-| príkladom je | прикладом є | [ˈpriːkladom jɛ] | прі́кладом є | ▶️ 329-10 |
-| nevýhoda / výhoda | недолік / перевага | [ˈnɛviːɦoda] | не́вігода | ▶️ 329-11 |
-| počet slov | кількість слів | [ˈpotʃɛt slof] | по́чет слов | ▶️ 329-12 |
+| úvod | вступ | [ˈuːvod] | у́вод | slow-01.mp3 |
+| jadro | основна частина | [ˈjadro] | я́дро | slow-02.mp3 |
+| záver | висновок | [ˈzaːvɛr] | за́вер | slow-03.mp3 |
+| argument pre/proti | аргумент за/проти | [ˈargument] | а́ргумент | — |
+| podľa môjho názoru | на мою думку | [ˈpodʎa ˈmoːɦo] | по́для мо́го | slow-04.mp3 |
+| na jednej strane | з одного боку | [na ˈjɛdnɛj ˈstraɲɛ] | на є́дней стра́нє | dialog-03.mp3 |
+| na druhej strane | з іншого боку | [na ˈdruɦɛj] | на дру́гей | dialog-04.mp3 |
+| som presvedčený/á | я переконаний/а | [som ˈprɛsvɛtʃɛniː] | сом пре-све́дчені | — |
+| zhrnuté a podčiarknuté | підсумовуючи | [ˈzxrnutɛː] | згрну́те | slow-05.mp3 |
+| príkladom je | прикладом є | [ˈpriːkladom jɛ] | прі́кладом є | — |
+| nevýhoda / výhoda | недолік / перевага | [ˈnɛviːɦoda] | не́вігода | — |
+| počet slov | кількість слів | [ˈpotʃɛt slof] | по́чет слов | — |
 
 ### 3. GRAMATIKA: štruktúra eseje + konektory
 Правило: есе B1 = 3 частини + конектори.

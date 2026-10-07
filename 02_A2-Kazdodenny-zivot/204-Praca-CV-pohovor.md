@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| práca / zamestnanie | робота / зайнятість | [ˈpraːtsa] / [ˈzamɛstnaɲɪɛ] | ПРАА-ца / ЗА-мест-на-ніе | T204-01 |
-| životopis (CV) | резюме | [ˈʒivɔtɔpis] | ЖІ-во-то-піс | T204-02 |
-| pohovor | співбесіда | [ˈpɔɦɔvɔr] | ПО-го-вор | T204-03 |
-| vzdelanie | освіта | [ˈvzɟɛlaɲɪɛ] | ВЗДЄ-ла-ніе | T204-04 |
-| skúsenosť | досвід | [ˈskuːsɛnɔsc] | СКУУ-се-носць | T204-05 |
-| zručnosť | навичка | [ˈzrutʃnɔsc] | ЗРУЧ-носць | T204-06 |
-| pracovať ako | працювати ким | [ˈpratsɔvac ˈakɔ] | ПРА-цо-ваць А-ко | T204-07 |
-| hľadať prácu | шукати роботу | [ˈɦʎadac ˈpraːtsu] | ГЛЯ-даць ПРАА-цу | T204-08 |
-| plat | зарплата | [plat] | плат | T204-09 |
-| pracovný čas | робочий час | [ˈpratsɔvniː tʃas] | ПРА-цов-ні час | T204-10 |
-| zamestnávateľ | роботодавець | [ˈzamɛstnaːvatɛʎ] | ЗА-мест-наа-ва-тель | T204-11 |
-| nastúpiť | стати до роботи | [ˈnastuːpic] | НА-стуу-піць | T204-12 |
+| práca / zamestnanie | робота / зайнятість | [ˈpraːtsa] / [ˈzamɛstnaɲɪɛ] | ПРАА-ца / ЗА-мест-на-ніе | slow-01.mp3 |
+| životopis (CV) | резюме | [ˈʒivɔtɔpis] | ЖІ-во-то-піс | slow-02.mp3 |
+| pohovor | співбесіда | [ˈpɔɦɔvɔr] | ПО-го-вор | slow-03.mp3 |
+| vzdelanie | освіта | [ˈvzɟɛlaɲɪɛ] | ВЗДЄ-ла-ніе | slow-04.mp3 |
+| skúsenosť | досвід | [ˈskuːsɛnɔsc] | СКУУ-се-носць | slow-05.mp3 |
+| zručnosť | навичка | [ˈzrutʃnɔsc] | ЗРУЧ-носць | slow-06.mp3 |
+| pracovať ako | працювати ким | [ˈpratsɔvac ˈakɔ] | ПРА-цо-ваць А-ко | slow-07.mp3 |
+| hľadať prácu | шукати роботу | [ˈɦʎadac ˈpraːtsu] | ГЛЯ-даць ПРАА-цу | slow-08.mp3 |
+| plat | зарплата | [plat] | плат | slow-09.mp3 |
+| pracovný čas | робочий час | [ˈpratsɔvniː tʃas] | ПРА-цов-ні час | slow-10.mp3 |
+| zamestnávateľ | роботодавець | [ˈzamɛstnaːvatɛʎ] | ЗА-мест-наа-ва-тель | slow-11.mp3 |
+| nastúpiť | стати до роботи | [ˈnastuːpic] | НА-стуу-піць | slow-12.mp3 |
 
 ### 3. GRAMATIKA: vid — dokonavý vs nedokonavý (робота)
 | Nedokonavý (що робити?) | Dokonavý (що зробити?) |

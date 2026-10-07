@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| ubytovanie | проживання | [ˈubitɔvaɲɪɛ] | У-бі-то-ва-ніе | T218-01 |
-| hotel / penzión | готель / пансіон | [ˈɦɔtɛl] / [ˈpɛnziɔːn] | ГО-тел / ПЕН-зі-оон | T218-02 |
-| izba / posteľ | кімната / ліжко | [ˈizba] / [ˈpɔstɛʎ] | ІЗ-ба / ПО-стель | T218-03 |
-| rezervácia | бронювання | [ˈrɛzɛrvaːtsɪa] | РЕ-зер-ваа-ціа | T218-04 |
-| recepcia / kľúč | рецепція / ключ | [ˈrɛtsɛptsɪa] / [kʎuːtʃ] | РЕ-цеп-ціа / клююч | T218-05 |
-| raňajky v cene | сніданок включено | [ˈraɲajki f ˈtsɛnɛ] | РА-няй-кі ф ЦЕ-не | T218-06 |
-| sprcha / uterák | душ / рушник | [ˈsprxa] / [ˈutɛraːk] | СПР-ха / У-те-раак | T218-07 |
-| prenájom / nájom | оренда / найм | [ˈprɛnaːjɔm] / [ˈnaːjɔm] | ПРЕ-наа-йом / НАА-йом | T218-08 |
-| majiteľ | власник | [ˈmajitɛʎ] | МА-ї-тель | T218-09 |
-| kúrenie / teplá voda | опалення / гаряча вода | [ˈkuːrɛɲɪɛ] / [ˈtɛplaː ˈvɔda] | КУУ-ре-ніе / ТЕП-лаа ВО-да | T218-10 |
-| hluk | шум | [ɦluk] | глук | T218-11 |
-| odhlásiť sa / prihlásiť sa | виселитись / заселитись | [ˈɔdɦlaːsic sa] / [ˈpriɦlaːsic sa] | ОД-глаа-сіць са | T218-12 |
+| ubytovanie | проживання | [ˈubitɔvaɲɪɛ] | У-бі-то-ва-ніе | slow-01.mp3 |
+| hotel / penzión | готель / пансіон | [ˈɦɔtɛl] / [ˈpɛnziɔːn] | ГО-тел / ПЕН-зі-оон | slow-02.mp3 |
+| izba / posteľ | кімната / ліжко | [ˈizba] / [ˈpɔstɛʎ] | ІЗ-ба / ПО-стель | slow-03.mp3 |
+| rezervácia | бронювання | [ˈrɛzɛrvaːtsɪa] | РЕ-зер-ваа-ціа | slow-04.mp3 |
+| recepcia / kľúč | рецепція / ключ | [ˈrɛtsɛptsɪa] / [kʎuːtʃ] | РЕ-цеп-ціа / клююч | slow-05.mp3 |
+| raňajky v cene | сніданок включено | [ˈraɲajki f ˈtsɛnɛ] | РА-няй-кі ф ЦЕ-не | slow-06.mp3 |
+| sprcha / uterák | душ / рушник | [ˈsprxa] / [ˈutɛraːk] | СПР-ха / У-те-раак | slow-07.mp3 |
+| prenájom / nájom | оренда / найм | [ˈprɛnaːjɔm] / [ˈnaːjɔm] | ПРЕ-наа-йом / НАА-йом | slow-08.mp3 |
+| majiteľ | власник | [ˈmajitɛʎ] | МА-ї-тель | slow-09.mp3 |
+| kúrenie / teplá voda | опалення / гаряча вода | [ˈkuːrɛɲɪɛ] / [ˈtɛplaː ˈvɔda] | КУУ-ре-ніе / ТЕП-лаа ВО-да | slow-10.mp3 |
+| hluk | шум | [ɦluk] | глук | slow-11.mp3 |
+| odhlásiť sa / prihlásiť sa | виселитись / заселитись | [ˈɔdɦlaːsic sa] / [ˈpriɦlaːsic sa] | ОД-глаа-сіць са | slow-12.mp3 |
 
 ### 3. GRAMATIKA: zvratné slovesá úvod — sa (prihlásiť sa, sťahovať sa)
 `sa` — окреме слово, на 2-й позиції: `Prihlásim sa. Ubytujem sa.`

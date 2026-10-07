@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| právo / povinnosť | право / обов'язок | [ˈpraːvɔ] | ПРАА-во | T423-01 |
-| zákon | закон | [ˈzaːkɔn] | ЗАА-кон | T423-02 |
-| pobyt (prechodný/trvalý) | проживання | [ˈpɔbit] | ПО-біт | T423-03 |
-| povolenie | дозвіл | [ˈpɔvɔlɛɲɪɛ] | ПО-во-лє-нє | T423-04 |
-| zmluva | договір | [ˈzmluva] | ЗМЛУ-ва | T423-05 |
-| nájom / podnájom | оренда / суборенда | [ˈnaːjɔm] | НАА-йом | T423-06 |
-| výpoveď | заява про звільнення | [ˈviːpɔvɛɟ] | ВІІ-по-вєдь | T423-07 |
-| pokuta | штраф | [ˈpɔkuta] | ПО-ку-та | T423-08 |
-| odvolať sa | оскаржити | [ˈɔdvɔlaɟ sa] | ОД-во-ладь са | T423-09 |
-| bezplatná právna pomoc | безоплатна правова допомога | [ˈbɛsplatnaː ˈpraːvnaː ˈpɔmɔts] | БЄС-плат-наа ПРААВ-наа ПО-моц | T423-10 |
-| úrad / cudzinecká polícia | установа / міграційна поліція | [ˈtsudzɪnɛtskaː ˈpɔliːtsɪja] | ЦУ-дзі-нєц-каа по-ліі-ці-я | T423-11 |
-| platiť dane | платити податки | [ˈdaɲɛ] | ДА-нє | T423-12 |
+| právo / povinnosť | право / обов'язок | [ˈpraːvɔ] | ПРАА-во | slow-01.mp3 |
+| zákon | закон | [ˈzaːkɔn] | ЗАА-кон | slow-01.mp3 |
+| pobyt (prechodný/trvalý) | проживання | [ˈpɔbit] | ПО-біт | — |
+| povolenie | дозвіл | [ˈpɔvɔlɛɲɪɛ] | ПО-во-лє-нє | slow-01.mp3 |
+| zmluva | договір | [ˈzmluva] | ЗМЛУ-ва | slow-01.mp3 |
+| nájom / podnájom | оренда / суборенда | [ˈnaːjɔm] | НАА-йом | slow-02.mp3 |
+| výpoveď | заява про звільнення | [ˈviːpɔvɛɟ] | ВІІ-по-вєдь | slow-02.mp3 |
+| pokuta | штраф | [ˈpɔkuta] | ПО-ку-та | slow-02.mp3 |
+| odvolať sa | оскаржити | [ˈɔdvɔlaɟ sa] | ОД-во-ладь са | slow-02.mp3 |
+| bezplatná právna pomoc | безоплатна правова допомога | [ˈbɛsplatnaː ˈpraːvnaː ˈpɔmɔts] | БЄС-плат-наа ПРААВ-наа ПО-моц | slow-03.mp3 |
+| úrad / cudzinecká polícia | установа / міграційна поліція | [ˈtsudzɪnɛtskaː ˈpɔliːtsɪja] | ЦУ-дзі-нєц-каа по-ліі-ці-я | slow-03.mp3 |
+| platiť dane | платити податки | [ˈdaɲɛ] | ДА-нє | — |
 
 ### 3. GRAMATIKA-нюанс: mať povinnosť / mať právo + infinitív; zákazové konštrukcie
 | Конструкція | Приклад |

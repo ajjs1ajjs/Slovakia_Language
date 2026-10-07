@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| predstavenie | вистава | [ˈprɛtstavɛɲi̯ɛ] | пре́дставеніє | ▶️ 308-01 |
-| premietanie | кіносеанс | [ˈprɛmi̯ɛtaɲi̯ɛ] | пре́мієтаніє | ▶️ 308-02 |
-| vstupenka | квиток | [ˈfstupɛnka] | фсту́пенка | ▶️ 308-03 |
-| rad / sedadlo | ряд / місце | [rat] / [ˈsɛdadlo] | рад / се́дадло | ▶️ 308-04 |
-| dabing / titulky | дубляж / субтитри | [ˈdabing] / [ˈtitulki] | да́бінг / ті́тулкі | ▶️ 308-05 |
-| herec / herečka | актор / акторка | [ˈɦɛrɛts] | ге́рец | ▶️ 308-06 |
-| dej | сюжет | [ɟɛj] | дєй | ▶️ 308-07 |
-| nudný / napínavý | нудний / захопливий | [ˈnudniː] / [ˈnapiːnaviː] | ну́дні / на-пі́наві | ▶️ 308-08 |
-| odporúčať | рекомендувати | [ˈodporuːtʃac] | о́дпоручаць | ▶️ 308-09 |
-| vypredané | розпродано | [ˈviprɛdanɛː] | ві́преддане | ▶️ 308-10 |
-| prestávka | антракт | [ˈprɛstaːvka] | пре́ставка | ▶️ 308-11 |
-| tlieskať | аплодувати | [ˈtli̯ɛskac] | тліє́скаць | ▶️ 308-12 |
+| predstavenie | вистава | [ˈprɛtstavɛɲi̯ɛ] | пре́дставеніє | slow-01.mp3 |
+| premietanie | кіносеанс | [ˈprɛmi̯ɛtaɲi̯ɛ] | пре́мієтаніє | — |
+| vstupenka | квиток | [ˈfstupɛnka] | фсту́пенка | slow-02.mp3 |
+| rad / sedadlo | ряд / місце | [rat] / [ˈsɛdadlo] | рад / се́дадло | — |
+| dabing / titulky | дубляж / субтитри | [ˈdabing] / [ˈtitulki] | да́бінг / ті́тулкі | slow-03.mp3 |
+| herec / herečka | актор / акторка | [ˈɦɛrɛts] | ге́рец | slow-04.mp3 |
+| dej | сюжет | [ɟɛj] | дєй | — |
+| nudný / napínavý | нудний / захопливий | [ˈnudniː] / [ˈnapiːnaviː] | ну́дні / на-пі́наві | — |
+| odporúčať | рекомендувати | [ˈodporuːtʃac] | о́дпоручаць | — |
+| vypredané | розпродано | [ˈviprɛdanɛː] | ві́преддане | — |
+| prestávka | антракт | [ˈprɛstaːvka] | пре́ставка | — |
+| tlieskať | аплодувати | [ˈtli̯ɛskac] | тліє́скаць | — |
 
 ### 3. GRAMATIKA: stupňovanie prídavných mien (opakovanie B1)
 Правило: -ší/-ejší + naj- для найвищого ступеня.

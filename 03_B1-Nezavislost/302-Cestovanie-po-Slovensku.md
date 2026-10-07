@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| výlet | прогулянка, поїздка | [ˈviːlɛt] | ві́лет | ▶️ 302-01 |
-| hrad | замок | [ɦrat] | град | ▶️ 302-02 |
-| jaskyňa | печера | [ˈjaskɪɲa] | я́скіня | ▶️ 302-03 |
-| vrch | вершина | [vrx] | врх | ▶️ 302-04 |
-| ubytovanie | проживання | [ˈubitovaɲi̯ɛ] | у-бі-то́ваніє | ▶️ 302-05 |
-| spiatočný lístok | квиток туди-назад | [ˈspi̯atɔtʃniː ˈliːstok] | спя́точні лі́сток | ▶️ 302-06 |
-| cestovný poriadok | розклад руху | [ˈtsɛstovniː ˈpori̯adok] | це́стовні по́рядок | ▶️ 302-07 |
-| pamiatka | пам'ятка | [ˈpami̯atka] | па́мятка | ▶️ 302-08 |
-| termálne kúpalisko | термальний басейн | [ˈtɛrmaːlnɛ ˈkuːpalisko] | терма́лне ку́паліско | ▶️ 302-09 |
-| turistický chodník | туристична стежка | [ˈturistitskiː ˈxodɲiːk] | ту-ріс-ті́цкі хо́днік | ▶️ 302-10 |
-| prestupovať | пересідати | [ˈprɛstupovac] | пре́ступоваць | ▶️ 302-11 |
-| meškať | запізнюватись | [ˈmɛʃkac] | ме́шкаць | ▶️ 302-12 |
+| výlet | прогулянка, поїздка | [ˈviːlɛt] | ві́лет | slow-01.mp3 |
+| hrad | замок | [ɦrat] | град | slow-02.mp3 |
+| jaskyňa | печера | [ˈjaskɪɲa] | я́скіня | slow-03.mp3 |
+| vrch | вершина | [vrx] | врх | — |
+| ubytovanie | проживання | [ˈubitovaɲi̯ɛ] | у-бі-то́ваніє | slow-04.mp3 |
+| spiatočný lístok | квиток туди-назад | [ˈspi̯atɔtʃniː ˈliːstok] | спя́точні лі́сток | slow-05.mp3 |
+| cestovný poriadok | розклад руху | [ˈtsɛstovniː ˈpori̯adok] | це́стовні по́рядок | — |
+| pamiatka | пам'ятка | [ˈpami̯atka] | па́мятка | — |
+| termálne kúpalisko | термальний басейн | [ˈtɛrmaːlnɛ ˈkuːpalisko] | терма́лне ку́паліско | — |
+| turistický chodník | туристична стежка | [ˈturistitskiː ˈxodɲiːk] | ту-ріс-ті́цкі хо́днік | — |
+| prestupovať | пересідати | [ˈprɛstupovac] | пре́ступоваць | slow-06.mp3 |
+| meškať | запізнюватись | [ˈmɛʃkac] | ме́шкаць | — |
 
 ### 3. GRAMATIKA: inštrumentál «s kým? s čím?» (cestovať s...)
 Правило: подорожуємо **s** + орудний відмінок (so mnou, s rodinou, vlakom — без s для транспорту).

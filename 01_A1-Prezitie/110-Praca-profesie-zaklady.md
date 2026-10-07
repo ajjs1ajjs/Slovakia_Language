@@ -8,18 +8,18 @@ Unsplash-підказка: «diverse professions team».
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| práca / zamestnanie | робота / зайнятість | [ˈpraːt͡sa] / [ˈzamɛstnaɲɪɛ] | ПРАА-ца / ЗА-мест-на-ніе | 110-01 |
-| učiteľ / lekár / vodič | вчитель / лікар / водій | [ˈut͡ʃitɛʎ] / [ˈlɛkaːr] / [ˈvɔɟit͡ʃ] | У-чі-тель / ЛЕ-каар / ВО-дзіч | 110-02 |
-| kuchár / predavač / čašník | кухар / продавець / офіціант | [ˈkuxaːr] / [ˈprɛdavat͡ʃ] / [ˈt͡ʃaʃɲiːk] | КУ-хаар / ПРЕ-да-вач / ЧАШ-нік | 110-03 |
-| pracovať / robiť | працювати / робити | [ˈprat͡sɔvac] / [ˈrɔbic] | ПРА-цо-ваць / РО-біць | 110-04 |
-| pracujem ako... | працюю як... | [ˈprat͡sujɛm akɔ] | ПРА-цу-єм А-ко | 110-05 |
-| firma / kancelária / továreň | фірма / офіс / завод | [ˈfirma] / [ˈkant͡sɛlaːrɪa] / [ˈtɔvaːrɛɲ] | ФІР-ма / КА-н-це-лаа-рія / ТО-ваа-рень | 110-06 |
-| kolega / šéf | колега / шеф | [ˈkɔlɛga] / [ʃɛːf] | КО-ле-ґа / шееф | 110-07 |
-| plat / peniaze | зарплата / гроші | [plat] / [ˈpɛɲazɛ] | плат / ПЕ-ня-зе | 110-08 |
-| nezamestnaný | безробітний | [ˈnɛzamɛstnaniː] | НЕ-за-мест-на-ні | 110-09 |
-| hľadám prácu | шукаю роботу | [ˈɦʎadaːm ˈpraːt͡su] | ГЛЯ-даам ПРАА-цу | 110-10 |
-| kde pracuješ? | де працюєш? | [gɟɛ ˈprat͡sujɛʃ] | ґдє ПРА-цу-єш? | 110-11 |
-| som / nie som | я є / я не | [sɔm] / [ˈɲɪɛ sɔm] | сом / НІЕ сом | 110-12 |
+| práca / zamestnanie | робота / зайнятість | [ˈpraːt͡sa] / [ˈzamɛstnaɲɪɛ] | ПРАА-ца / ЗА-мест-на-ніе | — |
+| učiteľ / lekár / vodič | вчитель / лікар / водій | [ˈut͡ʃitɛʎ] / [ˈlɛkaːr] / [ˈvɔɟit͡ʃ] | У-чі-тель / ЛЕ-каар / ВО-дзіч | slow-02.mp3 |
+| kuchár / predavač / čašník | кухар / продавець / офіціант | [ˈkuxaːr] / [ˈprɛdavat͡ʃ] / [ˈt͡ʃaʃɲiːk] | КУ-хаар / ПРЕ-да-вач / ЧАШ-нік | slow-03.mp3 |
+| pracovať / robiť | працювати / робити | [ˈprat͡sɔvac] / [ˈrɔbic] | ПРА-цо-ваць / РО-біць | — |
+| pracujem ako... | працюю як... | [ˈprat͡sujɛm akɔ] | ПРА-цу-єм А-ко | — |
+| firma / kancelária / továreň | фірма / офіс / завод | [ˈfirma] / [ˈkant͡sɛlaːrɪa] / [ˈtɔvaːrɛɲ] | ФІР-ма / КА-н-це-лаа-рія / ТО-ваа-рень | — |
+| kolega / šéf | колега / шеф | [ˈkɔlɛga] / [ʃɛːf] | КО-ле-ґа / шееф | — |
+| plat / peniaze | зарплата / гроші | [plat] / [ˈpɛɲazɛ] | плат / ПЕ-ня-зе | — |
+| nezamestnaný | безробітний | [ˈnɛzamɛstnaniː] | НЕ-за-мест-на-ні | — |
+| hľadám prácu | шукаю роботу | [ˈɦʎadaːm ˈpraːt͡su] | ГЛЯ-даам ПРАА-цу | slow-06.mp3 |
+| kde pracuješ? | де працюєш? | [gɟɛ ˈprat͡sujɛʃ] | ґдє ПРА-цу-єш? | slow-07.mp3 |
+| som / nie som | я є / я не | [sɔm] / [ˈɲɪɛ sɔm] | сом / НІЕ сом | — |
 
 ### 3. GRAMATIKA: **-ovať / -iť časovanie** (pracovať, robiť)
 | osoba | prac-ovať | rob-iť |

@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| víkend | вихідні | [ˈviːkɛnt] | ВІІ-кенд | T212-01 |
-| oddychovať — oddychoval som | відпочивати — я відпочивав | [ˈɔddixɔval sɔm] | ОД-ді-хо-вал сом | T212-02 |
-| navštíviť — navštívil som | відвідати — я відвідав | [ˈnafʃciːvic] | НАФ-штіі-віць | T212-03 |
-| stretnúť — stretol som | зустріти — я зустрів | [ˈstrɛtnuːc] | СТРЕТ-нууць | T212-04 |
-| kúpiť — kúpil som | купити — я купив | [ˈkuːpic] | КУУ-піць | T212-05 |
-| variť — varil som | готувати — я готував | [ˈvaril sɔm] | ВА-ріл сом | T212-06 |
-| pozerať — pozeral som | дивитись — я дивився | [ˈpɔzɛral sɔm] | ПО-зе-рал сом | T212-07 |
-| hrať — hral som | грати — я грав | [ɦrac] | граць | T212-08 |
-| smiať sa — smial som sa | сміятись — я сміявся | [ˈsmɪac sa] | СМІ-аць са | T212-09 |
-| nikde / nikto | ніде / ніхто | [ˈɲigɟɛ] / [ˈɲiktɔ] | НІ-ґ-дє / НІ-кто | T212-10 |
-| spolu | разом | [ˈspɔlu] | СПО-лу | T212-11 |
-| skvelý | чудовий | [ˈskvɛliː] | СКВЕ-лі | T212-12 |
+| víkend | вихідні | [ˈviːkɛnt] | ВІІ-кенд | slow-01.mp3 |
+| oddychovať — oddychoval som | відпочивати — я відпочивав | [ˈɔddixɔval sɔm] | ОД-ді-хо-вал сом | slow-02.mp3 |
+| navštíviť — navštívil som | відвідати — я відвідав | [ˈnafʃciːvic] | НАФ-штіі-віць | slow-03.mp3 |
+| stretnúť — stretol som | зустріти — я зустрів | [ˈstrɛtnuːc] | СТРЕТ-нууць | slow-04.mp3 |
+| kúpiť — kúpil som | купити — я купив | [ˈkuːpic] | КУУ-піць | slow-05.mp3 |
+| variť — varil som | готувати — я готував | [ˈvaril sɔm] | ВА-ріл сом | slow-06.mp3 |
+| pozerať — pozeral som | дивитись — я дивився | [ˈpɔzɛral sɔm] | ПО-зе-рал сом | slow-07.mp3 |
+| hrať — hral som | грати — я грав | [ɦrac] | граць | slow-08.mp3 |
+| smiať sa — smial som sa | сміятись — я сміявся | [ˈsmɪac sa] | СМІ-аць са | slow-09.mp3 |
+| nikde / nikto | ніде / ніхто | [ˈɲigɟɛ] / [ˈɲiktɔ] | НІ-ґ-дє / НІ-кто | slow-10.mp3 |
+| spolu | разом | [ˈspɔlu] | СПО-лу | slow-11.mp3 |
+| skvelý | чудовий | [ˈskvɛliː] | СКВЕ-лі | slow-12.mp3 |
 
 ### 3. GRAMATIKA: nepravidelné príčestia + zápor (ne-)
 | Infinitív | Minulý čas (on) | Zápor |

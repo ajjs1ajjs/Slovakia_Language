@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| včera / predvčerom | вчора / позавчора | [ˈftʃɛra] / [ˈprɛdftʃɛrɔm] | ФЧЕ-ра / ПРЕД-фче-ром | T211-01 |
-| minulý (týždeň) | минулий (тиждень) | [ˈminuliː ˈtiːʒɟɛɲ] | МІ-ну-лі ТІ-ждєнь | T211-02 |
-| byť — bol som | бути — я був | [bɔl sɔm] | бол сом | T211-03 |
-| robiť — robil som | робити — я робив | [ˈrɔbil sɔm] | РО-біл сом | T211-04 |
-| ísť — išiel som | йти — я йшов | [ˈiʃɪɛl sɔm] | І-шіел сом | T211-05 |
-| vidieť — videl som | бачити — я бачив | [ˈviɟɛl sɔm] | ВІ-дєл сом | T211-06 |
-| jesť — jedol som | їсти — я їв | [ˈjɛdɔl sɔm] | Є-дол сом | T211-07 |
-| spať — spal som | спати — я спав | [spal sɔm] | спал сом | T211-08 |
-| hovoriť — hovoril som | говорити — я говорив | [ˈɦɔvɔril sɔm] | ГО-во-ріл сом | T211-09 |
-| potom / najprv | потім / спочатку | [ˈpɔtɔm] / [ˈnajpr̥f] | ПО-том / НАЙ-прф | T211-10 |
-| zrazu | раптом | [ˈzrazu] | ЗРА-зу | T211-11 |
-| nakoniec | нарешті / врешті | [ˈnakɔɲɪɛts] | НА-ко-ніець | T211-12 |
+| včera / predvčerom | вчора / позавчора | [ˈftʃɛra] / [ˈprɛdftʃɛrɔm] | ФЧЕ-ра / ПРЕД-фче-ром | slow-01.mp3 |
+| minulý (týždeň) | минулий (тиждень) | [ˈminuliː ˈtiːʒɟɛɲ] | МІ-ну-лі ТІ-ждєнь | slow-02.mp3 |
+| byť — bol som | бути — я був | [bɔl sɔm] | бол сом | slow-03.mp3 |
+| robiť — robil som | робити — я робив | [ˈrɔbil sɔm] | РО-біл сом | slow-04.mp3 |
+| ísť — išiel som | йти — я йшов | [ˈiʃɪɛl sɔm] | І-шіел сом | slow-05.mp3 |
+| vidieť — videl som | бачити — я бачив | [ˈviɟɛl sɔm] | ВІ-дєл сом | slow-06.mp3 |
+| jesť — jedol som | їсти — я їв | [ˈjɛdɔl sɔm] | Є-дол сом | slow-07.mp3 |
+| spať — spal som | спати — я спав | [spal sɔm] | спал сом | slow-08.mp3 |
+| hovoriť — hovoril som | говорити — я говорив | [ˈɦɔvɔril sɔm] | ГО-во-ріл сом | slow-09.mp3 |
+| potom / najprv | потім / спочатку | [ˈpɔtɔm] / [ˈnajpr̥f] | ПО-том / НАЙ-прф | slow-10.mp3 |
+| zrazu | раптом | [ˈzrazu] | ЗРА-зу | slow-11.mp3 |
+| nakoniec | нарешті / врешті | [ˈnakɔɲɪɛts] | НА-ко-ніець | slow-12.mp3 |
 
 ### 3. GRAMATIKA: minulý čas — príčestie + som/si/∅
 Формула: `l-ové príčestie (-l) + bol som / si / — / sme / ste / -i`.

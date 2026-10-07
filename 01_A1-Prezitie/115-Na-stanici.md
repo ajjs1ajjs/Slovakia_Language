@@ -8,18 +8,18 @@ Unsplash-підказка: «train station departure board».
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| stanica / nástupište | вокзал / платформа | [ˈstanit͡sa] / [ˈnaːstupɪʃtɛ] | СТА-ні-ца / НАА-сту-піш-те | 115-01 |
-| vlak / meškanie | потяг / запізнення | [vlak] / [ˈmɛʃkaɲɪɛ] | влак / МЕШ-ка-ніе | 115-02 |
-| odchod / príchod | відправлення / прибуття | [ˈɔtxɔt] / [ˈpriːxɔt] | О-тхот / ПРІІ-хот | 115-03 |
-| lístok / spiatočný | квиток / туди-назад | [ˈliːstɔk] / [ˈspiatɔt͡ʃniː] | ЛІІ-сток / СПІА-точ-ні | 115-04 |
-| kedy odchádza? | коли відправляється? | [ˈkɛdi ˈɔtxaːd͡za] | КЕ-ді О-тхаа-дза? | 115-05 |
-| odkiaľ / kam | звідки / куди | [ˈɔtkaʎ] / [kam] | ОТ-каль / кам | 115-06 |
-| prestup / priamy | пересадка / прямий | [ˈprɛstup] / [ˈprɪami] | ПРЕ-ступ / ПРІА-мі | 115-07 |
-| kufor / batoh | валіза / рюкзак | [ˈkufɔr] / [ˈbatɔx] | КУ-фор / БА-тох | 115-08 |
-| cestujem do... | їду до... | [ˈt͡sɛstujɛm dɔ] | ЦЕ-сту-єм до | 115-09 |
-| koľko stojí? | скільки коштує? | [ˈkɔʎkɔ ˈstɔjiː] | КО-ль-ко СТО-ї? | 115-10 |
-| na čas / mešká | вчасно / запізнюється | [na t͡ʃas] / [ˈmɛʃkaː] | на час / МЕШ-каа | 115-11 |
-| informácie | довідка | [ˈinfɔrmaːt͡sɪɛ] | ІН-фор-маа-ціе | 115-12 |
+| stanica / nástupište | вокзал / платформа | [ˈstanit͡sa] / [ˈnaːstupɪʃtɛ] | СТА-ні-ца / НАА-сту-піш-те | slow-01.mp3 |
+| vlak / meškanie | потяг / запізнення | [vlak] / [ˈmɛʃkaɲɪɛ] | влак / МЕШ-ка-ніе | — |
+| odchod / príchod | відправлення / прибуття | [ˈɔtxɔt] / [ˈpriːxɔt] | О-тхот / ПРІІ-хот | slow-02.mp3 |
+| lístok / spiatočný | квиток / туди-назад | [ˈliːstɔk] / [ˈspiatɔt͡ʃniː] | ЛІІ-сток / СПІА-точ-ні | slow-03.mp3 |
+| kedy odchádza? | коли відправляється? | [ˈkɛdi ˈɔtxaːd͡za] | КЕ-ді О-тхаа-дза? | slow-04.mp3 |
+| odkiaľ / kam | звідки / куди | [ˈɔtkaʎ] / [kam] | ОТ-каль / кам | — |
+| prestup / priamy | пересадка / прямий | [ˈprɛstup] / [ˈprɪami] | ПРЕ-ступ / ПРІА-мі | — |
+| kufor / batoh | валіза / рюкзак | [ˈkufɔr] / [ˈbatɔx] | КУ-фор / БА-тох | — |
+| cestujem do... | їду до... | [ˈt͡sɛstujɛm dɔ] | ЦЕ-сту-єм до | slow-06.mp3 |
+| koľko stojí? | скільки коштує? | [ˈkɔʎkɔ ˈstɔjiː] | КО-ль-ко СТО-ї? | — |
+| na čas / mešká | вчасно / запізнюється | [na t͡ʃas] / [ˈmɛʃkaː] | на час / МЕШ-каа | — |
+| informácie | довідка | [ˈinfɔrmaːt͡sɪɛ] | ІН-фор-маа-ціе | — |
 
 ### 3. GRAMATIKA: **kam + do/na** (smer)
 Do + genitív (міста): do Bratislavy, do Košíc. Na + akuzatív (станція): na stanicu, na nástupište.

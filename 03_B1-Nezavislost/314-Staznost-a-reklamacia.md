@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| sťažnosť | скарга | [ˈscɛʒnosc] | сця́жность | ▶️ 314-01 |
-| reklamácia | рекламація, повернення | [ˈrɛklamaːtsi̯a] | ре́кламація | ▶️ 314-02 |
-| pokazený | зламаний, зіпсований | [ˈpokazɛniː] | по́казені | ▶️ 314-03 |
-| záruka | гарантія | [ˈzaːruka] | за́рука | ▶️ 314-04 |
-| bloček / pokladničný doklad | чек | [ˈblotʃɛk] | бло́чек | ▶️ 314-05 |
-| vrátenie peňazí | повернення грошей | [ˈvraːcɛɲi̯ɛ ˈpɛɲaziː] | вра́ценіє пе́нязі | ▶️ 314-06 |
-| výmena | обмін | [ˈviːmɛna] | ві́мена | ▶️ 314-07 |
-| chyba | помилка, дефект | [ˈxiba] | хі́ба | ▶️ 314-08 |
-| nespokojný | незадоволений | [ˈnɛspokojniː] | не́спокойні | ▶️ 314-09 |
-| žiadať | вимагати | [ˈʒi̯adac] | жя́даць | ▶️ 314-10 |
-| ospravedlnenie | вибачення | [ˈospravɛdlnɛɲi̯ɛ] | о́справедлненіє | ▶️ 314-11 |
-| lehota na vybavenie | строк розгляду | [ˈlɛɦota] | ле́гота | ▶️ 314-12 |
+| sťažnosť | скарга | [ˈscɛʒnosc] | сця́жность | slow-01.mp3 |
+| reklamácia | рекламація, повернення | [ˈrɛklamaːtsi̯a] | ре́кламація | slow-02.mp3 |
+| pokazený | зламаний, зіпсований | [ˈpokazɛniː] | по́казені | slow-03.mp3 |
+| záruka | гарантія | [ˈzaːruka] | за́рука | slow-04.mp3 |
+| bloček / pokladničný doklad | чек | [ˈblotʃɛk] | бло́чек | — |
+| vrátenie peňazí | повернення грошей | [ˈvraːcɛɲi̯ɛ ˈpɛɲaziː] | вра́ценіє пе́нязі | dialog-03.mp3 |
+| výmena | обмін | [ˈviːmɛna] | ві́мена | — |
+| chyba | помилка, дефект | [ˈxiba] | хі́ба | — |
+| nespokojný | незадоволений | [ˈnɛspokojniː] | не́спокойні | — |
+| žiadať | вимагати | [ˈʒi̯adac] | жя́даць | — |
+| ospravedlnenie | вибачення | [ˈospravɛdlnɛɲi̯ɛ] | о́справедлненіє | — |
+| lehota na vybavenie | строк розгляду | [ˈlɛɦota] | ле́гота | — |
 
 ### 3. GRAMATIKA: trpné príčestie — «je pokazený» (пасивний стан, частина 1)
 Правило: **byť + trpné príčestie** (urobený, pokazený, zaplatený).

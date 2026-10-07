@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA-opakovanie (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| zhrnúť | підсумувати | [ˈzɦr̩nuːɟ] | ЗГР-нууть | T428-01 |
-| konektor | зв'язка | [ˈkɔnɛktɔr] | КО-нєк-тор | T428-02 |
-| navyše / avšak / preto | до того ж / однак / тому | [ˈnaviʃɛ] | НА-ві-шє | T428-03 |
-| zdvorilosť | ввічливість | [ˈzdvɔrilɔsɟ] | ЗДВО-рі-лость | T428-04 |
-| idióm | ідіома | [ˈidɪ̯ɔːm] | І-діоом | T428-05 |
-| register (formálny) | регістр | [ˈrɛɡistɛr] | РЄ-ґіс-тєр | T428-06 |
-| esej / prejav | есе / виступ | [ˈɛsɛj] | Є-СЕЙ | T428-07 |
-| argument/protiargument | аргумент/контраргумент | [ˈprɔcɪ̯arɡumɛnt] | ПРО-ті-ар-ґу-мєнт | T428-08 |
-| overiť zdroj | перевірити джерело | [ˈzdrɔj] | ЗДРОЙ | T428-09 |
-| plynulosť | плинність | [ˈplinulɔsɟ] | ПЛИ-ну-лость | T428-10 |
-| sebahodnotenie | самооцінка | [ˈsɛbaɦɔdnɔtɛɲɪɛ] | СЄ-ба-год-но-тє-нє | T428-11 |
-| medzera | прогалина | [ˈmɛdzɛra] | МЄ-дзє-ра | T428-12 |
+| zhrnúť | підсумувати | [ˈzɦr̩nuːɟ] | ЗГР-нууть | slow-01.mp3 |
+| konektor | зв'язка | [ˈkɔnɛktɔr] | КО-нєк-тор | slow-01.mp3 |
+| navyše / avšak / preto | до того ж / однак / тому | [ˈnaviʃɛ] | НА-ві-шє | slow-01.mp3 |
+| zdvorilosť | ввічливість | [ˈzdvɔrilɔsɟ] | ЗДВО-рі-лость | slow-01.mp3 |
+| idióm | ідіома | [ˈidɪ̯ɔːm] | І-діоом | slow-02.mp3 |
+| register (formálny) | регістр | [ˈrɛɡistɛr] | РЄ-ґіс-тєр | — |
+| esej / prejav | есе / виступ | [ˈɛsɛj] | Є-СЕЙ | slow-02.mp3 |
+| argument/protiargument | аргумент/контраргумент | [ˈprɔcɪ̯arɡumɛnt] | ПРО-ті-ар-ґу-мєнт | slow-02.mp3 |
+| overiť zdroj | перевірити джерело | [ˈzdrɔj] | ЗДРОЙ | slow-03.mp3 |
+| plynulosť | плинність | [ˈplinulɔsɟ] | ПЛИ-ну-лость | slow-03.mp3 |
+| sebahodnotenie | самооцінка | [ˈsɛbaɦɔdnɔtɛɲɪɛ] | СЄ-ба-год-но-тє-нє | slow-03.mp3 |
+| medzera | прогалина | [ˈmɛdzɛra] | МЄ-дзє-ра | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: mapa celého B2 (5 pilierov)
 | Pilier | Ядро | Лекції |

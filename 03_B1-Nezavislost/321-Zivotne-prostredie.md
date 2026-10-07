@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| prostredie | середовище | [ˈprostri̯ɛɟi̯ɛ] | про́стрєдіє | ▶️ 321-01 |
-| triediť odpad | сортувати сміття | [ˈtri̯ɛɟic ˈotpat] | тріє́діць о́тпад | ▶️ 321-02 |
-| recyklovať | переробляти | [ˈrɛtsiklovac] | ре́цікловаць | ▶️ 321-03 |
-| znečistenie | забруднення | [ˈznɛtʃistɛɲi̯ɛ] | зне́чістеніє | ▶️ 321-04 |
-| ovzdušie | повітря | [ˈovzduʃi̯ɛ] | о́вздушє | ▶️ 321-05 |
-| šetriť vodou | економити воду | [ˈʃɛtric ˈvodou] | ше́тріць во́доу | ▶️ 321-06 |
-| taška (plátenná) | (полотняна) торба | [ˈtaʃka] | та́шка | ▶️ 321-07 |
-| jednorazový | одноразовий | [ˈjɛdnorazoviː] | є́дноразові | ▶️ 321-08 |
-| uhlíková stopa | вуглецевий слід | [ˈuɦliːkovaː ˈstopa] | у́глікова сто́па | ▶️ 321-09 |
-| chrániť prírodu | берегти природу | [ˈxraːnic ˈpriːrodu] | хра́ніць прі́роду | ▶️ 321-10 |
-| globálne otepľovanie | глобальне потепління | [ˈglobaːlnɛ] | гло́балне | ▶️ 321-11 |
-| dobrovoľník | волонтер | [ˈdobrovolɲiːk] | до́бровольнік | ▶️ 321-12 |
+| prostredie | середовище | [ˈprostri̯ɛɟi̯ɛ] | про́стрєдіє | slow-01.mp3 |
+| triediť odpad | сортувати сміття | [ˈtri̯ɛɟic ˈotpat] | тріє́діць о́тпад | slow-02.mp3 |
+| recyklovať | переробляти | [ˈrɛtsiklovac] | ре́цікловаць | slow-03.mp3 |
+| znečistenie | забруднення | [ˈznɛtʃistɛɲi̯ɛ] | зне́чістеніє | — |
+| ovzdušie | повітря | [ˈovzduʃi̯ɛ] | о́вздушє | — |
+| šetriť vodou | економити воду | [ˈʃɛtric ˈvodou] | ше́тріць во́доу | — |
+| taška (plátenná) | (полотняна) торба | [ˈtaʃka] | та́шка | — |
+| jednorazový | одноразовий | [ˈjɛdnorazoviː] | є́дноразові | — |
+| uhlíková stopa | вуглецевий слід | [ˈuɦliːkovaː ˈstopa] | у́глікова сто́па | — |
+| chrániť prírodu | берегти природу | [ˈxraːnic ˈpriːrodu] | хра́ніць прі́роду | — |
+| globálne otepľovanie | глобальне потепління | [ˈglobaːlnɛ] | гло́балне | — |
+| dobrovoľník | волонтер | [ˈdobrovolɲiːk] | до́бровольнік | — |
 
 ### 3. GRAMATIKA: «čím... tým...» — porovnávacie vety
 Правило: **čím + komparatív, tým + komparatív** (чим..., тим...).

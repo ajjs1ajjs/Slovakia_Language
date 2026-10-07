@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| vysoká škola | виш | [ˈvisɔkaː ˈʃkɔla] | ВИ-со-каа шко-ла | T403-01 |
-| prednáška | лекція | [ˈprɛdnaːʃka] | ПРЄД-нааш-ка | T403-02 |
-| seminár | семінар | [ˈsɛminaːr] | СЄ-мі-наар | T403-03 |
-| skúška | іспит | [ˈskuːʃka] | СКУУ-ш-ка | T403-04 |
-| zápočet | залік | [ˈzaːpɔʧɛt] | ЗАА-по-чет | T403-05 |
-| bakalárka / diplomovka | бакалаврська / дипломна | [ˈbakalaːrka] | БА-ка-лаар-ка | T403-06 |
-| štipendium | стипендія | [ˈʃtipɛndium] | ШТІ-пєн-ді-ум | T403-07 |
-| prihláška | заява на вступ | [ˈpriɦlaːʃka] | ПРІ-глааш-ка | T403-08 |
-| študijné oddelenie | навчальний відділ (деканат) | [ˈʃtudijnɛ] | ШТУ-дій-нє | T403-09 |
-| ubytovňa / internát | гуртожиток | [ˈubɪtɔvɲa] | У-би-тов-ня | T403-10 |
-| vedúci práce | науковий керівник | [ˈvɛduːtsi] | ВЄ-дуу-ці | T403-11 |
-| obhájiť | захистити (роботу) | [ˈɔbɦajiɟ] | ОБ-га-їть | T403-12 |
+| vysoká škola | виш | [ˈvisɔkaː ˈʃkɔla] | ВИ-со-каа шко-ла | slow-01.mp3 |
+| prednáška | лекція | [ˈprɛdnaːʃka] | ПРЄД-нааш-ка | slow-01.mp3 |
+| seminár | семінар | [ˈsɛminaːr] | СЄ-мі-наар | slow-01.mp3 |
+| skúška | іспит | [ˈskuːʃka] | СКУУ-ш-ка | slow-01.mp3 |
+| zápočet | залік | [ˈzaːpɔʧɛt] | ЗАА-по-чет | slow-01.mp3 |
+| bakalárka / diplomovka | бакалаврська / дипломна | [ˈbakalaːrka] | БА-ка-лаар-ка | slow-02.mp3 |
+| štipendium | стипендія | [ˈʃtipɛndium] | ШТІ-пєн-ді-ум | slow-02.mp3 |
+| prihláška | заява на вступ | [ˈpriɦlaːʃka] | ПРІ-глааш-ка | slow-02.mp3 |
+| študijné oddelenie | навчальний відділ (деканат) | [ˈʃtudijnɛ] | ШТУ-дій-нє | slow-03.mp3 |
+| ubytovňa / internát | гуртожиток | [ˈubɪtɔvɲa] | У-би-тов-ня | — |
+| vedúci práce | науковий керівник | [ˈvɛduːtsi] | ВЄ-дуу-ці | slow-03.mp3 |
+| obhájiť | захистити (роботу) | [ˈɔbɦajiɟ] | ОБ-га-їть | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: vidové dvojice (доконаний/недоконаний)
 | Nedokonavý (процес) | Dokonavý (результат) | Приклад |

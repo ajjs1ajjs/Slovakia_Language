@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| budúcnosť | майбутнє | [ˈbuduːtsnɔsc] | БУ-дуу-ц-носць | T213-01 |
-| plán / plánovať | план / планувати | [plaːn] / [ˈplaːnɔvac] | плаан / ПЛАА-но-ваць | T213-02 |
-| chcieť | хотіти | [ˈxtsɪɛc] | ХЦІЕЦЬ (х-ці-е-ць) | T213-03 |
-| o rok / o mesiac | за рік / за місяць | [ɔ rɔk] / [ɔ ˈmɛsɪats] | о рок / о МЕ-сіац | T213-04 |
-| budúci (rok) | наступний (рік) | [ˈbuduːtsi rɔk] | БУ-дуу-ці рок | T213-05 |
-| sťahovať sa | переїжджати | [ˈscahɔvac sa] | СЦЯ-го-ваць са | T213-06 |
-| nájsť si (prácu) | знайти собі (роботу) | [ˈnaːjsc si ˈpraːtsu] | НАА-й-сць сі ПРАА-цу | T213-07 |
-| oženiť sa / vydať sa | одружитись / вийти заміж | [ˈɔʒɛɲic sa] / [ˈvidac sa] | О-же-ніць са / ВІ-даць са | T213-08 |
-| dieťa | дитина | [ˈɟɪɛca] | ДІЕ-ця | T213-09 |
-| dovolenka | відпустка | [ˈdɔvɔlɛŋka] | ДО-во-лен-ка | T213-10 |
-| ušetriť | заощадити | [ˈuʃɛtric] | У-ШЕ-тріть | T213-11 |
-| snívať | мріяти | [ˈsniːvac] | СНІІ-ваць | T213-12 |
+| budúcnosť | майбутнє | [ˈbuduːtsnɔsc] | БУ-дуу-ц-носць | slow-01.mp3 |
+| plán / plánovať | план / планувати | [plaːn] / [ˈplaːnɔvac] | плаан / ПЛАА-но-ваць | slow-02.mp3 |
+| chcieť | хотіти | [ˈxtsɪɛc] | ХЦІЕЦЬ (х-ці-е-ць) | slow-03.mp3 |
+| o rok / o mesiac | за рік / за місяць | [ɔ rɔk] / [ɔ ˈmɛsɪats] | о рок / о МЕ-сіац | slow-04.mp3 |
+| budúci (rok) | наступний (рік) | [ˈbuduːtsi rɔk] | БУ-дуу-ці рок | slow-05.mp3 |
+| sťahovať sa | переїжджати | [ˈscahɔvac sa] | СЦЯ-го-ваць са | slow-06.mp3 |
+| nájsť si (prácu) | знайти собі (роботу) | [ˈnaːjsc si ˈpraːtsu] | НАА-й-сць сі ПРАА-цу | slow-07.mp3 |
+| oženiť sa / vydať sa | одружитись / вийти заміж | [ˈɔʒɛɲic sa] / [ˈvidac sa] | О-же-ніць са / ВІ-даць са | slow-08.mp3 |
+| dieťa | дитина | [ˈɟɪɛca] | ДІЕ-ця | slow-09.mp3 |
+| dovolenka | відпустка | [ˈdɔvɔlɛŋka] | ДО-во-лен-ка | slow-10.mp3 |
+| ušetriť | заощадити | [ˈuʃɛtric] | У-ШЕ-тріть | slow-11.mp3 |
+| snívať | мріяти | [ˈsniːvac] | СНІІ-ваць | slow-12.mp3 |
 
 ### 3. GRAMATIKA: budúci čas — zhrnutie (budem + dokonavé)
 | Typ | Tvorenie | Príklad |

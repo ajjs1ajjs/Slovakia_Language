@@ -8,18 +8,18 @@ Unsplash-підказка: «clothing store shop assistant».
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| predavač / zákazník | продавець / покупець | [ˈprɛdavat͡ʃ] / [ˈzaːkazɲiːk] | ПРЕ-да-вач / ЗАА-каз-нік | 114-01 |
-| veľkosť / farba | розмір / колір | [ˈvɛʎkɔsc] / [ˈfarba] | ВЄ-ль-кость / ФАР-ба | 114-02 |
-| môžem si vyskúšať? | можна приміряти? | [ˈmɔːʒɛm si ˈvisttierː] | МОО-жем сі ВИ-скуу-шать? | 114-03 |
-| kabínka / zrkadlo | примірочна / дзеркало | [ˈkabiːŋka] / [ˈzr̩kadlɔ] | КА-біін-ка / ЗР-кад-ло | 114-04 |
-| je mi malé / veľké | мені мале / велике | [jɛ mi ˈmalɛː] / [jɛ mi ˈvɛʎkɛː] | є мі МА-лє / є мі ВЄ-ль-кє | 114-05 |
-| koľko stojí? / zľava | скільки коштує? / знижка | [ˈkɔʎkɔ ˈstɔjiː] / [ˈzʎava] | КО-ль-ко СТО-ї? / ЗЛЯ-ва | 114-06 |
-| beriem / neberiem | беру / не беру | [ˈbɛrɪɛm] / [ˈnɛbɛrɪɛm] | БЕ-ріем / НЕ-бе-ріем | 114-07 |
-| taška / bloček / pokladňa | пакет / чек / каса | [ˈtaʃka] / [ˈblɔt͡ʃɛk] / [ˈpɔkladɲa] | ТАШ-ка / БЛО-чек / ПО-клад-ня | 114-08 |
-| platiť kartou / hotovosť | платити карткою / готівка | [ˈplacic ˈkartɔu̯] / [ˈɦɔtɔvɔsc] | ПЛА-тіць КАР-тоу / ГО-то-вость | 114-09 |
-| otvorené do... | відчинено до... | [ˈɔtvɔrɛnɛː dɔ] | ОТ-во-ре-нє до | 114-10 |
-| iná farba / iná veľkosť | інший колір / розмір | [ˈinaː ˈfarba] | І-наа ФАР-ба | 114-11 |
-| máte...? / nemáte...? | маєте...? | [ˈmaːtɛ] / [ˈnɛmaːtɛ] | МАА-те / НЕ-маа-те | 114-12 |
+| predavač / zákazník | продавець / покупець | [ˈprɛdavat͡ʃ] / [ˈzaːkazɲiːk] | ПРЕ-да-вач / ЗАА-каз-нік | slow-01.mp3 |
+| veľkosť / farba | розмір / колір | [ˈvɛʎkɔsc] / [ˈfarba] | ВЄ-ль-кость / ФАР-ба | slow-02.mp3 |
+| môžem si vyskúšať? | можна приміряти? | [ˈmɔːʒɛm si ˈvisttierː] | МОО-жем сі ВИ-скуу-шать? | slow-03.mp3 |
+| kabínka / zrkadlo | примірочна / дзеркало | [ˈkabiːŋka] / [ˈzr̩kadlɔ] | КА-біін-ка / ЗР-кад-ло | slow-04.mp3 |
+| je mi malé / veľké | мені мале / велике | [jɛ mi ˈmalɛː] / [jɛ mi ˈvɛʎkɛː] | є мі МА-лє / є мі ВЄ-ль-кє | slow-05.mp3 |
+| koľko stojí? / zľava | скільки коштує? / знижка | [ˈkɔʎkɔ ˈstɔjiː] / [ˈzʎava] | КО-ль-ко СТО-ї? / ЗЛЯ-ва | slow-07.mp3 |
+| beriem / neberiem | беру / не беру | [ˈbɛrɪɛm] / [ˈnɛbɛrɪɛm] | БЕ-ріем / НЕ-бе-ріем | — |
+| taška / bloček / pokladňa | пакет / чек / каса | [ˈtaʃka] / [ˈblɔt͡ʃɛk] / [ˈpɔkladɲa] | ТАШ-ка / БЛО-чек / ПО-клад-ня | — |
+| platiť kartou / hotovosť | платити карткою / готівка | [ˈplacic ˈkartɔu̯] / [ˈɦɔtɔvɔsc] | ПЛА-тіць КАР-тоу / ГО-то-вость | — |
+| otvorené do... | відчинено до... | [ˈɔtvɔrɛnɛː dɔ] | ОТ-во-ре-нє до | — |
+| iná farba / iná veľkosť | інший колір / розмір | [ˈinaː ˈfarba] | І-наа ФАР-ба | — |
+| máte...? / nemáte...? | маєте...? | [ˈmaːtɛ] / [ˈnɛmaːtɛ] | МАА-те / НЕ-маа-те | — |
 
 ### 3. GRAMATIKA: **akuzatív — čo si prosím?**
 Mám/Prosím + akuzatív: tričko → tričko, tašku (ž.), sveter (m.). Beriem si + akuzatív: Beriem si tričko.

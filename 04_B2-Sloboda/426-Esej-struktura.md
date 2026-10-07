@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| esej | есе | [ˈɛsɛj] | Є-СЕЙ | T426-01 |
-| úvod | вступ | [ˈuːvɔt] | УУ-вод | T426-02 |
-| hlavná časť | основна частина | [ˈɦlavnaː ˈʧasɟ] | ГЛАВ-наа часть | T426-03 |
-| protiargument | контраргумент | [ˈprɔcɪ̯arɡumɛnt] | ПРО-ті-ар-ґу-мєнт | T426-04 |
-| záver | висновок | [ˈzaːvɛr] | ЗАА-вєр | T426-05 |
-| téma | тема | [ˈtɛːma] | ТЄЄ-ма | T426-06 |
-| tvrdenie | твердження | [ˈtvr̩dɛɲɪɛ] | ТВР-дє-нє | T426-07 |
-| príkladom je | прикладом є | [ˈpriːkladɔm jɛ] | ПРІІ-кла-дом є | T426-08 |
-| na záver | на завершення | [ˈzaːvɛr] | НА ЗАА-вєр | T426-09 |
-| podľa štatistík | за статистикою | [ˈʃtacistiːk] | ШТА-тіс-тіік | T426-10 |
-| som presvedčený | переконаний | [ˈprɛsvɛtʧɛniː] | ПРЄ-свєд-че-нії | T426-11 |
-| rozsah ( slov) | обсяг (слів) | [ˈrɔssaɦ] | РОС-саг | T426-12 |
+| esej | есе | [ˈɛsɛj] | Є-СЕЙ | slow-01.mp3 |
+| úvod | вступ | [ˈuːvɔt] | УУ-вод | slow-01.mp3 |
+| hlavná časť | основна частина | [ˈɦlavnaː ˈʧasɟ] | ГЛАВ-наа часть | slow-01.mp3 |
+| protiargument | контраргумент | [ˈprɔcɪ̯arɡumɛnt] | ПРО-ті-ар-ґу-мєнт | slow-01.mp3 |
+| záver | висновок | [ˈzaːvɛr] | ЗАА-вєр | slow-01.mp3 |
+| téma | тема | [ˈtɛːma] | ТЄЄ-ма | slow-01.mp3 |
+| tvrdenie | твердження | [ˈtvr̩dɛɲɪɛ] | ТВР-дє-нє | slow-02.mp3 |
+| príkladom je | прикладом є | [ˈpriːkladɔm jɛ] | ПРІІ-кла-дом є | slow-02.mp3 |
+| na záver | на завершення | [ˈzaːvɛr] | НА ЗАА-вєр | slow-02.mp3 |
+| podľa štatistík | за статистикою | [ˈʃtacistiːk] | ШТА-тіс-тіік | slow-02.mp3 |
+| som presvedčený | переконаний | [ˈprɛsvɛtʧɛniː] | ПРЄ-свєд-че-нії | slow-03.mp3 |
+| rozsah ( slov) | обсяг (слів) | [ˈrɔssaɦ] | РОС-саг | — |
 
 ### 3. GRAMATIKA-нюанс: štruktúra odsekov + konektory (práve B2)
 | Časť | Konektory |

@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| oblečenie | одяг | [ˈɔblɛtʃɛɲɪɛ] | ОБ-ле-че-ніе | T216-01 |
-| košeľa / tričko | сорочка / футболка | [ˈkɔʃɛʎa] / [ˈtritʃkɔ] | КО-ше-ля / ТРІ-ч-ко | T216-02 |
-| nohavice | штани | [ˈnɔɦavitsɛ] | НО-га-ві-це | T216-03 |
-| šaty | сукня / костюм | [ˈʃati] | ША-ті | T216-04 |
-| topánky / tenisky | взуття / кросівки | [ˈtɔpaːŋki] / [ˈtɛɲiski] | ТО-паа-н-кі / ТЕ-ніс-кі | T216-05 |
-| veľkosť | розмір | [ˈvɛʎkɔsc] | ВЕЛЬ-косць | T216-06 |
-| skúšobná kabínka | примірочна | [ˈskuːʃɔbnaː ˈkabiːŋka] | СКУУ-шоб-наа КА-біі-н-ка | T216-07 |
-| vyskúšať si | приміряти | [ˈvisʃkuːʃac si] | ВІ-скуу-шаць сі | T216-08 |
-| sedí mi / je mi malé | мені пасує / мале | [ˈsɛɟiː mi] / [jɛ mi ˈmalɛː] | СЕ-ді мі / є мі МА-ле | T216-09 |
-| výpredaj / zľava | розпродаж / знижка | [ˈviːprɛdaj] / [ˈzʎava] | ВІІ-пред-ай / ЗЛЯ-ва | T216-10 |
-| bavlna | бавовна | [ˈbavl̥na] | БА-вл-на | T216-11 |
-| pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | T216-12 |
+| oblečenie | одяг | [ˈɔblɛtʃɛɲɪɛ] | ОБ-ле-че-ніе | slow-01.mp3 |
+| košeľa / tričko | сорочка / футболка | [ˈkɔʃɛʎa] / [ˈtritʃkɔ] | КО-ше-ля / ТРІ-ч-ко | slow-02.mp3 |
+| nohavice | штани | [ˈnɔɦavitsɛ] | НО-га-ві-це | slow-03.mp3 |
+| šaty | сукня / костюм | [ˈʃati] | ША-ті | slow-04.mp3 |
+| topánky / tenisky | взуття / кросівки | [ˈtɔpaːŋki] / [ˈtɛɲiski] | ТО-паа-н-кі / ТЕ-ніс-кі | slow-05.mp3 |
+| veľkosť | розмір | [ˈvɛʎkɔsc] | ВЕЛЬ-косць | slow-06.mp3 |
+| skúšobná kabínka | примірочна | [ˈskuːʃɔbnaː ˈkabiːŋka] | СКУУ-шоб-наа КА-біі-н-ка | slow-07.mp3 |
+| vyskúšať si | приміряти | [ˈvisʃkuːʃac si] | ВІ-скуу-шаць сі | slow-08.mp3 |
+| sedí mi / je mi malé | мені пасує / мале | [ˈsɛɟiː mi] / [jɛ mi ˈmalɛː] | СЕ-ді мі / є мі МА-ле | slow-09.mp3 |
+| výpredaj / zľava | розпродаж / знижка | [ˈviːprɛdaj] / [ˈzʎava] | ВІІ-пред-ай / ЗЛЯ-ва | slow-10.mp3 |
+| bavlna | бавовна | [ˈbavl̥na] | БА-вл-на | slow-11.mp3 |
+| pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | slow-12.mp3 |
 
 ### 3. GRAMATIKA: prídavné mená — zhoda + stupňovanie úvod
 | Rod | veľký | veľká | veľké |

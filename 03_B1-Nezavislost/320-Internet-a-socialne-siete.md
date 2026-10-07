@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| sieť | мережа | [si̯ɛc] | сєць | ▶️ 320-01 |
-| príspevok | допис | [ˈpriːspɛvok] | прі́спевок | ▶️ 320-02 |
-| zdieľať | поширювати, шерити | [ˈzɟɛʎac] | здє́ляць | ▶️ 320-03 |
-| sledovateľ | підписник | [ˈslɛdovatɛʎ] | сле́доватєль | ▶️ 320-04 |
-| heslo | пароль | [ˈɦɛslo] | ге́сло | ▶️ 320-05 |
-| súkromie | приватність | [ˈsuːkromi̯ɛ] | су́кроміє | ▶️ 320-06 |
-| podvod | шахрайство | [ˈpodvot] | по́двод | ▶️ 320-07 |
-| nahlásiť | поскаржитись (зарепортити) | [ˈnaɦlaːsic] | на-гла́сіць | ▶️ 320-08 |
-| zablokovať | заблокувати | [ˈzablokovac] | за́блоковаць | ▶️ 320-09 |
-| pripojiť sa (na wifi) | підключитися | [ˈpripojic sa] | прі́поїць са | ▶️ 320-10 |
-| stiahnuť | завантажити | [ˈscɛɦnuːc] | стя́гнуть | ▶️ 320-11 |
-| závislosť | залежність | [ˈzaːvislosc] | за́віслость | ▶️ 320-12 |
+| sieť | мережа | [si̯ɛc] | сєць | dialog-01.mp3 |
+| príspevok | допис | [ˈpriːspɛvok] | прі́спевок | slow-01.mp3 |
+| zdieľať | поширювати, шерити | [ˈzɟɛʎac] | здє́ляць | — |
+| sledovateľ | підписник | [ˈslɛdovatɛʎ] | сле́доватєль | — |
+| heslo | пароль | [ˈɦɛslo] | ге́сло | slow-02.mp3 |
+| súkromie | приватність | [ˈsuːkromi̯ɛ] | су́кроміє | slow-03.mp3 |
+| podvod | шахрайство | [ˈpodvot] | по́двод | dialog-04.mp3 |
+| nahlásiť | поскаржитись (зарепортити) | [ˈnaɦlaːsic] | на-гла́сіць | — |
+| zablokovať | заблокувати | [ˈzablokovac] | за́блоковаць | slow-04.mp3 |
+| pripojiť sa (na wifi) | підключитися | [ˈpripojic sa] | прі́поїць са | — |
+| stiahnuť | завантажити | [ˈscɛɦnuːc] | стя́гнуть | — |
+| závislosť | залежність | [ˈzaːvislosc] | за́віслость | — |
 
 ### 3. GRAMATIKA: «aby + minulý čas» pre účel na internete (rozšírenie)
 Правило: мета дії — **aby som/si... + l-ové príčestie**.

@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| MHD (mestská hromadná doprava) | міський транспорт | [ɛm ɦaː ɟɛː] | ем-га-де | ▶️ 322-01 |
-| zastávka | зупинка | [ˈzastaːvka] | за́ставка | ▶️ 322-02 |
-| prestup | пересадка | [ˈprɛstup] | пре́ступ | ▶️ 322-03 |
-| cestovný lístok | квиток | [ˈtsɛstovniː ˈliːstok] | це́стовні лі́сток | ▶️ 322-04 |
-| označiť si lístok | прокомпостувати квиток | [ˈoznatʃic si] | о́значіць сі | ▶️ 322-05 |
-| pokuta | штраф | [ˈpokuta] | по́кута | ▶️ 322-06 |
-| meškanie | запізнення | [ˈmɛʃkaɲi̯ɛ] | ме́шканіє | ▶️ 322-07 |
-| výluka | закриття (ремонт колії) | [ˈviːluka] | ві́лука | ▶️ 322-08 |
-| linka | маршрут, лінія | [ˈlinka] | лі́нка | ▶️ 322-09 |
-| smer | напрямок | [smɛr] | смер | ▶️ 322-10 |
-| nástupište | платформа | [ˈnaːstupiʃcɛ] | на́ступішце | ▶️ 322-11 |
-| premávka | рух, трафік | [ˈprɛmaːvka] | пре́мавка | ▶️ 322-12 |
+| MHD (mestská hromadná doprava) | міський транспорт | [ɛm ɦaː ɟɛː] | ем-га-де | — |
+| zastávka | зупинка | [ˈzastaːvka] | за́ставка | slow-01.mp3 |
+| prestup | пересадка | [ˈprɛstup] | пре́ступ | slow-02.mp3 |
+| cestovný lístok | квиток | [ˈtsɛstovniː ˈliːstok] | це́стовні лі́сток | slow-03.mp3 |
+| označiť si lístok | прокомпостувати квиток | [ˈoznatʃic si] | о́значіць сі | slow-03.mp3 |
+| pokuta | штраф | [ˈpokuta] | по́кута | — |
+| meškanie | запізнення | [ˈmɛʃkaɲi̯ɛ] | ме́шканіє | — |
+| výluka | закриття (ремонт колії) | [ˈviːluka] | ві́лука | — |
+| linka | маршрут, лінія | [ˈlinka] | лі́нка | — |
+| smer | напрямок | [smɛr] | смер | dialog-02.mp3 |
+| nástupište | платформа | [ˈnaːstupiʃcɛ] | на́ступішце | — |
+| premávka | рух, трафік | [ˈprɛmaːvka] | пре́мавка | — |
 
 ### 3. GRAMATIKA: predložky «na / v / s / z» s dopravou
 Правило: **ísť na** zastávku, **čakať na** zastávke, **cestovať s** prestupom, **vystúpiť z** električky.

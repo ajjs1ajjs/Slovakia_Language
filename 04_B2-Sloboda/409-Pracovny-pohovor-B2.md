@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| pohovor | співбесіда | [ˈpɔɦɔvɔr] | ПО-го-вор | T409-01 |
-| životopis / CV | резюме | [ˈʒivɔtɔpis] | ЖІ-во-то-піс | T409-02 |
-| silné stránky | сильні сторони | [ˈsilnɛː ˈstraːnki] | СІЛ-нєє страан-кі | T409-03 |
-| slabé stránky | слабкі сторони | [ˈslabɛː] | СЛА-бєє | T409-04 |
-| skúsenosti | досвід | [ˈskuːsɛnɔsci] | СКУУ-сє-нос-ті | T409-05 |
-| platové očakávania | зарплатні очікування | [ˈplatɔvɛː] | ПЛА-то-вєє | T409-06 |
-| nástup | вихід на роботу | [ˈnaːstup] | НАА-ступ | T409-07 |
-| pracovná náplň | посадові обов'язки | [ˈnaːplɲ] | НАА-плнь | T409-08 |
-| výpovedná lehota | строк відпрацювання | [ˈviːpɔvɛdnaː ˈlɛɦɔta] | ВІІ-по-вєд-наа лє-го-та | T409-09 |
-| uchádzač | кандидат | [ˈuɦaːdzaʧ] | У-гаа-дзач | T409-10 |
-| personalista | HR-менеджер | [ˈpɛrsɔnalista] | ПЄР-со-на-ліс-та | T409-11 |
-| spätná väzba | зворотний зв'язок | [ˈspætnaː ˈvæzba] | СПЕТ-наа вез-ба | T409-12 |
+| pohovor | співбесіда | [ˈpɔɦɔvɔr] | ПО-го-вор | slow-01.mp3 |
+| životopis / CV | резюме | [ˈʒivɔtɔpis] | ЖІ-во-то-піс | — |
+| silné stránky | сильні сторони | [ˈsilnɛː ˈstraːnki] | СІЛ-нєє страан-кі | slow-01.mp3 |
+| slabé stránky | слабкі сторони | [ˈslabɛː] | СЛА-бєє | slow-01.mp3 |
+| skúsenosti | досвід | [ˈskuːsɛnɔsci] | СКУУ-сє-нос-ті | slow-01.mp3 |
+| platové očakávania | зарплатні очікування | [ˈplatɔvɛː] | ПЛА-то-вєє | slow-02.mp3 |
+| nástup | вихід на роботу | [ˈnaːstup] | НАА-ступ | slow-02.mp3 |
+| pracovná náplň | посадові обов'язки | [ˈnaːplɲ] | НАА-плнь | slow-02.mp3 |
+| výpovedná lehota | строк відпрацювання | [ˈviːpɔvɛdnaː ˈlɛɦɔta] | ВІІ-по-вєд-наа лє-го-та | slow-03.mp3 |
+| uchádzač | кандидат | [ˈuɦaːdzaʧ] | У-гаа-дзач | slow-03.mp3 |
+| personalista | HR-менеджер | [ˈpɛrsɔnalista] | ПЄР-со-на-ліс-та | slow-03.mp3 |
+| spätná väzba | зворотний зв'язок | [ˈspætnaː ˈvæzba] | СПЕТ-наа вез-ба | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: sebaprezentácia (perfektum + nominalizácia)
 Говоримо результатом: `Pracoval som ako... Viedol som tím... Mám skúsenosti s...` + іменники: `vedenie tímu, zvýšenie predaja`.

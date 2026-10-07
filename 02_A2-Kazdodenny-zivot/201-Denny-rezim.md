@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| denný režim | розпорядок дня | [ˈdɛnniː ˈrɛʒiːm] | ДЕ-нні РЕ-жім | T201-01 |
-| vstávať / vstať | вставати / встати | [ˈfstaːvac] / [fstac] | ФСТА-ваць / фстать | T201-02 |
-| raňajky | сніданок | [ˈraɲajki] | РА-няй-кі | T201-03 |
-| obed | обід | [ˈɔbɛt] | О-бет | T201-04 |
-| večera | вечеря | [ˈvɛtʃɛra] | ВЕ-че-ра | T201-05 |
-| pracovať | працювати | [ˈpratsɔvac] | ПРА-цо-ваць | T201-06 |
-| oddychovať | відпочивати | [ˈɔddixɔvac] | ОД-ді-хо-ваць | T201-07 |
-| skoro / neskoro | рано / пізно | [ˈskɔrɔ] / [ˈnɛskɔrɔ] | СКО-ро / НЕ-ско-ро | T201-08 |
-| vždy / často / nikdy | завжди / часто / ніколи | [ˈvʒdi] / [ˈtʃastɔ] / [ˈɲigdi] | ВЖ-ді / ЧА-сто / НІ-ґ-ді | T201-09 |
-| sprcha | душ | [ˈsprxa] | СПР-ха | T201-10 |
-| ísť spať | лягати спати | [ˈiːsc spac] | ІІ-сць спать | T201-11 |
-| cez týždeň / cez víkend | у будні / на вихідних | [tsɛz ˈtiːʒɟɛɲ] / [tsɛz ˈviːkɛnt] | цез ТІ-ждєнь / цез ВІ-кенд | T201-12 |
+| denný režim | розпорядок дня | [ˈdɛnniː ˈrɛʒiːm] | ДЕ-нні РЕ-жім | slow-01.mp3 |
+| vstávať / vstať | вставати / встати | [ˈfstaːvac] / [fstac] | ФСТА-ваць / фстать | slow-02.mp3 |
+| raňajky | сніданок | [ˈraɲajki] | РА-няй-кі | slow-03.mp3 |
+| obed | обід | [ˈɔbɛt] | О-бет | slow-04.mp3 |
+| večera | вечеря | [ˈvɛtʃɛra] | ВЕ-че-ра | slow-05.mp3 |
+| pracovať | працювати | [ˈpratsɔvac] | ПРА-цо-ваць | slow-06.mp3 |
+| oddychovať | відпочивати | [ˈɔddixɔvac] | ОД-ді-хо-ваць | slow-07.mp3 |
+| skoro / neskoro | рано / пізно | [ˈskɔrɔ] / [ˈnɛskɔrɔ] | СКО-ро / НЕ-ско-ро | slow-08.mp3 |
+| vždy / často / nikdy | завжди / часто / ніколи | [ˈvʒdi] / [ˈtʃastɔ] / [ˈɲigdi] | ВЖ-ді / ЧА-сто / НІ-ґ-ді | slow-11.mp3 |
+| sprcha | душ | [ˈsprxa] | СПР-ха | slow-12.mp3 |
+| ísť spať | лягати спати | [ˈiːsc spac] | ІІ-сць спать | slow-13.mp3 |
+| cez týždeň / cez víkend | у будні / на вихідних | [tsɛz ˈtiːʒɟɛɲ] / [tsɛz ˈviːkɛnt] | цез ТІ-ждєнь / цез ВІ-кенд | slow-14.mp3 |
 
 ### 3. GRAMATIKA: prítomný čas + frekvenčné príslovky
 Прислівники частоти стоять ПІСЛЯ дієслова або на 2-й позиції: `Vstávam skoro. Nikdy nemeškám.`

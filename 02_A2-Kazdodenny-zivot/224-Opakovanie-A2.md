@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12) — opakovanie
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| opakovať | повторювати | [ˈɔpakɔvac] | О-па-ко-ваць | T224-01 |
-| chyba | помилка | [ˈxiba] | ХІ-ба | T224-02 |
-| správne / zle | правильно / неправильно | [ˈspraːvnɛ] / [zlɛ] | СПРАА-в-не / зле | T224-03 |
-| rozumieť | розуміти | [ˈrɔzumɪɛc] | РО-зу-міець | T224-04 |
-| pamätať si | пам'ятати | [ˈpamæcac sɪ] | ПА-мя-таць сі | T224-05 |
-| zabudnúť | забути | [ˈzabudnuːc] | ЗА-буд-нууць | T224-06 |
-| slovník | словник | [ˈslɔvɲiːk] | СЛО-в-ніік | T224-07 |
-| veta | речення | [ˈvɛta] | ВЕ-та | T224-08 |
-| otázka / odpoveď | питання / відповідь | [ˈɔtaːska] / [ˈɔdpɔvɛc] | О-таа-с-ка / ОД-по-вець | T224-09 |
-| test | тест | [tɛst] | тест | T224-10 |
-| úspech | успіх | [ˈuːspɛx] | УУ-спех | T224-11 |
-| držím palce! | тримаю кулаки! (удачі) | [ˈdr̥ʒiːm ˈpaltsɛ] | ДР-жім ПАЛЬ-це | T224-12 |
+| opakovať | повторювати | [ˈɔpakɔvac] | О-па-ко-ваць | slow-01.mp3 |
+| chyba | помилка | [ˈxiba] | ХІ-ба | slow-02.mp3 |
+| správne / zle | правильно / неправильно | [ˈspraːvnɛ] / [zlɛ] | СПРАА-в-не / зле | slow-03.mp3 |
+| rozumieť | розуміти | [ˈrɔzumɪɛc] | РО-зу-міець | slow-04.mp3 |
+| pamätať si | пам'ятати | [ˈpamæcac sɪ] | ПА-мя-таць сі | slow-05.mp3 |
+| zabudnúť | забути | [ˈzabudnuːc] | ЗА-буд-нууць | slow-06.mp3 |
+| slovník | словник | [ˈslɔvɲiːk] | СЛО-в-ніік | slow-07.mp3 |
+| veta | речення | [ˈvɛta] | ВЕ-та | slow-08.mp3 |
+| otázka / odpoveď | питання / відповідь | [ˈɔtaːska] / [ˈɔdpɔvɛc] | О-таа-с-ка / ОД-по-вець | slow-09.mp3 |
+| test | тест | [tɛst] | тест | slow-10.mp3 |
+| úspech | успіх | [ˈuːspɛx] | УУ-спех | slow-11.mp3 |
+| držím palce! | тримаю кулаки! (удачі) | [ˈdr̥ʒiːm ˈpaltsɛ] | ДР-жім ПАЛЬ-це | slow-12.mp3 |
 
 ### 3. GRAMATIKA: prehľad A2 v jednej tabuľke
 | Téma | Vzorec | Príklad |

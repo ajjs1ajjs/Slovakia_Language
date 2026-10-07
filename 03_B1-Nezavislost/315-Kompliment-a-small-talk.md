@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| kompliment | комплімент | [ˈkomplimɛnt] | ко́мплімент | ▶️ 315-01 |
-| pochvala | похвала | [ˈpoxvala] | по́хвала | ▶️ 315-02 |
-| pristane ti to | тобі личить | [ˈpristanɛ ci to] | прі́стане ці то | ▶️ 315-03 |
-| výborne vyzeráš | чудово виглядаєш | [ˈviːbɔrnɛ ˈvizɛraːʃ] | ві́борне ві́зераш | ▶️ 315-04 |
-| mimochodom | до речі | [ˈmimɔxodom] | мі́моходом | ▶️ 315-05 |
-| ako sa máš? | як справи? | [ˈako sa maːʃ] | а́ко са маш | ▶️ 315-06 |
-| čo nového? | що нового? | [tʃo ˈnovɛːɦo] | чо но́вего | ▶️ 315-07 |
-| to ma teší | це мене тішить | [to ma ˈtɛʃiː] | то ма те́ші | ▶️ 315-08 |
-| naozaj? | справді? | [ˈnaozaj] | на́озай | ▶️ 315-09 |
-| to je milé | це мило | [to jɛ ˈmilɛː] | то є мі́ле | ▶️ 315-10 |
-| zdvorilosť | ввічливість | [ˈzdvorilosc] | здво́рілость | ▶️ 315-11 |
-| úsmev | усмішка | [ˈuːsmɛf] | у́смев | ▶️ 315-12 |
+| kompliment | комплімент | [ˈkomplimɛnt] | ко́мплімент | slow-01.mp3 |
+| pochvala | похвала | [ˈpoxvala] | по́хвала | — |
+| pristane ti to | тобі личить | [ˈpristanɛ ci to] | прі́стане ці то | — |
+| výborne vyzeráš | чудово виглядаєш | [ˈviːbɔrnɛ ˈvizɛraːʃ] | ві́борне ві́зераш | slow-05.mp3 |
+| mimochodom | до речі | [ˈmimɔxodom] | мі́моходом | slow-02.mp3 |
+| ako sa máš? | як справи? | [ˈako sa maːʃ] | а́ко са маш | — |
+| čo nového? | що нового? | [tʃo ˈnovɛːɦo] | чо но́вего | dialog-03.mp3 |
+| to ma teší | це мене тішить | [to ma ˈtɛʃiː] | то ма те́ші | — |
+| naozaj? | справді? | [ˈnaozaj] | на́озай | slow-03.mp3 |
+| to je milé | це мило | [to jɛ ˈmilɛː] | то є мі́ле | dialog-02.mp3 |
+| zdvorilosť | ввічливість | [ˈzdvorilosc] | здво́рілость | — |
+| úsmev | усмішка | [ˈuːsmɛf] | у́смев | — |
 
 ### 3. GRAMATIKA: datív + «pristať / svedčať» (komu to pristane)
 Правило: **pristať komu** (datív) — личити комусь.

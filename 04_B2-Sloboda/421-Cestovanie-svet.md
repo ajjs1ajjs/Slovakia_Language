@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| letenka / spiatočná | квиток / туди-назад | [ˈlɛtɛnka] | ЛЄ-тєн-ка | T421-01 |
-| ubytovanie | проживання | [ˈubitɔvaɲɪɛ] | У-бі-то-ва-нє | T421-02 |
-| cestovné poistenie | туристична страховка | [ˈtsɛstɔvnɛː ˈpɔɪstɛɲɪɛ] | ЦЄС-тов-нєє по-їс-тє-нє | T421-03 |
-| pas / vízum | паспорт / віза | [ˈpas] / [ˈviːzum] | ПАС / ВІІ-зум | T421-04 |
-| odlet / prílet | виліт / приліт | [ˈɔdlɛt] | ОД-лєт | T421-05 |
-| prestup | пересадка | [ˈprɛstup] | ПРЄ-ступ | T421-06 |
-| zážitok | враження-подія | [ˈzaːʒitɔk] | ЗАА-жи-ток | T421-07 |
-| pamiatky | пам'ятки | [ˈpamɪ̯atki] | ПА-мят-кі | T421-08 |
-| sprievodca | гід / путівник | [ˈsprɪ̯ɛvɔdtsa] | СПРІЄ-вод-ца | T421-09 |
-| meškanie | запізнення | [ˈmɛʃkaɲɪɛ] | МЄШ-ка-нє | T421-10 |
-| zrušiť / presunúť | скасувати / перенести | [ˈzruʃiɟ] | ЗРУ-шіть | T421-11 |
-| all inclusive | все включено | [ˈɔl inkluːziv] | ОЛ ін-клуу-зів | T421-12 |
+| letenka / spiatočná | квиток / туди-назад | [ˈlɛtɛnka] | ЛЄ-тєн-ка | slow-01.mp3 |
+| ubytovanie | проживання | [ˈubitɔvaɲɪɛ] | У-бі-то-ва-нє | slow-01.mp3 |
+| cestovné poistenie | туристична страховка | [ˈtsɛstɔvnɛː ˈpɔɪstɛɲɪɛ] | ЦЄС-тов-нєє по-їс-тє-нє | slow-01.mp3 |
+| pas / vízum | паспорт / віза | [ˈpas] / [ˈviːzum] | ПАС / ВІІ-зум | slow-02.mp3 |
+| odlet / prílet | виліт / приліт | [ˈɔdlɛt] | ОД-лєт | slow-02.mp3 |
+| prestup | пересадка | [ˈprɛstup] | ПРЄ-ступ | slow-02.mp3 |
+| zážitok | враження-подія | [ˈzaːʒitɔk] | ЗАА-жи-ток | slow-02.mp3 |
+| pamiatky | пам'ятки | [ˈpamɪ̯atki] | ПА-мят-кі | slow-03.mp3 |
+| sprievodca | гід / путівник | [ˈsprɪ̯ɛvɔdtsa] | СПРІЄ-вод-ца | slow-03.mp3 |
+| meškanie | запізнення | [ˈmɛʃkaɲɪɛ] | МЄШ-ка-нє | slow-03.mp3 |
+| zrušiť / presunúť | скасувати / перенести | [ˈzruʃiɟ] | ЗРУ-шіть | slow-03.mp3 |
+| all inclusive | все включено | [ˈɔl inkluːziv] | ОЛ ін-клуу-зів | — |
 
 ### 3. GRAMATIKA-нюанс: cestovné frázy + predložky (na/do; z/od)
 | Напрям | Звідки |

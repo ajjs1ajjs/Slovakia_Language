@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| prevencia | профілактика | [ˈprɛvɛntsɪja] | ПРЄ-вєн-ці-я | T419-01 |
-| liečba | лікування | [ˈlɪ̯ɛʧba] | ЛІЄЧ-ба | T419-02 |
-| očkovanie | вакцинація | [ˈɔʧkɔvaɲɪɛ] | ОЧ-ко-ва-нє | T419-03 |
-| imunita | імунітет | [ˈimunita] | І-му-ні-та | T419-04 |
-| stres / vyhorenie | стрес / вигорання | [ˈstrɛs] | СТРЕС | T419-05 |
-| spánok | сон | [ˈspaːnɔk] | СПАА-нок | T419-06 |
-| strava | харчування | [ˈstrava] | СТРА-ва | T419-07 |
-| pohyb | рух | [ˈpɔɦip] | ПО-гіб | T419-08 |
-| diagnóza | діагноз | [ˈdɪ̯aɡnɔːza] | ДІ-а-ґноо-за | T419-09 |
-| vedľajšie účinky | побічні ефекти | [ˈvɛdʎajʃɪ̯ɛ ˈuːʧinki] | ВЄД-ляй-шє УУ-чін-кі | T419-10 |
-| pohotovosť | невідкладна допомога | [ˈpɔɦɔtɔvɔsɟ] | ПО-го-то-вость | T419-11 |
-| práceneschopnosť (PN) | лікарняний | [ˈpraːtsɛnɛsxɔpnɔsɟ] | ПРАА-це-нє-схоп-ность | T419-12 |
+| prevencia | профілактика | [ˈprɛvɛntsɪja] | ПРЄ-вєн-ці-я | slow-01.mp3 |
+| liečba | лікування | [ˈlɪ̯ɛʧba] | ЛІЄЧ-ба | slow-01.mp3 |
+| očkovanie | вакцинація | [ˈɔʧkɔvaɲɪɛ] | ОЧ-ко-ва-нє | slow-01.mp3 |
+| imunita | імунітет | [ˈimunita] | І-му-ні-та | slow-01.mp3 |
+| stres / vyhorenie | стрес / вигорання | [ˈstrɛs] | СТРЕС | slow-01.mp3 |
+| spánok | сон | [ˈspaːnɔk] | СПАА-нок | slow-02.mp3 |
+| strava | харчування | [ˈstrava] | СТРА-ва | slow-02.mp3 |
+| pohyb | рух | [ˈpɔɦip] | ПО-гіб | slow-02.mp3 |
+| diagnóza | діагноз | [ˈdɪ̯aɡnɔːza] | ДІ-а-ґноо-за | slow-02.mp3 |
+| vedľajšie účinky | побічні ефекти | [ˈvɛdʎajʃɪ̯ɛ ˈuːʧinki] | ВЄД-ляй-шє УУ-чін-кі | slow-02.mp3 |
+| pohotovosť | невідкладна допомога | [ˈpɔɦɔtɔvɔsɟ] | ПО-го-то-вость | slow-03.mp3 |
+| práceneschopnosť (PN) | лікарняний | [ˈpraːtsɛnɛsxɔpnɔsɟ] | ПРАА-це-нє-схоп-ность | — |
 
 ### 3. GRAMATIKA-нюанс: rozkaz + zákaz v zdravotníckych odporúčaniach
 | Форма | Приклад |

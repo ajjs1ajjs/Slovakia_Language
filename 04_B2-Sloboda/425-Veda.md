@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| veda / vedec | наука / вчений | [ˈvɛda] | ВЄ-да | T425-01 |
-| výskum | дослідження | [ˈviːskum] | ВІІС-кум | T425-02 |
-| objav | відкриття | [ˈɔbjav] | ОБ-яв | T425-03 |
-| experiment / pokus | експеримент | [ˈɛkspɛrimɛnt] | ЄКС-пє-рі-мєнт | T425-04 |
-| hypotéza | гіпотеза | [ˈɦipɔtɛːza] | ГІ-по-тєє-за | T425-05 |
-| dôkaz | доказ | [ˈdɔːkas] | ДОО-каз | T425-06 |
-| vzorka | вибірка/зразок | [ˈvzɔrka] | ВЗОР-ка | T425-07 |
-| graf / trend | графік / тренд | [ˈgraf] / [ˈtrɛnt] | ҐРАФ / ТРЕНД | T425-08 |
-| výrazne / mierne | виразно / помірно | [ˈviːraznɛ] | ВІІ-раз-нє | T425-09 |
-| stúpať / klesať | зростати / спадати | [ˈstuːpaɟ] | СТУУ-падь | T425-10 |
-| zistenie | висновок дослідження | [ˈzistɛɲɪɛ] | ЗІС-тє-нє | T425-11 |
-| publikovať | публікувати | [ˈpublikɔvaɟ] | ПУБ-лі-ко-вадь | T425-12 |
+| veda / vedec | наука / вчений | [ˈvɛda] | ВЄ-да | slow-01.mp3 |
+| výskum | дослідження | [ˈviːskum] | ВІІС-кум | slow-01.mp3 |
+| objav | відкриття | [ˈɔbjav] | ОБ-яв | slow-01.mp3 |
+| experiment / pokus | експеримент | [ˈɛkspɛrimɛnt] | ЄКС-пє-рі-мєнт | slow-01.mp3 |
+| hypotéza | гіпотеза | [ˈɦipɔtɛːza] | ГІ-по-тєє-за | slow-02.mp3 |
+| dôkaz | доказ | [ˈdɔːkas] | ДОО-каз | slow-02.mp3 |
+| vzorka | вибірка/зразок | [ˈvzɔrka] | ВЗОР-ка | slow-02.mp3 |
+| graf / trend | графік / тренд | [ˈgraf] / [ˈtrɛnt] | ҐРАФ / ТРЕНД | slow-02.mp3 |
+| výrazne / mierne | виразно / помірно | [ˈviːraznɛ] | ВІІ-раз-нє | slow-03.mp3 |
+| stúpať / klesať | зростати / спадати | [ˈstuːpaɟ] | СТУУ-падь | slow-03.mp3 |
+| zistenie | висновок дослідження | [ˈzistɛɲɪɛ] | ЗІС-тє-нє | slow-03.mp3 |
+| publikovať | публікувати | [ˈpublikɔvaɟ] | ПУБ-лі-ко-вадь | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: opis grafu (slovesá trendu + príslovky)
 | Тренд | Príslovka | Приклад |

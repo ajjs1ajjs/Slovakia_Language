@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12) — kľúčové k testu
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| vybrať si (odpoveď) | вибрати (відповідь) | [ˈvibrac si ˈɔdpɔvɛc] | ВІ-браць сі ОД-по-вець | T225-01 |
-| doplniť | доповнити | [ˈdɔpl̥ɲic] | ДО-пл-ніць | T225-02 |
-| preložiť | перекласти | [ˈprɛlɔʒic] | ПРЕ-ло-жіць | T225-03 |
-| správna odpoveď | правильна відповідь | [ˈspraːvna ˈɔdpɔvɛc] | СПРАА-в-на ОД-по-вець | T225-04 |
-| bod | бал | [bɔt] | бот | T225-05 |
-| úspešný (min. 12/20) | успішний (мін. 12/20) | [ˈuːspɛʃniː] | УУ-спеш-ні | T225-06 |
-| minulý čas | минулий час | [ˈminuliː tʃas] | МІ-ну-лі час | T225-07 |
-| budúci čas | майбутній час | [ˈbuduːtsi tʃas] | БУ-дуу-ці час | T225-08 |
-| pád | відмінок | [paːt] | паат | T225-09 |
-| stupňovanie | ступенювання | [ˈstupɲɔvaɲɪɛ] | СТУ-пньо-ва-ніе | T225-10 |
-| zvratné sloveso | зворотне дієслово | [ˈzvratnɛː ˈslɔvɛsɔ] | ЗВРАТ-не СЛО-ве-со | T225-11 |
-| gratulujem! | вітаю! | [ˈgratulujɛm] | ҐРА-ту-лу-єм | T225-12 |
+| vybrať si (odpoveď) | вибрати (відповідь) | [ˈvibrac si ˈɔdpɔvɛc] | ВІ-браць сі ОД-по-вець | slow-01.mp3 |
+| doplniť | доповнити | [ˈdɔpl̥ɲic] | ДО-пл-ніць | slow-02.mp3 |
+| preložiť | перекласти | [ˈprɛlɔʒic] | ПРЕ-ло-жіць | slow-03.mp3 |
+| správna odpoveď | правильна відповідь | [ˈspraːvna ˈɔdpɔvɛc] | СПРАА-в-на ОД-по-вець | slow-04.mp3 |
+| bod | бал | [bɔt] | бот | slow-05.mp3 |
+| úspešný (min. 12/20) | успішний (мін. 12/20) | [ˈuːspɛʃniː] | УУ-спеш-ні | slow-06.mp3 |
+| minulý čas | минулий час | [ˈminuliː tʃas] | МІ-ну-лі час | slow-07.mp3 |
+| budúci čas | майбутній час | [ˈbuduːtsi tʃas] | БУ-дуу-ці час | slow-08.mp3 |
+| pád | відмінок | [paːt] | паат | slow-09.mp3 |
+| stupňovanie | ступенювання | [ˈstupɲɔvaɲɪɛ] | СТУ-пньо-ва-ніе | slow-10.mp3 |
+| zvratné sloveso | зворотне дієслово | [ˈzvratnɛː ˈslɔvɛsɔ] | ЗВРАТ-не СЛО-ве-со | slow-11.mp3 |
+| gratulujem! | вітаю! | [ˈgratulujɛm] | ҐРА-ту-лу-єм | slow-12.mp3 |
 
 ### 3. GRAMATIKA: ako hodnotiť test
 - 20 otázok × 1 bod. 18–20 = výborne, 15–17 = veľmi dobre, 12–14 = prešiel, 0–11 = opakuj 211–224.

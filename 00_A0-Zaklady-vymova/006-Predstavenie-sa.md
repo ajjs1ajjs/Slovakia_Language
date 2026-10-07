@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| volám sa... | мене звати... | [ˈvɔlaːm sa] | ВО-лаам са | T06-01 |
-| teší ma | приємно познайомитись | [ˈtɛʃiː ma] | ТЕ-ші ма | T06-02 |
-| som z Ukrajiny | я з України | [sɔm z ˈukrajini] | СОМ з УК-ра-ї-ни | T06-03 |
-| bývam v Bratislave | живу в Братиславі | [ˈbiːvam v ˈbracislavɛ] | БІІ-вам в БРА-ті-сла-вє | T06-04 |
-| hovorím po slovensky | говорю словацькою | [ˈɦɔvɔriːm pɔ ˈslɔvɛnski] | ГО-во-ріім по СЛО-вен-ски | T06-05 |
-| hovorím trochu | говорю трохи | [ˈɦɔvɔriːm ˈtrɔxu] | ГО-во-ріім ТРО-ху | T06-06 |
-| rozumiem / nerozumiem | розумію / не розумію | [ˈrɔzumiɛm] / [ˈnɛrɔzumiɛm] | РО-зу-міем / НЕ-ро-зу-міем | T06-07 |
-| odkiaľ ste? / odkiaľ si? | звідки ви? / звідки ти? | [ˈɔtkaʎ stɛ] / [ˈɔtkaʎ si] | ОТ-каль стє / ОТ-каль сі | T06-08 |
-| kde bývate? | де ви живете? | [gɟɛ ˈbiːvacɛ] | ҐДЄ БІІ-ва-тє? | T06-09 |
-| manžel / manželka | чоловік / дружина | [ˈmanʒɛl] / [ˈmanʒɛlka] | МАН-жел / МАН-жел-ка | T06-10 |
-| deti / rodina | діти / родина | [ˈɟɛci] / [ˈrɔɟina] | ДЄ-ці / РО-ді-на | T06-11 |
-| pracujem / študujem | працюю / навчаюся | [ˈpratsujɛm] / [ˈʃtuɟujɛm] | ПРА-цу-єм / ШТУ-ду-єм | T06-12 |
+| volám sa... | мене звати... | [ˈvɔlaːm sa] | ВО-лаам са | slow-01.mp3 |
+| teší ma | приємно познайомитись | [ˈtɛʃiː ma] | ТЕ-ші ма | slow-02.mp3 |
+| som z Ukrajiny | я з України | [sɔm z ˈukrajini] | СОМ з УК-ра-ї-ни | slow-03.mp3 |
+| bývam v Bratislave | живу в Братиславі | [ˈbiːvam v ˈbracislavɛ] | БІІ-вам в БРА-ті-сла-вє | slow-04.mp3 |
+| hovorím po slovensky | говорю словацькою | [ˈɦɔvɔriːm pɔ ˈslɔvɛnski] | ГО-во-ріім по СЛО-вен-ски | slow-05.mp3 |
+| hovorím trochu | говорю трохи | [ˈɦɔvɔriːm ˈtrɔxu] | ГО-во-ріім ТРО-ху | slow-06.mp3 |
+| rozumiem / nerozumiem | розумію / не розумію | [ˈrɔzumiɛm] / [ˈnɛrɔzumiɛm] | РО-зу-міем / НЕ-ро-зу-міем | slow-07.mp3 |
+| odkiaľ ste? / odkiaľ si? | звідки ви? / звідки ти? | [ˈɔtkaʎ stɛ] / [ˈɔtkaʎ si] | ОТ-каль стє / ОТ-каль сі | slow-08.mp3 |
+| kde bývate? | де ви живете? | [gɟɛ ˈbiːvacɛ] | ҐДЄ БІІ-ва-тє? | slow-09.mp3 |
+| manžel / manželka | чоловік / дружина | [ˈmanʒɛl] / [ˈmanʒɛlka] | МАН-жел / МАН-жел-ка | slow-10.mp3 |
+| deti / rodina | діти / родина | [ˈɟɛci] / [ˈrɔɟina] | ДЄ-ці / РО-ді-на | slow-11.mp3 |
+| pracujem / študujem | працюю / навчаюся | [ˈpratsujɛm] / [ˈʃtuɟujɛm] | ПРА-цу-єм / ШТУ-ду-єм | slow-12.mp3 |
 
 ### 3. GRAMATIKA-mini: byť + -ám/-ím дієслова (ja / ty / on-ona / my / vy / oni)
 Для знайомства досить 4 дієслів. Закінчення теперішнього часу регулярні.

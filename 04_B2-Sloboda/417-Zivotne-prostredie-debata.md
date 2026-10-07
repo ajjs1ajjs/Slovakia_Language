@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| prostredie | середовище | [ˈprɔstrɛɟɪ̯ɛ] | ПРО-стрє-дє | T417-01 |
-| znečistenie | забруднення | [ˈznɛʧistɛɲɪɛ] | ЗНЄ-чіс-тє-нє | T417-02 |
-| triediť odpad | сортувати сміття | [ˈtrɪ̯ɛɟiɟ ˈɔtpat] | ТРІЄ-діть ОД-пад | T417-03 |
-| recyklovať | переробляти | [ˈrɛtsiklɔvaɟ] | РЄ-цик-ло-вадь | T417-04 |
-| klimatická zmena | зміна клімату | [ˈklimatitskaː ˈzmɛna] | КЛІ-ма-тіц-каа змє-на | T417-05 |
-| obnoviteľný zdroj | відновлюване джерело | [ˈɔbnɔvitɛʎniː] | ОБ-но-ві-тєл-ніі | T417-06 |
-| uhlíková stopa | вуглецевий слід | [ˈuɦliːkɔvaː ˈstɔpa] | У-глії-ко-ваа СТО-па | T417-07 |
-| ochrana prírody | охорона природи | [ˈɔɦrana] | О-гра-на | T417-08 |
-| národný park (TANAP) | нацпарк | [ˈnaːrɔdniː ˈpark] | НАА-род-ніі парк | T417-09 |
-| zakázať / obmedziť | заборонити / обмежити | [ˈzakaːzaɟ] | ЗА-каа-задь | T417-10 |
-| dobrovoľník | волонтер | [ˈdɔbrɔvɔʎɲiːk] | ДО-бро-вол-ніїк | T417-11 |
-| udržateľný | сталий | [ˈudr̩ʒatɛʎniː] | УДР-жа-тєл-ніі | T417-12 |
+| prostredie | середовище | [ˈprɔstrɛɟɪ̯ɛ] | ПРО-стрє-дє | slow-01.mp3 |
+| znečistenie | забруднення | [ˈznɛʧistɛɲɪɛ] | ЗНЄ-чіс-тє-нє | slow-01.mp3 |
+| triediť odpad | сортувати сміття | [ˈtrɪ̯ɛɟiɟ ˈɔtpat] | ТРІЄ-діть ОД-пад | slow-01.mp3 |
+| recyklovať | переробляти | [ˈrɛtsiklɔvaɟ] | РЄ-цик-ло-вадь | slow-01.mp3 |
+| klimatická zmena | зміна клімату | [ˈklimatitskaː ˈzmɛna] | КЛІ-ма-тіц-каа змє-на | slow-02.mp3 |
+| obnoviteľný zdroj | відновлюване джерело | [ˈɔbnɔvitɛʎniː] | ОБ-но-ві-тєл-ніі | slow-02.mp3 |
+| uhlíková stopa | вуглецевий слід | [ˈuɦliːkɔvaː ˈstɔpa] | У-глії-ко-ваа СТО-па | slow-02.mp3 |
+| ochrana prírody | охорона природи | [ˈɔɦrana] | О-гра-на | slow-03.mp3 |
+| národný park (TANAP) | нацпарк | [ˈnaːrɔdniː ˈpark] | НАА-род-ніі парк | — |
+| zakázať / obmedziť | заборонити / обмежити | [ˈzakaːzaɟ] | ЗА-каа-задь | slow-03.mp3 |
+| dobrovoľník | волонтер | [ˈdɔbrɔvɔʎɲiːk] | ДО-бро-вол-ніїк | slow-04.mp3 |
+| udržateľný | сталий | [ˈudr̩ʒatɛʎniː] | УДР-жа-тєл-ніі | slow-04.mp3 |
 
 ### 3. GRAMATIKA-нюанс: vyjadrenie názoru + podmienka (debata)
 | Функція | Шаблон |

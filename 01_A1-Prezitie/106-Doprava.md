@@ -8,18 +8,18 @@ Unsplash-підказка: «tram bus train station europe».
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| autobus / električka / vlak | автобус / трамвай / потяг | [ˈautɔbus] / [ˈɛlɛktrit͡ʃka] / [vlak] | АУ-то-бус / Е-ле-ктріч-ка / влак | 106-01 |
-| auto / taxík / bicykel | авто / таксі / велосипед | [ˈautɔ] / [ˈtaksiːk] / [ˈbit͡sikel] | АУ-то / ТА-ксиік / БІ-ці-кел | 106-02 |
-| lístok / cestovný lístok | квиток / проїзний | [ˈliːstɔk] / [ˈt͡sɛstɔvniː ˈliːstɔk] | ЛІІ-сток / ЦЕ-сто-вні лії-сток | 106-03 |
-| stanica / zastávka | вокзал / зупинка | [ˈstanit͡sa] / [ˈzastaːfka] | СТА-ні-ца / ЗА-стааф-ка | 106-04 |
-| cestovať / ísť | подорожувати / йти-їхати | [ˈt͡sɛstɔvac] / [iːsc] | ЦЕ-сто-ваць / ІІ-сць | 106-05 |
-| idem / ideš / ide | йду / йдеш / йде | [ˈiɟɛm] / [ˈiɟɛʃ] / [ˈiɟɛ] | І-дєм / І-дєш / І-дє | 106-06 |
-| príchod / odchod | прибуття / відправлення | [ˈpriːxɔt] / [ˈɔtxɔt] | ПРІІ-хот / О-тхот | 106-07 |
-| koľko stojí lístok? | скільки коштує квиток? | [ˈkɔʎkɔ ˈstɔjiː ˈliːstɔk] | КО-ль-ко СТО-ї лії-сток? | 106-08 |
-| meškanie / na čas | запізнення / вчасно | [ˈmɛʃkaɲɪɛ] / [na t͡ʃas] | МЕШ-ка-ніе / на час | 106-09 |
-| vodič / cestujúci | водій / пасажир | [ˈvɔɟit͡ʃ] / [ˈt͡sɛstujuːt͡si] | ВО-дзіч / ЦЕ-сту-юу-ці | 106-10 |
-| tam / späť / prestup | туди / назад / пересадка | [tam] / [spæc] / [ˈprɛstup] | там / спеть / ПРЕ-ступ | 106-11 |
-| prosím si lístok | квиток, будь ласка | [ˈprosiːm si ˈliːstɔk] | ПРО-сім сі лії-сток | 106-12 |
+| autobus / električka / vlak | автобус / трамвай / потяг | [ˈautɔbus] / [ˈɛlɛktrit͡ʃka] / [vlak] | АУ-то-бус / Е-ле-ктріч-ка / влак | slow-01.mp3 |
+| auto / taxík / bicykel | авто / таксі / велосипед | [ˈautɔ] / [ˈtaksiːk] / [ˈbit͡sikel] | АУ-то / ТА-ксиік / БІ-ці-кел | — |
+| lístok / cestovný lístok | квиток / проїзний | [ˈliːstɔk] / [ˈt͡sɛstɔvniː ˈliːstɔk] | ЛІІ-сток / ЦЕ-сто-вні лії-сток | — |
+| stanica / zastávka | вокзал / зупинка | [ˈstanit͡sa] / [ˈzastaːfka] | СТА-ні-ца / ЗА-стааф-ка | slow-02.mp3 |
+| cestovať / ísť | подорожувати / йти-їхати | [ˈt͡sɛstɔvac] / [iːsc] | ЦЕ-сто-ваць / ІІ-сць | — |
+| idem / ideš / ide | йду / йдеш / йде | [ˈiɟɛm] / [ˈiɟɛʃ] / [ˈiɟɛ] | І-дєм / І-дєш / І-дє | — |
+| príchod / odchod | прибуття / відправлення | [ˈpriːxɔt] / [ˈɔtxɔt] | ПРІІ-хот / О-тхот | slow-04.mp3 |
+| koľko stojí lístok? | скільки коштує квиток? | [ˈkɔʎkɔ ˈstɔjiː ˈliːstɔk] | КО-ль-ко СТО-ї лії-сток? | — |
+| meškanie / na čas | запізнення / вчасно | [ˈmɛʃkaɲɪɛ] / [na t͡ʃas] | МЕШ-ка-ніе / на час | — |
+| vodič / cestujúci | водій / пасажир | [ˈvɔɟit͡ʃ] / [ˈt͡sɛstujuːt͡si] | ВО-дзіч / ЦЕ-сту-юу-ці | — |
+| tam / späť / prestup | туди / назад / пересадка | [tam] / [spæc] / [ˈprɛstup] | там / спеть / ПРЕ-ступ | — |
+| prosím si lístok | квиток, будь ласка | [ˈprosiːm si ˈliːstɔk] | ПРО-сім сі лії-сток | slow-05.mp3 |
 
 ### 3. GRAMATIKA: **-ovať časovanie** (cestovať) + ísť
 | osoba | cest-ovať | ísť (неправ.) |

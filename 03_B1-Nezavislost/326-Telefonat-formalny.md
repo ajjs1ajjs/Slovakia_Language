@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| volať (zavolať) | дзвонити | [ˈvolac] | во́лаць | ▶️ 326-01 |
-| spojiť (prepojiť) | з'єднати | [ˈspojic] | спо́їць | ▶️ 326-02 |
-| linka je obsadená | лінія зайнята | [ˈlinka jɛ ˈopsaɟɛnaː] | лі́нка є о́бсадєна | ▶️ 326-03 |
-| vydržte chvíľu | зачекайте хвильку | [ˈvidrʃtɛ ˈxviːʎu] | ві́држте хві́лю | ▶️ 326-04 |
-| odkaz | повідомлення (записка) | [ˈotkas] | о́дказ | ▶️ 326-05 |
-| dovolať sa | додзвонитися | [ˈdovolac sa] | до́волаць са | ▶️ 326-06 |
-| číslo klapky | номер внутрішньої лінії | [ˈtʃiːslo ˈklapki] | чі́сло кла́пкі | ▶️ 326-07 |
-| ozvem sa | я зв'яжуся | [ˈozvɛm sa] | о́звем са | ▶️ 326-08 |
-| nepočuť sa dobre | погано чути | [ˈnɛpotʃuc sa] | не́почуць са | ▶️ 326-09 |
-| zopakovať | повторити | [ˈzopakovaːc] | зо́паковаць | ▶️ 326-10 |
-| počkajte na linke | залишайтеся на лінії | [ˈpotʃkajcɛ] | по́чкайте | ▶️ 326-11 |
-| spätné volanie | зворотний дзвінок | [ˈspɛtnɛː ˈvolaɲi̯ɛ] | спе́тне во́ланіє | ▶️ 326-12 |
+| volať (zavolať) | дзвонити | [ˈvolac] | во́лаць | — |
+| spojiť (prepojiť) | з'єднати | [ˈspojic] | спо́їць | — |
+| linka je obsadená | лінія зайнята | [ˈlinka jɛ ˈopsaɟɛnaː] | лі́нка є о́бсадєна | slow-03.mp3 |
+| vydržte chvíľu | зачекайте хвильку | [ˈvidrʃtɛ ˈxviːʎu] | ві́држте хві́лю | slow-02.mp3 |
+| odkaz | повідомлення (записка) | [ˈotkas] | о́дказ | slow-01.mp3 |
+| dovolať sa | додзвонитися | [ˈdovolac sa] | до́волаць са | — |
+| číslo klapky | номер внутрішньої лінії | [ˈtʃiːslo ˈklapki] | чі́сло кла́пкі | — |
+| ozvem sa | я зв'яжуся | [ˈozvɛm sa] | о́звем са | — |
+| nepočuť sa dobre | погано чути | [ˈnɛpotʃuc sa] | не́почуць са | — |
+| zopakovať | повторити | [ˈzopakovaːc] | зо́паковаць | — |
+| počkajte na linke | залишайтеся на лінії | [ˈpotʃkajcɛ] | по́чкайте | — |
+| spätné volanie | зворотний дзвінок | [ˈspɛtnɛː ˈvolaɲi̯ɛ] | спе́тне во́ланіє | dialog-04.mp3 |
 
 ### 3. GRAMATIKA: kondicionál zdvorilosti v telefóne
 Правило: у телефоні — kondicionál: **mohol by som, chcel by som, potreboval by som**.

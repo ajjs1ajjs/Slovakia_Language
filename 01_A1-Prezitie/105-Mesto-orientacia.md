@@ -8,18 +8,18 @@ Unsplash-підказка: «city map street signs».
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| mesto / ulica / námestie | місто / вулиця / площа | [ˈmɛstɔ] / [ˈulica] / [ˈnaːmɛscɪɛ] | МЕ-сто / У-лі-ца / НАА-ме-стіе | 105-01 |
-| kde? / kam? / odkiaľ? | де? / куди? / звідки? | [gɟɛ] / [kam] / [ˈɔtkaʎ] | ґдє / кам / ОТ-каль | 105-02 |
-| vpravo / vľavo / rovno | праворуч / ліворуч / прямо | [ˈfpravɔ] / [ˈvʎavɔ] / [ˈrɔvnɔ] | ФПРА-во / ВЛЯ-во / РО-в-но | 105-03 |
-| tu / tam / blízko | тут / там / близько | [tu] / [tam] / [ˈbliːskɔ] | ту / там / БЛІІ-ско | 105-04 |
-| banka / pošta / lekáreň | банк / пошта / аптека | [ˈbanka] / [ˈpɔʃta] / [ˈlɛkaːrɛɲ] | БАН-ка / ПОШ-та / ЛЕ-каа-рень | 105-05 |
-| zastávka / most / park | зупинка / міст / парк | [ˈzastaːfka] / [mɔst] / [park] | ЗА-стааф-ка / мост / парк | 105-06 |
-| je / nie je | є / немає | [jɛ] / [ˈɲɪɛ jɛ] | є / НІЕ є | 105-07 |
-| prosím, kde je...? | скажіть, де...? | [ˈprosiːm gɟɛ jɛ] | ПРО-сім ґдє є | 105-08 |
-| mapa / centrum | карта / центр | [ˈmapa] / [ˈt͡sɛntrum] | МА-па / ЦЕ-н-трум | 105-09 |
-| ďaleko / blízko | далеко / близько | [ˈɟalɛkɔ] / [ˈbliːskɔ] | ДЯ-ле-ко / БЛІІ-ско | 105-10 |
-| ísť / idem | йти / йду | [iːsc] / [ˈiɟɛm] | ІІ-сць / І-дєм | 105-11 |
-| stratiť sa | загубитися | [ˈstracic sa] | СТРА-тіць са | 105-12 |
+| mesto / ulica / námestie | місто / вулиця / площа | [ˈmɛstɔ] / [ˈulica] / [ˈnaːmɛscɪɛ] | МЕ-сто / У-лі-ца / НАА-ме-стіе | slow-01.mp3 |
+| kde? / kam? / odkiaľ? | де? / куди? / звідки? | [gɟɛ] / [kam] / [ˈɔtkaʎ] | ґдє / кам / ОТ-каль | slow-02.mp3 |
+| vpravo / vľavo / rovno | праворуч / ліворуч / прямо | [ˈfpravɔ] / [ˈvʎavɔ] / [ˈrɔvnɔ] | ФПРА-во / ВЛЯ-во / РО-в-но | slow-03.mp3 |
+| tu / tam / blízko | тут / там / близько | [tu] / [tam] / [ˈbliːskɔ] | ту / там / БЛІІ-ско | — |
+| banka / pošta / lekáreň | банк / пошта / аптека | [ˈbanka] / [ˈpɔʃta] / [ˈlɛkaːrɛɲ] | БАН-ка / ПОШ-та / ЛЕ-каа-рень | slow-04.mp3 |
+| zastávka / most / park | зупинка / міст / парк | [ˈzastaːfka] / [mɔst] / [park] | ЗА-стааф-ка / мост / парк | — |
+| je / nie je | є / немає | [jɛ] / [ˈɲɪɛ jɛ] | є / НІЕ є | — |
+| prosím, kde je...? | скажіть, де...? | [ˈprosiːm gɟɛ jɛ] | ПРО-сім ґдє є | slow-05.mp3 |
+| mapa / centrum | карта / центр | [ˈmapa] / [ˈt͡sɛntrum] | МА-па / ЦЕ-н-трум | — |
+| ďaleko / blízko | далеко / близько | [ˈɟalɛkɔ] / [ˈbliːskɔ] | ДЯ-ле-ко / БЛІІ-ско | — |
+| ísť / idem | йти / йду | [iːsc] / [ˈiɟɛm] | ІІ-сць / І-дєм | — |
+| stratiť sa | загубитися | [ˈstracic sa] | СТРА-тіць са | — |
 
 ### 3. GRAMATIKA: nominatív (kde?) vs akuzatív (kam?)
 Kde? → lokál: v meste, na ulici, na námestí. Kam? → akuzatív: do mesta, na ulicu.

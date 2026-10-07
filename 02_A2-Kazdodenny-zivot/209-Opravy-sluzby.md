@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| oprava / služba | ремонт / послуга | [ˈɔprava] / [ˈsluʒba] | ОП-ра-ва / СЛУ-ж-ба | T209-01 |
-| pokazený / rozbitý | зламаний / розбитий | [ˈpɔkazɛniː] / [ˈrɔzbitiː] | ПО-ка-зе-ні / РОЗ-бі-ті | T209-02 |
-| nefunguje | не працює | [ˈnɛfuŋgujɛ] | НЕ-фу-н-гу-є | T209-03 |
-| opravár | майстер | [ˈɔpravaːr] | ОП-ра-ваар | T209-04 |
-| objednať (si) | замовити | [ˈɔbjɛdnac si] | ОБ-єд-наць сі | T209-05 |
-| záruka | гарантія | [ˈzaːruka] | ЗАА-ру-ка | T209-06 |
-| účet / faktúra | рахунок / фактура | [ˈuːtʃɛt] / [ˈfaktuːra] | УУ-чет / ФАК-туу-ра | T209-07 |
-| lacný / drahý | дешевий / дорогий | [ˈlatsniː] / [ˈdraɦiː] | ЛА-ц-ні / ДРА-гі | T209-08 |
-| práčka | пральна машина | [ˈpraːtʃka] | ПРАА-ч-ка | T209-09 |
-| vodoinštalatér | сантехнік | [ˈvɔdɔinʃtalateːr] | ВО-до-ін-шта-ла-теер | T209-10 |
-| elektrikár | електрик | [ˈɛlɛktrikaːr] | Е-лект-рі-каар | T209-11 |
-| kedy? / koľko? | коли? / скільки? | [ˈkɛdi] / [ˈkɔʎkɔ] | КЕ-ді / КОЛЬ-ко | T209-12 |
+| oprava / služba | ремонт / послуга | [ˈɔprava] / [ˈsluʒba] | ОП-ра-ва / СЛУ-ж-ба | slow-01.mp3 |
+| pokazený / rozbitý | зламаний / розбитий | [ˈpɔkazɛniː] / [ˈrɔzbitiː] | ПО-ка-зе-ні / РОЗ-бі-ті | slow-02.mp3 |
+| nefunguje | не працює | [ˈnɛfuŋgujɛ] | НЕ-фу-н-гу-є | slow-03.mp3 |
+| opravár | майстер | [ˈɔpravaːr] | ОП-ра-ваар | slow-04.mp3 |
+| objednať (si) | замовити | [ˈɔbjɛdnac si] | ОБ-єд-наць сі | slow-05.mp3 |
+| záruka | гарантія | [ˈzaːruka] | ЗАА-ру-ка | slow-06.mp3 |
+| účet / faktúra | рахунок / фактура | [ˈuːtʃɛt] / [ˈfaktuːra] | УУ-чет / ФАК-туу-ра | slow-07.mp3 |
+| lacný / drahý | дешевий / дорогий | [ˈlatsniː] / [ˈdraɦiː] | ЛА-ц-ні / ДРА-гі | slow-08.mp3 |
+| práčka | пральна машина | [ˈpraːtʃka] | ПРАА-ч-ка | slow-09.mp3 |
+| vodoinštalatér | сантехнік | [ˈvɔdɔinʃtalateːr] | ВО-до-ін-шта-ла-теер | slow-10.mp3 |
+| elektrikár | електрик | [ˈɛlɛktrikaːr] | Е-лект-рі-каар | slow-11.mp3 |
+| kedy? / koľko? | коли? / скільки? | [ˈkɛdi] / [ˈkɔʎkɔ] | КЕ-ді / КОЛЬ-ко | slow-12.mp3 |
 
 ### 3. GRAMATIKA: inštrumentál — čím? (nástroj) + s + inštrumentál
 Інструмент без прийменника: `opraviť kľúčom, volať telefónom`.

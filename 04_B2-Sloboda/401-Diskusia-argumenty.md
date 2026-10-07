@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| názor | думка, погляд | [ˈnaːzɔr] | НАА-зор | T401-01 |
-| argument | аргумент | [ˈargument] | АР-ґу-мєнт | T401-02 |
-| súhlasiť (s) | погоджуватись | [ˈsuːɦlasiɟ] | СУУ-гла-сіть | T401-03 |
-| nesúhlasiť | не погоджуватись | [ˈnɛsuːɦlasiɟ] | НЄ-суу-гла-сіть | T401-04 |
-| presvedčiť | переконати | [ˈprɛsvɛtʧiɟ] | ПРЄ-свєд-чіть | T401-05 |
-| dôkaz | доказ | [ˈdɔːkas] | ДОО-каз | T401-06 |
-| hľadisko | точка зору | [ˈɦʎadiskɔ] | ГЛІА-діс-ко | T401-07 |
-| na jednej strane | з одного боку | [ˈjɛdnɛj ˈstraɲɛ] | ЄД-нєй стра-нє | T401-08 |
-| na druhej strane | з іншого боку | [ˈdruɦɛj] | ДРУ-гєй | T401-09 |
-| podľa mňa | на мою думку | [ˈpɔdʎa mɲa] | ПОД-ліа мня | T401-10 |
-| dovoliť si tvrdiť | дозволити собі стверджувати | [ˈdɔvɔliɟ] | ДО-во-літь сі тврддіть | T401-11 |
-| kompromis | компроміс | [ˈkɔmprɔmis] | КОМ-про-міс | T401-12 |
+| názor | думка, погляд | [ˈnaːzɔr] | НАА-зор | slow-01.mp3 |
+| argument | аргумент | [ˈargument] | АР-ґу-мєнт | slow-01.mp3 |
+| súhlasiť (s) | погоджуватись | [ˈsuːɦlasiɟ] | СУУ-гла-сіть | — |
+| nesúhlasiť | не погоджуватись | [ˈnɛsuːɦlasiɟ] | НЄ-суу-гла-сіть | slow-01.mp3 |
+| presvedčiť | переконати | [ˈprɛsvɛtʧiɟ] | ПРЄ-свєд-чіть | slow-01.mp3 |
+| dôkaz | доказ | [ˈdɔːkas] | ДОО-каз | slow-01.mp3 |
+| hľadisko | точка зору | [ˈɦʎadiskɔ] | ГЛІА-діс-ко | slow-02.mp3 |
+| na jednej strane | з одного боку | [ˈjɛdnɛj ˈstraɲɛ] | ЄД-нєй стра-нє | slow-02.mp3 |
+| na druhej strane | з іншого боку | [ˈdruɦɛj] | ДРУ-гєй | slow-02.mp3 |
+| podľa mňa | на мою думку | [ˈpɔdʎa mɲa] | ПОД-ліа мня | slow-02.mp3 |
+| dovoliť si tvrdiť | дозволити собі стверджувати | [ˈdɔvɔliɟ] | ДО-во-літь сі тврддіть | slow-03.mp3 |
+| kompromis | компроміс | [ˈkɔmprɔmis] | КОМ-про-міс | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: konektory argumentácie + slovosled
 Зв'язки структурують аргумент: `najprv – navyše – napokon; síce – ale; pretože – preto`.

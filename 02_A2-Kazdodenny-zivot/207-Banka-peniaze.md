@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| banka / bankomat | банк / банкомат | [ˈbaŋka] / [ˈbaŋkɔmat] | БА-н-ка / БАН-ко-мат | T207-01 |
-| účet | рахунок | [ˈuːtʃɛt] | УУ-чет | T207-02 |
-| peniaze / hotovosť | гроші / готівка | [ˈpɛɲazɛ] / [ˈɦɔtɔvɔsc] | ПЕ-ня-зе / ГО-то-восць | T207-03 |
-| karta | картка | [ˈkarta] | КАР-та | T207-04 |
-| PIN-kód | ПІН-код | [pin kɔːt] | пін коот | T207-05 |
-| vybrať / vložiť | зняти / внести | [ˈvibrac] / [ˈvlɔʒic] | ВІ-браць / ВЛО-жіць | T207-06 |
-| prevod / platba | переказ / платіж | [ˈprɛvɔt] / [ˈplatba] | ПРЕ-вот / ПЛАТ-ба | T207-07 |
-| poplatok | комісія | [ˈpɔplatɔk] | ПО-пла-ток | T207-08 |
-| otvoriť účet | відкрити рахунок | [ˈɔtvɔric ˈuːtʃɛt] | ОТ-во-ріць УУ-чет | T207-09 |
-| kurz / euro | курс / євро | [kurs] / [ˈɛurɔ] | курз / Е-у-ро | T207-10 |
-| pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | T207-11 |
-| dlh | борг | [dl̥ɦ] | длг (складове л) | T207-12 |
+| banka / bankomat | банк / банкомат | [ˈbaŋka] / [ˈbaŋkɔmat] | БА-н-ка / БАН-ко-мат | slow-01.mp3 |
+| účet | рахунок | [ˈuːtʃɛt] | УУ-чет | slow-02.mp3 |
+| peniaze / hotovosť | гроші / готівка | [ˈpɛɲazɛ] / [ˈɦɔtɔvɔsc] | ПЕ-ня-зе / ГО-то-восць | slow-03.mp3 |
+| karta | картка | [ˈkarta] | КАР-та | slow-04.mp3 |
+| PIN-kód | ПІН-код | [pin kɔːt] | пін коот | slow-05.mp3 |
+| vybrať / vložiť | зняти / внести | [ˈvibrac] / [ˈvlɔʒic] | ВІ-браць / ВЛО-жіць | slow-06.mp3 |
+| prevod / platba | переказ / платіж | [ˈprɛvɔt] / [ˈplatba] | ПРЕ-вот / ПЛАТ-ба | slow-07.mp3 |
+| poplatok | комісія | [ˈpɔplatɔk] | ПО-пла-ток | slow-08.mp3 |
+| otvoriť účet | відкрити рахунок | [ˈɔtvɔric ˈuːtʃɛt] | ОТ-во-ріць УУ-чет | slow-02.mp3 |
+| kurz / euro | курс / євро | [kurs] / [ˈɛurɔ] | курз / Е-у-ро | slow-10.mp3 |
+| pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | slow-11.mp3 |
+| dlh | борг | [dl̥ɦ] | длг (складове л) | slow-12.mp3 |
 
 ### 3. GRAMATIKA: čísla + genitív (koľko?) — 2 eurá, 5 eur
 | Koľko? | Tvar |

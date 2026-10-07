@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| úrad | установа | [ˈuːrat] | УУ-рат | T206-01 |
-| doklad / občiansky preukaz | документ / ID-картка | [ˈdɔklat] / [ˈɔbtʃɪanski ˈprɛukas] | ДО-клад / ОБ-чіан-скі ПРЕ-у-кас | T206-02 |
-| povolenie na pobyt | дозвіл на проживання | [ˈpɔvɔlɛɲɪɛ na ˈpɔbit] | ПО-во-ле-ніе на ПО-біт | T206-03 |
-| formulár / žiadosť | формуляр / заява | [ˈfɔrmulaːr] / [ˈʒɪadɔsc] | ФОР-му-лаар / ЖІА-досць | T206-04 |
-| vyplniť / podpísať | заповнити / підписати | [ˈvipl̥ɲic] / [ˈpɔtpiːsac] | ВІ-пл-ніць / ПОД-піі-саць | T206-05 |
-| pečiatka | печатка | [ˈpɛtʃɪatka] | ПЕ-чіат-ка | T206-06 |
-| rad / poradie | черга / порядок | [rat] / [ˈpɔraɟɪɛ] | рат / ПО-ра-діе | T206-07 |
-| okienko / kancelária | віконце / кабінет | [ˈɔkɪɛnkɔ] / [ˈkantsɛlaːrɪa] | О-кіен-ко / КАН-це-лаа-ріа | T206-08 |
-| poplatok | збір / оплата | [ˈpɔplatɔk] | ПО-пла-ток | T206-09 |
-| platnosť | чинність | [ˈplatnɔsc] | ПЛАТ-носць | T206-10 |
-| kópia | копія | [ˈkɔːpɪa] | КОО-піа | T206-11 |
-| potvrdenie | довідка / підтвердження | [ˈpɔtvr̥ɟɛɲɪɛ] | ПО-твр-дє-ніе | T206-12 |
+| úrad | установа | [ˈuːrat] | УУ-рат | slow-01.mp3 |
+| doklad / občiansky preukaz | документ / ID-картка | [ˈdɔklat] / [ˈɔbtʃɪanski ˈprɛukas] | ДО-клад / ОБ-чіан-скі ПРЕ-у-кас | slow-02.mp3 |
+| povolenie na pobyt | дозвіл на проживання | [ˈpɔvɔlɛɲɪɛ na ˈpɔbit] | ПО-во-ле-ніе на ПО-біт | slow-03.mp3 |
+| formulár / žiadosť | формуляр / заява | [ˈfɔrmulaːr] / [ˈʒɪadɔsc] | ФОР-му-лаар / ЖІА-досць | slow-04.mp3 |
+| vyplniť / podpísať | заповнити / підписати | [ˈvipl̥ɲic] / [ˈpɔtpiːsac] | ВІ-пл-ніць / ПОД-піі-саць | slow-05.mp3 |
+| pečiatka | печатка | [ˈpɛtʃɪatka] | ПЕ-чіат-ка | slow-06.mp3 |
+| rad / poradie | черга / порядок | [rat] / [ˈpɔraɟɪɛ] | рат / ПО-ра-діе | slow-07.mp3 |
+| okienko / kancelária | віконце / кабінет | [ˈɔkɪɛnkɔ] / [ˈkantsɛlaːrɪa] | О-кіен-ко / КАН-це-лаа-ріа | slow-08.mp3 |
+| poplatok | збір / оплата | [ˈpɔplatɔk] | ПО-пла-ток | slow-09.mp3 |
+| platnosť | чинність | [ˈplatnɔsc] | ПЛАТ-носць | slow-10.mp3 |
+| kópia | копія | [ˈkɔːpɪa] | КОО-піа | slow-11.mp3 |
+| potvrdenie | довідка / підтвердження | [ˈpɔtvr̥ɟɛɲɪɛ] | ПО-твр-дє-ніе | slow-12.mp3 |
 
 ### 3. GRAMATIKA: lokál + predložky NA / O (žiadosť o..., na úrade)
 | Predložka | Príklad | Pád |

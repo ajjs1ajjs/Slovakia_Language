@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA-testové (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| zadanie | завдання | [ˈzadaɲɪɛ] | ЗА-да-нє | T429-01 |
-| možnosť (a/b/c/d) | варіант | [ˈmɔʒnɔsɟ] | МОЖ-ность | T429-02 |
-| čítanie s porozumením | читання з розумінням | [ˈʧiːtaɲɪɛ] | ЧІІ-та-нє | T429-03 |
-| doplniť | доповнити | [ˈdɔpl̩niɟ] | ДО-пл-ніть | T429-04 |
-| vybrať správne | вибрати правильне | [ˈvibraɟ] | ВІ-брать | T429-05 |
-| časový limit | ліміт часу | [ˈʧasɔviː ˈlimit] | ЧА-со-вій ЛІ-міт | T429-06 |
-| body / hodnotenie | бали / оцінювання | [ˈbɔdi] | БО-ді | T429-07 |
-| hranica (60 %) | поріг | [ˈɦranitsa] | ГРА-ні-ца | T429-08 |
-| chyba z nepozornosti | помилка через неуважність | [ˈnɛpɔzɔrnɔsci] | НЄ-по-зор-нос-ті | T429-09 |
-| preskočiť a vrátiť sa | пропустити й повернутись | [ˈprɛskɔʧiɟ] | ПРЄС-ко-чіть | T429-10 |
-| koncept / načisto | чернетка / чистовик | [ˈkɔntsɛpt] | КОН-цепт | T429-11 |
-| úspešnosť | успішність | [ˈuːspɛʃnɔsɟ] | УУ-спєш-ность | T429-12 |
+| zadanie | завдання | [ˈzadaɲɪɛ] | ЗА-да-нє | slow-01.mp3 |
+| možnosť (a/b/c/d) | варіант | [ˈmɔʒnɔsɟ] | МОЖ-ность | — |
+| čítanie s porozumením | читання з розумінням | [ˈʧiːtaɲɪɛ] | ЧІІ-та-нє | slow-01.mp3 |
+| doplniť | доповнити | [ˈdɔpl̩niɟ] | ДО-пл-ніть | slow-01.mp3 |
+| vybrať správne | вибрати правильне | [ˈvibraɟ] | ВІ-брать | slow-02.mp3 |
+| časový limit | ліміт часу | [ˈʧasɔviː ˈlimit] | ЧА-со-вій ЛІ-міт | slow-02.mp3 |
+| body / hodnotenie | бали / оцінювання | [ˈbɔdi] | БО-ді | slow-02.mp3 |
+| hranica (60 %) | поріг | [ˈɦranitsa] | ГРА-ні-ца | — |
+| chyba z nepozornosti | помилка через неуважність | [ˈnɛpɔzɔrnɔsci] | НЄ-по-зор-нос-ті | slow-03.mp3 |
+| preskočiť a vrátiť sa | пропустити й повернутись | [ˈprɛskɔʧiɟ] | ПРЄС-ко-чіть | slow-03.mp3 |
+| koncept / načisto | чернетка / чистовик | [ˈkɔntsɛpt] | КОН-цепт | slow-04.mp3 |
+| úspešnosť | успішність | [ˈuːspɛʃnɔsɟ] | УУ-спєш-ность | slow-04.mp3 |
 
 ### 3. GRAMATIKA-нюанс: stratégia testu (nie gramatika, ale postup)
 | Časť (60 хв) | Čas | Stratégia |

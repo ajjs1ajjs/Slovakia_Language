@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| finálny projekt | фінальний проєкт | [ˈfinaːlni ˈprɔjɛkt] | ФІ-наал-ні ПРО-єкт | T430-01 |
-| Can-do statements | «вмію»-твердження | [ˈkɛn duː] | КЕН-ду | T430-02 |
-| plynulo a spontánne | плавно і спонтанно | [ˈplinulɔ] | ПЛИ-ну-ло | T430-03 |
-| obhájiť projekt | захистити проєкт | [ˈɔbɦajiɟ] | ОБ-га-їть | T430-04 |
-| certifikát B2 | сертифікат B2 | [ˈtsɛrtifikaːt] | ЦЄР-ті-фі-каат | T430-05 |
-| spätná väzba | зворотний зв'язок | [ˈspætnaː ˈvæzba] | СПЕТ-наа вез-ба | T430-06 |
-| silné stránky | сильні сторони | [ˈsilnɛː] | СІЛ-нєє | T430-07 |
-| priestor na zlepšenie | простір для покращення | [ˈprɪ̯ɛstɔr] | ПРІЄС-тор | T430-08 |
-| samostatný používateľ | незалежний користувач | [ˈsamɔstatniː ˈpɔuʒiːvatɛʎ] | СА-мо-стат-нії по-у-жії-ва-тєль | T430-09 |
-| argumentovať | аргументувати | [ˈarɡumɛntɔvaɟ] | АР-ґу-мєн-то-вадь | T430-10 |
-| rokovať | вести переговори | [ˈrɔkɔvaɟ] | РО-ко-вадь | T430-11 |
-| gratulujem! | вітаю! | [ˈɡratulujɛm] | ҐРА-ту-лу-єм | T430-12 |
+| finálny projekt | фінальний проєкт | [ˈfinaːlni ˈprɔjɛkt] | ФІ-наал-ні ПРО-єкт | slow-01.mp3 |
+| Can-do statements | «вмію»-твердження | [ˈkɛn duː] | КЕН-ду | slow-01.mp3 |
+| plynulo a spontánne | плавно і спонтанно | [ˈplinulɔ] | ПЛИ-ну-ло | slow-01.mp3 |
+| obhájiť projekt | захистити проєкт | [ˈɔbɦajiɟ] | ОБ-га-їть | slow-02.mp3 |
+| certifikát B2 | сертифікат B2 | [ˈtsɛrtifikaːt] | ЦЄР-ті-фі-каат | slow-02.mp3 |
+| spätná väzba | зворотний зв'язок | [ˈspætnaː ˈvæzba] | СПЕТ-наа вез-ба | slow-02.mp3 |
+| silné stránky | сильні сторони | [ˈsilnɛː] | СІЛ-нєє | slow-03.mp3 |
+| priestor na zlepšenie | простір для покращення | [ˈprɪ̯ɛstɔr] | ПРІЄС-тор | slow-03.mp3 |
+| samostatný používateľ | незалежний користувач | [ˈsamɔstatniː ˈpɔuʒiːvatɛʎ] | СА-мо-стат-нії по-у-жії-ва-тєль | slow-03.mp3 |
+| argumentovať | аргументувати | [ˈarɡumɛntɔvaɟ] | АР-ґу-мєн-то-вадь | slow-04.mp3 |
+| rokovať | вести переговори | [ˈrɔkɔvaɟ] | РО-ко-вадь | slow-04.mp3 |
+| gratulujem! | вітаю! | [ˈɡratulujɛm] | ҐРА-ту-лу-єм | slow-04.mp3 |
 
 ### 3. GRAMATIKA-нюанс: Can-do = dôkaz vetou (perfektum + príklad)
 Кожен Can-do доводимо прикладом: `Viem argumentovať — na porade som presvedčil... Viem napísať — moja sťažnosť...`

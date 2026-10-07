@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| región / kraj | регіон / край | [ˈrɛɡɪ̯ɔn] | РЄ-ґіон | T416-01 |
-| nárečie / dialekt | говірка / діалект | [ˈnaːrɛʧɪ̯ɛ] | НАА-рє-чє | T416-02 |
-| západ / stred / východ | захід / центр / схід | [ˈzaːpat] | ЗАА-пад | T416-03 |
-| spisovne | літературно | [ˈspisɔvnɛ] | СПІ-сов-нє | T416-04 |
-| po bratislavsky | по-братиславськи | [ˈbracislavski] | БРА-ті-слав-скі | T416-05 |
-| po východniarsky | по-східняцьки | [ˈviːxɔdɲɪ̯arski] | ВІІ-ход-няр-скі | T416-06 |
-| bryndzové halušky | бринзові галушки | [ˈbrindzɔvɛː ˈɦaluʃki] | БРІН-дзо-вєє га-луш-кі | T416-07 |
-| salaš | полонина (ферма) | [ˈsalaʃ] | СА-лаш | T416-08 |
-| Tatry / Liptov / Šariš | Татри / Ліптов / Шаріш | [ˈtatri] | ТА-три | T416-09 |
-| Záhorie | Загор'є (регіон) | [ˈzaːɦɔrɪ̯ɛ] | ЗАА-гор-є | T416-10 |
-| rozumieť | розуміти | [ˈrɔzumɪ̯ɛɟ] | РО-зу-мєдь | T416-11 |
-| prízvuk | акцент | [ˈpriːzvuk] | ПРІІ-з-вук | T416-12 |
+| región / kraj | регіон / край | [ˈrɛɡɪ̯ɔn] | РЄ-ґіон | slow-01.mp3 |
+| nárečie / dialekt | говірка / діалект | [ˈnaːrɛʧɪ̯ɛ] | НАА-рє-чє | slow-01.mp3 |
+| západ / stred / východ | захід / центр / схід | [ˈzaːpat] | ЗАА-пад | slow-01.mp3 |
+| spisovne | літературно | [ˈspisɔvnɛ] | СПІ-сов-нє | slow-02.mp3 |
+| po bratislavsky | по-братиславськи | [ˈbracislavski] | БРА-ті-слав-скі | — |
+| po východniarsky | по-східняцьки | [ˈviːxɔdɲɪ̯arski] | ВІІ-ход-няр-скі | — |
+| bryndzové halušky | бринзові галушки | [ˈbrindzɔvɛː ˈɦaluʃki] | БРІН-дзо-вєє га-луш-кі | slow-02.mp3 |
+| salaš | полонина (ферма) | [ˈsalaʃ] | СА-лаш | slow-02.mp3 |
+| Tatry / Liptov / Šariš | Татри / Ліптов / Шаріш | [ˈtatri] | ТА-три | slow-02.mp3 |
+| Záhorie | Загор'є (регіон) | [ˈzaːɦɔrɪ̯ɛ] | ЗАА-гор-є | slow-03.mp3 |
+| rozumieť | розуміти | [ˈrɔzumɪ̯ɛɟ] | РО-зу-мєдь | slow-03.mp3 |
+| prízvuk | акцент | [ˈpriːzvuk] | ПРІІ-з-вук | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: oblastné rozdiely (що реально чути)
 | Явище | Západ | Stred (основа spisovnej) | Východ |

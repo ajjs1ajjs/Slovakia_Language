@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| umývať sa | вмиватись | [ˈumiːvac sa] | У-міі-ваць са | T223-01 |
-| obliekať sa | одягатись | [ˈɔblɪɛkac sa] | ОБ-ліе-каць са | T223-02 |
-| tešiť sa (na) | радіти / чекати (на) | [ˈtɛʃic sa] | ТЕ-шіць са | T223-03 |
-| smiať sa | сміятись | [ˈsmɪac sa] | СМІ-аць са | T223-04 |
-| báť sa | боятись | [baːc sa] | БАА-ць са | T223-05 |
-| myslieť si | думати (собі) | [ˈmisliɛc si] | МІ-сліець сі | T223-06 |
-| sadnúť si | сісти | [ˈsadnuːc si] | САД-нууць сі | T223-07 |
-| dať si | взяти собі / замовити | [dac si] | даць сі | T223-08 |
-| kúpiť si | купити собі | [ˈkuːpic si] | КУУ-піць сі | T223-09 |
-| oddýchnuť si | відпочити | [ˈɔddiːxnuːc si] | ОД-діі-х-нууць сі | T223-10 |
-| pozrieť sa | подивитись | [ˈpɔzrɪɛc sa] | ПО-зріець са | T223-11 |
-| volať sa | зватись | [ˈvɔlac sa] | ВО-лаць са | T223-12 |
+| umývať sa | вмиватись | [ˈumiːvac sa] | У-міі-ваць са | slow-01.mp3 |
+| obliekať sa | одягатись | [ˈɔblɪɛkac sa] | ОБ-ліе-каць са | slow-02.mp3 |
+| tešiť sa (na) | радіти / чекати (на) | [ˈtɛʃic sa] | ТЕ-шіць са | slow-03.mp3 |
+| smiať sa | сміятись | [ˈsmɪac sa] | СМІ-аць са | slow-04.mp3 |
+| báť sa | боятись | [baːc sa] | БАА-ць са | slow-05.mp3 |
+| myslieť si | думати (собі) | [ˈmisliɛc si] | МІ-сліець сі | slow-06.mp3 |
+| sadnúť si | сісти | [ˈsadnuːc si] | САД-нууць сі | slow-07.mp3 |
+| dať si | взяти собі / замовити | [dac si] | даць сі | slow-08.mp3 |
+| kúpiť si | купити собі | [ˈkuːpic si] | КУУ-піць сі | slow-09.mp3 |
+| oddýchnuť si | відпочити | [ˈɔddiːxnuːc si] | ОД-діі-х-нууць сі | slow-10.mp3 |
+| pozrieť sa | подивитись | [ˈpɔzrɪɛc sa] | ПО-зріець са | slow-11.mp3 |
+| volať sa | зватись | [ˈvɔlac sa] | ВО-лаць са | slow-12.mp3 |
 
 ### 3. GRAMATIKA: sa vs si — pravidlo
 `sa` = себе/один одного (umývať sa, stretnúť sa). `si` = собі (dať si, kúpiť si, myslieť si).

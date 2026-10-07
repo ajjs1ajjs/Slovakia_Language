@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA-ідіоми (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| mať dlhé prsty | мати довгі пальці → красти | [ˈprsti] | ПРС-ті | T407-01 |
-| mať oči všade | мати очі всюди → все бачити | [ˈɔʧi] | О-чі | T407-02 |
-| pustiť si hubu na špacír | відпустити рота → бовкнути зайве | [ˈɦubu] | ГУ-бу | T407-03 |
-| držať jazyk za zubami | тримати язик за зубами | [ˈjazik] | Я-зик | T407-04 |
-| mať srdce na jazyku | мати серце на язиці → щирий | [ˈsrdtsɛ] | СРД-це | T407-05 |
-| brať niečo na ľahkú váhu | брати легко → недооцінювати | [ˈvaːɦu] | ВАА-гу | T407-06 |
-| hodiť niečo za hlavu | кинути за голову → забути | [ˈɦlavu] | ГЛА-ву | T407-07 |
-| mať niečo v malíčku | мати в мізинці → знати досконало | [ˈmaliːʧku] | МА-лііч-ку | T407-08 |
-| stáť nohami na zemi | стояти ногами на землі → реаліст | [ˈnɔɦami] | НО-га-мі | T407-09 |
-| sedieť na dvoch stoličkách | сидіти на двох стільцях | [ˈstɔliʧkaːʧ] | СТО-ліч-ках | T407-10 |
-| otvoriť niekomu oči | відкрити очі → показати правду | [ˈɔtvɔriɟ] | ОТ-во-ріть | T407-11 |
-| ísť z ruky do ruky | йти з рук у руки | [ˈruki] | РУ-кі | T407-12 |
+| mať dlhé prsty | мати довгі пальці → красти | [ˈprsti] | ПРС-ті | slow-01.mp3 |
+| mať oči všade | мати очі всюди → все бачити | [ˈɔʧi] | О-чі | slow-01.mp3 |
+| pustiť si hubu na špacír | відпустити рота → бовкнути зайве | [ˈɦubu] | ГУ-бу | slow-01.mp3 |
+| držať jazyk za zubami | тримати язик за зубами | [ˈjazik] | Я-зик | slow-02.mp3 |
+| mať srdce na jazyku | мати серце на язиці → щирий | [ˈsrdtsɛ] | СРД-це | slow-02.mp3 |
+| brať niečo na ľahkú váhu | брати легко → недооцінювати | [ˈvaːɦu] | ВАА-гу | — |
+| hodiť niečo za hlavu | кинути за голову → забути | [ˈɦlavu] | ГЛА-ву | — |
+| mať niečo v malíčku | мати в мізинці → знати досконало | [ˈmaliːʧku] | МА-лііч-ку | — |
+| stáť nohami na zemi | стояти ногами на землі → реаліст | [ˈnɔɦami] | НО-га-мі | slow-03.mp3 |
+| sedieť na dvoch stoličkách | сидіти на двох стільцях | [ˈstɔliʧkaːʧ] | СТО-ліч-ках | slow-04.mp3 |
+| otvoriť niekomu oči | відкрити очі → показати правду | [ˈɔtvɔriɟ] | ОТ-во-ріть | — |
+| ísť z ruky do ruky | йти з рук у руки | [ˈruki] | РУ-кі | — |
 
 ### 3. GRAMATIKA-нюанс: predpony menia význam (do-, od-, pre-, vy-)
 Префікс змінює напрям: `držať → zadržať / udržať; hovoriť → prehovoriť / dohovoriť sa`.

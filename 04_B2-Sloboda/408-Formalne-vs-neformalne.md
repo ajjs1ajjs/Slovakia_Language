@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| tykanie | тикання (на «ти») | [ˈtikaɲɪɛ] | ТІ-ка-нє | T408-01 |
-| vykanie | викання (на «ви») | [ˈvikaɲɪɛ] | ВІ-ка-нє | T408-02 |
-| vážený pán / vážená pani | шановний пане / пані | [ˈvaːʒɛniː] | ВАА-же-ніі | T408-03 |
-| s pozdravom | з повагою | [ˈpɔzdravɔm] | ПОЗ-дра-вом | T408-04 |
-| dovolím si | дозволю собі | [ˈdɔvɔliːm si] | ДО-во-ліім сі | T408-05 |
-| čauko / maj sa | привіт / бувай (розм.) | [ˈʧaukɔ] | ЧАУ-ко | T408-06 |
-| kamoš / kamoška | друг / подруга (розм.) | [ˈkamɔʃ] | КА-мош | T408-07 |
-| pohoda | норм, chill | [ˈpɔɦɔda] | ПО-го-да | T408-08 |
-| vybaviť | владнати, порішати | [ˈvibaviɟ] | ВІ-ба-віть | T408-09 |
-| žiadosť | заява, прохання (оф.) | [ˈʒɪ̯adɔsɟ] | ЖІА-дость | T408-10 |
-| obraciam sa na vás | звертаюся до вас | [ˈɔbratsɪ̯am] | ОБ-ра-ці-ам | T408-11 |
-| v prílohe | у вкладенні | [ˈpriːlɔɦɛ] | ПРІІ-ло-гє | T408-12 |
+| tykanie | тикання (на «ти») | [ˈtikaɲɪɛ] | ТІ-ка-нє | slow-01.mp3 |
+| vykanie | викання (на «ви») | [ˈvikaɲɪɛ] | ВІ-ка-нє | slow-01.mp3 |
+| vážený pán / vážená pani | шановний пане / пані | [ˈvaːʒɛniː] | ВАА-же-ніі | slow-01.mp3 |
+| s pozdravom | з повагою | [ˈpɔzdravɔm] | ПОЗ-дра-вом | slow-01.mp3 |
+| dovolím si | дозволю собі | [ˈdɔvɔliːm si] | ДО-во-ліім сі | slow-02.mp3 |
+| čauko / maj sa | привіт / бувай (розм.) | [ˈʧaukɔ] | ЧАУ-ко | slow-03.mp3 |
+| kamoš / kamoška | друг / подруга (розм.) | [ˈkamɔʃ] | КА-мош | slow-03.mp3 |
+| pohoda | норм, chill | [ˈpɔɦɔda] | ПО-го-да | slow-03.mp3 |
+| vybaviť | владнати, порішати | [ˈvibaviɟ] | ВІ-ба-віть | slow-03.mp3 |
+| žiadosť | заява, прохання (оф.) | [ˈʒɪ̯adɔsɟ] | ЖІА-дость | slow-02.mp3 |
+| obraciam sa na vás | звертаюся до вас | [ˈɔbratsɪ̯am] | ОБ-ра-ці-ам | slow-02.mp3 |
+| v prílohe | у вкладенні | [ˈpriːlɔɦɛ] | ПРІІ-ло-гє | slow-02.mp3 |
 
 ### 3. GRAMATIKA-нюанс: zdvorilé konštrukcie (kondicionál + prosím)
 Формально = kondicionál + пасивна ввічливість: `Chcel by som vás požiadať... Mohli by ste... Bol by som rád...`

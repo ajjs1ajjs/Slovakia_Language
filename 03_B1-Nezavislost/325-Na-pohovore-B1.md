@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| pohovor | співбесіда | [ˈpoɦovor] | по́говор | ▶️ 325-01 |
-| životopis | резюме | [ˈʒivotopis] | жи́вотопіс | ▶️ 325-02 |
-| prax | досвід, практика | [praks] | пракс | ▶️ 325-03 |
-| vzdelanie | освіта | [ˈvzɟɛlaɲi̯ɛ] | вздє́ланіє | ▶️ 325-04 |
-| silná stránka | сильна сторона | [ˈsilnaː ˈstraːnka] | сі́лна стра́нка | ▶️ 325-05 |
-| slabá stránka | слабка сторона | [ˈslabaː] | сла́ба | ▶️ 325-06 |
-| nástup | вихід (на роботу) | [ˈnaːstup] | на́ступ | ▶️ 325-07 |
-| platové očakávania | зарплатні очікування | [ˈplatovɛː] | пла́тове | ▶️ 325-08 |
-| pracovná doba | робочий час | [ˈpratsovnaː ˈdoba] | пра́цовна до́ба | ▶️ 325-09 |
-| home office | віддалена робота | [ɦoum ˈofis] | гоум-о́фіс | ▶️ 325-10 |
-| uchádzač | кандидат | [ˈuxaːdʒaːtʃ] | у́хадзач | ▶️ 325-11 |
-| prijať / odmietnuť | прийняти / відхилити | [ˈprijac] | прі́яць | ▶️ 325-12 |
+| pohovor | співбесіда | [ˈpoɦovor] | по́говор | slow-01.mp3 |
+| životopis | резюме | [ˈʒivotopis] | жи́вотопіс | — |
+| prax | досвід, практика | [praks] | пракс | slow-02.mp3 |
+| vzdelanie | освіта | [ˈvzɟɛlaɲi̯ɛ] | вздє́ланіє | slow-03.mp3 |
+| silná stránka | сильна сторона | [ˈsilnaː ˈstraːnka] | сі́лна стра́нка | — |
+| slabá stránka | слабка сторона | [ˈslabaː] | сла́ба | — |
+| nástup | вихід (на роботу) | [ˈnaːstup] | на́ступ | — |
+| platové očakávania | зарплатні очікування | [ˈplatovɛː] | пла́тове | — |
+| pracovná doba | робочий час | [ˈpratsovnaː ˈdoba] | пра́цовна до́ба | — |
+| home office | віддалена робота | [ɦoum ˈofis] | гоум-о́фіс | — |
+| uchádzač | кандидат | [ˈuxaːdʒaːtʃ] | у́хадзач | — |
+| prijať / odmietnuť | прийняти / відхилити | [ˈprijac] | прі́яць | — |
 
 ### 3. GRAMATIKA: minulé časy pre skúsenosti — «pracoval som 3 roky»
 Правило: досвід = **minulý čas + dĺžka**: pracoval som, študovala som, viedol som.

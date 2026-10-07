@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| svadba | весілля | [ˈsvadba] | сва́дьба | ▶️ 327-01 |
-| ženích / nevesta | наречений / наречена | [ˈʒɛɲiːx] | же́ніх | ▶️ 327-02 |
-| sobáš | шлюб, церемонія | [ˈsobaːʃ] | со́баш | ▶️ 327-03 |
-| hostina | банкет | [ˈɦoscina] | го́стіна | ▶️ 327-04 |
-| svedok / svedkyňa | свідок / свідкиня | [ˈsvɛdok] | све́док | ▶️ 327-05 |
-| obrúčky | обручки | [ˈobruːtʃki] | о́бручки | ▶️ 327-06 |
-| gratulácia | привітання | [ˈgratulaːtsi̯a] | гратула́ція | ▶️ 327-07 |
-| potvrdiť účasť | підтвердити участь | [ˈpotvrɟic ˈuːtʃasc] | по́тврдіць у́часть | ▶️ 327-08 |
-| dress code | дрес-код | [drɛs koud] | дрес-коуд | ▶️ 327-09 |
-| dar | подарунок | [dar] | дар | ▶️ 327-10 |
-| tešíme sa na vás | чекаємо на вас | [ˈtɛʃiːmɛ sa] | те́шіме са | ▶️ 327-11 |
-| s úctou pozývame | з повагою запрошуємо | [s ˈuːtstou] | с у́цтоу | ▶️ 327-12 |
+| svadba | весілля | [ˈsvadba] | сва́дьба | slow-01.mp3 |
+| ženích / nevesta | наречений / наречена | [ˈʒɛɲiːx] | же́ніх | slow-02.mp3 |
+| sobáš | шлюб, церемонія | [ˈsobaːʃ] | со́баш | dialog-02.mp3 |
+| hostina | банкет | [ˈɦoscina] | го́стіна | — |
+| svedok / svedkyňa | свідок / свідкиня | [ˈsvɛdok] | све́док | — |
+| obrúčky | обручки | [ˈobruːtʃki] | о́бручки | — |
+| gratulácia | привітання | [ˈgratulaːtsi̯a] | гратула́ція | — |
+| potvrdiť účasť | підтвердити участь | [ˈpotvrɟic ˈuːtʃasc] | по́тврдіць у́часть | — |
+| dress code | дрес-код | [drɛs koud] | дрес-коуд | — |
+| dar | подарунок | [dar] | дар | — |
+| tešíme sa na vás | чекаємо на вас | [ˈtɛʃiːmɛ sa] | те́шіме са | slow-05.mp3 |
+| s úctou pozývame | з повагою запрошуємо | [s ˈuːtstou] | с у́цтоу | — |
 
 ### 3. GRAMATIKA: budúci čas + formálne «dovoľujeme si pozvať»
 Правило: формальне запрошення = **Dovoľujeme si vás pozvať + na + akuzatív**.

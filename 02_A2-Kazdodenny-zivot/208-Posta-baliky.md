@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| pošta | пошта | [ˈpɔʃta] | ПОШ-та | T208-01 |
-| balík | посилка | [ˈbaliːk] | БА-ліік | T208-02 |
-| list / pohľadnica | лист / листівка | [list] / [ˈpɔɦʎadɲitsa] | ліст / ПО-гля-дні-ца | T208-03 |
-| známka | марка | [ˈznaːmka] | ЗНАА-м-ка | T208-04 |
-| adresa / odosielateľ | адреса / відправник | [ˈadrɛsa] / [ˈɔdɔsɪɛlatɛʎ] | АД-ре-са / О-до-сіе-ла-тель | T208-05 |
-| príjemca | отримувач | [ˈpriːjɛmtsa] | ПРІІ-єм-ца | T208-06 |
-| poslať | надіслати | [ˈpɔslac] | ПО-слаць | T208-07 |
-| doporučene | рекомендованим (з повідомленням) | [ˈdɔpɔrutʃɛnɛ] | ДО-по-ру-че-не | T208-08 |
-| dobierka | післяплата | [ˈdɔbɪɛrka] | ДО-біер-ка | T208-09 |
-| podacie číslo | трек-номер | [ˈpɔdatsɪɛ ˈtʃiːslɔ] | ПО-да-ціе ЧІІ-с-ло | T208-10 |
-| doručiť | доставити | [ˈdɔrutʃic] | ДО-ру-чіць | T208-11 |
-| PSČ (smerové číslo) | поштовий індекс | [pɛ ɛs tʃɛ] | пе ес че | T208-12 |
+| pošta | пошта | [ˈpɔʃta] | ПОШ-та | slow-01.mp3 |
+| balík | посилка | [ˈbaliːk] | БА-ліік | slow-02.mp3 |
+| list / pohľadnica | лист / листівка | [list] / [ˈpɔɦʎadɲitsa] | ліст / ПО-гля-дні-ца | slow-03.mp3 |
+| známka | марка | [ˈznaːmka] | ЗНАА-м-ка | slow-04.mp3 |
+| adresa / odosielateľ | адреса / відправник | [ˈadrɛsa] / [ˈɔdɔsɪɛlatɛʎ] | АД-ре-са / О-до-сіе-ла-тель | slow-05.mp3 |
+| príjemca | отримувач | [ˈpriːjɛmtsa] | ПРІІ-єм-ца | slow-06.mp3 |
+| poslať | надіслати | [ˈpɔslac] | ПО-слаць | slow-07.mp3 |
+| doporučene | рекомендованим (з повідомленням) | [ˈdɔpɔrutʃɛnɛ] | ДО-по-ру-че-не | slow-08.mp3 |
+| dobierka | післяплата | [ˈdɔbɪɛrka] | ДО-біер-ка | slow-09.mp3 |
+| podacie číslo | трек-номер | [ˈpɔdatsɪɛ ˈtʃiːslɔ] | ПО-да-ціе ЧІІ-с-ло | slow-10.mp3 |
+| doručiť | доставити | [ˈdɔrutʃic] | ДО-ру-чіць | slow-11.mp3 |
+| PSČ (smerové číslo) | поштовий індекс | [pɛ ɛs tʃɛ] | пе ес че | slow-12.mp3 |
 
 ### 3. GRAMATIKA: inštrumentál úvod — s kým? s čím? (s + 7. pád)
 | Nominatív | Inštrumentál (s...) |

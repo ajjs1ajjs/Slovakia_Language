@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| pozvánka | запрошення | [ˈpɔzvaːŋka] | ПО-з-ваа-н-ка | T214-01 |
-| oslava / narodeniny | свято / день народження | [ˈɔslava] / [ˈnarɔɟɛɲini] | О-сла-ва / НА-ро-дє-ні-ні | T214-02 |
-| pozvať | запросити | [ˈpɔzvac] | ПО-зваць | T214-03 |
-| prísť | прийти | [ˈpriːsc] | ПРІІ-сць | T214-04 |
-| doniesť | принести | [ˈdɔɲɪɛsc] | ДО-ніесць | T214-05 |
-| darček | подарунок | [ˈdartʃɛk] | ДАР-чек | T214-06 |
-| torta | торт | [ˈtɔrta] | ТОР-та | T214-07 |
-| blahoželať / gratulovať | вітати | [ˈblaɦɔʒɛlac] | БЛА-го-же-лаць | T214-08 |
-| všetko najlepšie! | всього найкращого! | [ˈfʃɛtkɔ ˈnajlɛpʃɪɛ] | ФШЕТ-ко НАЙ-леп-шіе | T214-09 |
-| tešiť sa | радіти / чекати | [ˈtɛʃic sa] | ТЕ-шіць са | T214-10 |
-| bohužiaľ / rád | на жаль / радо | [ˈbɔɦuʒɪaʎ] / [raːt] | БО-гу-жіаль / раат | T214-11 |
-| svadba | весілля | [ˈsvadba] | СВАД-ба | T214-12 |
+| pozvánka | запрошення | [ˈpɔzvaːŋka] | ПО-з-ваа-н-ка | slow-01.mp3 |
+| oslava / narodeniny | свято / день народження | [ˈɔslava] / [ˈnarɔɟɛɲini] | О-сла-ва / НА-ро-дє-ні-ні | slow-02.mp3 |
+| pozvať | запросити | [ˈpɔzvac] | ПО-зваць | slow-03.mp3 |
+| prísť | прийти | [ˈpriːsc] | ПРІІ-сць | slow-04.mp3 |
+| doniesť | принести | [ˈdɔɲɪɛsc] | ДО-ніесць | slow-05.mp3 |
+| darček | подарунок | [ˈdartʃɛk] | ДАР-чек | slow-06.mp3 |
+| torta | торт | [ˈtɔrta] | ТОР-та | slow-07.mp3 |
+| blahoželať / gratulovať | вітати | [ˈblaɦɔʒɛlac] | БЛА-го-же-лаць | slow-08.mp3 |
+| všetko najlepšie! | всього найкращого! | [ˈfʃɛtkɔ ˈnajlɛpʃɪɛ] | ФШЕТ-ко НАЙ-леп-шіе | slow-09.mp3 |
+| tešiť sa | радіти / чекати | [ˈtɛʃic sa] | ТЕ-шіць са | slow-10.mp3 |
+| bohužiaľ / rád | на жаль / радо | [ˈbɔɦuʒɪaʎ] / [raːt] | БО-гу-жіаль / раат | slow-11.mp3 |
+| svadba | весілля | [ˈsvadba] | СВАД-ба | slow-12.mp3 |
 
 ### 3. GRAMATIKA: rozkazovací spôsob (imperatív) — príď! dones! poď!
 | Infinitív | Ty! | Vy! |

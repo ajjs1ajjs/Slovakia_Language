@@ -8,18 +8,18 @@ Unsplash-підказка: «supermarket checkout euro prices».
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| obchod / pokladňa | магазин / каса | [ˈɔpxɔt] / [ˈpɔkladɲa] | О-пхот / ПО-клад-ня | 103-01 |
-| cena / zľava | ціна / знижка | [ˈt͡sɛna] / [ˈzʎava] | ЦЕ-на / ЗЛЯ-ва | 103-02 |
-| euro / cent | євро / цент | [ˈɛurɔ] / [t͡sɛnt] | Е-у-ро / цент | 103-03 |
-| mlieko / syr / maslo | молоко / сир / масло | [ˈmlɪɛkɔ] / [sir] / [ˈmaslɔ] | МЛІЕ-ко / сир / МА-сло | 103-04 |
-| jablko / zemiaky | яблуко / картопля | [ˈjablkɔ] / [ˈzɛmjaki] | Я-бл-ко / ЗЕ-мя-кі | 103-05 |
-| lacný / drahý | дешевий / дорогий | [ˈlat͡sniː] / [ˈdraɦiː] | ЛА-цні / ДРА-гі | 103-06 |
-| koľko? / koľko stojí? | скільки? / скільки коштує? | [ˈkɔʎkɔ] / [ˈkɔʎkɔ ˈstɔjiː] | КО-ль-ко / КО-ль-ко СТО-ї? | 103-07 |
-| kilo / liter / kus | кіло / літр / штука | [ˈkilɔ] / [ˈlitɛr] / [kus] | КІ-ло / ЛІ-тер / кус | 103-08 |
-| taška / bloček | пакет / чек | [ˈtaʃka] / [ˈblɔt͡ʃɛk] | ТАШ-ка / БЛО-чек | 103-09 |
-| otvorené / zatvorené | відчинено / зачинено | [ˈɔtvɔrɛnɛː] / [ˈzatvɔrɛnɛː] | ОТ-во-ре-нє / ЗА-тво-ре-нє | 103-10 |
-| platiť (kartou / hotovosť) | платити (карткою / готівкою) | [ˈplacic] | ПЛА-тіть | 103-11 |
-| prosím / ďakujem | будь ласка / дякую | [ˈprosiːm] / [ˈɟakujɛm] | ПРО-сім / ДЯ-ку-єм | 103-12 |
+| obchod / pokladňa | магазин / каса | [ˈɔpxɔt] / [ˈpɔkladɲa] | О-пхот / ПО-клад-ня | slow-01.mp3 |
+| cena / zľava | ціна / знижка | [ˈt͡sɛna] / [ˈzʎava] | ЦЕ-на / ЗЛЯ-ва | slow-02.mp3 |
+| euro / cent | євро / цент | [ˈɛurɔ] / [t͡sɛnt] | Е-у-ро / цент | slow-03.mp3 |
+| mlieko / syr / maslo | молоко / сир / масло | [ˈmlɪɛkɔ] / [sir] / [ˈmaslɔ] | МЛІЕ-ко / сир / МА-сло | slow-04.mp3 |
+| jablko / zemiaky | яблуко / картопля | [ˈjablkɔ] / [ˈzɛmjaki] | Я-бл-ко / ЗЕ-мя-кі | slow-05.mp3 |
+| lacný / drahý | дешевий / дорогий | [ˈlat͡sniː] / [ˈdraɦiː] | ЛА-цні / ДРА-гі | slow-06.mp3 |
+| koľko? / koľko stojí? | скільки? / скільки коштує? | [ˈkɔʎkɔ] / [ˈkɔʎkɔ ˈstɔjiː] | КО-ль-ко / КО-ль-ко СТО-ї? | slow-07.mp3 |
+| kilo / liter / kus | кіло / літр / штука | [ˈkilɔ] / [ˈlitɛr] / [kus] | КІ-ло / ЛІ-тер / кус | — |
+| taška / bloček | пакет / чек | [ˈtaʃka] / [ˈblɔt͡ʃɛk] | ТАШ-ка / БЛО-чек | — |
+| otvorené / zatvorené | відчинено / зачинено | [ˈɔtvɔrɛnɛː] / [ˈzatvɔrɛnɛː] | ОТ-во-ре-нє / ЗА-тво-ре-нє | — |
+| platiť (kartou / hotovosť) | платити (карткою / готівкою) | [ˈplacic] | ПЛА-тіть | — |
+| prosím / ďakujem | будь ласка / дякую | [ˈprosiːm] / [ˈɟakujɛm] | ПРО-сім / ДЯ-ку-єм | — |
 
 ### 3. GRAMATIKA: číslovky 0–100
 0 nula, 1 jeden/jedna/jedno, 2 dva/dve, 3 tri, 4 štyri, 5 päť, 6 šesť, 7 sedem, 8 osem, 9 deväť, 10 desať, 11 jedenásť, 12 dvanásť, 20 dvadsať, 30 tridsať, 50 päťdesiat, 100 sto.

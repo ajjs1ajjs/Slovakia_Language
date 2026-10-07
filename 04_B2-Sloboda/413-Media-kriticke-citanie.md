@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| médium / médiá | ЗМІ | [ˈmɛːdɪjum] | МЄЕ-ді-юм | T413-01 |
-| titulok | заголовок | [ˈtitulɔk] | ТІ-ту-лок | T413-02 |
-| clickbait | клікбейт | [ˈklikbɛjt] | КЛІК-бейт | T413-03 |
-| manipulácia | маніпуляція | [ˈmanipulaːtsɪja] | МА-ні-пу-лаа-ці-я | T413-04 |
-| hoax | фейк | [ˈɦɔaks] | ГО-акс | T413-05 |
-| overiť fakty | перевірити факти | [ˈɔvɛriɟ ˈfakti] | О-вє-ріть ФАК-ті | T413-06 |
-| dôveryhodný | надійний | [ˈdɔːvɛriɦɔdniː] | ДОО-вє-рі-год-ніі | T413-07 |
-| zaujatý | упереджений | [ˈzaʊ̯jatiː] | ЗАУ-я-тії | T413-08 |
-| emócie vs fakty | емоції vs факти | [ˈɛmɔːtsɪ̯ɛ] | Є-МОО-ці-є | T413-09 |
-| komentár vs správa | коментар vs новина | [ˈkɔmɛntaːr] | КО-мєн-таар | T413-10 |
-| šíriť | поширювати | [ˈʃiːriɟ] | ШІІ-ріть | T413-11 |
-| vyvrátiť | спростувати | [ˈvivraːciɟ] | ВІВ-раa-тіть | T413-12 |
+| médium / médiá | ЗМІ | [ˈmɛːdɪjum] | МЄЕ-ді-юм | slow-01.mp3 |
+| titulok | заголовок | [ˈtitulɔk] | ТІ-ту-лок | slow-01.mp3 |
+| clickbait | клікбейт | [ˈklikbɛjt] | КЛІК-бейт | slow-01.mp3 |
+| manipulácia | маніпуляція | [ˈmanipulaːtsɪja] | МА-ні-пу-лаа-ці-я | slow-01.mp3 |
+| hoax | фейк | [ˈɦɔaks] | ГО-акс | slow-01.mp3 |
+| overiť fakty | перевірити факти | [ˈɔvɛriɟ ˈfakti] | О-вє-ріть ФАК-ті | slow-02.mp3 |
+| dôveryhodný | надійний | [ˈdɔːvɛriɦɔdniː] | ДОО-вє-рі-год-ніі | slow-02.mp3 |
+| zaujatý | упереджений | [ˈzaʊ̯jatiː] | ЗАУ-я-тії | slow-02.mp3 |
+| emócie vs fakty | емоції vs факти | [ˈɛmɔːtsɪ̯ɛ] | Є-МОО-ці-є | — |
+| komentár vs správa | коментар vs новина | [ˈkɔmɛntaːr] | КО-мєн-таар | — |
+| šíriť | поширювати | [ˈʃiːriɟ] | ШІІ-ріть | slow-03.mp3 |
+| vyvrátiť | спростувати | [ˈvivraːciɟ] | ВІВ-раa-тіть | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: pasívum a neosobné frázy + hodnotiace prídavné mená
 Маніпуляція ховається в прикметниках: `škandalózny, neuveriteľný, šokujúci` без фактів. Нейтрально: `podľa polície, bolo oznámené`.

@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| sťažnosť | скарга | [ˈscaʒnɔsc] | СЦЯ-ж-носць | T220-01 |
-| reklamácia | рекламація / повернення | [ˈrɛklamaːtsɪa] | РЕ-кла-маа-ціа | T220-02 |
-| prepáčte / ospravedlňujem sa | вибачте / перепрошую | [ˈprɛpaːtʃcɛ] | ПРЕ-паа-ч-тье | T220-03 |
-| problém | проблема | [ˈprɔbleːm] | ПРО-блеем | T220-04 |
-| pokazený | зіпсований | [ˈpɔkazɛniː] | ПО-ка-зе-ні | T220-05 |
-| vrátiť (tovar) | повернути (товар) | [ˈvraːcic ˈtɔvar] | ВРАА-тіць ТО-вар | T220-06 |
-| vymeniť | обміняти | [ˈvimɛɲic] | ВІ-ме-ніць | T220-07 |
-| vrátiť peniaze | повернути гроші | [ˈvraːcic ˈpɛɲazɛ] | ВРАА-тіць ПЕ-ня-зе | T220-08 |
-| bohužiaľ | на жаль | [ˈbɔɦuʒɪaʎ] | БО-гу-жіаль | T220-09 |
-| hneď / okamžite | одразу / негайно | [ɦnɛc] / [ˈɔkamʒitɛ] | гнец / О-кам-жі-те | T220-10 |
-| riešenie | рішення | [ˈrɪɛʃɛɲɪɛ] | РІЕ-ше-ніе | T220-11 |
-| spokojný | задоволений | [ˈspɔkɔjniː] | СПО-кой-ні | T220-12 |
+| sťažnosť | скарга | [ˈscaʒnɔsc] | СЦЯ-ж-носць | slow-01.mp3 |
+| reklamácia | рекламація / повернення | [ˈrɛklamaːtsɪa] | РЕ-кла-маа-ціа | slow-02.mp3 |
+| prepáčte / ospravedlňujem sa | вибачте / перепрошую | [ˈprɛpaːtʃcɛ] | ПРЕ-паа-ч-тье | slow-03.mp3 |
+| problém | проблема | [ˈprɔbleːm] | ПРО-блеем | slow-04.mp3 |
+| pokazený | зіпсований | [ˈpɔkazɛniː] | ПО-ка-зе-ні | slow-05.mp3 |
+| vrátiť (tovar) | повернути (товар) | [ˈvraːcic ˈtɔvar] | ВРАА-тіць ТО-вар | slow-06.mp3 |
+| vymeniť | обміняти | [ˈvimɛɲic] | ВІ-ме-ніць | slow-07.mp3 |
+| vrátiť peniaze | повернути гроші | [ˈvraːcic ˈpɛɲazɛ] | ВРАА-тіць ПЕ-ня-зе | slow-08.mp3 |
+| bohužiaľ | на жаль | [ˈbɔɦuʒɪaʎ] | БО-гу-жіаль | slow-09.mp3 |
+| hneď / okamžite | одразу / негайно | [ɦnɛc] / [ˈɔkamʒitɛ] | гнец / О-кам-жі-те | slow-10.mp3 |
+| riešenie | рішення | [ˈrɪɛʃɛɲɪɛ] | РІЕ-ше-ніе | slow-11.mp3 |
+| spokojný | задоволений | [ˈspɔkɔjniː] | СПО-кой-ні | slow-12.mp3 |
 
 ### 3. GRAMATIKA: zdvorilé frázy + kondicionál (chcel by som, bolo by možné)
 | Priamo (nie!) | Zdvorilo (áno!) |

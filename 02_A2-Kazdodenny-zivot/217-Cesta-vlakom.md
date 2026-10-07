@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| vlak | потяг | [vlak] | влак | T217-01 |
-| stanica / nástupište | вокзал / платформа | [ˈstaɲitsa] / [ˈnaːstupiʃcɛ] | СТА-ні-ца / НАА-сту-піш-тье | T217-02 |
-| lístok / spiatočný | квиток / зворотний | [ˈliːstɔk] / [ˈspɪatɔtʃniː] | ЛІІ-сток / СПІА-точ-ні | T217-03 |
-| cestovný poriadok | розклад | [ˈtsɛstɔvniː ˈpɔrɪadɔk] | ЦЕ-стов-ні ПО-ріа-док | T217-04 |
-| meškanie | запізнення | [ˈmɛʃkaɲɪɛ] | МЕ-ш-ка-ніе | T217-05 |
-| prestupovať | пересідати | [ˈprɛstupɔvac] | ПРЕ-сту-по-ваць | T217-06 |
-| odchádza / prichádza | відправляється / прибуває | [ˈɔtxaːdza] / [ˈprixaːdza] | ОТ-хаа-дза / ПРІ-хаа-дза | T217-07 |
-| vozень → vozeň | вагон | [ˈvɔzɛɲ] | ВО-зень | T217-08 |
-| miesto / miestenka | місце / плацкарта | [ˈmɪɛstɔ] / [ˈmɪɛstɛŋka] | МІЕ-сто / МІЕ-стен-ка | T217-09 |
-| cestujúci | пасажир | [ˈtsɛstujuːtsi] | ЦЕ-сту-юу-ці | T217-10 |
-| pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | T217-11 |
-| priamy / rýchlik | прямий / швидкий (потяг) | [ˈprɪami] / [ˈriːxliːk] | ПРІА-мі / РІІ-х-ліік | T217-12 |
+| vlak | потяг | [vlak] | влак | slow-01.mp3 |
+| stanica / nástupište | вокзал / платформа | [ˈstaɲitsa] / [ˈnaːstupiʃcɛ] | СТА-ні-ца / НАА-сту-піш-тье | slow-02.mp3 |
+| lístok / spiatočný | квиток / зворотний | [ˈliːstɔk] / [ˈspɪatɔtʃniː] | ЛІІ-сток / СПІА-точ-ні | slow-03.mp3 |
+| cestovný poriadok | розклад | [ˈtsɛstɔvniː ˈpɔrɪadɔk] | ЦЕ-стов-ні ПО-ріа-док | slow-04.mp3 |
+| meškanie | запізнення | [ˈmɛʃkaɲɪɛ] | МЕ-ш-ка-ніе | slow-05.mp3 |
+| prestupovať | пересідати | [ˈprɛstupɔvac] | ПРЕ-сту-по-ваць | slow-06.mp3 |
+| odchádza / prichádza | відправляється / прибуває | [ˈɔtxaːdza] / [ˈprixaːdza] | ОТ-хаа-дза / ПРІ-хаа-дза | slow-07.mp3 |
+| vozень → vozeň | вагон | [ˈvɔzɛɲ] | ВО-зень | slow-08.mp3 |
+| miesto / miestenka | місце / плацкарта | [ˈmɪɛstɔ] / [ˈmɪɛstɛŋka] | МІЕ-сто / МІЕ-стен-ка | slow-09.mp3 |
+| cestujúci | пасажир | [ˈtsɛstujuːtsi] | ЦЕ-сту-юу-ці | slow-10.mp3 |
+| pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | slow-11.mp3 |
+| priamy / rýchlik | прямий / швидкий (потяг) | [ˈprɪami] / [ˈriːxliːk] | ПРІА-мі / РІІ-х-ліік | slow-12.mp3 |
 
 ### 3. GRAMATIKA: predložky pohybu — do, na, k, cez, cez + akuzatív
 | Kam? | Odkiaľ? | Kde? |

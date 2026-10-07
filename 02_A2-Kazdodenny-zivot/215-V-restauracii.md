@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| reštaurácia | ресторан | [ˈrɛʃtauraːtsɪa] | РЕ-штау-ра-ціа | T215-01 |
-| jedálny lístok | меню | [ˈjɛdaːlni ˈliːstɔk] | Є-даал-ні ЛІІ-сток | T215-02 |
-| predjedlo / hlavné jedlo | закуска / основна страва | [ˈprɛdjɛdlɔ] / [ˈɦlavnɛː ˈjɛdlɔ] | ПРЕД-єд-ло / ГЛАВ-не ЄД-ло | T215-03 |
-| dezert | десерт | [ˈdɛzɛrt] | ДЕ-зерт | T215-04 |
-| čašník / čašníčka | офіціант / офіціантка | [ˈtʃaʃniːk] / [ˈtʃaʃniːtʃka] | ЧАШ-ніік / ЧАШ-ніі-ч-ка | T215-05 |
-| objednať si | замовити собі | [ˈɔbjɛdnac si] | ОБ-єд-наць сі | T215-06 |
-| účet, prosím! | рахунок, будь ласка! | [ˈuːtʃɛt ˈprɔsiːm] | УУ-чет ПРО-сім | T215-07 |
-| je to výborné! | це чудово! | [jɛ tɔ ˈviːbɔrnɛː] | є то ВІІ-бор-не | T215-08 |
-| je to studené! | це холодне! | [jɛ tɔ ˈstuɟɛnɛː] | є то СТУ-дє-не | T215-09 |
-| sprepitné | чайові | [ˈsprɛpitnɛː] | СПРЕ-піт-не | T215-10 |
-| rezervovať stôl | забронювати стіл | [ˈrɛzɛrvɔvac stu̯ɔl] | РЕ-зер-во-ваць стуол | T215-11 |
-| platiť kartou / hotovosťou | платити карткою / готівкою | [ˈplatic ˈkartɔu] / [ˈɦɔtɔvɔscɔu] | ПЛА-тіць КАР-тоу / ГО-то-вос-цьоу | T215-12 |
+| reštaurácia | ресторан | [ˈrɛʃtauraːtsɪa] | РЕ-штау-ра-ціа | slow-01.mp3 |
+| jedálny lístok | меню | [ˈjɛdaːlni ˈliːstɔk] | Є-даал-ні ЛІІ-сток | slow-02.mp3 |
+| predjedlo / hlavné jedlo | закуска / основна страва | [ˈprɛdjɛdlɔ] / [ˈɦlavnɛː ˈjɛdlɔ] | ПРЕД-єд-ло / ГЛАВ-не ЄД-ло | slow-03.mp3 |
+| dezert | десерт | [ˈdɛzɛrt] | ДЕ-зерт | slow-04.mp3 |
+| čašník / čašníčka | офіціант / офіціантка | [ˈtʃaʃniːk] / [ˈtʃaʃniːtʃka] | ЧАШ-ніік / ЧАШ-ніі-ч-ка | slow-05.mp3 |
+| objednať si | замовити собі | [ˈɔbjɛdnac si] | ОБ-єд-наць сі | slow-06.mp3 |
+| účet, prosím! | рахунок, будь ласка! | [ˈuːtʃɛt ˈprɔsiːm] | УУ-чет ПРО-сім | slow-07.mp3 |
+| je to výborné! | це чудово! | [jɛ tɔ ˈviːbɔrnɛː] | є то ВІІ-бор-не | slow-08.mp3 |
+| je to studené! | це холодне! | [jɛ tɔ ˈstuɟɛnɛː] | є то СТУ-дє-не | slow-09.mp3 |
+| sprepitné | чайові | [ˈsprɛpitnɛː] | СПРЕ-піт-не | slow-10.mp3 |
+| rezervovať stôl | забронювати стіл | [ˈrɛzɛrvɔvac stu̯ɔl] | РЕ-зер-во-ваць стуол | slow-11.mp3 |
+| platiť kartou / hotovosťou | платити карткою / готівкою | [ˈplatic ˈkartɔu] / [ˈɦɔtɔvɔscɔu] | ПЛА-тіць КАР-тоу / ГО-то-вос-цьоу | slow-12.mp3 |
 
 ### 3. GRAMATIKA: datív + prosím si + akuzatív (dám si, objednám si)
 `prosím si + AKU`: `prosím si kávu, polievku`. Датив для особи: `donesте MI, nám`.

@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| správa | новина, повідомлення | [ˈspraːva] | спра́ва | ▶️ 307-01 |
-| tlač | преса | [tlak] | тлач | ▶️ 307-02 |
-| spravodajstvo | випуск новин | [ˈspravodajstvo] | спра́водайство | ▶️ 307-03 |
-| titulkа (titulok) | заголовок | [ˈtitulok] | ті́тулок | ▶️ 307-04 |
-| zdroj | джерело | [zdroj] | здрой | ▶️ 307-05 |
-| overiť informáciu | перевірити інформацію | [ˈovɛric ˈinformatsi̯a] | о́веріць інфо́рмацію | ▶️ 307-06 |
-| falošná správa (hoax) | фейкова новина | [ˈfaloʃnaː ˈspraːva] | фа́лошна спра́ва | ▶️ 307-07 |
-| reklama | реклама | [ˈrɛklama] | ре́клама | ▶️ 307-08 |
-| vysielať | транслювати | [ˈvisi̯ɛlac] | ві́сєлаць | ▶️ 307-09 |
-| moderátor | ведучий | [ˈmodɛraːtor] | мо́дератор | ▶️ 307-10 |
-| čítať medzi riadkami | читати між рядками | [ˈtʃiːtac ˈmɛdzi ˈri̯atkami] | чі́таць ме́дзі ря́дкамі | ▶️ 307-11 |
-| verejná mienka | громадська думка | [ˈvɛrɛjnaː ˈmi̯ɛnka] | ве́рейна міє́нка | ▶️ 307-12 |
+| správa | новина, повідомлення | [ˈspraːva] | спра́ва | slow-01.mp3 |
+| tlač | преса | [tlak] | тлач | — |
+| spravodajstvo | випуск новин | [ˈspravodajstvo] | спра́водайство | dialog-05.mp3 |
+| titulkа (titulok) | заголовок | [ˈtitulok] | ті́тулок | — |
+| zdroj | джерело | [zdroj] | здрой | slow-02.mp3 |
+| overiť informáciu | перевірити інформацію | [ˈovɛric ˈinformatsi̯a] | о́веріць інфо́рмацію | dialog-03.mp3 |
+| falošná správa (hoax) | фейкова новина | [ˈfaloʃnaː ˈspraːva] | фа́лошна спра́ва | slow-01.mp3 |
+| reklama | реклама | [ˈrɛklama] | ре́клама | — |
+| vysielať | транслювати | [ˈvisi̯ɛlac] | ві́сєлаць | — |
+| moderátor | ведучий | [ˈmodɛraːtor] | мо́дератор | slow-04.mp3 |
+| čítať medzi riadkami | читати між рядками | [ˈtʃiːtac ˈmɛdzi ˈri̯atkami] | чі́таць ме́дзі ря́дкамі | dialog-03.mp3 |
+| verejná mienka | громадська думка | [ˈvɛrɛjnaː ˈmi̯ɛnka] | ве́рейна міє́нка | dialog-04.mp3 |
 
 ### 3. GRAMATIKA: nepriama reč — «povedal, že...» (časová zhoda, základy)
 Правило: переказ без зміни часу для загальних фактів; minulý čas для минулих подій.

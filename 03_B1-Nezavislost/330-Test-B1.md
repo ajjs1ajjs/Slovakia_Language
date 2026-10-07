@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12) — opakovanie testové
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| test | тест | [tɛst] | тест | ▶️ 330-01 |
-| úloha | завдання | [ˈuːloɦa] | у́лога | ▶️ 330-02 |
-| správna odpoveď | правильна відповідь | [ˈspraːvnaː ˈodpovɛc] | спра́вна о́дповедь | ▶️ 330-03 |
-| body | бали | [ˈboɟi] | бо́ді | ▶️ 330-04 |
-| hodnotenie | оцінювання | [ˈɦodnocɛɲi̯ɛ] | го́дноценіє | ▶️ 330-05 |
-| uspieť | скласти (успішно) | [ˈuspi̯ɛc] | у́спєць | ▶️ 330-06 |
-| neuspieť | не скласти | [ˈnɛuspi̯ɛc] | не-у́спєць | ▶️ 330-07 |
-| časový limit | ліміт часу | [ˈtʃasoviː ˈlimit] | ча́сові лі́міт | ▶️ 330-08 |
-| prejsť | пройти | [ˈprɛjsc] | пре́йсьць | ▶️ 330-09 |
-| skúšajúci | екзаменатор | [ˈskuːʃajuːtsi] | ску́шаюці | ▶️ 330-10 |
-| certifikát | сертифікат | [ˈtsɛrtifikaːt] | це́ртіфікат | ▶️ 330-11 |
-| gratulujeme | вітаємо (ви склали) | [ˈgratulujɛmɛ] | гра́тулyєме | ▶️ 330-12 |
+| test | тест | [tɛst] | тест | slow-01.mp3 |
+| úloha | завдання | [ˈuːloɦa] | у́лога | — |
+| správna odpoveď | правильна відповідь | [ˈspraːvnaː ˈodpovɛc] | спра́вна о́дповедь | slow-02.mp3 |
+| body | бали | [ˈboɟi] | бо́ді | — |
+| hodnotenie | оцінювання | [ˈɦodnocɛɲi̯ɛ] | го́дноценіє | — |
+| uspieť | скласти (успішно) | [ˈuspi̯ɛc] | у́спєць | slow-03.mp3 |
+| neuspieť | не скласти | [ˈnɛuspi̯ɛc] | не-у́спєць | slow-03.mp3 |
+| časový limit | ліміт часу | [ˈtʃasoviː ˈlimit] | ча́сові лі́міт | — |
+| prejsť | пройти | [ˈprɛjsc] | пре́йсьць | — |
+| skúšajúci | екзаменатор | [ˈskuːʃajuːtsi] | ску́шаюці | — |
+| certifikát | сертифікат | [ˈtsɛrtifikaːt] | це́ртіфікат | — |
+| gratulujeme | вітаємо (ви склали) | [ˈgratulujɛmɛ] | гра́тулyєме | slow-04.mp3 |
 
 ### 3. GRAMATIKA: prehľad na test — CHECKLIST
 | Okruh (lekcie) | Musím vedieť |

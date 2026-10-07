@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| vzťah | стосунки | [ˈvzʲcax] | взцях | ▶️ 309-01 |
-| priateľstvo | дружба | [ˈpri̯atɛʎstvo] | прія́тельство | ▶️ 309-02 |
-| dôvera | довіра | [ˈdoːvɛra] | до́вера | ▶️ 309-03 |
-| hádať sa | сваритися | [ˈɦaːdac sa] | га́даць са | ▶️ 309-04 |
-| zmieriť sa | помиритися | [ˈzmi̯ɛric sa] | зміє́ріць са | ▶️ 309-05 |
-| žiarliť | ревнувати | [ˈʒi̯arlic] | жя́рліць | ▶️ 309-06 |
-| podporovať | підтримувати | [ˈpotporovac] | по́тпороваць | ▶️ 309-07 |
-| úprimný | щирий | [ˈuːprimniː] | у́прімні | ▶️ 309-08 |
-| spoľahlivý | надійний | [ˈspolahliviː] | спо́лягліві | ▶️ 309-09 |
-| rozísť sa | розійтися | [ˈroziːsc sa] | ро́зісьць са | ▶️ 309-10 |
-| zasnúbiť sa | заручитися | [ˈzasnuːbic sa] | за-сну́біць са | ▶️ 309-11 |
-| rozumieť si | розуміти один одного | [ˈrozumjɛc si] | ро́зумєць сі | ▶️ 309-12 |
+| vzťah | стосунки | [ˈvzʲcax] | взцях | slow-01.mp3 |
+| priateľstvo | дружба | [ˈpri̯atɛʎstvo] | прія́тельство | — |
+| dôvera | довіра | [ˈdoːvɛra] | до́вера | slow-02.mp3 |
+| hádať sa | сваритися | [ˈɦaːdac sa] | га́даць са | — |
+| zmieriť sa | помиритися | [ˈzmi̯ɛric sa] | зміє́ріць са | slow-03.mp3 |
+| žiarliť | ревнувати | [ˈʒi̯arlic] | жя́рліць | — |
+| podporovať | підтримувати | [ˈpotporovac] | по́тпороваць | — |
+| úprimný | щирий | [ˈuːprimniː] | у́прімні | dialog-04.mp3 |
+| spoľahlivý | надійний | [ˈspolahliviː] | спо́лягліві | slow-04.mp3 |
+| rozísť sa | розійтися | [ˈroziːsc sa] | ро́зісьць са | — |
+| zasnúbiť sa | заручитися | [ˈzasnuːbic sa] | за-сну́біць са | — |
+| rozumieť si | розуміти один одного | [ˈrozumjɛc si] | ро́зумєць сі | — |
 
 ### 3. GRAMATIKA: zvratné slovesá sa/si v minulom čase
 Правило: **sa/si** на другій позиції; у мин. часі: ja som sa..., ty si sa...

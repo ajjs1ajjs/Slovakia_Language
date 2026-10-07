@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| dovolenka | відпустка | [ˈdovolɛnka] | до́волєнка | ▶️ 323-01 |
-| zájazd | тур, путівка | [ˈzaːjast] | за́язд | ▶️ 323-02 |
-| rezervácia | бронювання | [ˈrɛzɛrvaːtsi̯a] | ре́зервація | ▶️ 323-03 |
-| polpenzia / plná penzia | напівпансіон / повний пансіон | [ˈpolpɛnzi̯a] | по́лпензія | ▶️ 323-04 |
-| more / hory | море / гори | [ˈmorɛ] | мо́ре | ▶️ 323-05 |
-| cestovná kancelária | турагенція | [ˈtsɛstovnaː ˈkantsɛlaːri̯a] | це́стовна ка́нцелярія | ▶️ 323-06 |
-| poistenie na cesty | страхування для подорожей | [ˈpojistɛɲi̯ɛ] | по́їстеніє | ▶️ 323-07 |
-| odlet / prílet | виліт / приліт | [ˈodlɛt] | о́длет | ▶️ 323-08 |
-| ubytovanie s raňajkami | проживання зі сніданком | [ˈraɲajkami] | ра́няйкамі | ▶️ 323-09 |
-| stornať | скасувати | [ˈstornac] | сто́рнаць | ▶️ 323-10 |
-| voľné miesto | вільне місце | [ˈvolnɛː ˈmi̯ɛsto] | во́льне міє́сто | ▶️ 323-11 |
-| sezóna | сезон | [ˈsɛzoːna] | се́зона | ▶️ 323-12 |
+| dovolenka | відпустка | [ˈdovolɛnka] | до́волєнка | slow-01.mp3 |
+| zájazd | тур, путівка | [ˈzaːjast] | за́язд | slow-02.mp3 |
+| rezervácia | бронювання | [ˈrɛzɛrvaːtsi̯a] | ре́зервація | slow-03.mp3 |
+| polpenzia / plná penzia | напівпансіон / повний пансіон | [ˈpolpɛnzi̯a] | по́лпензія | — |
+| more / hory | море / гори | [ˈmorɛ] | мо́ре | — |
+| cestovná kancelária | турагенція | [ˈtsɛstovnaː ˈkantsɛlaːri̯a] | це́стовна ка́нцелярія | — |
+| poistenie na cesty | страхування для подорожей | [ˈpojistɛɲi̯ɛ] | по́їстеніє | — |
+| odlet / prílet | виліт / приліт | [ˈodlɛt] | о́длет | — |
+| ubytovanie s raňajkami | проживання зі сніданком | [ˈraɲajkami] | ра́няйкамі | — |
+| stornať | скасувати | [ˈstornac] | сто́рнаць | — |
+| voľné miesto | вільне місце | [ˈvolnɛː ˈmi̯ɛsto] | во́льне міє́сто | — |
+| sezóna | сезон | [ˈsɛzoːna] | се́зона | — |
 
 ### 3. GRAMATIKA: budúci čas «budem + infinitív» pre plány
 Правило: плани = **budem + nedokonavé** або **dokonavé sloveso** (pôjdem, zarezervujem).

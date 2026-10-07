@@ -8,18 +8,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| ojazdené auto | вживане авто | [ˈojazdɛnɛː ˈauto] | о́яздене а́уто | ▶️ 316-01 |
-| najazdené kilometre | пробіг | [ˈnajazdɛnɛː ˈkilomɛtrɛ] | на́яздене кіло́метре | ▶️ 316-02 |
-| spotreba | витрата (палива) | [ˈspotrɛba] | спо́треба | ▶️ 316-03 |
-| technická kontrola (STK) | техогляд | [ˈtɛxnitskaː ˈkontrola] | те́хніцка ко́нтрола | ▶️ 316-04 |
-| poistenie | страхування | [ˈpojistɛɲi̯ɛ] | по́їстеніє | ▶️ 316-05 |
-| skúšobná jazda | тест-драйв | [ˈskuːʃobnaː ˈjazda] | ску́шобна я́зда | ▶️ 316-06 |
-| zľava | знижка | [ˈzʎava] | зля́ва | ▶️ 316-07 |
-| splátka | платіж (в розстрочку) | [ˈsplaːtka] | спла́тка | ▶️ 316-08 |
-| kufor | багажник | [ˈkufor] | ку́фор | ▶️ 316-09 |
-| klimatizácia | кондиціонер | [ˈklimatizaːtsi̯a] | кліматіза́ція | ▶️ 316-10 |
-| manuál / automat | механіка / автомат | [ˈmanuaːl] | ма́нуал | ▶️ 316-11 |
-| majiteľ (prvý) | (перший) власник | [ˈmajitɛʎ] | ма́йітель | ▶️ 316-12 |
+| ojazdené auto | вживане авто | [ˈojazdɛnɛː ˈauto] | о́яздене а́уто | dialog-01.mp3 |
+| najazdené kilometre | пробіг | [ˈnajazdɛnɛː ˈkilomɛtrɛ] | на́яздене кіло́метре | — |
+| spotreba | витрата (палива) | [ˈspotrɛba] | спо́треба | slow-01.mp3 |
+| technická kontrola (STK) | техогляд | [ˈtɛxnitskaː ˈkontrola] | те́хніцка ко́нтрола | — |
+| poistenie | страхування | [ˈpojistɛɲi̯ɛ] | по́їстеніє | slow-02.mp3 |
+| skúšobná jazda | тест-драйв | [ˈskuːʃobnaː ˈjazda] | ску́шобна я́зда | slow-03.mp3 |
+| zľava | знижка | [ˈzʎava] | зля́ва | slow-04.mp3 |
+| splátka | платіж (в розстрочку) | [ˈsplaːtka] | спла́тка | — |
+| kufor | багажник | [ˈkufor] | ку́фор | — |
+| klimatizácia | кондиціонер | [ˈklimatizaːtsi̯a] | кліматіза́ція | — |
+| manuál / automat | механіка / автомат | [ˈmanuaːl] | ма́нуал | — |
+| majiteľ (prvý) | (перший) власник | [ˈmajitɛʎ] | ма́йітель | — |
 
 ### 3. GRAMATIKA: porovnávanie — «lacnejší ako / taký ako» (B1 opakovanie)
 Правило: **komparatív + ako**; **taký + príd. meno + ako**.

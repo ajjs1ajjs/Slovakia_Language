@@ -7,18 +7,18 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| zvyk | звичай | [ˈzvik] | ЗВІК | T422-01 |
-| kultúrny šok | культурний шок | [ˈkultuːrni ˈʃɔk] | КУЛ-туур-ні ШОК | T422-02 |
-| tolerancia | толерантність | [ˈtɔlɛrantsɪja] | ТО-лє-ран-ці-я | T422-03 |
-| predsudok | упередження | [ˈprɛtsudɔk] | ПРЄД-су-док | T422-04 |
-| pohostinnosť | гостинність | [ˈpɔɦɔstinnɔsɟ] | ПО-гос-тін-ность | T422-05 |
-| dochvíľnosť | пунктуальність | [ˈdɔxviːʎnɔsɟ] | ДО-хвііл-ность | T422-06 |
-| small talk | світська бесіда | [ˈsmɔːl tɔːlk] | СМОЛ толк | T422-07 |
-| privítať | привітати, зустріти | [ˈpriviːtaɟ] | ПРІ-віі-тадь | T422-08 |
-| napiť sa / pripiť si | випити / цокнутись | [ˈpripic si] | ПРІ-піть сі | T422-09 |
-| Všetko najlepšie! | Всього найкращого! | [ˈnajlɛpʃɪ̯ɛ] | НАЙ-лєп-шє | T422-10 |
-| Na zdravie! | Будьмо! (за здоров'я) | [ˈzdravɪ̯ɛ] | ЗДРА-вє | T422-11 |
-| prispôsobiť sa | пристосуватися | [ˈprispɔːsɔbiɟ sa] | ПРІ-споо-со-біть са | T422-12 |
+| zvyk | звичай | [ˈzvik] | ЗВІК | slow-01.mp3 |
+| kultúrny šok | культурний шок | [ˈkultuːrni ˈʃɔk] | КУЛ-туур-ні ШОК | slow-01.mp3 |
+| tolerancia | толерантність | [ˈtɔlɛrantsɪja] | ТО-лє-ран-ці-я | slow-01.mp3 |
+| predsudok | упередження | [ˈprɛtsudɔk] | ПРЄД-су-док | slow-01.mp3 |
+| pohostinnosť | гостинність | [ˈpɔɦɔstinnɔsɟ] | ПО-гос-тін-ность | slow-01.mp3 |
+| dochvíľnosť | пунктуальність | [ˈdɔxviːʎnɔsɟ] | ДО-хвііл-ность | slow-02.mp3 |
+| small talk | світська бесіда | [ˈsmɔːl tɔːlk] | СМОЛ толк | slow-02.mp3 |
+| privítať | привітати, зустріти | [ˈpriviːtaɟ] | ПРІ-віі-тадь | slow-02.mp3 |
+| napiť sa / pripiť si | випити / цокнутись | [ˈpripic si] | ПРІ-піть сі | — |
+| Všetko najlepšie! | Всього найкращого! | [ˈnajlɛpʃɪ̯ɛ] | НАЙ-лєп-шє | slow-03.mp3 |
+| Na zdravie! | Будьмо! (за здоров'я) | [ˈzdravɪ̯ɛ] | ЗДРА-вє | slow-03.mp3 |
+| prispôsobiť sa | пристосуватися | [ˈprispɔːsɔbiɟ sa] | ПРІ-споо-со-біть са | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: porovnávanie kultúr (ako – tak; oproti; kým)
 | Шаблон | Приклад |
