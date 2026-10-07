@@ -25,6 +25,6 @@
 | 004-pozdravy.jpg | 00_A0-Zaklady-vymova/004-Pozdravy-zdvorilost.md | https://commons.wikimedia.org/wiki/File%3A609%20%282%29.%20Leaving%20old%20home%20and%20friends%20-%20waving%20goodbyes%20to%20emigrants%20starting%20for%20America%2C%20Christiania%2C%20Norway%20%288089363418%29.jpg | CC BY 2.0 |
 | 108.jpg | 01_A1-Prezitie/108-Pocasie-oblecenie.md | https://commons.wikimedia.org/wiki/File%3AWoman%20With%20Umbrella%20%2858400972%29.jpeg | CC BY-SA 3.0 |
 | 117.jpg | 01_A1-Prezitie/117-Zoznamenie-rozsirene.md | https://commons.wikimedia.org/wiki/File%3ADisabled%20BIPOC%20taking%20a%20selfie.jpg | CC BY 4.0 |
-| 101.jpg | 01_A1-Prezitie/101-Rodina.md | https://commons.wikimedia.org/wiki/File%3AA%20Family%20in%20a%20Beach%20Chalet%20%2810291198964%29.jpg | No restrictions |
+| 101.jpg | 01_A1-Prezitie/101-Rodina.md | https://commons.wikimedia.org/wiki/File%3AA%20Family%20in%20a%20Beach%20Chalet%20%2810291198964%29.jpg | No restrictions (Tyne & Wear Archives & Museums) |
 | 105.jpg | 01_A1-Prezitie/105-Mesto-orientacia.md | https://commons.wikimedia.org/wiki/File%3AMapa%20Bratislavy.JPG | CC BY-SA 3.0 |
 | 001-pozdrav.jpg | 00_A0-Zaklady-vymova/001-Abeceda-vyslovnost.md | https://commons.wikimedia.org/wiki/File%3ATwo%20friends%20shaking%20hands%20old%20photo.jpg | Public domain |

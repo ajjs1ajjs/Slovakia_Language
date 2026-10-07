@@ -6,18 +6,18 @@
 | 202.jpg | 202-Volny-cas-hobby | https://commons.wikimedia.org/wiki/File:A%20canoe%20in%20the%20middle%20of%20the%20lake%20chad.jpg | CC BY-SA 4.0 |
 | 203.jpg | 203-Skola-ucenie | https://commons.wikimedia.org/wiki/File:Children%20Reading%20at%20Tables%20in%20a%20School%20Library(GN08849).jpg | CC0 |
 | 204.jpg | 204-Praca-CV-pohovor | https://commons.wikimedia.org/wiki/File:Annual%20Business%20Meeting%20(5062577233).jpg | CC BY-SA 2.0 |
-| 205.jpg | 205-U-lekara | https://commons.wikimedia.org/wiki/File:Medical%20clinic%20treats%20patients%20130415-Z-SF323-005.jpg | Public domain |
+| 205.jpg | 205-U-lekara | https://commons.wikimedia.org/wiki/File:Medical%20clinic%20treats%20patients%20130415-Z-SF323-005.jpg | Public domain (Mark Wyatt) |
 | 206.jpg | 206-Na-urade-doklady | https://commons.wikimedia.org/wiki/File:Koh%20Lipe%2C%20Adang-Rawi%20Archipelago%2C%20Thailand%202025%20-%20Stack%20of%20passports.jpg | CC BY 2.0 |
 | 207.jpg | 207-Banka-peniaze | https://commons.wikimedia.org/wiki/File:20%20and%2050%20Euro%20banknote%20straps%20delivered%20by%20G4S.jpg | CC BY-SA 4.0 |
-| 208.jpg | 208-Posta-baliky | https://commons.wikimedia.org/wiki/File:20220927%20AliExpress%20parcel%20machine%20in%20Tomaszow%20Mazowiecki%2C%20Poland.jpg | see Commons page |
+| 208.jpg | 208-Posta-baliky | https://commons.wikimedia.org/wiki/File:20220927%20AliExpress%20parcel%20machine%20in%20Tomaszow%20Mazowiecki%2C%20Poland.jpg | UNVERIFIED — file removed from Commons, license unknown (local copy retained) |
 | 209.jpg | 209-Opravy-sluzby | https://commons.wikimedia.org/wiki/File:40%20lb%20capacity%20Continental%20Girbau%20ExpressWash%20coin-op%20washing%20machine.jpg | CC BY 4.0 |
-| 210.jpg | 210-Priroda-vylety | https://commons.wikimedia.org/wiki/File:Restaurace%20a%20hotel%20Panorama%2C%20Strbske%20pleso%2C%20srpen%202024.jpg | see Commons page |
-| 211.jpg | 211-Rozpravanie-minulost | https://commons.wikimedia.org/wiki/File:Facilities%20old%20vintage%20photo%20album.jpg | Public domain |
+| 210.jpg | 210-Priroda-vylety | https://commons.wikimedia.org/wiki/File:Restaurace%20a%20hotel%20Panorama%2C%20Strbske%20pleso%2C%20srpen%202024.jpg | UNVERIFIED — file removed from Commons, license unknown (local copy retained) |
+| 211.jpg | 211-Rozpravanie-minulost | https://commons.wikimedia.org/wiki/File:Facilities%20old%20vintage%20photo%20album.jpg | Public domain (U.S. Fish and Wildlife Service) |
 | 212.jpg | 212-Minuly-vikend | https://commons.wikimedia.org/wiki/File:2016%20Chatka%20grillowa%20przy%20pensjonacie%20Chata%20Cyborga%20w%20Bielicach.jpg | CC BY-SA 4.0 |
 | 213.jpg | 213-Plany-buducnost | https://commons.wikimedia.org/wiki/File:Airport%20-%20Flickr%20-%20hernanpba.jpg | CC BY-SA 2.0 |
 | 214.jpg | 214-Pozvanka-oslava | https://commons.wikimedia.org/wiki/File:American%20Birthday%20Cake.jpg | CC BY-SA 4.0 |
 | 215.jpg | 215-V-restauracii | https://commons.wikimedia.org/wiki/File:Baked%20New%20York%20Cheesecake%2C%20The%20Griffins%20Hotel%2C%202024%20(01).jpg | CC BY-SA 4.0 |
-| 216.jpg | 216-Nakup-oblecenia | https://commons.wikimedia.org/wiki/File:Clothes%20and%20armchair%20at%20Kamp%20Galleria%20in%20April%202024.jpg | see Commons page |
+| 216.jpg | 216-Nakup-oblecenia | https://commons.wikimedia.org/wiki/File:Clothes%20and%20armchair%20at%20Kamp%20Galleria%20in%20April%202024.jpg | UNVERIFIED — file removed from Commons, license unknown (local copy retained) |
 | 217.jpg | 217-Cesta-vlakom | https://commons.wikimedia.org/wiki/File:Amtrak%20quiet%20car%20coach%20aboard%20the%20Vermonter%20passenger%20train%20-%202.jpg | CC BY 4.0 |
 | 218.jpg | 218-Ubytovanie | https://commons.wikimedia.org/wiki/File:2nd%20guest%20room%20(Schloss%20Sanssouci).jpg | CC BY-SA 4.0 |
 | 219.jpg | 219-Telefonat | https://commons.wikimedia.org/wiki/File:A%20woman%20from%20Kensiu%20community%20is%20talking%20on%20the%20phone%20in%20front%20of%20Wikimedia%20Malaysia%20standing%20banner.jpg | CC BY-SA 4.0 |
