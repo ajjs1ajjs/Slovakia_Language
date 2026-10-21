@@ -3,10 +3,15 @@
 PDF вимагає 16-біт семпли big-endian (s16be) — little-endian дає шипіння.
 Якість помітно вища за muLaw 8000 (~5.5x розмір), Acrobat грає нормально.
   python tools/make_pcm.py --all | --lesson 001
-Вивід: build/wav22050/<ID>/<file>.pcm (сирі s16le-байти без заголовка).
+Вивід: build/wav22050/<ID>/<file>.pcm (сирі s16be-байти без заголовка).
 """
-import argparse, subprocess
+import argparse, subprocess, sys
 from pathlib import Path
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).resolve().parent.parent
 FF = __import__("imageio_ffmpeg").get_ffmpeg_exe()

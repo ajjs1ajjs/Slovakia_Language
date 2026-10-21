@@ -8,25 +8,55 @@
 import argparse, json, re, sys, textwrap
 from pathlib import Path
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "build" / "pdf"
 TMP = ROOT / "build" / "tmp"
 FOTO = ROOT / "assets" / "foto"
-ARIAL = Path(r"C:\Windows\Fonts\arial.ttf")
-ARIAL_B = Path(r"C:\Windows\Fonts\arialbd.ttf")
 BLUE = "#0b4ea2"
 
 
+def find_font(is_bold: bool):
+    filename = "arialbd.ttf" if is_bold else "arial.ttf"
+    liberation = "LiberationSans-Bold.ttf" if is_bold else "LiberationSans-Regular.ttf"
+    dejavu = "DejaVuSans-Bold.ttf" if is_bold else "DejaVuSans.ttf"
+    freesans = "FreeSansBold.ttf" if is_bold else "FreeSans.ttf"
+
+    candidates = [
+        ROOT / "assets" / "fonts" / filename,
+        ROOT / "assets" / "fonts" / liberation,
+        Path(r"C:\Windows\Fonts") / filename,
+        Path(f"/usr/share/fonts/truetype/msttcorefonts/{filename}"),
+        Path(f"/usr/share/fonts/truetype/liberation/{liberation}"),
+        Path(f"/usr/share/fonts/liberation-sans/{liberation}"),
+        Path(f"/usr/share/fonts/truetype/dejavu/{dejavu}"),
+        Path(f"/usr/share/fonts/truetype/freefont/{freesans}"),
+        Path(f"/System/Library/Fonts/Supplemental/{filename}"),
+        Path(f"/Library/Fonts/{filename}"),
+    ]
+    for c in candidates:
+        if c.exists():
+            return c
+    return None
+
+
 def register_fonts() -> None:
-    """R2: register Arial pair with a clear early error when missing
-    (Windows-only path; bare registerFont would die mid-document)."""
+    """Register Arial pair or compatible free font (cross-platform)."""
     from reportlab.pdfbase import pdfmetrics
     from reportlab.pdfbase.ttfonts import TTFont
-    for name, path in (("Arial", ARIAL), ("Arial-B", ARIAL_B)):
-        if not path.exists():
-            raise FileNotFoundError(
-                f"Шрифт не знайдено: {path} (потрібен Windows або покладіть .ttf поруч)")
-        pdfmetrics.registerFont(TTFont(name, str(path)))
+    reg = find_font(is_bold=False)
+    bold = find_font(is_bold=True)
+    if not reg or not bold:
+        raise FileNotFoundError(
+            "Шрифт не знайдено (Arial або LiberationSans/DejaVuSans). "
+            "Встановіть шрифти або покладіть arial.ttf та arialbd.ttf у assets/fonts/"
+        )
+    pdfmetrics.registerFont(TTFont("Arial", str(reg)))
+    pdfmetrics.registerFont(TTFont("Arial-B", str(bold)))
 
 LEVELS = {"00_A0-Zaklady-vymova": ("A0", "Основи вимови"),
           "01_A1-Prezitie": ("A1", "Виживання"),
@@ -520,12 +550,8 @@ def course_stats(meta):
 
 
 def expected_sounds(meta):
-    n = 0
-    for m in meta:
-        udir = ROOT / "build" / "wav22050" / m["id"]
-        if udir.is_dir():
-            n += len(list(udir.glob("*.pcm")))
-    return n
+    _, n_audio, _ = course_stats(meta)
+    return n_audio
 
 
 def build_front(meta, starts):
