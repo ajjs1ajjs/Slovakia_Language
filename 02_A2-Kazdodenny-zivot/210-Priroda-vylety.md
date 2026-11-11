@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/210.jpg` — Високі Татри, озеро Штрбське плесо. Асоціація: `hory` = свобода.
-Джерело: Unsplash «High Tatras lake» або AI-фото.
+Джерело: Wikimedia Commons, CC BY-SA 4.0 (Rafał Kozubek) — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

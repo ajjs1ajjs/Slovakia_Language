@@ -4,7 +4,7 @@
 **Мета:** 0 → B2 (CEFR), ~3000 слів, вільне побутове + робоче спілкування
 
 **Готовий продукт — PDF:**
-- 📥 **Скачати повний курс одним файлом:** [Slovak-0-B2-full.pdf](https://github.com/ajjs1ajjs/Slovakia_Language/releases/download/v1.2/Slovak-0-B2-full.pdf) (111 лекцій, 467 сторінок, звук всередині)
+- 📥 **Скачати повний курс одним файлом:** [Slovak-0-B2-full.pdf](https://github.com/ajjs1ajjs/Slovakia_Language/releases/download/v1.2.1/Slovak-0-B2-full.pdf) (111 лекцій, 467 сторінок, звук всередині)
 - `build/Slovak-0-B2-full.pdf` — те саме, збирається локально (у git не лежить: PDF відтворюються з контенту, а повний курс роздається через Releases).
   Як слухати: в кінці кожної лекції — аудіо-дошка: клік по **динаміку** біля фрази грає голос
   (потрібен безкоштовний Adobe Acrobat Reader).

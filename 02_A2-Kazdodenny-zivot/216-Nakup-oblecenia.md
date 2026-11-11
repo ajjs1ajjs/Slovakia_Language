@@ -2,8 +2,8 @@
 **Úroveň:** A2 | **Cieľ:** приміряти, запитати розмір, порівняти ціни.
 
 ### 1. FOTO
-`assets/foto/216.jpg` — магазин одягу, вішаки з сорочками. Асоціація: `veľkosť` = приміряти.
-Джерело: Unsplash «clothing store rack» або AI-фото.
+`assets/foto/216.jpg` — магазин одягу, вішаки з куртками й манекени. Асоціація: `veľkosť` = приміряти.
+Джерело: Wikimedia Commons, CC BY-SA 3.0 (Valdas Ruzgys) — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

@@ -2,8 +2,8 @@
 **Úroveň:** A2 | **Cieľ:** відправити лист/посилку, заповнити адресу, відстежити.
 
 ### 1. FOTO
-`assets/foto/208.jpg` — поштове відділення, пакунки. Асоціація: `balík` = коробка + адреса.
-Джерело: Unsplash «post office parcel» або AI-фото.
+`assets/foto/208.jpg` — поштомат для видачі посилок. Асоціація: `balík` = коробка + адреса.
+Джерело: Wikimedia Commons, CC BY-SA 4.0 (Philafrenzy) — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
