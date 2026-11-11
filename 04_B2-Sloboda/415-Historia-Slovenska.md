@@ -52,6 +52,3 @@
 
 ### 7. MINI-PROJEKT
 Обери 1 pamiatku (Spišský hrad / Vlkolínec / Banská Štiavnica) і зроби постер: foto + 8 faktov SK.
-
-### QR
-[QR T415-01 ... T415-12 + 415-text.mp3]

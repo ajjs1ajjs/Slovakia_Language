@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Відвідай (реально/віртуально) galériu/divadlo і запиши 1-хвилинну recenziu: 2 плюси + 1 мінус + odporúčanie.
-
-### QR
-[QR T414-01 ... T414-12 + 414-dialog.mp3]

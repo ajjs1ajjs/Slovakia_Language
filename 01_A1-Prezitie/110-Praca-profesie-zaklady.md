@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/110.jpg` — люди різних професій: učiteľ, lekár, vodič, kuchár.
-Unsplash-підказка: «diverse professions team».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -53,6 +52,3 @@ Profesia без артикля: Som učiteľ. (чол.) / Som učiteľka. (жі�
 2. Robiť: ty ___, my ___, oni ___.
 3. Скажи про себе: Som ___ / Pracujem ako ___.
 **Kľúč:** 1. pracujem, pracuje, pracujú. 2. robíš, robíme, robia. 3. вільно.
-
-### 7. QR / PDF
-[QR 110-01 ... 110-12 + 110-DIALOG]

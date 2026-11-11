@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Прочитай свою výplatnú pásku (або vzor): випиши hrubá/čistá/daň/odvody + 3 otázky do banky SK.
-
-### QR
-[QR T424-01 ... T424-12 + 424-dialog.mp3]

@@ -51,6 +51,3 @@
 
 ### 7. MINI-PROJEKT
 Список kontaktov: cudzinecká polícia + bezplatná právna pomoc + SOI твого kraja (adresy + hodiny SK).
-
-### QR
-[QR T423-01 ... T423-12 + 423-text.mp3]

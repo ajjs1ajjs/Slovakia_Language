@@ -60,7 +60,3 @@
 1. a) lepší, najlepší; b) nudnejší, najnudiší; c) zaujímavejší, najzaujímavejší.
 2. a) Dva lístky do 5. radu. b) Predstavenie s titulkami. c) Vypredané.
 3. (вільно) Dej bol napínavý. Herec bol skvelý. Odporúčam tento film.
-
-### 7. QR / PDF
-- QR → MP3: 308-01…308-12 + 308-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

@@ -61,7 +61,3 @@
 1. Išiel by som = kondicionál; Choď! = imperatív; aby som vedel = účel; je napísané = pasív (trpné).
 2. a) Keby som vedel/a... b) Povedz mi! c) Izba je zaplatená.
 3. (зразок) Keby som mal čas, išiel by som von, aby som si oddýchol.
-
-### 7. QR / PDF
-- QR → MP3: 328-01…328-12 + 328-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

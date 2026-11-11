@@ -58,6 +58,3 @@
 
 ### 7. MINI-PROJEKT
 Cestovný plán-реальність: знайди letenky+ubytovanie na víkend (screenshots + rozpočet v eurách + 5 viet SK).
-
-### QR
-[QR T421-01 ... T421-12 + 421-dialog.mp3]

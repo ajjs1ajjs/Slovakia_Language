@@ -61,7 +61,3 @@
 1. a) Chcel/a by som vedúceho. b) Mohli by ste ma spojiť?
 2. a) Linka je obsadená. b) Počkajte na linke. / Vydržte chvíľu. c) Odkážte mu, prosím, že som volal/a.
 3. (вільно) Tu Peter. Volal som ohľadom objednávky. Moje číslo je...
-
-### 7. QR / PDF
-- QR → MP3: 326-01…326-12 + 326-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

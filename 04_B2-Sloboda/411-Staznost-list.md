@@ -51,6 +51,3 @@
 
 ### 7. MINI-PROJEKT
 Знайди reklamačný poriadok реального e-shopu (Alza/Mall) і випиши: lehota, podmienky, kontakt (SK, 5 рядків).
-
-### QR
-[QR T411-01 ... T411-12 + 411-text.mp3]

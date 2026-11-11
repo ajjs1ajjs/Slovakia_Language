@@ -51,6 +51,3 @@
 
 ### 7. MINI-PROJEKT
 Mini-výskum: 5 dní sleduj svoj spánok/učenie → graf na papieri + 5 viet zistení SK.
-
-### QR
-[QR T425-01 ... T425-12 + 425-text.mp3]

@@ -62,7 +62,3 @@
 1. a) aby, b) lebo, c) že, d) Keď.
 2. a) Učím sa, aby som vedel/a. b) Keď prší, som doma. c) Neprídem, lebo som chorý/á.
 3. (зразок) Volám ti, aby si nezabudol. / Keď prší, ostávam doma. / Ostávam doma, lebo prší.
-
-### 7. QR / PDF
-- QR → MP3: 313-01…313-12 + 313-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

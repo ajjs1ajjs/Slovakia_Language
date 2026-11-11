@@ -63,7 +63,3 @@
 1. a) išiel/išla by som, b) mohol/mohla by si, c) boli by sme.
 2. a) Chcel/a by som čaj. b) Keby som mal/a čas... c) Mohli by ste zavrieť okno?
 3. (вільно) Keby som mal peniaze, cestoval by som. / Keby som vedel po slovensky, našiel by som si prácu.
-
-### 7. QR / PDF
-- QR → MP3: 311-01…311-12 + 311-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

@@ -61,7 +61,3 @@
 1. a) na, b) na, c) z.
 2. a) Kde je zastávka? b) Musím prestúpiť? c) Označte si lístok!
 3. (вільно) Idem električkou č. 1. Prestúpim na Moste SNP. Vystúpim na zastávke Hrad.
-
-### 7. QR / PDF
-- QR → MP3: 322-01…322-12 + 322-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

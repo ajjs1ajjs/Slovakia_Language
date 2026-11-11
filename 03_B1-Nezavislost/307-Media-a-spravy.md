@@ -60,7 +60,3 @@
 1. a) ide domov, b) bola chorá.
 2. a) Over si zdroj. / Overte si zdroj. b) Je to falošná správa / hoax. c) Moderátor informoval o meškaní.
 3. (вільно) V správach hovorili, že otvorili nový most. Moderátor uviedol, že je už prejazdný.
-
-### 7. QR / PDF
-- QR → MP3: 307-01…307-12 + 307-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

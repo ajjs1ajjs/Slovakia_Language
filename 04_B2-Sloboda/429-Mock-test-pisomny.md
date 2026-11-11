@@ -53,6 +53,3 @@ Hodnotenie: gramatika 10 b + čítanie 5 b + esej 10 b = 25 b; pass ≥ 15 b.
 
 ### 7. MINI-PROJEKT
 Testový denník: čas po častiach + 3 chyby z nepozornosti + plán «čo docvičím pred 430».
-
-### QR
-[QR T429-01 ... T429-12 + 429-test.mp3]

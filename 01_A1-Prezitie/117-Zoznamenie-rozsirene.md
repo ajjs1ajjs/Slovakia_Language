@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/117.jpg` — двоє людей знайомляться, обмін телефонами, усмішки.
-Unsplash-підказка: «two people meeting handshake city».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -53,6 +52,3 @@ Hovorím po slovensky. Hovoríš po ukrajinsky? Po + прислівник на -
 2. Po + мова: ___ slovensky, ___ ukrajinsky (príslovka malým!).
 3. Напиши 4 речення про себе: Volám sa..., Som z..., Bývam v..., Hovorím....
 **Kľúč:** 1. hovorím, hovoríš, hovoria. 2. po, po. 3. вільно.
-
-### 7. QR / PDF
-[QR 117-01 ... 117-12 + 117-DIALOG]

@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
-"""Генерація MP3 + QR для курсу Slovakia_Language.
-Парсить assets/audio-scripts/*.txt ([SLOW]/[NORMAL]), озвучує edge-tts (sk-SK),
-кладe в assets/audio/<ID>/ + QR в assets/qr/<ID>/.
+"""Генерація MP3 для курсу Slovakia_Language.
+
+Парсить assets/audio-scripts/*.txt ([SLOW]/[NORMAL]), озвучує edge-tts (sk-SK)
+і кладе MP3 + index.json у assets/audio/<ID>/.
 
 Використання:
-  python tools/generate_audio.py --lesson 001            # одна лекція (демо)
-  python tools/generate_audio.py --all                   # всі 111 (довго!)
-  python tools/generate_audio.py --all --base-url https://USER.github.io/REPO/audio
-Голоси: SLOW — ViktoriaNeural -20%, NORMAL — діалог по черзі Anton/Viktoria.
-Без інтернету скрипт тільки друкує план (dry-run).
+  python tools/generate_audio.py --lesson 001   # одна лекція
+  python tools/generate_audio.py --all          # всі 111 (довго!)
+  python tools/generate_audio.py --all --plan   # тільки розпарсити, без TTS
+
+Будь-яка помилка TTS валить запуск з кодом 1: частково озвучений курс
+не має вважатися успішною збіркою.
 """
 import argparse, asyncio, json, re, sys
 from pathlib import Path
@@ -21,11 +23,11 @@ if hasattr(sys.stderr, "reconfigure"):
 ROOT = Path(__file__).resolve().parent.parent
 SCRIPTS = ROOT / "assets" / "audio-scripts"
 AUDIO = ROOT / "assets" / "audio"
-QRS = ROOT / "assets" / "qr"
 FEMALE = "sk-SK-ViktoriaNeural"
 MALE = "sk-SK-LukasNeural"
 
 SKIP_PREFIX = ("LEKCIA", "LEKCI", "Інструкція", "Голос", "Файли", "Інструкц")
+
 
 def parse_script(path: Path):
     slow, normal, section = [], [], None
@@ -56,22 +58,18 @@ def parse_script(path: Path):
         return out
     return dedup(slow), dedup(normal)
 
+
 async def synth(text, voice, rate, out: Path):
     import edge_tts
     out.parent.mkdir(parents=True, exist_ok=True)
     comm = edge_tts.Communicate(text, voice, rate=rate)
     await comm.save(str(out))
 
-def make_qr(text, out: Path):
-    import qrcode
-    out.parent.mkdir(parents=True, exist_ok=True)
-    qrcode.make(text).save(str(out))
 
-async def build_lesson(lid: str, base_url: str, only_plan=False):
+async def build_lesson(lid: str, only_plan=False):
     src = SCRIPTS / f"{lid}.txt"
     if not src.exists():
-        print(f"[{lid}] нема скрипта, пропуск")
-        return
+        raise FileNotFoundError(f"нема скрипта {src}")
     slow, normal = parse_script(src)
     print(f"[{lid}] SLOW={len(slow)} NORMAL={len(normal)}")
     index = {"slow": [], "normal": []}
@@ -89,31 +87,32 @@ async def build_lesson(lid: str, base_url: str, only_plan=False):
             tasks.append(synth(phrase, voice, "+0%", AUDIO / lid / fn))
     if tasks:
         await asyncio.gather(*tasks)
-    # індекс + QR
     adir = AUDIO / lid
     adir.mkdir(parents=True, exist_ok=True)
     (adir / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
-    if not only_plan:
-        for entry in index["slow"] + index["normal"]:
-            url = f"{base_url}/{lid}/{entry['file']}" if base_url else f"audio/{lid}/{entry['file']}"
-            make_qr(url, QRS / lid / (Path(entry["file"]).stem + ".png"))
-    print(f"[{lid}] OK: {AUDIO/lid} + {QRS/lid}")
+    print(f"[{lid}] OK: {adir} (slow={len(slow)}, dialog={len(normal)})")
+
 
 async def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--lesson", default=None)
     ap.add_argument("--all", action="store_true")
-    ap.add_argument("--base-url", default="")
     ap.add_argument("--plan", action="store_true", help="тільки розпарсити, без TTS")
     a = ap.parse_args()
     ids = ([a.lesson] if a.lesson else sorted(p.stem for p in SCRIPTS.glob("*.txt"))) if (a.lesson or a.all) else []
     if not ids:
         print("вкажи --lesson 001 або --all"); sys.exit(1)
+    failed = []
     for lid in ids:
         try:
-            await build_lesson(lid, a.base_url.rstrip("/"), only_plan=a.plan)
+            await build_lesson(lid, only_plan=a.plan)
         except Exception as e:
             print(f"[{lid}] ПОМИЛКА: {e}")
+            failed.append(lid)
+    if failed:
+        print(f"\nЗБІЙ: {len(failed)} лекцій не озвучено: {', '.join(failed)}")
+        sys.exit(1)
+
 
 if __name__ == "__main__":
     asyncio.run(main())

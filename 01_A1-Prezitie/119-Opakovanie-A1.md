@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/119.jpg` — колаж: rodina + jedlo + mesto + vlak (4 картинки).
-Unsplash-підказка: «collage family food city travel».
 
 ### 2. SLOVÍČKA — opakovanie (12 kľúčových)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -54,6 +53,3 @@ Unsplash-підказка: «collage family food city travel».
 2. Mať + Acc: Mám ___ (kava→kávu), Prosím si ___ (polievka→polievku).
 3. Negácia: Je ďaleko. → ___. Mám čas. → ___. Viem. → ___.
 **Kľúč:** 1. som, sú, sme. 2. kávu, polievku. 3. Nie je ďaleko. Nemám čas. Neviem.
-
-### 7. QR / PDF
-[QR 119-01 ... 119-12 + 119-DIALOG]

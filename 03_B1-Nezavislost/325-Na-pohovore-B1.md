@@ -61,7 +61,3 @@
 1. a) pracoval/a som, b) vyštudovala, c) zlepšili sme.
 2. a) Mám 4-ročnú prax. / Mám prax 4 roky. b) Mojou silnou stránkou je komunikácia. c) Môžem nastúpiť od prvého.
 3. (вільно, зразок) Mám prax v administratíve. Vyštudoval/a som... Mojou silnou stránkou je...
-
-### 7. QR / PDF
-- QR → MP3: 325-01…325-12 + 325-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

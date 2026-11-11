@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/005-cisla.jpg` — рука показує номерок у черзі (číslo 12), поруч цінник 5,50 € і телефон. Асоціація: числа всюди — ціна, номер, поверх.
-Поки фото-заглушка: Unsplash «price tag queue number» або згенерувати AI.
 
 ### 2. SLOVÍČKA: čísla 0–20 + hláskovanie (5 фраз)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -84,7 +83,3 @@
 2. Зразок: `Moje meno je Taras. Hláskujem: T-A-R-A-S [tɛː aː ɛr aː ɛs].`
 3. У діалозі: **dvanásť eur** (12 €). В аудіо-скрипті додатково: **päť eur, sedem eur** — перевір за 005.txt.
 </details>
-
-### 7. QR / PDF
-- QR → MP3: T05-01 … T05-25 + T05-dialog
-- В PDF: кнопка Play (Adobe) + QR для телефона

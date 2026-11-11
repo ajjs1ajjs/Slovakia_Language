@@ -61,7 +61,3 @@
 1. a) na svadbu, b) na vás, c) na hostinu.
 2. a) Pozývame vás na svadbu. b) Potvrďte účasť. c) Gratulujeme novomanželom!
 3. (вільно) Pozývame vás na svadbu 15. júna. Sobáš bude v kostole. Tešíme sa na vás!
-
-### 7. QR / PDF
-- QR → MP3: 327-01…327-12 + 327-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

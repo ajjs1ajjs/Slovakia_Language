@@ -61,6 +61,3 @@
 
 ### 7. MINI-PROJEKT
 Mapa medzier: таблиця 5 pilierov + dôkaz (1 veta z tvojich textov) + plán opakovania na 7 dní.
-
-### QR
-[QR T428-01 ... T428-12 + 428-dialog.mp3]

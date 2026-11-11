@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/102.jpg` — стіл у словацькій reštaurácia: halušky, polievka, káva.
-Unsplash-підказка: «slovak restaurant food table» або «bryndzové halušky».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -54,6 +53,3 @@ Unsplash-підказка: «slovak restaurant food table» або «bryndzové 
 2. Доповни mať: Ja ___ hlad. On ___ peniaze. My ___ obed.
 3. Замов вголос: «Prosím si...» (кава, суп, вода).
 **Kľúč:** 1. kávu, polievku, čaj. 2. mám, má, máme. 3. вільно.
-
-### 7. QR / PDF
-[QR 102-01 ... 102-12 + 102-DIALOG]

@@ -61,7 +61,3 @@
 1. a) pôjdeme, b) Zarezervujem, c) budeme sa tešiť.
 2. a) Rezervujem hotel na 7 nocí. b) Sú raňajky v cene? c) Dá sa to stornať?
 3. (вільно) V júli pôjdeme do Chorvátska. Budeme bývať v hoteli pri pláži. Zarezervujem polpenziu.
-
-### 7. QR / PDF
-- QR → MP3: 323-01…323-12 + 323-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

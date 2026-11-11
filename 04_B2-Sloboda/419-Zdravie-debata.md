@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Тиждень zdravého režimu: трекер spánok/pohyb/voda + záver SK (čo fungovalo?).
-
-### QR
-[QR T419-01 ... T419-12 + 419-dialog.mp3]

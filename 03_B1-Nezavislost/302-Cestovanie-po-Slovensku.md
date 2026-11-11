@@ -60,7 +60,3 @@
 1. a) s rodinou, b) s priateľom, c) vlakom.
 2. a) Spiatočný lístok. b) Prestupovali sme v Žiline. c) Vlak meškal 10 minút.
 3. (вільно, зразок) Z Bratislavy cestujem vlakom, prestupujem v Žiline, ubytovanie mám v Košiciach.
-
-### 7. QR / PDF
-- QR → MP3: 302-01…302-12 + 302-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

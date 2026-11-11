@@ -60,7 +60,3 @@
 1. d) → b) → c) → a).
 2. a) V prílohe posielam zmluvu. b) Prosím o odpoveď do piatka. c) Dohodneme si stretnutie?
 3. (вільно, зразок) Predmet: Dovolenka. / Vážený pán vedúci, prosím o 3 dni dovolenky. / S pozdravom, ...
-
-### 7. QR / PDF
-- QR → MP3: 304-01…304-12 + 304-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

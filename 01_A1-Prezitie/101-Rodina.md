@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/101.jpg` — велика усміхнена родина за столом у вітальні, діти + батьки + бабуся.
-Unsplash-підказка: «happy family living room» або згенерувати AI.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -55,6 +54,3 @@ Unsplash-підказка: «happy family living room» або згенерув�
 2. Вибери môj/moja/moje: ___ otec, ___ mama, ___ dieťa, ___ sestra.
 3. Склади 3 речення: To je môj/moja... (мама, брат, дідусь).
 **Kľúč / Ключі:** 1. som, je, sme, sú. 2. môj, moja, moje, moja. 3. (вільно) To je moja mama. To je môj brat. To je môj starý otec.
-
-### 7. QR / PDF
-[QR 101-01 ... 101-12 + 101-DIALOG] — MP3 згенеруємо пізніше.

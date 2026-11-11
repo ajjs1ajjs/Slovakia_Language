@@ -4,7 +4,8 @@
 **Úroveň:** A0/A1/A2/B1/B2 | **Cieľ:** ...
 
 ### 1. FOTO
-`assets/foto/XXX.jpg` — що на фото, чому асоціація. Джерело: Unsplash / власне AI-фото.
+`assets/foto/XXX.jpg` — що на фото, чому асоціація. Джерело — рядок у `assets/foto/SOURCES_*.md`
+(лінтер `tools/check_course.py` валить збірку, якщо атрибуції немає).
 
 ### 2. SLOVÍČKA (12-15)
 | SK | UA | IPA | Українська транскрипція | Audio |
@@ -28,3 +29,4 @@ SK репліка → IPA → UA переклад. 6-10 реплік.
 
 ### 7. ЗВУК У PDF
 - Аудіо вшивається напряму як Sound-анотації з `assets/audio/<ID>/index.json` (див. `tools/build_pdf.py`).
+- Окрема секція QR/PDF у лекції не потрібна: QR відмовились, `check_course.py` вважає її помилкою.

@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/108.jpg` — людина в куртці під дощем + сонце, поруч kabát, topánky.
-Unsplash-підказка: «rainy sunny clothes flatlay».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -46,6 +45,3 @@ Počasie = Je + прислівник: Je teplo. Je slnečno. Je zima. Запер
 2. Узгодь: ___ sveter (modrý), ___ sukňa (biela), ___ tričko (čierne).
 3. Опиши погоду за вікном 2 реченнями.
 **Kľúč:** 1. Prší / Nie je slnečno. 2. modrý, biela, čierne. 3. вільно.
-
-### 7. QR / PDF
-[QR 108-01 ... 108-12 + 108-DIALOG]

@@ -60,7 +60,3 @@
 1. a) ktorú, b) ktorý, c) ktoré.
 2. a) Kniha, ktorú čítam. b) Autor, ktorého mám rád/rada. c) Požičaj mi knihu!
 3. (вільно) Moja obľúbená kniha je... Autor je... Odporúčam ju, lebo...
-
-### 7. QR / PDF
-- QR → MP3: 319-01…319-12 + 319-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

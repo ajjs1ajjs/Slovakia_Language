@@ -51,6 +51,3 @@
 
 ### 7. MINI-PROJEKT
 Знайди реальний inzerát (Profesia.sk) і напиши під нього motivačný list + CV-чернетку (1 сторінка).
-
-### QR
-[QR T410-01 ... T410-12 + 410-text.mp3]

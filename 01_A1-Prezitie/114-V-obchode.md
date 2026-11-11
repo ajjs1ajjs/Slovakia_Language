@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/114.jpg` — predavač подає tričko, покупець міряє, pokladňa.
-Unsplash-підказка: «clothing store shop assistant».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -50,6 +49,3 @@ Mám/Prosím + akuzatív: tričko → tričko, tašku (ž.), sveter (m.). Beriem
 2. Beriem: Ja ___ to. My ___ dve tašky. (brať — beriem/berieme).
 3. Діалог вголос: Máte ___? (iná farba, väčšia veľkosť).
 **Kľúč:** 1. modrú, veľkú. 2. beriem, berieme. 3. вільно.
-
-### 7. QR / PDF
-[QR 114-01 ... 114-12 + 114-DIALOG]

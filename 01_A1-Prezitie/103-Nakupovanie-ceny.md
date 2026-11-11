@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/103.jpg` — каса супермаркету, цінники в євро, кошик з продуктами.
-Unsplash-підказка: «supermarket checkout euro prices».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -46,6 +45,3 @@ Model: 21 = dvadsaťjeden, 35 = tridsaťpäť. Koľko stojí syr? — Dve eurá 
 2. Порахуй: syr 8€ + chlieb 2€ = ___ spolu.
 3. Спитай вголос: Koľko stojí ___? (mlieko, maslo, jablko).
 **Kľúč:** 1. tri, sedem, dvanásť, dvadsať, štyridsaťpäť, sto. 2. desať eur. 3. вільно.
-
-### 7. QR / PDF
-[QR 103-01 ... 103-12 + 103-DIALOG]

@@ -60,7 +60,3 @@
 1. a) že, b) že, c) že.
 2. a) Podľa mňa je to dobrý nápad. b) Nesúhlasím s tebou. c) Úprimne povedané, som unavený/á.
 3. (вільно) Súhlasím, Bratislava je krásna. / Nesúhlasím, mne sa viac páči Košice.
-
-### 7. QR / PDF
-- QR → MP3 (генеруємо пізніше): 301-01…301-12 + 301-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

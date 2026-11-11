@@ -467,6 +467,7 @@ def lesson_pdf(lid: str, md_path: Path):
         subprocess.run([sys.executable, str(ROOT / "tools" / "make_pcm.py"),
                         "--lesson", lid], check=True)
     nplay = 0
+    missing = []
     if items:
         board_path, placements = build_board(lid, items)
         w.append(PdfReader(str(board_path)))
@@ -488,6 +489,7 @@ def lesson_pdf(lid: str, md_path: Path):
         for bpage, rect, fn in placements:
             u = udir / (fn + ".pcm")
             if not u.exists():
+                missing.append(fn)
                 continue
             stream = DecodedStreamObject()
             stream.set_data(u.read_bytes())
@@ -509,6 +511,9 @@ def lesson_pdf(lid: str, md_path: Path):
                 NameObject("/AP"): DictionaryObject({NameObject("/N"): ap_ref}),
                 NameObject("/Sound"): sref}))
             nplay += 1
+    if missing:
+        raise RuntimeError(f"[{lid}] без PCM лишились {len(missing)} записів: {', '.join(missing[:5])}"
+                           f" — перезапусти tools/make_pcm.py --lesson {lid}")
     out = OUT / f"{lid}.pdf"
     OUT.mkdir(parents=True, exist_ok=True)
     with open(out, "wb") as fh:

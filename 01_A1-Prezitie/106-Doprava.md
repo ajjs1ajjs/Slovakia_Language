@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/106.jpg` — трамвай + autobus + vlak на станції в Братиславі.
-Unsplash-підказка: «tram bus train station europe».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -52,6 +51,3 @@ Unsplash-підказка: «tram bus train station europe».
 2. Ísť: ja ___, my ___, oni ___.
 3. Купи квиток вголос: Prosím si lístok ___ (do centra / tam).
 **Kľúč:** 1. cestujem, cestuješ, cestujú. 2. idem, ideme, idú. 3. вільно.
-
-### 7. QR / PDF
-[QR 106-01 ... 106-12 + 106-DIALOG]

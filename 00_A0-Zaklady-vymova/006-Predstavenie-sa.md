@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/006-predstavenie.jpg` — двоє студентів з кавою, один показує на мапі «Ukrajina → Bratislava». Асоціація: `Som z Ukrajiny. Bývam v Bratislave.`
-Поки фото-заглушка: Unsplash «students map coffee» або згенерувати AI.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -72,7 +71,3 @@
 2. **старший незнайомець → Odkiaľ ste?; одноліток → Kde bývaš?; двоє/група → Ako sa máte?**
 3. **Приємно познайомитись. Я з України. Живу в Братиславі. Говорю словацькою трохи. Багато чого не розумію.**
 </details>
-
-### 7. QR / PDF
-- QR → MP3: T06-01 … T06-12 + T06-dialog
-- В PDF: кнопка Play (Adobe) + QR для телефона

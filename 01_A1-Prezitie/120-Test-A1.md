@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/120.jpg` — тестовий лист + pero + hodinky, «TEST».
-Unsplash-підказка: «test paper pen checkmark».
 
 ### 2. SLOVÍČKA — čo musíš vedieť (12 kontrolných)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -55,6 +54,3 @@ Prečítaj a odpovedz: — Prosím, kde je stanica? — Rovno a doprava. / — P
 **Kľúč / Správne odpovede:**
 1 som, 2 je, 3 sme, 4 mám, 5 majú, 6 bývam, 7 cestujú, 8 hovoríš, 9 môj, 10 moja, 11 kávu, 12 polievku, 13 25, 14 kilo stojí, 15 Nie, 16 Nie, 17 na, 18 v, 19 objednať, 20 sa ti.
 Hodnotenie: 18–20 výborne, 14–17 dobre, 12–13 pass, ≤11 opakuj 101–119.
-
-### 7. QR / PDF
-[QR 120-TEST] — друкована версія без аудіо, ключі на звороті.

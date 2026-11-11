@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/111.jpg` — рука з telefónom, на екрані číslo + e-mail ikona.
-Unsplash-підказка: «hand smartphone calling».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -51,6 +50,3 @@ Volať + akuzatív: Volám Annu. Volám ti zajtra. (komu? — ti).
 2. Встав tvoj/tvoja: ___ e-mail, ___ mobil.
 3. Продиктуй свій номер словами вголос.
 **Kľúč:** 1. moje, moja, môj. 2. tvoj, tvoj. 3. вільно.
-
-### 7. QR / PDF
-[QR 111-01 ... 111-12 + 111-DIALOG]

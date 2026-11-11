@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/107.jpg` — годинник + календар, словацькі дні тижня.
-Unsplash-підказка: «clock calendar closeup».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -50,6 +49,3 @@ Nie + прикметник/прислівник: nie veľký, nie dnes. Nie je +
 2. Напиши час словами: 10:00, 14:30 (pol tretej).
 3. Дні по порядку: pondelok, ___, ___, štvrtok...
 **Kľúč:** 1. Nie je pondelok. Nemám čas. 2. o desiatej, o pol tretej. 3. utorok, streda.
-
-### 7. QR / PDF
-[QR 107-01 ... 107-12 + 107-DIALOG]

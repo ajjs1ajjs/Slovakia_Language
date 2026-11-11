@@ -59,7 +59,3 @@
 1. a) čistejší, b) triedime.
 2. a) Trieď odpad! b) Šetri vodou! c) Chráňme prírodu!
 3. (вільно) Myslím, že musíme triediť, lebo je veľa plastu. / Myslím, že je dôležité chrániť lesy, lebo čistia vzduch.
-
-### 7. QR / PDF
-- QR → MP3: 321-01…321-12 + 321-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

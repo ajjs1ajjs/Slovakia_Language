@@ -60,7 +60,3 @@
 1. a) vyhrali, b) vyhrávali, c) Fandil som.
 2. a) Vyhrali sme 2:1. b) Fandím nášmu tímu. c) Tréning dvakrát do týždňa.
 3. (вільно) V prvom polčase padol gól. V druhom polčase sme vyrovnali. Vyhrali sme 2:1.
-
-### 7. QR / PDF
-- QR → MP3: 318-01…318-12 + 318-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

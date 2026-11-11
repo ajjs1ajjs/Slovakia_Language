@@ -60,7 +60,3 @@
 1. a) bude pršať, b) vyčasí.
 2. a) Predpoveď hlási búrku. b) Vyčasí sa. c) Vezmi si dáždnik!
 3. (вільно) Ráno bude hmla. Poobede sa vyčasí. Večer bude 18 stupňov.
-
-### 7. QR / PDF
-- QR → MP3: 317-01…317-12 + 317-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

@@ -60,7 +60,3 @@
 1. a) aby som sa sústredil/a, b) aby som chránil/a.
 2. a) Nezdieľaj adresu! b) Zablokuj odosielateľa! c) Silné heslo.
 3. (вільно) Cez víkend som bol na výlete v Tatrách. Bolo krásne!
-
-### 7. QR / PDF
-- QR → MP3: 320-01…320-12 + 320-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

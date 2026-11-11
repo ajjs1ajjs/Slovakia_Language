@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Карта Словаччини: познач 5 miest + 1 dialektové slovo кожного (з перекладом).
-
-### QR
-[QR T416-01 ... T416-12 + 416-dialog.mp3]

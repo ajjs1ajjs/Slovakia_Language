@@ -61,7 +61,3 @@
 1. a) robte!, b) povedzte!, c) choďte!
 2. a) Povedz mi pravdu! b) Počkajte, prosím! c) Neboj sa! / Nebojte sa!
 3. (вільно) Daj čaj do šálky. Nalej horúcu vodu. Počkaj 3 minúty.
-
-### 7. QR / PDF
-- QR → MP3: 312-01…312-12 + 312-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

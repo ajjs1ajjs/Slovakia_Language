@@ -52,6 +52,3 @@
 
 ### 7. MINI-PROJEKT
 Fact-check однієї новини: порівняй 2 словацькі médiá + напиши verdikt «dôveryhodné / hoax» (6 речень).
-
-### QR
-[QR T413-01 ... T413-12 + 413-text.mp3]

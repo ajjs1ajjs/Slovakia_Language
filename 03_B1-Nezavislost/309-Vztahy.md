@@ -60,7 +60,3 @@
 1. a) poznáme, b) pohádali, c) dôverujú.
 2. a) Rozumieme si. b) Zmierili sa. c) Je spoľahlivý.
 3. (вільно) Môj priateľ je úprimný. Je spoľahlivý. Vždy ma podporuje.
-
-### 7. QR / PDF
-- QR → MP3: 309-01…309-12 + 309-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

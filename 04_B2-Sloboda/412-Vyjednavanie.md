@@ -58,6 +58,3 @@
 
 ### 7. MINI-PROJEKT
 Проведи переговори (запис 2 хв): kupuješ bicykel/byt — торгуйся мінімум 2 кола protiponúk.
-
-### QR
-[QR T412-01 ... T412-12 + 412-dialog.mp3]

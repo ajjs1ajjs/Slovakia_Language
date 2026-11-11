@@ -60,6 +60,3 @@
 
 ### 7. MINI-PROJEKT
 Role-play: запиши свою 2-хвилинну самопрезентацію (kto som, skúsenosti, prečo ja, otázka na záver).
-
-### QR
-[QR T409-01 ... T409-12 + 409-dialog.mp3]

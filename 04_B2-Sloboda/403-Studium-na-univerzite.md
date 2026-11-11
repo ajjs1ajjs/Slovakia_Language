@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Знайди реальну študijnú програму словацького університету і презентуй її: podmienky prijatia, predmety, internát (8–10 речень).
-
-### QR
-[QR T403-01 ... T403-12 + 403-dialog.mp3]

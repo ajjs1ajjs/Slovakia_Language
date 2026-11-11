@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Eko-audit тижня: порахуй свій plastový odpad + 3 kroky na zníženie (SK-список + foto).
-
-### QR
-[QR T417-01 ... T417-12 + 417-dialog.mp3]

@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/104.jpg` — світла вітальня: posteľ, stôl, stolička, skriňa, okno.
-Unsplash-підказка: «cozy living room interior».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -54,6 +53,3 @@ Kde bývaš? — Bývam v Bratislave.
 2. Де? Доповни v + місці: Bývam ___ (Bratislava), Hľadám ___ (byt).
 3. Опиши свій byt 3 реченнями: Môj byt je...
 **Kľúč:** 1. bývam, bývaš, bývajú. 2. v Bratislave, byt. 3. вільно.
-
-### 7. QR / PDF
-[QR 104-01 ... 104-12 + 104-DIALOG]

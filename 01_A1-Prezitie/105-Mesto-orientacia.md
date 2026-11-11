@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/105.jpg` — карта Братислави + вказівники: vpravo, vľavo, rovno.
-Unsplash-підказка: «city map street signs».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -49,6 +48,3 @@ Kde? → lokál: v meste, na ulici, na námestí. Kam? → akuzatív: do mesta, 
 2. Напрямок: банк vľavo / pošta vpravo — напиши 2 речення.
 3. Діалог вголос: Prosím, kde je...? (banka, park, zastávka).
 **Kľúč:** 1. Kde, Kam. 2. Banka je vľavo. Pošta je vpravo. 3. вільно.
-
-### 7. QR / PDF
-[QR 105-01 ... 105-12 + 105-DIALOG]

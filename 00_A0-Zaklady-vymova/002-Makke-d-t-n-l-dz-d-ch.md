@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/002-makke-spoluhlasky.jpg` — крупний план губ і язика перед дзеркалом, поруч картки di–dí, ti–tí, ni–ní, li–lí. Асоціація: язик «прилипає» до піднебіння = м'який звук.
-Поки фото-заглушка: Unsplash «pronunciation mouth mirror» або згенерувати AI.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -76,7 +75,3 @@
 2. **divadlo, ticho, nikdy, líška, dieťa, posteľ.** Правило: di-ti-ni-li пишуться з `i/í`, вимовляються м'яко.
 3. У діалозі: `džús` [dʒ], `chlieb` [xl], `chuť` [x]. `dz` у цій порції тільки в словнику (`medzi`).
 </details>
-
-### 7. QR / PDF
-- QR → MP3: T02-01 … T02-12 + T02-dialog (згенеруємо пізніше)
-- В PDF: кнопка Play (Adobe) + QR для телефона

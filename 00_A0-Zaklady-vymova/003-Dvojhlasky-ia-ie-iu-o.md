@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/003-dvojhlasky.jpg` — відкрита книга, поруч чашка молока (mlieko) і стіл (stôl) з хлібом. Асоціація: `mlieko + chlieb + stôl` = сніданок з дифтонгами.
-Поки фото-заглушка: Unsplash «milk bread table» або згенерувати AI.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -72,7 +71,3 @@
 2. **krásny, múdry, biely.** У всіх друга довгота ý/í скорочується до y/i, бо перший склад уже довгий.
 3. Самоперевірка за скриптом 003: chlieb (ie), mlieko (ie), piatok (ia), stôl (ô), nôž (ô).
 </details>
-
-### 7. QR / PDF
-- QR → MP3: T03-01 … T03-12 + T03-dialog
-- В PDF: кнопка Play (Adobe) + QR для телефона

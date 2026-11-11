@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/115.jpg` — табло odchodov, vlak, cestujúci s kufrom.
-Unsplash-підказка: «train station departure board».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -49,6 +48,3 @@ Do + genitív (міста): do Bratislavy, do Košíc. Na + akuzatív (стан�
 2. Час: vlak o 10:30 → o ___ (pol jedenástej).
 3. Купи квиток вголос: Prosím si lístok do ___.
 **Kľúč:** 1. do, na, do. 2. pol jedenástej. 3. вільно.
-
-### 7. QR / PDF
-[QR 115-01 ... 115-12 + 115-DIALOG]

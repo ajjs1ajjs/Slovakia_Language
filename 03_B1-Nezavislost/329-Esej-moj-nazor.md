@@ -61,7 +61,3 @@
 1. c) → b) → a).
 2. a) Podľa môjho názoru... b) Na jednej strane... Na druhej strane... c) Zhrnuté a podčiarknuté...
 3. (вільно, критерій) 6 viet, 2 konektory, 1× aby/lebo/keby, záver so «som presvedčený».
-
-### 7. QR / PDF
-- QR → MP3: 329-01…329-12 + 329-esej.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

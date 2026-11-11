@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Порівняй školstvo SK vs UA: таблиця (stupne, maturita/ЗНО, známky) + 5 речень висновку SK.
-
-### QR
-[QR T420-01 ... T420-12 + 420-dialog.mp3]

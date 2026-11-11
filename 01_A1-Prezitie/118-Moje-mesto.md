@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/118.jpg` — панорама Братислави: hrad, Dunaj, Staré Mesto.
-Unsplash-підказка: «Bratislava castle Danube panorama».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -49,6 +48,3 @@ Páči sa mi mesto. (подобається — враження). Mám rád ká
 2. Je tu чи Nie je tu? ___ park. ___ metro (в Братиславі нема).
 3. Опиши своє місто 4 реченнями: Moje mesto je..., Je tu..., Páči sa mi..., Nemám rád....
 **Kľúč:** 1. Páči, Mám. 2. Je tu, Nie je tu. 3. вільно.
-
-### 7. QR / PDF
-[QR 118-01 ... 118-12 + 118-DIALOG]

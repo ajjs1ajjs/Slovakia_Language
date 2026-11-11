@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/113.jpg` — турист питає дорогу у перехожого, Bratislava ulica.
-Unsplash-підказка: «tourist asking street city».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -50,6 +49,3 @@ Som tu. Nie som odtiaľto. Nie je to ďaleko. Hľadám ulicu (akuzatív).
 2. Напрямок: допиши rovno / doprava / doľava до 2 речень.
 3. Зіграй діалог: Prepáčte, hľadám ___ (pošta, banka).
 **Kľúč:** 1. Neviem. Nie je ďaleko. Nemám čas. 2-3. вільно.
-
-### 7. QR / PDF
-[QR 113-01 ... 113-12 + 113-DIALOG]

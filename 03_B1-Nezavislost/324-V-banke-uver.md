@@ -60,7 +60,3 @@
 1. a) o úvere, b) o účte, c) o splátke.
 2. a) Aký je úrok? b) Aká je mesačná splátka? c) Potrebujem potvrdenie o príjme.
 3. (вільно) Chcem si požičať 10-tisíc. Mám pravidelný príjem. Splátka by bola 190 eur.
-
-### 7. QR / PDF
-- QR → MP3: 324-01…324-12 + 324-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

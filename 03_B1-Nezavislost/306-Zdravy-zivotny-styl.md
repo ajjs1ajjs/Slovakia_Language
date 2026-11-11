@@ -60,7 +60,3 @@
 1. a) mal by si, b) mali by sme, c) mala by.
 2. a) Mal/a by si prestať fajčiť. b) Jedzte pravidelne. c) Cítim sa fit.
 3. (вільно) Mal by si menej stresovať. / Mala by si dlhšie spať. / Mali by sme sa viac hýbať.
-
-### 7. QR / PDF
-- QR → MP3: 306-01…306-12 + 306-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

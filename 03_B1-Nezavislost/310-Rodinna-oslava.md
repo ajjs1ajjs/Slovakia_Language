@@ -61,7 +61,3 @@
 1. a) ti, b) mame, c) vám.
 2. a) Gratulujem k narodeninám! / Všetko najlepšie k narodeninám! b) Prajem všetko najlepšie! c) Usaďte sa, prosím!
 3. (вільно) Pozývam vás na oslavu v sobotu o 18:00. Oslava bude u nás doma. Prineste si len dobrú náladu.
-
-### 7. QR / PDF
-- QR → MP3: 310-01…310-12 + 310-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

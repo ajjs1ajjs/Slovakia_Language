@@ -58,7 +58,3 @@
 - Časť B (záruka): Peter chce ísť do Tatier, lebo miluje hory / aby si oddýchol. (2 body)
 - Časť C (hodnotenie): 1 bod za 5 viet + 1 za konektory + 1 za aby/lebo/keby + 1 za záver. (4 body)
 - **Škála:** 12–10 = výborne (B1 pass) → choď na 04_B2! | 9–7 = dobre (zopakuj 311–313) | ≤6 = zopakuj celý blok 311–329.
-
-### 7. QR / PDF
-- QR → MP3: 330-01…330-12 + 330-test.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

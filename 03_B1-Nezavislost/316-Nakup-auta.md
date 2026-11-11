@@ -61,7 +61,3 @@
 1. a) lacnejší, b) väčší, c) úspornejší.
 2. a) Koľko má najazdené? b) Je možná skúšobná jazda? c) Dáte mi zľavu?
 3. (вільно) Toto auto je lacnejšie ako tamto. Má väčší kufor. Má nižšiu spotrebu.
-
-### 7. QR / PDF
-- QR → MP3: 316-01…316-12 + 316-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

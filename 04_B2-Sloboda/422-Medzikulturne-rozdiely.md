@@ -59,6 +59,3 @@
 
 ### 7. MINI-PROJEKT
 Інтерв'ю: запитай Slováka/Ukrajinca про 3 rozdiely + запиши відповіді SK (5 речень).
-
-### QR
-[QR T422-01 ... T422-12 + 422-dialog.mp3]

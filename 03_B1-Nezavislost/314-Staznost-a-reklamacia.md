@@ -61,7 +61,3 @@
 1. a) pokazený, b) urobený, c) prijatá.
 2. a) Chcel/a by som podať sťažnosť/reklamáciu. b) Žiadam vrátenie peňazí. c) Tu je bloček/doklad.
 3. (вільно) Kúpil som kanvicu. Je pokazená. Žiadam výmenu.
-
-### 7. QR / PDF
-- QR → MP3: 314-01…314-12 + 314-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

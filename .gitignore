@@ -1,9 +1,12 @@
 # Slovakia_Language — курс словацької 0 → B2
-# Ігноруємо тільки згенероване/тимчасове. Контент (md/txt/foto/audio) і PDF — у git.
-build/tmp/
-build/wav8000/
-build/wav22050/
-build/Slovak-0-B2-full.pdf
+# Контент (md/txt/foto/audio-scripts/MP3) — у git.
+# Збірки (PDF, PCM-кеш), кеші та локальне оточення — ні: вони відтворювані
+# з контенту, а готовий курс роздається через GitHub Releases.
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
 
 node_modules/
 dist/

@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/112.jpg` — recepcia hotela, kľúč od izby, posteľ.
-Unsplash-підказка: «hotel reception key room».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -53,6 +52,3 @@ Unsplash-підказка: «hotel reception key room».
 2. Môcť: ja ___, ty ___, vy ___.
 3. Забронюй вголос: Chcem izbu na ___ noci.
 **Kľúč:** 1. chcem, chceme, chcú. 2. môžem, môžeš, môžete. 3. вільно.
-
-### 7. QR / PDF
-[QR 112-01 ... 112-12 + 112-DIALOG]

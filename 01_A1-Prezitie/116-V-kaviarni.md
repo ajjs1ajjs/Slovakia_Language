@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/116.jpg` — čašník подає kávu + zákusok, menu (jedálny lístok) на столі.
-Unsplash-підказка: «cafe coffee dessert table».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -50,6 +49,3 @@ Prosím si kávu (ž.), čaj (m.), presso (n. — nemenné). Ešte jedno + neutr
 2. Spolu чи zvlášť? — поясни різницю одним реченням.
 3. Замов вголос: Prosím si ___ a ___.
 **Kľúč:** 1. kávu, minerálku, zákusok. 2. Spolu = один рахунок, zvlášť = окремо. 3. вільно.
-
-### 7. QR / PDF
-[QR 116-01 ... 116-12 + 116-DIALOG]

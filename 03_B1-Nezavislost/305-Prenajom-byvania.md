@@ -61,7 +61,3 @@
 1. a) stojí, b) v cene, c) voľný.
 2. a) Kaucia sú 2 nájmy. b) Byt je voľný od prvého. c) Kedy si môžem pozrieť byt? / Kedy je možná obhliadka?
 3. (вільно) Dobrý deň, mám záujem o obhliadku. Koľko stojí nájomné s energiami?
-
-### 7. QR / PDF
-- QR → MP3: 305-01…305-12 + 305-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

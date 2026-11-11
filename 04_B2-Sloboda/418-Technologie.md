@@ -51,6 +51,3 @@
 
 ### 7. MINI-PROJEKT
 Протестуй 1 AI-nástroj (preklad/zhrnutie) і напиши recenziu: čo vie / čo nevie / verdikt (SK, 8 речень).
-
-### QR
-[QR T418-01 ... T418-12 + 418-text.mp3]

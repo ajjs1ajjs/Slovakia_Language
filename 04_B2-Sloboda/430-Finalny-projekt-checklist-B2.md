@@ -56,6 +56,3 @@ Hodnotenie: každá časť 10 b (obsah 4 + jazyk 3 + plynulosť 3); pass = 18/30
 
 ### 7. MINI-PROJEKT = TVOJ B2 BALÍČEK (odovzdaj)
 1. Video prezentácia 5 min + 2. Esej 220 slov + 3. Video pohovor 5 min + 4. Tento checklist s dôkazmi. Gratulujem — si samostatný používateľ! / Вітаю — ти незалежний користувач!
-
-### QR
-[QR T430-01 ... T430-12 + 430-projekt.mp3]

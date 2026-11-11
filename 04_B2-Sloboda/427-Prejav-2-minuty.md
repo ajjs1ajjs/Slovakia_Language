@@ -52,6 +52,3 @@
 
 ### 7. MINI-PROJEKT
 Відео 2:00: твій prejav (oslovenie–príbeh–výzva) + očný kontakt + timer-screenshot.
-
-### QR
-[QR T427-01 ... T427-12 + 427-text.mp3]

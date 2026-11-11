@@ -61,7 +61,3 @@
 1. a) odsunúť, b) zodpovedný, c) prerušiť.
 2. a) Navrhujem nový termín. b) Kto napíše zápisnicu? c) Zhrniem: súhlasíme.
 3. (вільно, зразок) Navrhujem nový postup. / Súhlasím s návrhom. / Takže zhrniem výsledok.
-
-### 7. QR / PDF
-- QR → MP3: 303-01…303-12 + 303-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)

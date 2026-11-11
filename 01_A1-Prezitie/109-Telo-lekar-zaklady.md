@@ -3,7 +3,6 @@
 
 ### 1. FOTO
 `assets/foto/109.jpg` — схема тіла людини + лікар з pacientom, hlava, ruka.
-Unsplash-підказка: «doctor patient consultation».
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -50,6 +49,3 @@ Bolí ma hlava. Bolí ma zub. Boli ma nohy. (дієслово узгоджуєт
 2. Som чи Mám? ___ chorý. ___ teplotu. ___ zdravý.
 3. Рольова гра: пацієнт каже Bolí ma... (zub, oko, ruka).
 **Kľúč:** 1. hlava, nohy (bolia — множина). 2. Som, Mám, Som. 3. вільно.
-
-### 7. QR / PDF
-[QR 109-01 ... 109-12 + 109-DIALOG]

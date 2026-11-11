@@ -52,6 +52,3 @@
 
 ### 7. MINI-PROJEKT
 План 3 esejí: téma + 3 argumenty + 1 protiargument кожна (kostra 10 рядків).
-
-### QR
-[QR T426-01 ... T426-12 + 426-text.mp3]

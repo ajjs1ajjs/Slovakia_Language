@@ -60,7 +60,3 @@
 1. a) ti, b) jej, c) vám.
 2. a) Pristane ti to! b) Mimochodom, čo nového? c) To je milé, ďakujem!
 3. (вільно) Ahoj, ako sa máš? / Výborne vyzeráš! / Čo nové v práci?
-
-### 7. QR / PDF
-- QR → MP3: 315-01…315-12 + 315-dialog.mp3
-- В PDF: кнопка Play (Adobe) + QR (телефон)
