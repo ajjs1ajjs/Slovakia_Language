@@ -3,7 +3,7 @@
 **Úroveň:** B1 | **Cieľ:** Висловлювати власну думку і погоджуватись/не погоджуватись ввічливо.
 
 ### 1. FOTO
-`assets/foto/301.jpg` — двоє людей за столом дискутують з кавою, жести «я вважаю». Асоціація: вираження думки в розмові. Джерело: Unsplash / AI-фото.
+`assets/foto/301.jpg` — двоє людей за столом дискутують з кавою, жести «я вважаю». Асоціація: вираження думки в розмові.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -11,7 +11,7 @@
 | názor | думка, погляд | [ˈnaːzor] | на́зор | slow-01.mp3 |
 | myslieť si | думати, вважати | [ˈmisli̯ɛc si] | ми́слієць сі | — |
 | súhlasiť | погоджуватись | [ˈsuːɦlasic] | су́гласіць | slow-02.mp3 |
-| nesúhlasiť | не погоджуватись | [ˈnɛsuːɦlasic] | не-су́гласіць | slow-02.mp3 |
+| nesúhlasiť | не погоджуватись | [ˈnɛsuːɦlasic] | не-су́гласіць | slow-03.mp3 |
 | podľa mňa | на мою думку | [ˈpodʎa ˈmɲa] | по́для мня | slow-04.mp3 |
 | presvedčenie | переконання | [ˈprɛsvɛtʃɛɲi̯ɛ] | пре-све́дченіє | — |
 | pravda | правда | [ˈpravda] | пра́вда | — |
@@ -59,4 +59,4 @@
 **Kľúč / Ключі:**
 1. a) že, b) že, c) že.
 2. a) Podľa mňa je to dobrý nápad. b) Nesúhlasím s tebou. c) Úprimne povedané, som unavený/á.
-3. (вільно) Súhlasím, Bratislava je krásna. / Nesúhlasím, mne sa viac páči Košice.
+3. (вільно) Súhlasím, Bratislava je krásna. / Nesúhlasím, mne sa viac páčia Košice.

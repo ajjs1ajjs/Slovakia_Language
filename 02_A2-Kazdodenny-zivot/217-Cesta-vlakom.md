@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/217.jpg` — потяг на вокзалі, табло. Асоціація: `vlak` = колія + час.
-Джерело: Unsplash «train station platform» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -15,7 +15,7 @@
 | meškanie | запізнення | [ˈmɛʃkaɲɪɛ] | МЕ-ш-ка-ніе | slow-05.mp3 |
 | prestupovať | пересідати | [ˈprɛstupɔvac] | ПРЕ-сту-по-ваць | slow-06.mp3 |
 | odchádza / prichádza | відправляється / прибуває | [ˈɔtxaːdza] / [ˈprixaːdza] | ОТ-хаа-дза / ПРІ-хаа-дза | slow-07.mp3 |
-| vozень → vozeň | вагон | [ˈvɔzɛɲ] | ВО-зень | slow-08.mp3 |
+| vozeň | вагон | [ˈvɔzɛɲ] | ВО-зень | slow-08.mp3 |
 | miesto / miestenka | місце / плацкарта | [ˈmɪɛstɔ] / [ˈmɪɛstɛŋka] | МІЕ-сто / МІЕ-стен-ка | slow-09.mp3 |
 | cestujúci | пасажир | [ˈtsɛstujuːtsi] | ЦЕ-сту-юу-ці | slow-10.mp3 |
 | pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | slow-11.mp3 |

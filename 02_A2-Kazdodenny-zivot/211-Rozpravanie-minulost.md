@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/211.jpg` — старий фотоальбом, спогади. Асоціація: `včera` = вже було.
-Джерело: Unsplash «old photo album» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

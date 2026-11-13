@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/212.jpg` — друзі біля мангалу ввечері. Асоціація: `víkend` = був класний.
-Джерело: Unsplash «friends bbq evening» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

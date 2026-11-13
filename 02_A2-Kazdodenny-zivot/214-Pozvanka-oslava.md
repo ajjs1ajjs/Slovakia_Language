@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/214.jpg` — святковий стіл, торт зі свічками. Асоціація: `oslava` = радість.
-Джерело: Unsplash «birthday cake party» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

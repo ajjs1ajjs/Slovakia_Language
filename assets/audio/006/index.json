@@ -1,51 +1,51 @@
 {
  "slow": [
   {
-   "text": "volám sa Olena. [pauza] volám sa Olena.",
+   "text": "volám sa Olena.",
    "file": "slow-01.mp3"
   },
   {
-   "text": "teší ma. [pauza] teší ma.",
+   "text": "teší ma.",
    "file": "slow-02.mp3"
   },
   {
-   "text": "som z Ukrajiny. [pauza] som z Ukrajiny.",
+   "text": "som z Ukrajiny.",
    "file": "slow-03.mp3"
   },
   {
-   "text": "bývam v Bratislave. [pauza] bývam v Bratislave.",
+   "text": "bývam v Bratislave.",
    "file": "slow-04.mp3"
   },
   {
-   "text": "hovorím po slovensky. [pauza] hovorím po slovensky.",
+   "text": "hovorím po slovensky.",
    "file": "slow-05.mp3"
   },
   {
-   "text": "hovorím trochu. [pauza] hovorím trochu.",
+   "text": "hovorím trochu.",
    "file": "slow-06.mp3"
   },
   {
-   "text": "rozumiem. [pauza] rozumiem. nerozumiem. [pauza] nerozumiem.",
+   "text": "rozumiem, nerozumiem.",
    "file": "slow-07.mp3"
   },
   {
-   "text": "odkiaľ ste? [pauza] odkiaľ ste? odkiaľ si? [pauza] odkiaľ si?",
+   "text": "odkiaľ ste? odkiaľ si?",
    "file": "slow-08.mp3"
   },
   {
-   "text": "kde bývate? [pauza] kde bývate?",
+   "text": "kde bývate?",
    "file": "slow-09.mp3"
   },
   {
-   "text": "manžel. manželka. [pauza] manžel. manželka.",
+   "text": "manžel, manželka.",
    "file": "slow-10.mp3"
   },
   {
-   "text": "deti. rodina. [pauza] deti. rodina.",
+   "text": "deti, rodina.",
    "file": "slow-11.mp3"
   },
   {
-   "text": "pracujem. študujem. [pauza] pracujem. študujem.",
+   "text": "pracujem, študujem.",
    "file": "slow-12.mp3"
   }
  ],

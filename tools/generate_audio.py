@@ -26,7 +26,7 @@ AUDIO = ROOT / "assets" / "audio"
 FEMALE = "sk-SK-ViktoriaNeural"
 MALE = "sk-SK-LukasNeural"
 
-SKIP_PREFIX = ("LEKCIA", "LEKCI", "Інструкція", "Голос", "Файли", "Інструкц")
+SKIP_PREFIX = ("LEKCIA", "LEKCI", "Інструкція", "Голос", "Файли", "Інструкц", "Voice", "Súbory")
 
 
 def parse_script(path: Path):
@@ -43,10 +43,13 @@ def parse_script(path: Path):
             continue
         if section is None:
             continue
-        # прибрати маркер паузи, розбити на фрази, почистити тире діалогу
-        parts = [p.strip(" —–- \t") for p in re.split(r"\[пауза\]", line)]
+        # прибрати маркери паузи, ремарки у [квадратних дужках] та тире діалогу
+        parts = [
+            re.sub(r"\[[^\]]*\]", "", p).strip(" —–- \t")
+            for p in re.split(r"\[(?:пауза|pauza)\]", line, flags=re.I)
+        ]
         for p in parts:
-            p = p.strip()
+            p = re.sub(r"\s{2,}", " ", p).strip()
             if p and not p.startswith(SKIP_PREFIX):
                 section.append(p)
     # прибрати підряд-дублікати ("Dobrý deň. [пауза] Dobrý deň." → 1 фраза)

@@ -7,16 +7,16 @@
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
-| rodina | родина | [ˈrɔdʑina] | РО-джі-на | slow-01.mp3 |
-| mama / otec | мама / тато | [ˈmama] / [ˈɔt͡sɛt͡s] | МА-ма / О-цец | slow-02.mp3 |
+| rodina | родина | [ˈrɔɟɪna] | РО-ді-на | slow-01.mp3 |
+| mama / otec | мама / тато | [ˈmama] / [ˈɔtɛt͡s] | МА-ма / О-тец | slow-02.mp3 |
 | brat / sestra | брат / сестра | [brat] / [ˈsɛstra] | брат / СЕ-стра | slow-03.mp3 |
 | manžel / manželka | чоловік / дружина | [ˈmanʒɛl] / [ˈmanʒɛlka] | МАН-жел / ман-ЖЕЛ-ка | slow-04.mp3 |
-| syn / dcéra | син / донька | [sin] / [ˈd͡sɛːra] | син / ДЦЕ-ра | slow-05.mp3 |
+| syn / dcéra | син / донька | [sin] / [ˈt͡sɛːra] | син / ТЦЕ-ра | slow-05.mp3 |
 | dieťa / deti | дитина / діти | [ˈɟɪɛca] / [ˈɟɛci] | ДІЕ-ця / ДЄ-ці | slow-06.mp3 |
-| starý otec / stará mama | дідусь / бабуся | [ˈstariː ˈɔt͡sɛt͡s] / [ˈstaraː ˈmama] | СТА-рі о-цец / СТА-ра ма-ма | slow-07.mp3 |
+| starý otec / stará mama | дідусь / бабуся | [ˈstariː ˈɔtɛt͡s] / [ˈstaraː ˈmama] | СТА-рі о-тец / СТА-ра ма-ма | slow-07.mp3 |
 | môj / moja | мій / моя | [mu̯ɔːj] / [ˈmɔja] | муой / МО-я | slow-08.mp3 |
 | to je... | це... | [tɔ jɛ] | то є | slow-09.mp3 |
-| veľký / malý | великий / малий | [ˈvɛʎkiː] / [ˈmaliː] | ВЄ-ль-кі / МА-лі | — |
+| veľký / malý | великий / малий | [ˈvɛʎkiː] / [ˈmaliː] | ВЕ-ль-кі / МА-лі | — |
 | máme / nemáme | маємо / не маємо | [ˈmaːmɛ] / [ˈnɛmaːmɛ] | МАА-ме / НЕ-маа-ме | — |
 | spolu | разом | [ˈspɔlu] | СПО-лу | — |
 
@@ -37,15 +37,15 @@
 ### 4. DIALÓG: To je moja rodina
 1. — Kto je to? [ktɔ jɛ tɔ] — Хто це?
 2. — To je moja mama. Volá sa Jana. [tɔ jɛ ˈmɔja ˈmama ˈvɔlaː sa ˈjana] — Це моя мама. Її звати Яна.
-3. — A to je môj otec? [a tɔ jɛ mu̯ɔːj ˈɔt͡sɛt͡s] — А це мій тато?
+3. — A to je tvoj otec? [a tɔ jɛ tvɔj ˈɔtɛt͡s] — А це твій тато?
 4. — Áno, to je môj otec. Volá sa Ivan. [ˈaːnɔ] — Так, це мій тато. Його звати Іван.
 5. — Máš brata? [maːʃ ˈbrata] — Маєш брата?
 6. — Áno, mám brata a sestru. [ˈaːnɔ maːm ˈbrata a ˈsɛstru] — Так, маю брата і сестру.
-7. — My sme veľká rodina. [mi smɛ ˈvɛʎkaː ˈrɔdʑina] — Ми велика родина.
+7. — My sme veľká rodina. [mi smɛ ˈvɛʎkaː ˈrɔɟɪna] — Ми велика родина.
 
 ### 5. VÝSLOVNOSŤ
 - `ľ [ʎ]`: veľký — кінчик язика до піднебіння, не «л», а м'яке «ль».
-- `dz [d͡z]`: dcéra — вимовляй злито «дз».
+- `dc [t͡s]`: dcéra [ˈt͡sɛːra] — `d` перед глухим `c` оглушується, вимовляємо чітке «ц».
 - `ô [u̯o]`: môj — «уо» одним складом, наголос завжди на 1-й склад: RÓ-di-na.
 - Audio-script: `assets/audio-scripts/101.txt`
 

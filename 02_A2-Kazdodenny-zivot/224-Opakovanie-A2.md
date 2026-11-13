@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/224.jpg` — пазл складений, книги A2. Асоціація: `opakujem` = складаю все докупи.
-Джерело: Unsplash «puzzle books» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12) — opakovanie
 | SK | UA | IPA | Укр. транскрипція | Audio |

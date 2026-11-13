@@ -22,18 +22,20 @@ BLUE = "#0b4ea2"
 
 def find_font(is_bold: bool):
     filename = "arialbd.ttf" if is_bold else "arial.ttf"
-    liberation = "LiberationSans-Bold.ttf" if is_bold else "LiberationSans-Regular.ttf"
     dejavu = "DejaVuSans-Bold.ttf" if is_bold else "DejaVuSans.ttf"
+    liberation = "LiberationSans-Bold.ttf" if is_bold else "LiberationSans-Regular.ttf"
     freesans = "FreeSansBold.ttf" if is_bold else "FreeSans.ttf"
 
     candidates = [
+        ROOT / "assets" / "fonts" / dejavu,
         ROOT / "assets" / "fonts" / filename,
         ROOT / "assets" / "fonts" / liberation,
+        Path(f"/usr/share/fonts/truetype/dejavu/{dejavu}"),
+        Path(f"/usr/share/fonts/dejavu/{dejavu}"),
         Path(r"C:\Windows\Fonts") / filename,
         Path(f"/usr/share/fonts/truetype/msttcorefonts/{filename}"),
         Path(f"/usr/share/fonts/truetype/liberation/{liberation}"),
         Path(f"/usr/share/fonts/liberation-sans/{liberation}"),
-        Path(f"/usr/share/fonts/truetype/dejavu/{dejavu}"),
         Path(f"/usr/share/fonts/truetype/freefont/{freesans}"),
         Path(f"/System/Library/Fonts/Supplemental/{filename}"),
         Path(f"/Library/Fonts/{filename}"),
@@ -280,7 +282,7 @@ def build_story(lines, W):
                 continue
         if "audio-scripts/" in s:
             story.append(Paragraph(
-                "Аудіо до цієї лекції — на останній сторінці (аудіо-дошка): "
+                "Аудіо до цієї лекції — в кінці лекції (аудіо-дошка): "
                 "клік по динаміку в Adobe Reader.", st["note"]))
             continue
         if s.startswith("&gt;") or ln.strip().startswith(">"):
@@ -288,7 +290,7 @@ def build_story(lines, W):
             story.append(Paragraph(md_inline(txt),
                                    st["warn"] if txt.startswith("Увага") else st["quote"]))
             continue
-        if re.match(r"^[—–]\s", s) or re.match(r"^\d+\.\s+[—–]", s):
+        if re.match(r"^[—–]\s", s) or re.match(r"^\d+\.\s+[—–]", s) or re.match(r"^\d+\.\s+\*\*[^*:]+:\*\*", s):
             t = re.sub(r"^\d+\.\s*", "", s)
             story.append(Paragraph(md_inline(t), st["dialog"]))
             continue
@@ -297,11 +299,15 @@ def build_story(lines, W):
             story.append(Paragraph("✓  " + md_inline(t), st["key"]))
             continue
         if re.match(r"^(\\?[*\-]|\d+\.)\s", s):
-            t = re.sub(r"^\\?([*\-]|\d+\.)\s*", "", s)
-            if s.startswith("\\"):
-                story.append(Paragraph(md_inline(t), st["foot"]))
+            m_num = re.match(r"^(\d+\.)\s+(.*)$", s)
+            if m_num:
+                story.append(Paragraph(f"<b>{m_num.group(1)}</b>  " + md_inline(m_num.group(2)), st["bullet"]))
             else:
-                story.append(Paragraph("•  " + md_inline(t), st["bullet"]))
+                t = re.sub(r"^\\?[*\-]\s*", "", s)
+                if s.startswith("\\"):
+                    story.append(Paragraph(md_inline(t), st["foot"]))
+                else:
+                    story.append(Paragraph("•  " + md_inline(t), st["bullet"]))
             continue
         story.append(Paragraph(md_inline(s), st["body"]))
     flush_tbl()
@@ -312,26 +318,6 @@ def build_story(lines, W):
 # І малюнок, і клікабельна Sound-зона беруться звідси — рухати тільки разом.
 CELL_H, COLS, ROWS, M = 170, 2, 4, 42
 SPK_W, SPK_H = 44, 26
-
-
-def speaker_icon(c, x0, y0):
-    from reportlab.lib import colors as _colors
-    dark = _colors.HexColor(BLUE)
-    c.setStrokeColor(_colors.HexColor("#8aa4c8"))
-    c.setFillColor(_colors.HexColor("#eaf0fb"))
-    c.rect(x0, y0, SPK_W, SPK_H, stroke=1, fill=1)
-    c.setFillColor(dark)
-    p = c.beginPath()
-    p.moveTo(x0 + 9, y0 + 6)
-    p.lineTo(x0 + 9, y0 + 20)
-    p.lineTo(x0 + 21, y0 + 13)
-    p.close()
-    c.drawPath(p, stroke=0, fill=1)
-    c.setStrokeColor(dark)
-    c.setLineWidth(1.4)
-    c.arc(x0 + 23, y0 + 8, x0 + 33, y0 + 18, startAng=300, extent=120)
-    c.arc(x0 + 23, y0 + 5, x0 + 39, y0 + 21, startAng=300, extent=120)
-    c.setLineWidth(1)
 
 
 def build_board(lid, items):
@@ -560,17 +546,33 @@ def expected_sounds(meta):
 
 
 def build_front(meta, starts):
-    """Обкладинка + зміст. Повертає шлях; сторінок: F (для розрахунку starts)."""
+    """Обкладинка + зміст. Повертає (шлях, toc_links) для клікабельних посилань у змісті."""
     from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
-                                    Spacer, Table, TableStyle, HRFlowable, PageBreak)
+                                    Spacer, Table, TableStyle, HRFlowable, PageBreak, Flowable)
     from reportlab.lib.pagesizes import A4
     from reportlab.lib import colors
     from reportlab.lib.styles import ParagraphStyle
-    from reportlab.pdfbase import pdfmetrics
-    from reportlab.pdfbase.ttfonts import TTFont
     register_fonts()
     st = styles()
     blue = colors.HexColor(BLUE)
+    toc_links = []
+
+    class TocRow(Flowable):
+        def __init__(self, tbl, lid):
+            super().__init__()
+            self.tbl = tbl
+            self.lid = lid
+            self.w = self.h = 0
+
+        def wrap(self, aw, ah):
+            self.w, self.h = self.tbl.wrap(aw, ah)
+            return self.w, self.h
+
+        def draw(self):
+            self.tbl.drawOn(self.canv, 0, 0)
+            x0, y0 = self.canv.absolutePosition(0, 0)
+            toc_links.append((self.canv.getPageNumber() - 1, (x0, y0, x0 + self.w, y0 + self.h), self.lid))
+
     story = []
     story.append(Spacer(1, 90))
     story.append(Paragraph("Slovenčina 0 → B2", ParagraphStyle("cov",
@@ -617,21 +619,21 @@ def build_front(meta, starts):
     story.append(Paragraph("OBSAH / Зміст", ParagraphStyle("toc",
         parent=st["h1"], fontSize=20, alignment=1)))
     story.append(Spacer(1, 8))
+    pg_style = ParagraphStyle("pg", parent=st["cell"], alignment=2)
+    row_style = TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"),
+                            ("LEFTPADDING", (0, 0), (-1, -1), 2),
+                            ("TOPPADDING", (0, 0), (-1, -1), 1),
+                            ("BOTTOMPADDING", (0, 0), (-1, -1), 2)])
     for lv in ["A0", "A1", "A2", "B1", "B2"]:
         nm = dict(LEVELS.values())[lv]
         story.append(Paragraph(f"{lv} · {nm}", ParagraphStyle("toch",
             parent=st["h2"], fontSize=12)))
-        rows = []
         for m in [x for x in meta if x["level"] == lv]:
             short = m["title"][:72]
-            rows.append([Paragraph(f"<b>{m['id']}</b>  {md_inline(short)}", st["cell"]),
-                         Paragraph(f"{starts[m['id']]}", ParagraphStyle(
-                             "pg", parent=st["cell"], alignment=2))])
-        tt = Table(rows, colWidths=[440, 70])
-        tt.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"),
-                                ("LEFTPADDING", (0, 0), (-1, -1), 2),
-                                ("BOTTOMPADDING", (0, 0), (-1, -1), 2)]))
-        story.append(tt)
+            tt = Table([[Paragraph(f"<b>{m['id']}</b>  {md_inline(short)}", st["cell"]),
+                         Paragraph(f"{starts[m['id']]}", pg_style)]], colWidths=[440, 70])
+            tt.setStyle(row_style)
+            story.append(TocRow(tt, m["id"]))
         story.append(Spacer(1, 6))
     path = TMP / "front.pdf"
     TMP.mkdir(parents=True, exist_ok=True)
@@ -640,32 +642,89 @@ def build_front(meta, starts):
     doc.addPageTemplates([PageTemplate(id="p", frames=[
         Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="f")])])
     doc.build(story)
+    return path, toc_links
+
+
+def build_credits():
+    """Сторінка атрибуції фото з assets/foto/SOURCES_*.md для фінального PDF."""
+    from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle
+    from reportlab.lib.pagesizes import A4
+    from reportlab.lib import colors
+    register_fonts()
+    st = styles()
+    blue = colors.HexColor(BLUE)
+    story = [
+        Paragraph("Атрибуція фотоматеріалів / Photo Credits", st["h1"]),
+        Paragraph(
+            "Усі 111 фотографій у курсі взято з Wikimedia Commons під вільними ліцензіями "
+            "(CC BY, CC BY-SA, CC0, Public Domain). Нижче наведено джерела та авторів.",
+            st["body"],
+        ),
+        Spacer(1, 6),
+    ]
+    rows = [[Paragraph("<b>Файл</b>", st["cellSH"]), Paragraph("<b>Лекція</b>", st["cellSH"]),
+             Paragraph("<b>Ліцензія та автор</b>", st["cellSH"])]]
+    for src in sorted(FOTO.glob("SOURCES_*.md")):
+        for line in src.read_text(encoding="utf-8").splitlines():
+            if line.startswith("|") and not line.startswith("| file") and not line.startswith("|---"):
+                cols = [c.strip() for c in line.strip("|").split("|")]
+                if len(cols) >= 4:
+                    rows.append([
+                        Paragraph(md_inline(cols[0]), st["cellS"]),
+                        Paragraph(md_inline(cols[1][:45]), st["cellS"]),
+                        Paragraph(md_inline(cols[3]), st["cellS"]),
+                    ])
+    t = Table(rows, colWidths=[80, 210, 220], repeatRows=1)
+    t.setStyle(TableStyle([
+        ("GRID", (0, 0), (-1, -1), 0.4, colors.grey),
+        ("BACKGROUND", (0, 0), (-1, 0), blue),
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("LEFTPADDING", (0, 0), (-1, -1), 4),
+        ("RIGHTPADDING", (0, 0), (-1, -1), 4),
+        ("TOPPADDING", (0, 0), (-1, -1), 2),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
+        ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#f6f9ff")]),
+    ]))
+    story.append(t)
+    path = TMP / "credits.pdf"
+    TMP.mkdir(parents=True, exist_ok=True)
+    doc = BaseDocTemplate(str(path), pagesize=A4, leftMargin=42, rightMargin=42,
+                          topMargin=42, bottomMargin=42, title="Photo Credits")
+    doc.addPageTemplates([PageTemplate(id="p", frames=[
+        Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="f")])])
+    doc.build(story)
     return path
 
 
 def build_full(lessons):
-    from pypdf import PdfReader, PdfWriter
+    from pypdf import PdfReader as R, PdfWriter
+    from pypdf.annotations import Link
     for m in lessons:
         p = OUT / f"{m['id']}.pdf"
         if not p.exists():
             sys.exit(f"нема {p} — спочатку --all")
-        m["npages"] = len(PdfReader(str(p)).pages)
+        m["npages"] = len(R(str(p)).pages)
     # прохід 1: дізнатись кількість сторінок front
     dummy = {m["id"]: 0 for m in lessons}
-    f1 = build_front(lessons, dummy)
-    from pypdf import PdfReader as R
+    f1, _ = build_front(lessons, dummy)
     F = len(R(str(f1)).pages)
     # прохід 2: справжні номери сторінок (1-based)
     starts, acc = {}, F + 1
     for m in lessons:
         starts[m["id"]] = acc
         acc += m["npages"]
-    f2 = build_front(lessons, starts)
+    f2, toc_links = build_front(lessons, starts)
     assert len(R(str(f2)).pages) == F, "front reflow!"
+    credits_pdf = build_credits()
     w = PdfWriter()
     w.append(R(str(f2)))
     for m in lessons:
         w.append(R(str(OUT / f"{m['id']}.pdf")))
+    credits_start = acc - 1
+    w.append(R(str(credits_pdf)))
+    # клікабельні посилання в змісті
+    for pno, rect, lid in toc_links:
+        w.add_annotation(page_number=pno, annotation=Link(rect=rect, target_page_index=starts[lid] - 1))
     # закладки
     parents = {}
     for lv in ["A0", "A1", "A2", "B1", "B2"]:
@@ -674,6 +733,7 @@ def build_full(lessons):
         parents[lv] = w.add_outline_item(f"{lv} · {nm}", starts[ms[0]["id"]] - 1, parent=None)
         for m in ms:
             w.add_outline_item(f"{m['id']} {m['title'][:60]}", starts[m["id"]] - 1, parent=parents[lv])
+    w.add_outline_item("Атрибуція фото / Photo Credits", credits_start, parent=None)
     out = ROOT / "build" / "Slovak-0-B2-full.pdf"
     with open(out, "wb") as fh:
         w.write(fh)

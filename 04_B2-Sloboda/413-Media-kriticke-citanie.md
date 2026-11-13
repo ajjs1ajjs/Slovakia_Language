@@ -12,13 +12,13 @@
 | clickbait | клікбейт | [ˈklikbɛjt] | КЛІК-бейт | slow-01.mp3 |
 | manipulácia | маніпуляція | [ˈmanipulaːtsɪja] | МА-ні-пу-лаа-ці-я | slow-01.mp3 |
 | hoax | фейк | [ˈɦɔaks] | ГО-акс | slow-01.mp3 |
-| overiť fakty | перевірити факти | [ˈɔvɛriɟ ˈfakti] | О-вє-ріть ФАК-ті | slow-02.mp3 |
-| dôveryhodný | надійний | [ˈdɔːvɛriɦɔdniː] | ДОО-вє-рі-год-ніі | slow-02.mp3 |
+| overiť fakty | перевірити факти | [ˈɔvɛric ˈfakti] | О-ве-ріть ФАК-ті | slow-02.mp3 |
+| dôveryhodný | надійний | [ˈdɔːvɛriɦɔdniː] | ДОО-ве-рі-год-ніі | slow-02.mp3 |
 | zaujatý | упереджений | [ˈzaʊ̯jatiː] | ЗАУ-я-тії | slow-02.mp3 |
 | emócie vs fakty | емоції vs факти | [ˈɛmɔːtsɪ̯ɛ] | Є-МОО-ці-є | — |
 | komentár vs správa | коментар vs новина | [ˈkɔmɛntaːr] | КО-мєн-таар | — |
-| šíriť | поширювати | [ˈʃiːriɟ] | ШІІ-ріть | slow-03.mp3 |
-| vyvrátiť | спростувати | [ˈvivraːciɟ] | ВІВ-раa-тіть | slow-03.mp3 |
+| šíriť | поширювати | [ˈʃiːric] | ШІІ-ріть | slow-03.mp3 |
+| vyvrátiť | спростувати | [ˈvivraːcic] | ВІВ-раа-тіть | slow-03.mp3 |
 
 ### 3. GRAMATIKA-нюанс: pasívum a neosobné frázy + hodnotiace prídavné mená
 Маніпуляція ховається в прикметниках: `škandalózny, neuveriteľný, šokujúci` без фактів. Нейтрально: `podľa polície, bolo oznámené`.

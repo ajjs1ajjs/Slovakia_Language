@@ -3,18 +3,18 @@
 **Úroveň:** B1 | **Cieľ:** Обговорювати новини, розрізняти факти і думки, переказувати почуте.
 
 ### 1. FOTO
-`assets/foto/307.jpg` — людина читає новини в телефоні, на фоні телевізор з випуском новин. Асоціація: медіа. Джерело: Unsplash / AI-фото.
+`assets/foto/307.jpg` — людина читає новини в телефоні, на фоні телевізор з випуском новин. Асоціація: медіа.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
 | správa | новина, повідомлення | [ˈspraːva] | спра́ва | slow-01.mp3 |
-| tlač | преса | [tlak] | тлач | — |
+| tlač | преса | [tlatʃ] | тлач | — |
 | spravodajstvo | випуск новин | [ˈspravodajstvo] | спра́водайство | dialog-05.mp3 |
-| titulkа (titulok) | заголовок | [ˈtitulok] | ті́тулок | — |
+| titulka (titulok) | заголовок | [ˈtitulok] | ті́тулок | — |
 | zdroj | джерело | [zdroj] | здрой | slow-02.mp3 |
-| overiť informáciu | перевірити інформацію | [ˈovɛric ˈinformatsi̯a] | о́веріць інфо́рмацію | dialog-03.mp3 |
-| falošná správa (hoax) | фейкова новина | [ˈfaloʃnaː ˈspraːva] | фа́лошна спра́ва | slow-01.mp3 |
+| overiť informáciu | перевірити інформацію | [ˈovɛric ˈɪnfɔrmaːt͡sɪ̯u] | о́веріць інфо́рмацію | dialog-03.mp3 |
+| falošná správa (hoax) | фейкова новина | [ˈfaloʃnaː ˈspraːva] | фа́лошна спра́ва | slow-03.mp3 |
 | reklama | реклама | [ˈrɛklama] | ре́клама | — |
 | vysielať | транслювати | [ˈvisi̯ɛlac] | ві́сєлаць | — |
 | moderátor | ведучий | [ˈmodɛraːtor] | мо́дератор | slow-04.mp3 |

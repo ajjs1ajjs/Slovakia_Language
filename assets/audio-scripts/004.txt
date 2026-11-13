@@ -7,15 +7,15 @@ dobrý deň. [pauza] dobrý deň.
 dobré ráno. [pauza] dobré ráno.
 dobrý večer. [pauza] dobrý večer.
 dobrú noc. [pauza] dobrú noc.
-ahoj. [pauza] ahoj. čau. [pauza] čau.
+ahoj, čau.
 dovidenia. [pauza] dovidenia.
-majte sa. [pauza] majte sa. maj sa. [pauza] maj sa.
+majte sa, maj sa.
 prosím. [pauza] prosím.
-ďakujem. [pauza] ďakujem. ďakujem pekne. [pauza] ďakujem pekne.
-prepáčte. [pauza] prepáčte. prepáč. [pauza] prepáč.
+ďakujem, ďakujem pekne.
+prepáčte, prepáč.
 nech sa páči. [pauza] nech sa páči.
 teší ma. [pauza] teší ma.
-Ako sa máte? [pauza] Ďakujem, dobre.
+Ako sa máte? Ďakujem, dobre.
 
 [NORMAL - prirodzené tempo, dialóg Na ulici]
 — Dobrý deň! Prepáčte, hovoríte po slovensky?

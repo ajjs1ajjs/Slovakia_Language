@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/225.jpg` — тестовий лист, галочки, годинник. Асоціація: `test` = перевіряю себе.
-Джерело: Unsplash «exam test paper» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12) — kľúčové k testu
 | SK | UA | IPA | Укр. транскрипція | Audio |

@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/222.jpg` — світлофор: червоне/зелене. Асоціація: `musím` = мушу, `môžem` = можу.
-Джерело: Unsplash «traffic light» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -11,7 +11,7 @@
 | musieť | мусити | [ˈmusɪɛc] | МУ-сіець | slow-01.mp3 |
 | môcť | могти | [ˈmu̯ɔːct] | МУО-цть | slow-03.mp3 |
 | chcieť | хотіти | [ˈxtsɪɛc] | ХЦІЕЦЬ | slow-05.mp3 |
-| smieť (smie sa / nesmie sa) | мати дозвіл / заборонено | [smɪɛc] | СМІЕЦЬ | — |
+| smieť (smie sa / nesmie sa) | мати дозвіл / заборонено | [smɪɛc] | СМІЕЦЬ | slow-07.mp3 |
 | vedieť | знати / вміти | [ˈvɛɟɪɛc] | ВЕ-діець | slow-08.mp3 |
 | mať (povinnosť) | мати (обов'язок) | [mac] | маць | slow-09.mp3 |
 | zákaz | заборона | [ˈzaːkas] | ЗАА-кас | slow-10.mp3 |

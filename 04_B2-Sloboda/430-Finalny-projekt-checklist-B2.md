@@ -1,5 +1,5 @@
 # 430 Finálny projekt + checklist B2 / Фінальний проєкт + чек-лист B2
-**Úroveň:** B2 | **Cieľ:** здати finálny projekt (prezentácia + esej + pohovor) і перевірити sa Can-do checklistom.
+**Úroveň:** B2 | **Cieľ:** здати finálny projekt (prezentácia + esej + pohovor) і перевірити себе Can-do checklistom.
 
 ### 1. FOTO
 `assets/foto/430.jpg` — випускник з сертифікатом B2, позаду Братислава. Асоціація: `B2` = sloboda hovoriť.
@@ -10,14 +10,14 @@
 | finálny projekt | фінальний проєкт | [ˈfinaːlni ˈprɔjɛkt] | ФІ-наал-ні ПРО-єкт | slow-01.mp3 |
 | Can-do statements | «вмію»-твердження | [ˈkɛn duː] | КЕН-ду | slow-01.mp3 |
 | plynulo a spontánne | плавно і спонтанно | [ˈplinulɔ] | ПЛИ-ну-ло | slow-01.mp3 |
-| obhájiť projekt | захистити проєкт | [ˈɔbɦajiɟ] | ОБ-га-їть | slow-02.mp3 |
+| obhájiť projekt | захистити проєкт | [ˈɔbɦajic] | ОБ-га-їть | slow-02.mp3 |
 | certifikát B2 | сертифікат B2 | [ˈtsɛrtifikaːt] | ЦЄР-ті-фі-каат | slow-02.mp3 |
 | spätná väzba | зворотний зв'язок | [ˈspætnaː ˈvæzba] | СПЕТ-наа вез-ба | slow-02.mp3 |
 | silné stránky | сильні сторони | [ˈsilnɛː] | СІЛ-нєє | slow-03.mp3 |
 | priestor na zlepšenie | простір для покращення | [ˈprɪ̯ɛstɔr] | ПРІЄС-тор | slow-03.mp3 |
 | samostatný používateľ | незалежний користувач | [ˈsamɔstatniː ˈpɔuʒiːvatɛʎ] | СА-мо-стат-нії по-у-жії-ва-тєль | slow-03.mp3 |
-| argumentovať | аргументувати | [ˈarɡumɛntɔvaɟ] | АР-ґу-мєн-то-вадь | slow-04.mp3 |
-| rokovať | вести переговори | [ˈrɔkɔvaɟ] | РО-ко-вадь | slow-04.mp3 |
+| argumentovať | аргументувати | [ˈarɡumɛntɔvac] | АР-ґу-мєн-то-вать | slow-04.mp3 |
+| rokovať | вести переговори | [ˈrɔkɔvac] | РО-ко-вать | slow-04.mp3 |
 | gratulujem! | вітаю! | [ˈɡratulujɛm] | ҐРА-ту-лу-єм | slow-04.mp3 |
 
 ### 3. GRAMATIKA-нюанс: Can-do = dôkaz vetou (perfektum + príklad)

@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/221.jpg` — два будинки: малий і великий. Асоціація: `väčší ako` = порівняння.
-Джерело: Unsplash «compare houses» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

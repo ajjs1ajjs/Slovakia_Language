@@ -9,12 +9,12 @@ som z Ukrajiny. [pauza] som z Ukrajiny.
 bývam v Bratislave. [pauza] bývam v Bratislave.
 hovorím po slovensky. [pauza] hovorím po slovensky.
 hovorím trochu. [pauza] hovorím trochu.
-rozumiem. [pauza] rozumiem. nerozumiem. [pauza] nerozumiem.
-odkiaľ ste? [pauza] odkiaľ ste? odkiaľ si? [pauza] odkiaľ si?
+rozumiem, nerozumiem.
+odkiaľ ste? odkiaľ si?
 kde bývate? [pauza] kde bývate?
-manžel. manželka. [pauza] manžel. manželka.
-deti. rodina. [pauza] deti. rodina.
-pracujem. študujem. [pauza] pracujem. študujem.
+manžel, manželka.
+deti, rodina.
+pracujem, študujem.
 
 [NORMAL - prirodzené tempo, dialóg Zoznámenie na kurze]
 — Ahoj! Volám sa Jana. A ty?

@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/215.jpg` — офіціант подає страви в ресторані. Асоціація: `jedálny lístok` = вибір.
-Джерело: Unsplash «restaurant waiter serving» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -22,7 +22,7 @@
 | platiť kartou / hotovosťou | платити карткою / готівкою | [ˈplatic ˈkartɔu] / [ˈɦɔtɔvɔscɔu] | ПЛА-тіць КАР-тоу / ГО-то-вос-цьоу | slow-12.mp3 |
 
 ### 3. GRAMATIKA: datív + prosím si + akuzatív (dám si, objednám si)
-`prosím si + AKU`: `prosím si kávu, polievku`. Датив для особи: `donesте MI, nám`.
+`prosím si + AKU`: `prosím si kávu, polievku`. Датив для особи: `doneste MI, nám`.
 | Nominatív | Datív (komu?) | Akuzatív (čo?) |
 |---|---|---|
 | káva | káve | kávu |
@@ -30,7 +30,7 @@
 | stôl | stolu | stôl |
 Приклади:
 1. Prosím si polievku a rezeň. [ˈprɔsiːm si ˈpɔlɪɛfku a ˈrɛzɛɲ] — Прошу суп і відбивну.
-2. Donesте nám účet, prosím. [ˈdɔnɛsce naːm ˈuːtʃɛt ˈprɔsiːm] — Принесіть нам рахунок.
+2. Doneste nám účet, prosím. [ˈdɔnɛsce naːm ˈuːtʃɛt ˈprɔsiːm] — Принесіть нам рахунок.
 3. Zaplatím kartou. [ˈzaplatim ˈkartɔu] — Заплачу карткою.
 
 ### 4. DIALÓG: V reštaurácii

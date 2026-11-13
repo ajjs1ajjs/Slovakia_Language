@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/213.jpg` — календар, плани, валіза. Асоціація: `budúcnosť` = мрія + план.
-Джерело: Unsplash «calendar plans suitcase» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

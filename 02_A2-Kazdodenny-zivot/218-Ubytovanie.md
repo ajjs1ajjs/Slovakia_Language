@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/218.jpg` — готельний номер, ліжко. Асоціація: `izba` = ключ + комфорт.
-Джерело: Unsplash «hotel room bed» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

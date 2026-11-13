@@ -52,7 +52,7 @@
 
 ### 6. CVIČENIA
 1. Поясни своїми словами: mať v malíčku / hodiť za hlavu / sedieť na dvoch stoličkách.
-2. Вибери predponu: ___smiаť sa (почати сміятись) / ___povedať do konca / ___svetliť pravidlo.
+2. Вибери predponu: ___smiať sa (почати сміятись) / ___povedať do konca / ___svetliť pravidlo.
 3. Діалог 6 реплік з 4 ідіомами уроку (тема: škola/práca).
 **Kľúč:**
 1. Знати досконало; забути/відпустити; намагатись всидіти на двох опціях.

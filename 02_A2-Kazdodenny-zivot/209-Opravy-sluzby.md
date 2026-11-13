@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/209.jpg` — майстер ремонтує пральну машину. Асоціація: `pokazené` = не працює.
-Джерело: Unsplash «repairman washing machine» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

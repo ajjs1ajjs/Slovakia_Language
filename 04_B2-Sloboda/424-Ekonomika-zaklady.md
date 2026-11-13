@@ -51,7 +51,7 @@
 ### 6. CVIČENIA
 1. Порахуй: hrubá 1500, odvody+daň 350 → čistá? / zdraženie o 8 % z 100 eur → nová cena?
 2. Поясни: hrubá vs čistá / daň vs odvody / brigáda vs TPP.
-3. Svoj rozpočet: príjem–výdavky–sporenie (7 рядків + 3 rečини záver SK).
+3. Svoj rozpočet: príjem–výdavky–sporenie (7 рядків + 3 vety záver SK).
 **Kľúč:**
 1. 1150; 108.
 2. Брутто до внесків, нетто «на руки»; податок державі, внески на poistenie; brigáda гнучка, TPP повна.

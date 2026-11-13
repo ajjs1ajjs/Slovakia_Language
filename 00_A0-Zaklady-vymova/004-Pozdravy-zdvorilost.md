@@ -15,7 +15,7 @@
 | dovidenia | до побачення | [ˈdɔviɟɛɲɪa] | ДО-ві-дє-ня | slow-06.mp3 |
 | majte sa / maj sa | бувайте / бувай | [ˈmajtɛ sa] / [ˈmaj sa] | МАЙ-тє са / МАЙ са | slow-07.mp3 |
 | prosím | будь ласка / прошу | [ˈprɔsiːm] | ПРО-сім | slow-08.mp3 |
-| ďakujem / ďakujem pekne | дякую / щиро дякую | [ˈɟakujɛm ˈpɛknɛ] | ДЯ-ку-єм ПЄ-кне | slow-09.mp3 |
+| ďakujem / ďakujem pekne | дякую / щиро дякую | [ˈɟakujɛm ˈpɛknɛ] | ДЯ-ку-єм ПЕ-кне | slow-09.mp3 |
 | prepáčte / prepáč | перепрошую (формально / неформально) | [ˈprɛpaːtʃcɛ] / [ˈprɛpaːtʃ] | ПРЕ-паач-тє / ПРЕ-паач | slow-10.mp3 |
 | nech sa páči | ось, будь ласка (даючи щось) | [ˈnɛx sa ˈpaːtʃi] | НЕх са ПАА-чі | slow-11.mp3 |
 | teší ma | приємно познайомитись | [ˈtɛʃiː ma] | ТЕ-ші ма | slow-12.mp3 |
@@ -37,7 +37,7 @@
 
 3 приклади:
 1. `Prepáčte, kde je stanica?` [ˈprɛpaːtʃcɛ gɟɛ jɛ ˈstaɲitsa] — ПРЕ-паач-тє, ґдє є СТА-ні-ца? (Перепрошую, де вокзал?)
-2. `Nech sa páči, ďakujem pekne!` [ˈnɛx sa ˈpaːtʃi ˈɟakujɛm ˈpɛknɛ] — НЕх са ПАА-чі, ДЯ-ку-єм ПЄ-кне!
+2. `Nech sa páči, ďakujem pekne!` [ˈnɛx sa ˈpaːtʃi ˈɟakujɛm ˈpɛknɛ] — НЕх са ПАА-чі, ДЯ-ку-єм ПЕ-кне!
 3. `Majte sa! Dovidenia!` [ˈmajtɛ sa ˈdɔviɟɛɲɪa] — МАЙ-тє са! ДО-ві-дє-ня!
 
 ### 4. DIALÓG: Na ulici / На вулиці (8 реплік)

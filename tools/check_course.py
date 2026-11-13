@@ -46,11 +46,13 @@ SECTIONS = {
 KEY_RE = re.compile(r"(?i)K[ĽL]ÚČ|Kľúč|KĽÚČ")
 PHOTO_REF_RE = re.compile(r"assets/foto/([A-Za-z0-9_.\-]+\.jpg)")
 PLACEHOLDER_RE = re.compile(
-    r"Поки фото|згенерувати AI|фото-заглушка|Unsplash-підказка|згенеруємо пізніше", re.I
+    r"Поки фото|згенерувати AI|фото-заглушка|Unsplash|AI-фото|згенеруємо пізніше", re.I
 )
 LEGACY_QR_RE = re.compile(r"(?m)^#{1,4}\s*\d*\.?\s*QR\b")
 LEGACY_ID_RE = re.compile(r"\bT\d{2,3}-\d{2}\b|\b\d{3}-(?:DIALOG|dialog)\.mp3\b")
 SLOW_REF_RE = re.compile(r"(slow-\d{2}\.mp3)")
+DIALOG_REF_RE = re.compile(r"(dialog-\d{2}\.mp3)")
+CYR_RE = re.compile(r"[а-яА-ЯіІїЇєЄґҐ]")
 HEADING_RE = re.compile(r"(?m)^#{2,4}\s*\d*\.?\s*(SLOVICKA|VYSLOVNOST|CVICENIA|DIALOG)\b")
 
 
@@ -124,6 +126,21 @@ def check_lesson(lid: str, path: Path, rep: Report) -> None:
     if SECTIONS["CVIČENIA"].search(text) and not KEY_RE.search(text):
         rep.err(f"L{lid}", "немає ключів до вправ")
 
+    # перевірка колонок SK та IPA у таблиці SLOVÍČKA на випадкову кирилицю
+    in_slov = False
+    for lineno, line in enumerate(text.splitlines(), 1):
+        if SECTIONS["SLOVÍČKA"].match(line):
+            in_slov = True
+            continue
+        if in_slov and re.match(r"^#{2,4}\s", line):
+            in_slov = False
+        if in_slov and line.startswith("|") and not line.startswith("| SK") and not re.match(r"^\|[\s\-:|]+\|$", line):
+            cols = [c.strip() for c in line.strip("|").split("|")]
+            if cols and CYR_RE.search(cols[0]):
+                rep.err(f"L{lid}:{lineno}", f"кирилиця в словацькому слові «{cols[0]}»")
+            if len(cols) >= 3 and CYR_RE.search(cols[2]):
+                rep.err(f"L{lid}:{lineno}", f"кирилиця в IPA «{cols[2]}»")
+
     idx_path = AUDIO / lid / "index.json"
     if idx_path.exists():
         try:
@@ -132,16 +149,23 @@ def check_lesson(lid: str, path: Path, rep: Report) -> None:
             rep.err(f"L{lid}", f"index.json невалідний: {e}")
             return
         have_slow = {e["file"] for e in index.get("slow", [])}
-        have_all = have_slow | {e["file"] for e in index.get("normal", [])}
+        have_norm = {e["file"] for e in index.get("normal", [])}
+        have_all = have_slow | have_norm
+        for e in index.get("slow", []) + index.get("normal", []):
+            if "[" in e.get("text", "") or "]" in e.get("text", ""):
+                rep.err(f"L{lid}", f"неприбраний тег [...] в аудіо {e.get('file')}: {e.get('text')}")
         for ref in SLOW_REF_RE.findall(text):
             if ref not in have_slow:
+                rep.err(f"L{lid}", f"посилання на {ref}, якого немає в index.json")
+        for ref in DIALOG_REF_RE.findall(text):
+            if ref not in have_norm:
                 rep.err(f"L{lid}", f"посилання на {ref}, якого немає в index.json")
         for fn in sorted(have_all):
             if not (AUDIO / lid / fn).exists():
                 rep.err(f"L{lid}", f"index.json вказує на відсутній {fn}")
         # порожній index.json — нормально для лекцій без озвучки (напр. тест A1),
-        # але не тоді, коли текст посилається на slow-NN.mp3
-        if not have_all and SLOW_REF_RE.search(text):
+        # але не тоді, коли текст посилається на slow-NN.mp3 або dialog-NN.mp3
+        if not have_all and (SLOW_REF_RE.search(text) or DIALOG_REF_RE.search(text)):
             rep.err(f"L{lid}", "текст посилається на аудіо, а index.json порожній")
     else:
         rep.warn(f"L{lid}", "немає assets/audio/<ID>/index.json")
@@ -183,8 +207,14 @@ def check_photos(lessons: dict[str, Path], rep: Report) -> None:
         return
     attributed = set()
     for s in sources:
-        for m in re.finditer(r"(?m)^\|\s*(\S+\.jpg)", s.read_text(encoding="utf-8", errors="replace")):
-            attributed.add(m.group(1))
+        for line in s.read_text(encoding="utf-8", errors="replace").splitlines():
+            m = re.match(r"^\|\s*(\S+\.jpg)\s*\|", line)
+            if m:
+                attributed.add(m.group(1))
+                cols = [c.strip() for c in line.strip("|").split("|")]
+                lic = cols[3] if len(cols) > 3 else ""
+                if ("CC BY" in lic) and ("(" not in lic):
+                    rep.warn(s.name, f"{m.group(1)}: CC BY/BY-SA без автора в дужках")
     for jpg in sorted(FOTO.glob("*.jpg")):
         if jpg.name not in attributed:
             rep.err("assets/foto", f"{jpg.name} без атрибуції в SOURCES_*.md")

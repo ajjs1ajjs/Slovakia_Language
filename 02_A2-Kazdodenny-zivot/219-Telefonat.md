@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/219.jpg` — людина з телефоном біля вікна. Асоціація: `haló` = зв'язок.
-Джерело: Unsplash «phone call window» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

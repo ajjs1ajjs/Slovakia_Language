@@ -3,7 +3,7 @@
 **Úroveň:** B1 | **Cieľ:** Повторити ключову граматику B1: kondicionál, imperatív, vedľajšie vety, trpné príčestie.
 
 ### 1. FOTO
-`assets/foto/328.jpg` — конспект з підсумками, стікери і маркери. Асоціація: повторення. Джерело: Unsplash / AI-фото.
+`assets/foto/328.jpg` — конспект з підсумками, стікери і маркери. Асоціація: повторення.
 
 ### 2. SLOVÍČKA (12) — opakovanie kľúčových
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -13,9 +13,9 @@
 | lebo | бо | [ˈlɛbo] | ле́бо | — |
 | keď | коли | [kɛc] | кедь | — |
 | že | що | [ʒɛ] | же | — |
-| urob! | зроби! | [ˈurobi] | у́роб | slow-03.mp3 |
+| urob! | зроби! | [ˈurɔp] | у́роб | slow-03.mp3 |
 | chcel by som | я хотів би | [ˈxtsɛl bi som] | хцел бі сом | — |
-| je urobené | зроблено (пасив) | [jɛ ˈurobɛnɛː] | є у́робене | slow-03.mp3 |
+| je urobené | зроблено (пасив) | [jɛ ˈurobɛnɛː] | є у́робене | slow-04.mp3 |
 | hoci | хоча | [ˈɦotsi] | го́ці | — |
 | preto | тому | [ˈprɛto] | пре́то | — |
 | podmienka | умова | [ˈpodmi̯ɛnka] | по́дмієнка | — |

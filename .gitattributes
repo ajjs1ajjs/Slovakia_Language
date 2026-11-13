@@ -1,0 +1,11 @@
+# Standardize LF for all text files across Windows/Linux/macOS
+* text=auto eol=lf
+
+*.mp3 binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+*.pcm binary
+*.ttf binary
+*.apkg binary

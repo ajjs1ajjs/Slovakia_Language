@@ -1,55 +1,55 @@
 {
  "slow": [
   {
-   "text": "dobrý deň. [pauza] dobrý deň.",
+   "text": "dobrý deň.",
    "file": "slow-01.mp3"
   },
   {
-   "text": "dobré ráno. [pauza] dobré ráno.",
+   "text": "dobré ráno.",
    "file": "slow-02.mp3"
   },
   {
-   "text": "dobrý večer. [pauza] dobrý večer.",
+   "text": "dobrý večer.",
    "file": "slow-03.mp3"
   },
   {
-   "text": "dobrú noc. [pauza] dobrú noc.",
+   "text": "dobrú noc.",
    "file": "slow-04.mp3"
   },
   {
-   "text": "ahoj. [pauza] ahoj. čau. [pauza] čau.",
+   "text": "ahoj, čau.",
    "file": "slow-05.mp3"
   },
   {
-   "text": "dovidenia. [pauza] dovidenia.",
+   "text": "dovidenia.",
    "file": "slow-06.mp3"
   },
   {
-   "text": "majte sa. [pauza] majte sa. maj sa. [pauza] maj sa.",
+   "text": "majte sa, maj sa.",
    "file": "slow-07.mp3"
   },
   {
-   "text": "prosím. [pauza] prosím.",
+   "text": "prosím.",
    "file": "slow-08.mp3"
   },
   {
-   "text": "ďakujem. [pauza] ďakujem. ďakujem pekne. [pauza] ďakujem pekne.",
+   "text": "ďakujem, ďakujem pekne.",
    "file": "slow-09.mp3"
   },
   {
-   "text": "prepáčte. [pauza] prepáčte. prepáč. [pauza] prepáč.",
+   "text": "prepáčte, prepáč.",
    "file": "slow-10.mp3"
   },
   {
-   "text": "nech sa páči. [pauza] nech sa páči.",
+   "text": "nech sa páči.",
    "file": "slow-11.mp3"
   },
   {
-   "text": "teší ma. [pauza] teší ma.",
+   "text": "teší ma.",
    "file": "slow-12.mp3"
   },
   {
-   "text": "Ako sa máte? [pauza] Ďakujem, dobre.",
+   "text": "Ako sa máte? Ďakujem, dobre.",
    "file": "slow-13.mp3"
   }
  ],

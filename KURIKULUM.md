@@ -23,15 +23,16 @@
 - 210 Príroda a výlety na Slovensku. 211-225 Серія діалогів + розповіді в мин. часі + тест A2.
 
 ## РОЗДІЛ 3 — B1 Nezávislosť / Незалежність (03_B1-Nezavislost) — 30 лекцій
-Словник ~1800 слів. Граматика: kondicionál (by som), rozkazovací spôsob, vedľajšie vety (že, keď, lebo, aby), trpný príčestie, фразові звороти.
-- 301 Názory: myslím si, že... 302 Cestovanie po Slovensku. 303 Práca: porady a e-maily. 304 Bývanie: prenájom.
-- 305 Zdravý životný štýl. 306 Médiá a správy. 307 Kultúra: kino, divadlo. 308 Vzťahy a rodina (povrchne → глибоко).
-- 309-330 Дебати, скарги, компліменти, small talk + тест B1.
+Словник ~1800 слів. Граматика: kondicionál (by som), rozkazovací spôsob, vedľajšie vety (že, keď, lebo, aby), trpné príčastie, фразові звороти.
+- 301 Názory: myslím si, že... 302 Cestovanie po Slovensku. 303 Práca: porady. 304 Pracovné e-maily. 305 Prenájom bývania.
+- 306 Zdravý životný štýl. 307 Médiá a správy. 308 Kino a divadlo. 309 Vzťahy. 310 Rodinná oslava.
+- 311–330 Граматика B1 (kondicionál, rozkazovací spôsob, vedľajšie vety), скарги, компліменти, small talk, інтернет, екологія, есе + тест B1.
 
 ## РОЗДІЛ 4 — B2 Sloboda / Вільне спілкування (04_B2-Sloboda) — 30 лекцій
 Словник ~3000 слів. Ідіоми, гумор, нюанси zdvorilosti, офіційно/неофіційно, argumentácia.
-- 401 Diskusia a argumenty. 402 Práca: prezentácie. 403 Štúdium na univerzite. 404 Správy a politika (нейтрально).
-- 405 Humor a idiomy (mať muchy, byť v kaši...). 406 Regionálne rozdiely a dialekty (základy). 407-430 Фінальні проекти: презентація, співбесіда, лист-скарга + іспит B2 (mock test).
+- 401 Diskusia a argumenty. 402 Práca: prezentácie. 403 Štúdium na univerzite. 404 Správy (neutrálne). 405 Humor.
+- 406–407 Idiómy (1–2). 408 Formálne vs neformálne. 409–412 Pohovor B2, motivačný list, sťažnosť, vyjednávanie.
+- 413–430 Критичне читання медіа, культура, історія, регіони і діалекти, дебати, есе, виступ + mock test і фінальний проєкт B2.
 
 ## Стандарт лекції (кожна)
 1. Cieľ / Мета (1 рядок)

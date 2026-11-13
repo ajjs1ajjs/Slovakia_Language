@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/401.jpg` — круглий стіл, люди дискутують, руки з кавою. Асоціація: дискусія = обмін думками, а не суперечка.
-Джерело: Unsplash «round table discussion» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_B2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA (ключові) | Укр. транскрипція | Audio |

@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/203.jpg` — клас, діти з книжками, дошка. Асоціація: `škola` = знання.
-Джерело: Unsplash «classroom school» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/206.jpg` — вікно прийому в установі, формуляри. Асоціація: `úrad` = черга + папір.
-Джерело: Unsplash «office documents» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

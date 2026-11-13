@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/207.jpg` — банкомат і банківська картка. Асоціація: `účet` = гроші під контролем.
-Джерело: Unsplash «atm bank card» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -16,7 +16,7 @@
 | vybrať / vložiť | зняти / внести | [ˈvibrac] / [ˈvlɔʒic] | ВІ-браць / ВЛО-жіць | slow-06.mp3 |
 | prevod / platba | переказ / платіж | [ˈprɛvɔt] / [ˈplatba] | ПРЕ-вот / ПЛАТ-ба | slow-07.mp3 |
 | poplatok | комісія | [ˈpɔplatɔk] | ПО-пла-ток | slow-08.mp3 |
-| otvoriť účet | відкрити рахунок | [ˈɔtvɔric ˈuːtʃɛt] | ОТ-во-ріць УУ-чет | slow-02.mp3 |
+| otvoriť účet | відкрити рахунок | [ˈɔtvɔric ˈuːtʃɛt] | ОТ-во-ріць УУ-чет | slow-09.mp3 |
 | kurz / euro | курс / євро | [kurs] / [ˈɛurɔ] | курз / Е-у-ро | slow-10.mp3 |
 | pokladňa | каса | [ˈpɔkladɲa] | ПО-клад-ня | slow-11.mp3 |
 | dlh | борг | [dl̥ɦ] | длг (складове л) | slow-12.mp3 |

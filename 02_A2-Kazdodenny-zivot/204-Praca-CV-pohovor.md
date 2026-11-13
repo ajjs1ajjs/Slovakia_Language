@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/204.jpg` — співбесіда в офісі, рукостискання. Асоціація: `pohovor` = шанс.
-Джерело: Unsplash «job interview office» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |

@@ -8,7 +8,7 @@
 | SK | UA | IPA | Укр. транскрипція | Audio |
 |---|---|---|---|---|
 | nula | нуль | [ˈnula] | НУ-ла | slow-01.mp3 |
-| jeden / jedna / jedno | один / одна / одне | [ˈjɛɟɛn] | Є-дєн | — |
+| jeden / jedna / jedno | один / одна / одне | [ˈjɛɟɛn] | Є-дєн | slow-02.mp3 |
 | dva / dve | два (чол. / жін.+сер.) | [ˈdva] / [ˈdvɛ] | ДВА / ДВЕ | slow-03.mp3 |
 | tri | три | [ˈtri] | ТРИ | slow-04.mp3 |
 | štyri | чотири | [ˈʃtiri] | ШТИ-рі | slow-05.mp3 |

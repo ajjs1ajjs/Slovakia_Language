@@ -3,7 +3,7 @@
 **Úroveň:** B1 | **Cieľ:** Перевірити рівень B1: 3 частини (gramatika, porozumenie, písanie) + ключі і шкала.
 
 ### 1. FOTO
-`assets/foto/330.jpg` — тестовий аркуш, годинник, ручка. Асоціація: іспит. Джерело: Unsplash / AI-фото.
+`assets/foto/330.jpg` — тестовий аркуш, годинник, ручка. Асоціація: іспит.
 
 ### 2. SLOVÍČKA (12) — opakovanie testové
 | SK | UA | IPA | Укр. транскрипція | Audio |
@@ -19,7 +19,7 @@
 | prejsť | пройти | [ˈprɛjsc] | пре́йсьць | — |
 | skúšajúci | екзаменатор | [ˈskuːʃajuːtsi] | ску́шаюці | — |
 | certifikát | сертифікат | [ˈtsɛrtifikaːt] | це́ртіфікат | — |
-| gratulujeme | вітаємо (ви склали) | [ˈgratulujɛmɛ] | гра́тулyєме | slow-04.mp3 |
+| gratulujeme | вітаємо (ви склали) | [ˈgratulujɛmɛ] | гра́тулуєме | slow-04.mp3 |
 
 ### 3. GRAMATIKA: prehľad na test — CHECKLIST
 | Okruh (lekcie) | Musím vedieť |

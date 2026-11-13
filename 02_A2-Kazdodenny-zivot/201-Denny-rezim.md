@@ -3,7 +3,7 @@
 
 ### 1. FOTO
 `assets/foto/201.jpg` — ранок: будильник, кава, людина біля вікна. Асоціація: `ráno vstávam o 6:30` = початок дня.
-Джерело: Unsplash «morning coffee alarm» або AI-фото.
+Джерело: Wikimedia Commons — див. `assets/foto/SOURCES_A2.md`.
 
 ### 2. SLOVÍČKA (12)
 | SK | UA | IPA | Укр. транскрипція | Audio |
